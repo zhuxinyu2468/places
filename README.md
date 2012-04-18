@@ -3,7 +3,7 @@ This repo contains the master category file describing the category schema for F
 
 ## Category Overview
 ### Structure
-Factual divides the worlds places into 440 categories (nodes in the taxonomy).  Categories are formally polyhierarchal -- a node can have more than one parent, but currently no nodes do.  
+Factual divides the worlds places into 440 categories (nodes in the taxonomy).  Categories are formally polyhierarchal -- a node can have more than one parent, but currently no nodes do. Nodes are identified by an Interger.  IDs are assigned sequentially and contain no semantics. 
 
 The taxonomy has ten top-level branches:
 
@@ -18,9 +18,7 @@ The taxonomy has ten top-level branches:
 *   Transportation
 *   Travel
 
-All top-level branches are wrapped formally under a root node: ID = 1, 'Factual Places'.  
-
-Nodes can be flagged as 'abstract', where no entities can be categorized against it; currently the root node is the only abstract node.
+All top-level branches are wrapped formally under a root node: ID = 1, 'Factual Places'.  There is no formal limit to the depth of the taxonomy (how many levels a branch has).  Nodes can be flagged as 'abstract', where no entities can be categorized against it; currently the root node is the only abstract node.
 
 ### Languages
 The taxonomy is designed to be multi-lingual.  Curently we have (American) English only but very shorlty will add French, German, Spanish, and Italian languages added.  We welcome additional independent contributions with open arms.
