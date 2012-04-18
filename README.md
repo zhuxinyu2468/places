@@ -34,7 +34,7 @@ Example:
 
 	"220":    {
 		"labels": {"en": "Accounting and Bookkeeping"},
-		"parents": [219],
+		"parents": ["219"],
 		"abstract": false
 	}
 
