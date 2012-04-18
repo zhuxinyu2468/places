@@ -32,11 +32,11 @@ The file contains all categories presented serially with the Category ID as the 
 
 Example:
 
-   "220":    {
-     "labels": {"en": "Accounting and Bookkeeping"},
-     "parents": [219],
-     "abstract": false
-   }
+	"220":    {
+		"labels": {"en": "Accounting and Bookkeeping"},
+		"parents": [219],
+		"abstract": false
+	}
 
 ## Utilities
 The utils folder contains files and scripts that assist with category manipulation.  Contents:
