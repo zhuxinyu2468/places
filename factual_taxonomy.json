@@ -65,18 +65,18 @@
      "abstract": false
    },
    "14":    {
-     "labels": {"en": "Motorcycles"},
+     "labels": {"en": "Motorcycles, Mopeds and Scooters"},
      "parents": ["2"],
      "abstract": false
    },
    "15":    {
-     "labels": {"en": "Motorcycles"},
-     "parents": ["2"],
+     "labels": {"en": "Repair"},
+     "parents": ["14"],
      "abstract": false
    },
    "16":    {
-     "labels": {"en": "Motorcycles"},
-     "parents": ["2"],
+     "labels": {"en": "Sales"},
+     "parents": ["14"],
      "abstract": false
    },
    "17":    {
@@ -355,17 +355,17 @@
      "abstract": false
    },
    "72":    {
-     "labels": {"en": "Holistic"},
+     "labels": {"en": "Holistic, Alternative and Naturopathic Medicine"},
      "parents": ["62"],
      "abstract": false
    },
    "73":    {
-     "labels": {"en": "Holistic"},
-     "parents": ["62"],
+     "labels": {"en": "Acupuncture"},
+     "parents": ["72"],
      "abstract": false
    },
    "74":    {
-     "labels": {"en": "Hospitals"},
+     "labels": {"en": "Hospitals, Clinics and Medical Centers"},
      "parents": ["62"],
      "abstract": false
    },
@@ -430,7 +430,7 @@
      "abstract": false
    },
    "87":    {
-     "labels": {"en": "Ear"},
+     "labels": {"en": "Ear, Nose and Throat"},
      "parents": ["83"],
      "abstract": false
    },
@@ -700,7 +700,7 @@
      "abstract": false
    },
    "141":    {
-     "labels": {"en": "Department Stores"},
+     "labels": {"en": "Department Stores, Discount Stores"},
      "parents": ["123"],
      "abstract": false
    },
@@ -745,7 +745,7 @@
      "abstract": false
    },
    "150":    {
-     "labels": {"en": "Beer"},
+     "labels": {"en": "Beer, Wine and Spirits"},
      "parents": ["149"],
      "abstract": false
    },
@@ -805,7 +805,7 @@
      "abstract": false
    },
    "162":    {
-     "labels": {"en": "Music"},
+     "labels": {"en": "Music, Video and DVD"},
      "parents": ["123"],
      "abstract": false
    },
@@ -990,7 +990,7 @@
      "abstract": false
    },
    "199":    {
-     "labels": {"en": "Print"},
+     "labels": {"en": "Print, TV, Radio and Outdoor Advertising"},
      "parents": ["193"],
      "abstract": false
    },
@@ -1010,7 +1010,7 @@
      "abstract": false
    },
    "203":    {
-     "labels": {"en": "Writing"},
+     "labels": {"en": "Writing, Copywriting and Technical Writing"},
      "parents": ["193"],
      "abstract": false
    },
@@ -1220,7 +1220,7 @@
      "abstract": false
    },
    "245":    {
-     "labels": {"en": "Fences"},
+     "labels": {"en": "Fences, Fireplaces and Garage Doors"},
      "parents": ["235"],
      "abstract": false
    },
@@ -1230,7 +1230,7 @@
      "abstract": false
    },
    "247":    {
-     "labels": {"en": "Heating"},
+     "labels": {"en": "Heating, Ventilating and Air Conditioning"},
      "parents": ["235"],
      "abstract": false
    },
@@ -1385,7 +1385,7 @@
      "abstract": false
    },
    "278":    {
-     "labels": {"en": "Dry Cleaning"},
+     "labels": {"en": "Dry Cleaning, Ironing and Laundry"},
      "parents": ["277"],
      "abstract": false
    },
@@ -1435,7 +1435,7 @@
      "abstract": false
    },
    "288":    {
-     "labels": {"en": "Printing"},
+     "labels": {"en": "Printing, Copying and Signage"},
      "parents": ["177"],
      "abstract": false
    },
@@ -1475,7 +1475,7 @@
      "abstract": false
    },
    "296":    {
-     "labels": {"en": "Apartments"},
+     "labels": {"en": "Apartments, Condos, and Houses"},
      "parents": ["291"],
      "abstract": false
    },
@@ -1510,7 +1510,7 @@
      "abstract": false
    },
    "303":    {
-     "labels": {"en": "Shipping"},
+     "labels": {"en": "Shipping, Freight, and Material Transportation"},
      "parents": ["177"],
      "abstract": false
    },
@@ -1705,7 +1705,7 @@
      "abstract": false
    },
    "342":    {
-     "labels": {"en": "Cafes"},
+     "labels": {"en": "Cafes, Coffee and Tea Houses"},
      "parents": ["338"],
      "abstract": false
    },
@@ -1850,7 +1850,7 @@
      "abstract": false
    },
    "371":    {
-     "labels": {"en": "Zoos"},
+     "labels": {"en": "Zoos, Aquariums and Wildlife Sanctuaries"},
      "parents": ["308"],
      "abstract": false
    },
