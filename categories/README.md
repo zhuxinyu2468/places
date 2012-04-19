@@ -41,7 +41,7 @@ Example:
 ## Utilities
 The utils folder contains files and scripts that assist with category manipulation.  Contents:
 
-*   <tt>old-new-mappings.json</tt> JSON file mapping our former categories (pre-May 2012) to the new ones documented here
+*   <tt>old-to-new-mapping.json</tt> JSON file mapping our former categories (pre-May 2012) to the new ones documented here
 
 ### php
 A number of quick-and-dirty php scripts:
