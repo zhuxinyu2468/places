@@ -1,5 +1,5 @@
 # Factual Global Places
-This repo contains scripts and untilities for working with Factual Places.  See the web for full [documentation of Factual APIs](http://developer.factual.com/display/docs/Factual+Developer+APIs+Version+3)
+This repo contains scripts and untilities for working with Factual Global Places.  See the web for full [documentation of Factual APIs](http://developer.factual.com/display/docs/Factual+Developer+APIs+Version+3)
 
 ## Contents
 [Categories](https://github.com/Factual/places/tree/master/categories)

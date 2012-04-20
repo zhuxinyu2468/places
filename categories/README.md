@@ -1,5 +1,5 @@
 # Factual Global Places Categories
-This repo contains the master category file describing the category schema for Factual's global Places.
+This repo contains the master category file describing the category schema for Factual's Global Places.
 
 ## Category Overview
 ### Structure
@@ -21,7 +21,7 @@ The taxonomy has ten top-level branches:
 All top-level branches are wrapped formally under a root node: ID = 1, 'Factual Places'.  There is no formal limit to the depth of the taxonomy (how many levels a branch has).  Nodes can be flagged as 'abstract', where no entities can be categorized against it; currently the root node is the only abstract node.
 
 ### Languages
-The taxonomy is designed to be multi-lingual.  Currently we have (American) English only but very shortly will add French, German, Spanish, and Italian languages added.  We welcome additional independent contributions with open arms.
+The taxonomy is designed to be multi-lingual.  Currently we have (American) English only but very shortly will add French, German, Spanish, and Italian languages.  We welcome additional, independent translations with open arms.
 
 ## File Overview
 The file contains all categories presented serially with the Category ID as the hash key.  The contents include:
