@@ -447,10 +447,16 @@
     "id": "307",
     "label": "Wholesale"
   },
-  "Community & Government": {
-    "id": "20",
-    "label": "Community and Government"
-  },
+  "Community & Government": [
+    {
+      "id": "20",
+      "label": "Community and Government"
+    },
+    {
+      "id": "37",
+      "label": "Government Departments and Agencies"
+    }
+  ],
   "Community & Government > Animal Shelters & Humane Societies": {
     "id": "21",
     "label": "Animal Shelters and Humane Societies"
@@ -513,10 +519,16 @@
     "id": "44",
     "label": "Libraries"
   },
-  "Community & Government > Military": {
-    "id": "45",
-    "label": "Military"
-  },
+  "Community & Government > Military": [
+    {
+      "id": "46",
+      "label": "Bases"
+    },
+    {
+      "id": "45",
+      "label": "Military"
+    }
+  ],
   "Community & Government > Newspapers, Radio & TV Stations": {
     "id": "215",
     "label": "Media"
@@ -587,30 +599,10 @@
     "id": "50",
     "label": "Youth Organizations"
   },
-  "Community and Government": [
-    {
-      "id": "20",
-      "label": "Community and Government"
-    },
-    {
-      "id": "37",
-      "label": "Government Departments and Agencies"
-    }
-  ],
   "Education > Schools": {
     "id": "34",
     "label": "Primary and Secondary Schools"
   },
-  "Community and Government > Military": [
-    {
-      "id": "46",
-      "label": "Bases"
-    },
-    {
-      "id": "45",
-      "label": "Military"
-    }
-  ],
   "Education": {
     "id": "26",
     "label": "Education"
@@ -907,10 +899,40 @@
     "id": "81",
     "label": "Physical Therapy and Rehabilitation"
   },
-  "Health & Medicine > Physicians": {
-    "id": "83",
-    "label": "Physicians"
-  },
+  "Health & Medicine > Physicians": [
+    {
+      "id": "89",
+      "label": "Gastroenterologists"
+    },
+    {
+      "id": "90",
+      "label": "General Surgery"
+    },
+    {
+      "id": "92",
+      "label": "Neurologists"
+    },
+    {
+      "id": "97",
+      "label": "Pathologists"
+    },
+    {
+      "id": "102",
+      "label": "Respiratory"
+    },
+    {
+      "id": "101",
+      "label": "Radiologists"
+    },
+    {
+      "id": "103",
+      "label": "Urologists"
+    },
+    {
+      "id": "83",
+      "label": "Physicians"
+    }
+  ],
   "Health & Medicine > Physicians > Anesthesiologists": {
     "id": "84",
     "label": "Anesthesiologists"
@@ -979,50 +1001,10 @@
     "id": "305",
     "label": "Veterinarians"
   },
-  "Healthcare > Physicians": [
-    {
-      "id": "89",
-      "label": "Gastroenterologists"
-    },
-    {
-      "id": "90",
-      "label": "General Surgery"
-    },
-    {
-      "id": "92",
-      "label": "Neurologists"
-    },
-    {
-      "id": "97",
-      "label": "Pathologists"
-    },
-    {
-      "id": "102",
-      "label": "Respiratory"
-    },
-    {
-      "id": "101",
-      "label": "Radiologists"
-    },
-    {
-      "id": "103",
-      "label": "Urologists"
-    },
-    {
-      "id": "83",
-      "label": "Physicians"
-    }
-  ],
-  "Landmarks > Parks > Urban Parks": [
-    {
-      "id": "122",
-      "label": "Urban Parks"
-    },
-    {
-      "id": "119",
-      "label": "Natural Parks"
-    }
-  ],
+  "Sports & Recreation > Outdoor Recreation > Parks": {
+    "id": "122",
+    "label": "Urban Parks"
+  },
   "Legal & Financial": [
     {
       "id": "269",
@@ -1649,10 +1631,6 @@
     "id": "116",
     "label": "Lakes"
   },
-  "Sports & Recreation > Outdoor Recreation > Parks": {
-    "id": "122",
-    "label": "Urban Parks"
-  },
   "Sports & Recreation > Outdoor Recreation > Picnic Areas": {
     "id": "120",
     "label": "Picnic Areas"
@@ -1769,7 +1747,7 @@
       "label": "Racquet Sports"
     }
   ],
-  "Sports and Recreation > Water Sports": [
+  "Sports & Recreation > Water Sports": [
     {
       "id": "408",
       "label": "Water Sports"
