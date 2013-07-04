@@ -1,1 +1,22 @@
-{"placetype":["postcode","locality","neighborhood","local_admin","county","island","drainage","zone","state","colloquial","timezone","country","supername","sea","continent","ocean"]}
+{
+  "placetype": [
+    "locality", 
+    "region", 
+    "county", 
+    "local_admin", 
+    "postcode", 
+    "country", 
+    "island", 
+    "drainage", 
+    "nationality", 
+    "supername", 
+    "superregion", 
+    "neighborhood", 
+    "colloquial", 
+    "zone", 
+    "continent", 
+    "timezone", 
+    "ocean", 
+    "sea"
+  ]
+}
