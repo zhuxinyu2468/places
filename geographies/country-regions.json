@@ -1,0 +1,85 @@
+{
+  "countries":
+  {
+    "146c9718-8f76-11e1-848f-cfd5bf3ef515":
+    {
+      "abbrev":"us",
+      "name":"United States",
+      "regions":
+      {
+        "08649ef2-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ks","name":"Kansas"},
+        "08649dbc-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ga","name":"Georgia"},
+        "0864a35c-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"sd","name":"South Dakota"},
+        "08649cb8-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"co","name":"Colorado"},
+        "0864a55a-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ar","name":"Arkansas"},
+        "08649f24-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ky","name":"Kentucky"},
+        "0864a01e-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"mn","name":"Minnesota"},
+        "08649cf4-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ct","name":"Connecticut"},
+        "0864a58c-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ok","name":"Oklahoma"},
+        "08649e20-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"id","name":"Idaho"},
+        "0864a154-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nh","name":"New Hampshire"},
+        "08649e52-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"il","name":"Illinois"},
+        "0864a38e-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"tn","name":"Tennessee"},
+        "0864a492-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"wa","name":"Washington"},
+        "08649bf0-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"al","name":"Alabama"},
+        "0864a1c2-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nm","name":"New Mexico"},
+        "08649d26-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"de","name":"Delaware"},
+        "0864a5be-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nc","name":"North Carolina"},
+        "0864a2bc-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"pa","name":"Pennsylvania"},
+        "0864a3c0-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ks","name":"Texas"},
+        "0864a050-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ms","name":"Mississippi"},
+        "0864a08c-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"mo","name":"Missouri"},
+        "0864a226-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nd","name":"North Dakota"},
+        "08649ec0-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ia","name":"Iowa"},
+        "08649fec-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"mi","name":"Michigan"},
+        "08649d58-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"dc","name":"District of Columbia"},
+        "0864a60e-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"la","name":"Louisiana"},
+        "0864a122-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nv","name":"Nevada"},
+        "0864a2ee-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ri","name":"Rhode Island"},
+        "0864a28a-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"or","name":"Oregon"},
+        "08649f56-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"me","name":"Maine"},
+        "08649fba-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ma","name":"Massachusetts"},
+        "08649e84-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"in","name":"Indiana"},
+        "08649f88-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"md","name":"Maryland"},
+        "0864a258-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"oh","name":"Ohio"},
+        "0864a460-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"va","name":"Virginia"},
+        "0864a4c4-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"wv","name":"West Virginia"},
+        "08649c22-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ak","name":"Alaska"},
+        "0864a0be-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"mt","name":"Montana"},
+        "0864a0f0-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ne","name":"Nebraska"},
+        "0864a190-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nj","name":"New Jersey"},
+        "08649d8a-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"fl","name":"Florida"},
+        "0864a4f6-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"wi","name":"Wisconsin"},
+        "08649c54-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"az","name":"Arizona"},
+        "0864a320-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"sc","name":"South Carolina"},
+        "08649c86-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ca","name":"California"},
+        "0864a528-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"wy","name":"Wyoming"},
+        "0864a3f2-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ut","name":"Utah"},
+        "0864a424-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"vt","name":"Vermont"},
+        "0864a1f4-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ny","name":"New York"},
+        "08649dee-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"hi","name":"Hawaii"}
+      }
+    },
+    "03c23d14-8f76-11e1-848f-cfd5bf3ef515"
+    {
+      "abbrev":"ca",
+      "name":"Canada",
+      "regions":
+      {
+        "03b2b966-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nu","name": "Nunavut"},
+        "03b2b826-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nt","name": "Northwest Territories"},
+        "03b2b722-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ab","name": "Alberta"},
+        "03b2b998-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"on","name": "Ontario"},
+        "03b2b75e-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"bc","name": "British Columbia"},
+        "03b2b894-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"pe","name": "Prince Edward Island"},
+        "03b2b8c6-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"qc","name": "Québec"},
+        "03b2b790-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ma","name": "Manitoba"},
+        "03b2b92a-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"yu","name": "Yukon Territory"},
+        "03b2b7c2-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nb","name": "New Brunswick"},
+        "03b2b8f8-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"sa","name": "Saskatchewan"},
+        "03b2b7f4-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"nl","name": "Newfoundland and Labrador"},
+        "03b2b862-8f76-11e1-848f-cfd5bf3ef515":{"abbrev":"ns","name": "Nova Scotia"}
+      }
+    }
+  }
+}
