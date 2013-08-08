@@ -61,7 +61,7 @@
         "08649dee-8f76-11e1-848f-cfd5bf3ef515":{"region":"hi","name":"Hawaii"}
       }
     },
-    "03c23d14-8f76-11e1-848f-cfd5bf3ef515"
+    "03c23d14-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"ca",
       "name":"Canada",
@@ -81,6 +81,31 @@
         "03b2b8f8-8f76-11e1-848f-cfd5bf3ef515":{"region":"sa","name": "Saskatchewan"},
         "03b2b7f4-8f76-11e1-848f-cfd5bf3ef515":{"region":"nl","name": "Newfoundland and Labrador"},
         "03b2b862-8f76-11e1-848f-cfd5bf3ef515":{"region":"ns","name": "Nova Scotia"}
+      }
+    },
+    "14701622-8f76-11e1-848f-cfd5bf3ef515":
+    {
+      "country":"kr",
+      "name":"íê",
+      "name_en":"Korea"
+      "regions":
+      {
+        "146d24da-8f76-11e1-848f-cfd5bf3ef515":{"name": "ìì"},
+        "146d22d2-8f76-11e1-848f-cfd5bf3ef515":{"name": "ììëë"},
+        "146d250c-8f76-11e1-848f-cfd5bf3ef515":{"name": "ìì"},
+        "146d2340-8f76-11e1-848f-cfd5bf3ef515":{"name": "êìëë"},
+        "146d2444-8f76-11e1-848f-cfd5bf3ef515":{"name": "ììëë"},
+        "146d2548-8f76-11e1-848f-cfd5bf3ef515":{"name": "ìì"},
+        "146d23a4-8f76-11e1-848f-cfd5bf3ef515":{"name": "êìëë"},
+        "146d22a0-8f76-11e1-848f-cfd5bf3ef515":{"name": "ìëëë"},
+        "146d2476-8f76-11e1-848f-cfd5bf3ef515":{"name": "êì"},
+        "146d2412-8f76-11e1-848f-cfd5bf3ef515":{"name": "ìëëë"},
+        "146d23d6-8f76-11e1-848f-cfd5bf3ef515":{"name": "ëê"},
+        "146d226e-8f76-11e1-848f-cfd5bf3ef515":{"name": "ììíëììë"},
+        "146d230e-8f76-11e1-848f-cfd5bf3ef515":{"name": "êìë"},
+        "146d24a8-8f76-11e1-848f-cfd5bf3ef515":{"name": "ëì"},
+        "146d257a-8f76-11e1-848f-cfd5bf3ef515":{"name": "êêë"},
+        "146d2372-8f76-11e1-848f-cfd5bf3ef515":{"name": "ëì"}
       }
     }
   }
