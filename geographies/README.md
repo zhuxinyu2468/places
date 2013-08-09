@@ -3,20 +3,19 @@
 This file will contain listings of all regions contained in all Factual-supported countries. It may be helpful for building autocompletion lists.
 
 The structure is as follows:
-* countries is a hash keyed by *factual_ids* of supported *countries*. The Factual Ids are the ids used within the [world-geographies](http://www.factual.com/data/t/world-geographies) table.
+* countries is a hash keyed by *factual_ids* of supported [*countries*](http://developer.factual.com/working-with-factual-places/). The Factual Ids are the ids used within the [world-geographies](http://www.factual.com/data/t/world-geographies) table.
 
 For each country, you will receive:
-* *country* - The code that should be used when populating data in the [global places](http://www.factual.com/data/t/places) table.
+* *country* - The two-letter [ISO 3166-1 alpha 2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code that should be used when populating data in the [global places](http://www.factual.com/data/t/places) table.
 * *name* - The locally used name for the country. These names will generally be in the local alphabet, not transliterated.
-* *name_en* - Common English name for the country.
+* *name_en* - (optional) Common English name for the country. Will not be populated if an Enlish name is not available, or if it would be identical to the *name*.
 * *regions* - A hash of regions, keyed by *factual_ids*, for all regions contained in the appropriate country. The Factual Ids are the ids used within the [world-geographies](http://www.factual.com/data/t/world-geographies) table.
 
 For each region, you will receive:
-* *region* - The string that should be used when populating data in the [global places](http://www.factual.com/data/t/places) table.
-* *name* (not always populated) - The locally used name for the country. These names will generally be in the local alphabet, not transliterated. This will often not be populated because it is either redundat with the _region_ or _name_en_ value.
-* *name_en* - Common English name for the country.
+* *region* - The string that should be used when populating data in the [global places](http://www.factual.com/data/t/places) table. This is generally the locally used name for the country. These names will generally be in the local alphabet, not transliterated.
+* *name_en* - (optional) Common English name for the country. Will not be populated if an English name is not available, or if it would be idential to *region*.
 
-NOTE: This is currently test document. Right now only USA, Canada, and Korea are populated. We'll have the rest of the our supported countries in there very, very soon.
+*NOTE:* There was an encoding mistake generating these due to a driver bug. Korea was hand modified. We'll have the rest of the our supported countries fixed ASAP.
 
 
 
