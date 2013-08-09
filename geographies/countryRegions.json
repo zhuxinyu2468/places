@@ -26,7 +26,7 @@
           "region":"Prince Edward Island"
         },
         "03b2b8c6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Qu��bec",
+          "region":"Québec",
           "name_en":"Quebec"
         },
         "03b2b790-8f76-11e1-848f-cfd5bf3ef515":{
@@ -56,10 +56,10 @@
       "regions":
       {
         "07dc2eaa-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Tekirda��"
+          "region":"Tekirdağ"
         },
         "07dc24be-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"K��r��ehir"
+          "region":"Kırşehir"
         },
         "07dc2d74-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Erzurum"
@@ -68,28 +68,28 @@
           "region":"Tunceli"
         },
         "07dc2a68-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Bal��kesir"
+          "region":"Balıkesir"
         },
         "07dc3526-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"I��d��r"
+          "region":"Iğdır"
         },
         "07dc2c70-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Sinop"
         },
         "07dc24f0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Elaz����"
+          "region":"Elazığ"
         },
         "07dc2ee6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Mu��la"
+          "region":"Muğla"
         },
         "07dc2676-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kahramanmara��"
+          "region":"Kahramanmaraş"
         },
         "07dc2fea-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Aksaray"
         },
         "07dc2ca2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Ayd��n"
+          "region":"Aydın"
         },
         "07dc2dd8-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Zonguldak"
@@ -101,13 +101,13 @@
           "region":"Samsun"
         },
         "07dc3116-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Bing��l"
+          "region":"Bingöl"
         },
         "07dc241e-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Manisa"
         },
         "07dc2e14-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Ad��yaman"
+          "region":"Adıyaman"
         },
         "07dc3350-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Erzincan"
@@ -146,7 +146,7 @@
           "region":"Vestfold Fylke"
         },
         "01f814ea-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��stfold Fylke",
+          "region":"Østfold Fylke",
           "name_en":"Ostfold"
         },
         "01f8151c-8f76-11e1-848f-cfd5bf3ef515":{
@@ -162,11 +162,11 @@
           "region":"Telemark Fylke"
         },
         "01f813e6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"M��re og Romsdal Fylke",
+          "region":"Møre og Romsdal Fylke",
           "name_en":"More og Romsdal"
         },
         "01f8144a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Nord-Tr��ndelag Fylke",
+          "region":"Nord-Trøndelag Fylke",
           "name_en":"Nord-Trondelag"
         },
         "01f81314-8f76-11e1-848f-cfd5bf3ef515":{
@@ -179,7 +179,7 @@
           "region":"Sogn og Fjordane Fylke"
         },
         "01f81580-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"S��r-Tr��ndelag Fylke",
+          "region":"Sør-Trøndelag Fylke",
           "name_en":"Sor-Trondelag"
         },
         "01f81620-8f76-11e1-848f-cfd5bf3ef515":{
@@ -190,88 +190,88 @@
     "13410ec8-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"jp",
-      "name":"������",
+      "name":"日本",
       "name_en":"Japan",
       "regions":
       {
         "12df677c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"三重県",
           "name_en":"Mie Prefecture"
         },
         "12df6600-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"福井県",
           "name_en":"Fukui Prefecture"
         },
         "12df62a4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"岩手県",
           "name_en":"Iwate Prefecture"
         },
         "12df6c68-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������",
+          "region":"鹿児島県",
           "name_en":"Kagoshima Prefecture"
         },
         "12df64e8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"東京都",
           "name_en":"Tokyo Prefecture"
         },
         "12df67b8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"滋賀県",
           "name_en":"Shiga Prefecture"
         },
         "12df68da-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������",
+          "region":"和歌山県",
           "name_en":"Wakayama Prefecture"
         },
         "12df6524-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������",
+          "region":"神奈川県",
           "name_en":"Kanagawa Prefecture"
         },
         "12df6678-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"長野県",
           "name_en":"Nagano Prefecture"
         },
         "12df6a2e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"徳島県",
           "name_en":"Tokushima Prefecture"
         },
         "12df66aa-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"岐阜県",
           "name_en":"Gifu Prefecture"
         },
         "12df62e0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"宮城県",
           "name_en":"Miyagi Prefecture"
         },
         "12df6c9a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"沖縄県",
           "name_en":"Okinawa Prefecture"
         },
         "12df63f8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"栃木県",
           "name_en":"Tochigi Prefecture"
         },
         "12df6a9c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"愛媛県",
           "name_en":"Ehime Prefecture"
         },
         "12df6556-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"新潟県",
           "name_en":"Niigata Prefecture"
         },
         "12df6bbe-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"熊本県",
           "name_en":"Kumamoto Prefecture"
         },
         "12df631c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"秋田県",
           "name_en":"Akita Prefecture"
         },
         "12df6916-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"鳥取県",
           "name_en":"Tottori Prefecture"
         },
         "12df6948-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"島根県",
           "name_en":"Shimane Prefecture"
         }
       }
@@ -352,11 +352,11 @@
           "region":"Santa Catarina"
         },
         "037b2082-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Amap��",
+          "region":"Amapá",
           "name_en":"Amapa"
         },
         "037b22ee-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Par��",
+          "region":"Pará",
           "name_en":"Para"
         },
         "037b23f2-8f76-11e1-848f-cfd5bf3ef515":{
@@ -366,14 +366,14 @@
           "region":"Bahia"
         },
         "037b2532-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"S��o Paulo",
+          "region":"São Paulo",
           "name_en":"Sao Paulo"
         },
         "037b21ea-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Mato Grosso do Sul"
         },
         "037b2320-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Para��ba",
+          "region":"Paraíba",
           "name_en":"Paraiba"
         },
         "037b2154-8f76-11e1-848f-cfd5bf3ef515":{
@@ -386,19 +386,19 @@
           "region":"Alagoas"
         },
         "037b2226-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Maranh��o",
+          "region":"Maranhão",
           "name_en":"Maranhao"
         },
         "037b21b8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Goi��s",
+          "region":"Goiás",
           "name_en":"Goias"
         },
         "037b2186-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Esp��rito Santo",
+          "region":"Espírito Santo",
           "name_en":"Espirito Santo"
         },
         "037b23c0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Piau��",
+          "region":"Piauí",
           "name_en":"Piaui"
         },
         "037b2424-8f76-11e1-848f-cfd5bf3ef515":{
@@ -530,7 +530,7 @@
           "name_en":"Lapland"
         },
         "09fc7014-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kanta-H��meen maakunta",
+          "region":"Kanta-Hämeen maakunta",
           "name_en":"Tavastia Proper"
         },
         "09fc7136-8f76-11e1-848f-cfd5bf3ef515":{
@@ -542,15 +542,15 @@
           "name_en":"Ostrobothnia"
         },
         "09fc7082-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"It��-Uudenmaan maakunta",
+          "region":"Itä-Uudenmaan maakunta",
           "name_en":"Eastern Uusimaa"
         },
         "09fc7168-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"P��ijat-H��meen maakunta",
+          "region":"Päijat-Hämeen maakunta",
           "name_en":"Paijanne Tavastia"
         },
         "09fc7104-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Etel��-Karjalan maakunta",
+          "region":"Etelä-Karjalan maakunta",
           "name_en":"South Karelia"
         },
         "09fc70c8-8f76-11e1-848f-cfd5bf3ef515":{
@@ -574,11 +574,11 @@
           "name_en":"Northern Ostrobothnia"
         },
         "09fc719a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Etel��-Pohjanmaan maakunta",
+          "region":"Etelä-Pohjanmaan maakunta",
           "name_en":"Southern Ostrobothnia"
         },
         "09fc726c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Etel��-Savon maakunta",
+          "region":"Etelä-Savon maakunta",
           "name_en":"Southern Savonia"
         },
         "09fc72a8-8f76-11e1-848f-cfd5bf3ef515":{
@@ -606,7 +606,7 @@
           "name_en":"Burgundy"
         },
         "0a128ca0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��le-de-France",
+          "region":"Île-de-France",
           "name_en":"Ile-de-France"
         },
         "0a128f16-8f76-11e1-848f-cfd5bf3ef515":{
@@ -620,7 +620,7 @@
           "region":"Lorraine"
         },
         "0a128e12-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Provence-Alpes-C��te d'Azur",
+          "region":"Provence-Alpes-Côte d'Azur",
           "name_en":"Provence-Alpes-Cote d'Azur"
         },
         "0a128e44-8f76-11e1-848f-cfd5bf3ef515":{
@@ -644,7 +644,7 @@
           "region":"Auvergne"
         },
         "0a128d40-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Franche-Comt��",
+          "region":"Franche-Comté",
           "name_en":"Franche-Comte"
         },
         "0a128f48-8f76-11e1-848f-cfd5bf3ef515":{
@@ -664,7 +664,7 @@
           "region":"Poitou-Charentes"
         },
         "0a1290e2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Midi-Pyr��n��es",
+          "region":"Midi-Pyrénées",
           "name_en":"Midi-Pyrenees"
         }
       }
@@ -677,7 +677,7 @@
       "regions":
       {
         "036916d0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Li��ge",
+          "region":"Liège",
           "name_en":"Liege"
         },
         "03691806-8f76-11e1-848f-cfd5bf3ef515":{
@@ -712,7 +712,7 @@
           "name_en":"Walloon Brabant"
         },
         "0369189c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"R��gion de Bruxelles-Capitale",
+          "region":"Région de Bruxelles-Capitale",
           "name_en":"Capital Region of Brussels"
         }
       }
@@ -720,64 +720,64 @@
     "0707f86a-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"cz",
-      "name":"��esk�� republika",
+      "name":"Česká republika",
       "name_en":"Czech Republic",
       "regions":
       {
         "06f6859e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Moravskoslezsk�� kraj",
+          "region":"Moravskoslezský kraj",
           "name_en":"Moravian-Silesian Region"
         },
         "06f685d0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Libereck�� kraj",
+          "region":"Liberecký kraj",
           "name_en":"Liberec Region"
         },
         "06f686f2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Jihomoravsk�� kraj",
+          "region":"Jihomoravský kraj",
           "name_en":"South Moravian Region"
         },
         "06f684f4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"St��edo��esk�� kraj",
+          "region":"Středočeský kraj",
           "name_en":"Central Bohemian Region"
         },
         "06f6860c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��steck�� kraj",
+          "region":"Ústecký kraj",
           "name_en":"Usti nad Labem Region"
         },
         "06f683f0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Pardubick�� kraj",
+          "region":"Pardubický kraj",
           "name_en":"Pardubice Region"
         },
         "06f68526-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Zl��nsk�� kraj",
+          "region":"Zlínský kraj",
           "name_en":"Zlin Region"
         },
         "06f684b8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kraj Vyso��ina",
+          "region":"Kraj Vysočina",
           "name_en":"Vysocina Region"
         },
         "06f6847c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kr��lov��hradeck�� kraj",
+          "region":"Královéhradecký kraj",
           "name_en":"Hradec Kralove Region"
         },
         "06f686b6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Jiho��esk�� kraj",
+          "region":"Jihočeský kraj",
           "name_en":"South Bohemian Region"
         },
         "06f68562-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Olomouck�� kraj",
+          "region":"Olomoucký kraj",
           "name_en":"Olomouc Region"
         },
         "06f68648-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Karlovarsk�� kraj",
+          "region":"Karlovarský kraj",
           "name_en":"Karlovy Vary Region"
         },
         "06f68684-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Plze��sk�� kraj",
+          "region":"Plzeňský kraj",
           "name_en":"Pilsen Region"
         },
         "06f683be-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Hlavn�� m��sto Praha",
+          "region":"Hlavní město Praha",
           "name_en":"Prague"
         }
       }
@@ -790,83 +790,83 @@
       "regions":
       {
         "06c5fef6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kronobergs L��n",
+          "region":"Kronobergs Län",
           "name_en":"Kronoberg"
         },
         "06c60108-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Stockholms L��n",
+          "region":"Stockholms Län",
           "name_en":"Stockholm"
         },
         "06c6013a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Sk��ne L��n",
+          "region":"Skåne Län",
           "name_en":"Skane"
         },
         "06c5ff32-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Norrbottens L��n",
+          "region":"Norrbottens Län",
           "name_en":"Norrbotten"
         },
         "06c60036-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"V��rmlands L��n",
+          "region":"Värmlands Län",
           "name_en":"Varmland"
         },
         "06c5fd52-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Blekinge L��n",
+          "region":"Blekinge Län",
           "name_en":"Blekinge"
         },
         "06c6016c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"V��stra G��talands L��n",
+          "region":"Västra Götalands Län",
           "name_en":"Vastra Gotaland"
         },
         "06c5fe60-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"J��nk��pings L��n",
+          "region":"Jönköpings Län",
           "name_en":"Jonkoping"
         },
         "06c5ff64-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��rebro L��n",
+          "region":"Örebro Län",
           "name_en":"Orebro"
         },
         "06c5fdc0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Gotlands L��n",
+          "region":"Gotlands Län",
           "name_en":"Gotland"
         },
         "06c5fe92-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kalmar L��n",
+          "region":"Kalmar Län",
           "name_en":"Kalmar"
         },
         "06c5fe24-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"J��mtlands L��n",
+          "region":"Jämtlands Län",
           "name_en":"Jamtland"
         },
         "06c5fdf2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Hallands L��n",
+          "region":"Hallands Län",
           "name_en":"Halland"
         },
         "06c60004-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Uppsala L��n",
+          "region":"Uppsala Län",
           "name_en":"Uppsala"
         },
         "06c60068-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"V��sterbottens L��n",
+          "region":"Västerbottens Län",
           "name_en":"Vasterbotten"
         },
         "06c6009a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"V��sternorrlands L��n",
+          "region":"Västernorrlands Län",
           "name_en":"Vasternorrland"
         },
         "06c5fec4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Dalarnas L��n",
+          "region":"Dalarnas Län",
           "name_en":"Dalarna"
         },
         "06c600cc-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"V��stmanlands L��n",
+          "region":"Västmanlands Län",
           "name_en":"Vastmanland"
         },
         "06c5ff96-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��sterg��tlands L��n",
+          "region":"Östergötlands Län",
           "name_en":"Ostergotland"
         },
         "06c5ffc8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"S��dermanlands L��n",
+          "region":"Södermanlands Län",
           "name_en":"Sodermanland"
         }
       }
@@ -970,7 +970,7 @@
     "021dac50-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"pe",
-      "name":"Per��",
+      "name":"Perú",
       "name_en":"Peru",
       "regions":
       {
@@ -981,7 +981,7 @@
           "region":"Cusco"
         },
         "021bb7e2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Apur��mac"
+          "region":"Apurímac"
         },
         "021bba58-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Lima"
@@ -993,7 +993,7 @@
           "region":"Arequipa"
         },
         "021bb954-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Hu��nuco"
+          "region":"Huánuco"
         },
         "021bbc88-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Loreto"
@@ -1029,7 +1029,7 @@
           "region":"Pasco"
         },
         "021bb9b8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Jun��n"
+          "region":"Junín"
         },
         "021bbabc-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Moquegua"
@@ -1107,88 +1107,88 @@
     "06ba09a2-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"cn",
-      "name":"������",
+      "name":"中國",
       "name_en":"China",
       "regions":
       {
         "06b4118c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"山西省",
           "name_en":"Shanxi"
         },
         "06b41056-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"甘肃省",
           "name_en":"Gansu"
         },
         "06b40f52-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������",
+          "region":"黑龙江省",
           "name_en":"Heilongjiang"
         },
         "06b411be-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"山东省",
           "name_en":"Shandong"
         },
         "06b412c2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"海南省",
           "name_en":"Hainan"
         },
         "06b40f84-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"河南省",
           "name_en":"Henan"
         },
         "06b410ba-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"贵州省",
           "name_en":"Guizhou"
         },
         "06b413f8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������������������",
+          "region":"新疆维吾尔自治区",
           "name_en":"Xinjiang"
         },
         "06b410ec-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"辽宁省",
           "name_en":"Liaoning"
         },
         "06b40e80-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"江西省",
           "name_en":"Jiangxi"
         },
         "06b4145c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"浙江省",
           "name_en":"Zhejiang"
         },
         "06b40fc0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"河北省",
           "name_en":"Hebei"
         },
         "06b412f4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"安徽省",
           "name_en":"Anhui"
         },
         "06b41326-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������������",
+          "region":"重庆直辖市",
           "name_en":"Chongqing"
         },
         "06b414c0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������������",
+          "region":"上海直辖市",
           "name_en":"Shanghai"
         },
         "06b4115a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������������������",
+          "region":"宁夏回族自治区",
           "name_en":"Ningxia"
         },
         "06b41290-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"广东省",
           "name_en":"Guangdong"
         },
         "06b40ff2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"湖南省",
           "name_en":"Hunan"
         },
         "06b413c6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������������",
+          "region":"北京直辖市",
           "name_en":"Beijing"
         },
         "06b411f0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"陝西省",
           "name_en":"Shaanxi"
         }
       }
@@ -1244,7 +1244,7 @@
           "name_en":"Coquimbo Region"
         },
         "06b0a150-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Valpara��so",
+          "region":"Valparaíso",
           "name_en":"Valparaiso Region"
         },
         "06b0a254-8f76-11e1-848f-cfd5bf3ef515":{
@@ -1273,7 +1273,7 @@
           "name_en":"Pomeranian"
         },
         "0227c956-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Ma��opolskie",
+          "region":"Małopolskie",
           "name_en":"Lesser Poland"
         },
         "0227c988-8f76-11e1-848f-cfd5bf3ef515":{
@@ -1281,7 +1281,7 @@
           "name_en":"Masovian"
         },
         "0227cabe-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Swi��tokrzyskie",
+          "region":"Swiętokrzyskie",
           "name_en":"Swietokrzyskie"
         },
         "0227caf0-8f76-11e1-848f-cfd5bf3ef515":{
@@ -1309,11 +1309,11 @@
           "name_en":"Greater Poland"
         },
         "0227c852-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Dolnosl��skie",
+          "region":"Dolnosląskie",
           "name_en":"Lower Silesia"
         },
         "0227c8c0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"����dzkie",
+          "region":"Łódzkie",
           "name_en":"Lodz"
         },
         "0227ca1e-8f76-11e1-848f-cfd5bf3ef515":{
@@ -1328,7 +1328,7 @@
           "name_en":"Lubusz"
         },
         "0227ca8c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Sl��skie",
+          "region":"Sląskie",
           "name_en":"Silesian"
         }
       }
@@ -1437,7 +1437,7 @@
           "name_en":"Canton of Berne"
         },
         "06a2cdbe-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kanton Z��rich",
+          "region":"Kanton Zürich",
           "name_en":"Canton of Zurich"
         },
         "06a2ca94-8f76-11e1-848f-cfd5bf3ef515":{
@@ -1449,7 +1449,7 @@
           "name_en":"Canton of St. Gallen"
         },
         "06a2c9f4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Canton de Gen��ve",
+          "region":"Canton de Genève",
           "name_en":"Canton of Geneva"
         },
         "06a2cdfa-8f76-11e1-848f-cfd5bf3ef515":{
@@ -1465,7 +1465,7 @@
           "name_en":"Canton of Lucerne"
         },
         "06a2ca62-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kanton Graub��nden",
+          "region":"Kanton Graubünden",
           "name_en":"Canton of Graubunden"
         },
         "06a2ca26-8f76-11e1-848f-cfd5bf3ef515":{
@@ -1493,7 +1493,7 @@
     "1151c080-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"gr",
-      "name":"������������",
+      "name":"Ελλάδα",
       "name_en":"Greece",
       "regions":
       {
@@ -1593,13 +1593,13 @@
           "region":"Bjelovarsko-Bilogorska"
         },
         "11598b3a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Koprivni��ko-kri��eva��ka"
+          "region":"Koprivničko-križevačka"
         },
         "11598d42-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Vara��dinska"
+          "region":"Varaždinska"
         },
         "11598d7e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Viroviti��ko-podravska"
+          "region":"Virovitičko-podravska"
         },
         "11598b6c-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Krapinsko-Zagorska"
@@ -1611,10 +1611,10 @@
           "region":"Vukovarsko-Srijemska"
         },
         "11598a9a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Dubrova��ko-neretvanska"
+          "region":"Dubrovačko-neretvanska"
         },
         "11598b9e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Li��ko-senjska"
+          "region":"Ličko-senjska"
         },
         "11598de2-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Zadarsko-Kninska"
@@ -1626,19 +1626,19 @@
           "region":"Brodsko-Posavska"
         },
         "11598c48-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Po��e��ko-slavonska"
+          "region":"Požeško-slavonska"
         },
         "11598cac-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Sibenska"
         },
         "11598e14-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Zagreba��ka"
+          "region":"Zagrebačka"
         },
         "11598cde-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Sisa��ko-moslava��ka"
+          "region":"Sisačko-moslavačka"
         },
         "11598b08-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Karlova��ka"
+          "region":"Karlovačka"
         },
         "11598d10-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Splitsko-Dalmatinska"
@@ -1647,31 +1647,31 @@
           "region":"Medjimurska"
         },
         "11598c0c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Osje��ko-baranjska"
+          "region":"Osječko-baranjska"
         }
       }
     },
     "1165681a-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"hu",
-      "name":"Magyarorsz��g",
+      "name":"Magyarország",
       "name_en":"Hungary",
       "regions":
       {
         "115fa4b6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Fej��r"
+          "region":"Fejér"
         },
         "115fa380-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Salg��tarj��n"
+          "region":"Salgótarján"
         },
         "115fa07e-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Miskolc"
         },
         "115fa286-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Kaposv��r"
+          "region":"Kaposvár"
         },
         "115fa4e8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Tatab��nya"
+          "region":"Tatabánya"
         },
         "115f9d36-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Baranya"
@@ -1680,10 +1680,10 @@
           "region":"Szombathely"
         },
         "115fa3ee-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"B��k��scsaba"
+          "region":"Békéscsaba"
         },
         "115f9e6c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"B��cs-Kiskun"
+          "region":"Bács-Kiskun"
         },
         "115fa420-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Szolnok"
@@ -1692,25 +1692,25 @@
           "region":"Debrecen"
         },
         "115fa1b4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"P��cs"
+          "region":"Pécs"
         },
         "115f9eda-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Pest"
         },
         "115fa2ea-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Szeksz��rd"
+          "region":"Szekszárd"
         },
         "115f9fde-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Vas"
         },
         "115fa0e2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Duna��jv��ros"
+          "region":"Dunaújváros"
         },
         "115f9d68-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Csongr��d"
+          "region":"Csongrád"
         },
         "115f9da4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Veszpr��m"
+          "region":"Veszprém"
         },
         "115f9f3e-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Zala"
@@ -1723,24 +1723,24 @@
     "11567896-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"hk",
-      "name":"������",
+      "name":"香港",
       "name_en":"Hong Kong",
       "regions":
       {
         "1155efac-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������",
+          "region":"九龍",
           "name_en":"Kowloon"
         },
         "1155ef7a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������",
+          "region":"離島",
           "name_en":"Outlying Islands"
         },
         "1155ef3e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������",
+          "region":"新界",
           "name_en":"New Territories"
         },
         "1155efde-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������",
+          "region":"港島",
           "name_en":"Hong Kong Island"
         }
       }
@@ -1888,7 +1888,7 @@
           "region":"Schleswig-Holstein"
         },
         "071497b4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Baden-W��rttemberg",
+          "region":"Baden-Württemberg",
           "name_en":"Baden-Wurttemberg"
         },
         "071498ea-8f76-11e1-848f-cfd5bf3ef515":{
@@ -1912,7 +1912,7 @@
           "name_en":"Hesse"
         },
         "07149958-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Th��ringen",
+          "region":"Thüringen",
           "name_en":"Thuringia"
         },
         "071496ce-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2033,7 +2033,7 @@
           "region":"Nordjylland"
         },
         "07bfdfe8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Sj��lland",
+          "region":"Sjælland",
           "name_en":"Sjaelland"
         },
         "07bfe01a-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2116,7 +2116,7 @@
       "regions":
       {
         "0a8694c4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"M��rida"
+          "region":"Mérida"
         },
         "0a8696c2-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Dependencias Federales"
@@ -2134,7 +2134,7 @@
           "region":"Tachira"
         },
         "0a869320-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Bol��var",
+          "region":"Bolívar",
           "name_en":"Bolivar"
         },
         "0a869424-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2256,7 +2256,7 @@
     "0329593c-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"at",
-      "name":"��sterreich",
+      "name":"Österreich",
       "name_en":"Austria",
       "regions":
       {
@@ -2271,18 +2271,18 @@
           "name_en":"Styria"
         },
         "031b7376-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Nieder��sterreich",
+          "region":"Niederösterreich",
           "name_en":"Lower Austria"
         },
         "031b7254-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Ober��sterreich",
+          "region":"Oberösterreich",
           "name_en":"Upper Austria"
         },
         "031b73ee-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Burgenland"
         },
         "031b73b2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"K��rnten",
+          "region":"Kärnten",
           "name_en":"Carinthia"
         },
         "031b72cc-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2302,14 +2302,14 @@
       "regions":
       {
         "03119ebe-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Neuqu��n",
+          "region":"Neuquén",
           "name_en":"Neuquen"
         },
         "03119b80-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Santa Cruz"
         },
         "03119d88-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"R��o Negro",
+          "region":"Río Negro",
           "name_en":"Rio Negro"
         },
         "03119de2-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2332,7 +2332,7 @@
           "name_en":"Tierra del Fuego"
         },
         "03119be4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"C��rdoba",
+          "region":"Córdoba",
           "name_en":"Cordoba"
         },
         "03119a4a-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2345,7 +2345,7 @@
           "region":"Buenos Aires"
         },
         "03119aae-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Tucum��n",
+          "region":"Tucumán",
           "name_en":"Tucuman"
         },
         "03119a7c-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2355,7 +2355,7 @@
           "region":"Chaco"
         },
         "03119ce8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Entre R��os",
+          "region":"Entre Ríos",
           "name_en":"Entre Rios"
         },
         "03119e82-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2440,7 +2440,7 @@
     "01bc145e-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"mx",
-      "name":"M��xico",
+      "name":"México",
       "name_en":"Mexico",
       "regions":
       {
@@ -2698,88 +2698,88 @@
     "0824ab08-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"eg",
-      "name":"������",
+      "name":"مصر",
       "name_en":"Egypt",
       "regions":
       {
         "082363e2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��������������",
+          "region":"القاهرة",
           "name_en":"Cairo"
         },
         "082360d6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������� ������������",
+          "region":"البحر الاحمر",
           "name_en":"El Bahr El Ahmar"
         },
         "082362e8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������",
+          "region":"الفيوم",
           "name_en":"Fayoum"
         },
         "0823631a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������",
+          "region":"قنا",
           "name_en":"Qena"
         },
         "08236450-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��������������",
+          "region":"الغربية",
           "name_en":"Gharbia"
         },
         "08236482-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"����������",
+          "region":"حلوان",
           "name_en":"Helwan"
         },
         "08236108-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������ ��������",
+          "region":"بني سويف",
           "name_en":"Bani Sueif"
         },
         "0823620c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������",
+          "region":"الجيزة",
           "name_en":"Giza"
         },
         "08235f3c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������������",
+          "region":"القليوبية",
           "name_en":"Qalubia"
         },
         "0823634c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������",
+          "region":"الاقصر",
           "name_en":"Luxor"
         },
         "08236040-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"����������",
+          "region":"سوهاج",
           "name_en":"Sohag"
         },
         "0823613a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��������������������",
+          "region":"الاسكندرية",
           "name_en":"Alexandria"
         },
         "08235fa0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"������������",
+          "region":"المنيا",
           "name_en":"Menia"
         },
         "0823637e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��������������",
+          "region":"بورسعيد",
           "name_en":"Port Said"
         },
         "08236072-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"��������������",
+          "region":"الشرقية",
           "name_en":"Sharqia"
         },
         "0823600e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"����������������",
+          "region":"المنوفية",
           "name_en":"Menofia"
         },
         "082364b4-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"����������������������",
+          "region":"الاسماعيلية",
           "name_en":"El Ismailia"
         },
         "08235fd2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"����������",
+          "region":"اسوان",
           "name_en":"Aswan"
         },
         "082361da-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"����������",
+          "region":"اسيوط",
           "name_en":"Asyout"
         },
         "0823623e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"����������",
+          "region":"دمياط",
           "name_en":"Dumiat"
         }
       }
@@ -2787,88 +2787,88 @@
     "07f29226-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"tw",
-      "name":"������",
+      "name":"臺灣",
       "name_en":"Taiwan",
       "regions":
       {
         "07ed74f8-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"新竹縣",
           "name_en":"Hsinchu County"
         },
         "07ed73c2-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"苗栗縣",
           "name_en":"Miaoli County"
         },
         "07ed72be-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"台南市",
           "name_en":"Tainan City"
         },
         "07ed752a-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"嘉義市",
           "name_en":"Chiayi City"
         },
         "07ed762e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"金門縣",
           "name_en":"Kinmen County"
         },
         "07ed72f0-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"宜蘭縣",
           "name_en":"Yilan County"
         },
         "07ed7430-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"高雄市",
           "name_en":"Kaohsiung City"
         },
         "07ed7462-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"基隆市",
           "name_en":"Keelung City"
         },
         "07ed71ec-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"台中市",
           "name_en":"Taichung City"
         },
         "07ed7322-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"花蓮縣",
           "name_en":"Hualien County"
         },
         "07ed74c6-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"新竹市",
           "name_en":"Hsinchu City"
         },
         "07ed75fc-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"連江縣",
           "name_en":"Lienchiang County"
         },
         "07ed735e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"南投縣",
           "name_en":"Nantou County"
         },
         "07ed7566-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"嘉義縣",
           "name_en":"Chiayi County"
         },
         "07ed75ca-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"澎湖縣",
           "name_en":"Penghu County"
         },
         "07ed7494-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"雲林縣",
           "name_en":"Yunlin County"
         },
         "07ed7598-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"彰化縣",
           "name_en":"Changhua County"
         },
         "07ed721e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"台北市",
           "name_en":"Taipei City"
         },
         "07ed7390-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"屏東縣",
           "name_en":"Pingtung County"
         },
         "07ed7250-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"���������",
+          "region":"新北市",
           "name_en":"New Taipei City"
         }
       }
@@ -2908,7 +2908,7 @@
           "region":"Porto"
         },
         "02643d50-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Bragan��a"
+          "region":"Bragança"
         },
         "02643e86-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Guarda"
@@ -2929,7 +2929,7 @@
           "region":"Faro"
         },
         "02643f4e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Santar��m"
+          "region":"Santarém"
         },
         "02643f8a-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Viana do Castelo"
@@ -2938,7 +2938,7 @@
           "region":"Azores"
         },
         "0264408e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Set��bal",
+          "region":"Setúbal",
           "name_en":"Setubal"
         }
       }
@@ -2946,7 +2946,7 @@
     "0853b330-8f76-11e1-848f-cfd5bf3ef515":
     {
       "country":"es",
-      "name":"Espa��a",
+      "name":"España",
       "name_en":"Spain",
       "regions":
       {
@@ -2955,11 +2955,11 @@
           "name_en":"Madrid"
         },
         "082a0008-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Regi��n de Murcia",
+          "region":"Región de Murcia",
           "name_en":"Murcia"
         },
         "082a010c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Arag��n",
+          "region":"Aragón",
           "name_en":"Aragon"
         },
         "082a0242-8f76-11e1-848f-cfd5bf3ef515":{
@@ -2985,7 +2985,7 @@
           "region":"La Rioja"
         },
         "082a00da-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Andaluc��a",
+          "region":"Andalucía",
           "name_en":"Andalusia"
         },
         "082a0210-8f76-11e1-848f-cfd5bf3ef515":{
@@ -3007,7 +3007,7 @@
           "name_en":"Melilla Province"
         },
         "082a01ac-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Castilla y Le��n",
+          "region":"Castilla y León",
           "name_en":"Castille and Leon"
         },
         "082a01de-8f76-11e1-848f-cfd5bf3ef515":{
@@ -3043,7 +3043,7 @@
           "region":"Aguas Buenas"
         },
         "0261f50e-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Las Mar��as"
+          "region":"Las Marías"
         },
         "0261eb36-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Maricao"
@@ -3058,7 +3058,7 @@
           "region":"Vieques"
         },
         "0261fa2c-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"Can��vanas"
+          "region":"Canóvanas"
         },
         "0261f176-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Patillas"
@@ -3070,7 +3070,7 @@
           "region":"Arecibo"
         },
         "0261ef00-8f76-11e1-848f-cfd5bf3ef515":{
-          "region":"R��o Grande"
+          "region":"Río Grande"
         },
         "0261f91e-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Naranjito"

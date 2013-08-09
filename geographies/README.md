@@ -15,8 +15,6 @@ For each region, you will receive:
 * *region* - The string that should be used when populating data in the [global places](http://www.factual.com/data/t/places) table. This is generally the locally used name for the country. These names will generally be in the local alphabet, not transliterated.
 * *name_en* - (optional) English name for the country. This field will be absent if an English name is not available, or if it is idential to *region*.
 
-*NOTE:* There was an encoding mistake generating these due to a driver bug. Korea was hand modified. We'll have the rest of the our supported countries fixed ASAP.
-
 <br/>
 
 **[addressComponentDensity.json](https://github.com/Factual/places/blob/master/geographies/addressComponentDensity.json)**
