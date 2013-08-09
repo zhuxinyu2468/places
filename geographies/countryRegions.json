@@ -114,6 +114,190 @@
         },
         "07dc2a9a-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Karaman"
+        },
+        "07dc2b9e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Çankırı"
+        },
+        "07dc3454-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Gaziantep"
+        },
+        "07dc2842-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Isparta"
+        },
+        "07dc3184-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bolu"
+        },
+        "07dc2cd4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Giresun"
+        },
+        "07dc29c8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Yozgat"
+        },
+        "07dc3288-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Şanlıurfa"
+        },
+        "07dc2ad6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Çorum"
+        },
+        "07dc3382-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Edirne"
+        },
+        "07dc26b2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Trabzon"
+        },
+        "07dc301c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Karabük"
+        },
+        "07dc26e4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Malatya"
+        },
+        "07dc304e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Uşak"
+        },
+        "07dc28ba-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"İstanbul",
+          "name_en":"Istanbul"
+        },
+        "07dc31e8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bilecik"
+        },
+        "07dc2e78-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Düzce"
+        },
+        "07dc248c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Konya"
+        },
+        "07dc263a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sivas"
+        },
+        "07dc2fae-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ağrı"
+        },
+        "07dc2d10-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kayseri"
+        },
+        "07dc30e4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bursa"
+        },
+        "07dc2798-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tokat"
+        },
+        "07dc2a04-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"İzmir"
+        },
+        "07dc32ba-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ardahan"
+        },
+        "07dc324c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Amasya"
+        },
+        "07dc2932-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Mersin"
+        },
+        "07dc2f18-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bayburt"
+        },
+        "07dc252c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Antalya"
+        },
+        "07dc2f7c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hatay"
+        },
+        "07dc2590-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Burdur"
+        },
+        "07dc2450-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Denizli"
+        },
+        "07dc2e46-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Diyarbakır"
+        },
+        "07dc2f4a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Mardin"
+        },
+        "07dc255e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ankara"
+        },
+        "07dc321a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Şırnak"
+        },
+        "07dc28f6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ordu"
+        },
+        "07dc2b6c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Çanakkale"
+        },
+        "07dc3422-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kırklareli"
+        },
+        "07dc2bda-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Eskişehir"
+        },
+        "07dc3490-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kilis"
+        },
+        "07dc3080-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Adana"
+        },
+        "07dc2720-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Artvin"
+        },
+        "07dc30b2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sakarya"
+        },
+        "07dc275c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Yalova"
+        },
+        "07dc2806-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kütahya"
+        },
+        "07dc3152-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Batman"
+        },
+        "07dc2d42-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Rize"
+        },
+        "07dc2c0c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Osmaniye"
+        },
+        "07dc34c2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kars"
+        },
+        "07dc32ec-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Muş"
+        },
+        "07dc2a36-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kırıkkale"
+        },
+        "07dc2c3e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Niğde"
+        },
+        "07dc34f4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hakkâri"
+        },
+        "07dc33be-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Gümüşhane"
+        },
+        "07dc2b08-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Afyonkarahisar"
+        },
+        "07dc33f0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bartın"
+        },
+        "07dc2b3a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Siirt"
+        },
+        "07dc31b6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kocaeli"
+        },
+        "07dc287e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nevşehir"
+        },
+        "07dc23ba-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kastamonu"
+        },
+        "07dc2da6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Van"
         }
       }
     },
@@ -273,6 +457,114 @@
         "12df6948-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"島根県",
           "name_en":"Shimane Prefecture"
+        },
+        "12df6b14-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"福岡県",
+          "name_en":"Fukuoka Prefecture"
+        },
+        "12df674a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"愛知県",
+          "name_en":"Aichi Prefecture"
+        },
+        "12df689e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"奈良県",
+          "name_en":"Nara Prefecture"
+        },
+        "12df6592-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"富山県",
+          "name_en":"Toyama Prefecture"
+        },
+        "12df69f2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"山口県",
+          "name_en":"Yamaguchi Prefecture"
+        },
+        "12df6236-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"北海道",
+          "name_en":"Hokkaido Prefecture"
+        },
+        "12df6bf0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"大分県",
+          "name_en":"Oita Prefecture"
+        },
+        "12df6b82-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"長崎県",
+          "name_en":"Nagasaki Prefecture"
+        },
+        "12df67f4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"京都府",
+          "name_en":"Kyoto Prefecture"
+        },
+        "12df6862-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"兵庫県",
+          "name_en":"Hyogo Prefecture"
+        },
+        "12df6704-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"静岡県",
+          "name_en":"Shizuoka Prefecture"
+        },
+        "12df6826-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"大阪府",
+          "name_en":"Osaka Prefecture"
+        },
+        "12df6b46-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"佐賀県",
+          "name_en":"Saga Prefecture"
+        },
+        "12df63c6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"茨城県",
+          "name_en":"Ibaraki Prefecture"
+        },
+        "12df6434-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"群馬県",
+          "name_en":"Gunma Prefecture"
+        },
+        "12df6984-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"岡山県",
+          "name_en":"Okayama Prefecture"
+        },
+        "12df69c0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"広島県",
+          "name_en":"Hiroshima Prefecture"
+        },
+        "12df6a6a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"香川県",
+          "name_en":"Kagawa Prefecture"
+        },
+        "12df65ce-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"石川県",
+          "name_en":"Ishikawa Prefecture"
+        },
+        "12df6470-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"埼玉県",
+          "name_en":"Saitama Prefecture"
+        },
+        "12df6268-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"青森県",
+          "name_en":"Aomori Prefecture"
+        },
+        "12df6c2c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"宮崎県",
+          "name_en":"Miyazaki Prefecture"
+        },
+        "12df64ac-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"千葉県",
+          "name_en":"Chiba Prefecture"
+        },
+        "12df634e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"山形県",
+          "name_en":"Yamagata Prefecture"
+        },
+        "12df638a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"福島県",
+          "name_en":"Fukushima Prefecture"
+        },
+        "12df6ad8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"高知県",
+          "name_en":"Kochi Prefecture"
+        },
+        "12df663c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"山梨県",
+          "name_en":"Yamanashi Prefecture"
         }
       }
     },
@@ -409,6 +701,30 @@
         },
         "037b20b4-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Amazonas"
+        },
+        "037b2596-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tocantins"
+        },
+        "037b2460-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Rio Grande do Sul"
+        },
+        "037b2258-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Mato Grosso"
+        },
+        "037b2492-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Rondônia",
+          "name_en":"Rondonia"
+        },
+        "037b2352-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Paraná",
+          "name_en":"Parana"
+        },
+        "037b238e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Pernambuco"
+        },
+        "037b2122-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ceará",
+          "name_en":"Ceara"
         }
       }
     },
@@ -503,6 +819,174 @@
         },
         "07cdc018-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Prachin Buri"
+        },
+        "07cdb74e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ang Thong"
+        },
+        "07cdbd48-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Trang"
+        },
+        "07cdb47e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sakon Nakhon"
+        },
+        "07cdb898-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phayao"
+        },
+        "07cdbe42-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Yala"
+        },
+        "07cdb578-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chaiyaphum"
+        },
+        "07cdb67c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Narathiwat"
+        },
+        "07cdbf46-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Udon Thani"
+        },
+        "07cdb30c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phitsanulok"
+        },
+        "07cdbbd6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chumphon"
+        },
+        "07cdb33e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phichit"
+        },
+        "07cdbc12-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ranong"
+        },
+        "07cdbdac-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Satun"
+        },
+        "07cdb4e2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kalasin"
+        },
+        "07cdb168-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nan"
+        },
+        "07cdba3c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kanchanaburi"
+        },
+        "07cdbb72-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phetchaburi"
+        },
+        "07cdb29e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Uttaradit"
+        },
+        "07cdb8d4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Samut Prakan"
+        },
+        "07cdbca8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phuket"
+        },
+        "07cdb3de-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nakhon Sawan"
+        },
+        "07cdbe74-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Yasothon"
+        },
+        "07cdb5aa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nakhon Ratchasima"
+        },
+        "07cdbe10-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Pattani"
+        },
+        "07cdb546-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Roi Et"
+        },
+        "07cdbad2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nathon Pathon"
+        },
+        "07cdb208-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phrae"
+        },
+        "07cdbb40-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Samut Sakhon"
+        },
+        "07cdb26c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sukhothai"
+        },
+        "07cdb136-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chiang Rai"
+        },
+        "07cdba0a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Trat"
+        },
+        "07cdbb0e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Samut Songkhran"
+        },
+        "07cdb23a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tak"
+        },
+        "07cdbdde-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Songkhla"
+        },
+        "07cdb514-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Maha Sarakham"
+        },
+        "07cdb712-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Lop Buri"
+        },
+        "07cdbfdc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sa Kaeo"
+        },
+        "07cdb780-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phra Nakhon Si Ayutthaya"
+        },
+        "07cdbc44-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Surat Thani"
+        },
+        "07cdb37a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phetchabun"
+        },
+        "07cdb3ac-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Uthai Thani"
+        },
+        "07cdbc76-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phangnga"
+        },
+        "07cdb44c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Loei"
+        },
+        "07cdbd0c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nakhon Si Thammarat"
+        },
+        "07cdb906-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nakhon Nayok"
+        },
+        "07cdb7b2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sara Buri"
+        },
+        "07cdb5e6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Buriram"
+        },
+        "07cdbeb0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nakhon Phanom"
+        },
+        "07cdb7e4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nonthaburi"
+        },
+        "07cdb6ae-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chai Nat"
+        },
+        "07cdbf78-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Amnat Charoen"
+        },
+        "07cdbfaa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nong Bua Lam Phu"
+        },
+        "07cdb6e0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sing Buri"
+        },
+        "07cdb4b0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Khon Kaen"
+        },
+        "07cdbd7a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phatthalung"
+        },
+        "07cdb96a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chon Buri"
         }
       }
     },
@@ -666,6 +1150,13 @@
         "0a1290e2-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Midi-Pyrénées",
           "name_en":"Midi-Pyrenees"
+        },
+        "0a128d72-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Rhône-Alpes",
+          "name_en":"Rhone-Alpes"
+        },
+        "0a128de0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nord-Pas-de-Calais"
         }
       }
     },
@@ -868,6 +1359,10 @@
         "06c5ffc8-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Södermanlands Län",
           "name_en":"Sodermanland"
+        },
+        "06c5fd8e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Gävleborgs Län",
+          "name_en":"Gavleborg"
         }
       }
     },
@@ -1033,6 +1528,24 @@
         },
         "021bbabc-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Moquegua"
+        },
+        "021bbbf2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tumbes"
+        },
+        "021bbc24-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ucayali"
+        },
+        "021bb8b4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Provincia Constitucional del Callao"
+        },
+        "021bb77e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Amazonas"
+        },
+        "021bb7b0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ancash"
+        },
+        "021bb922-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Huancavelica"
         }
       }
     },
@@ -1101,6 +1614,45 @@
         },
         "06bc9c6c-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Meta"
+        },
+        "06bc9cd0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Norte de Santander"
+        },
+        "06bc9b9a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Guainia"
+        },
+        "06bc9c9e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Narino"
+        },
+        "06bc9f6e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Distrito Especial"
+        },
+        "06bc992e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Antioquia"
+        },
+        "06bc9dd4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Santander"
+        },
+        "06bc9e06-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sucre"
+        },
+        "06bc9e9c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Vaupes"
+        },
+        "06bc9a96-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Cauca"
+        },
+        "06bc9960-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Arauca"
+        },
+        "06bc9992-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Atlantico"
+        },
+        "06bc9f0a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Casanare"
+        },
+        "06bc9afa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Choco"
         }
       }
     },
@@ -1190,6 +1742,54 @@
         "06b411f0-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"陝西省",
           "name_en":"Shaanxi"
+        },
+        "06b4125e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"云南省",
+          "name_en":"Yunnan"
+        },
+        "06b41128-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"内蒙古自治区",
+          "name_en":"Nei Mongol"
+        },
+        "06b41222-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"天津直辖市",
+          "name_en":"Tianjin"
+        },
+        "06b40ebc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"吉林省",
+          "name_en":"Jilin"
+        },
+        "06b41358-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"西沙群岛",
+          "name_en":"Paracel Islands"
+        },
+        "06b41394-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"四川省",
+          "name_en":"Sichuan"
+        },
+        "06b4142a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"西藏自治区",
+          "name_en":"Tibet"
+        },
+        "06b41024-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"湖北省",
+          "name_en":"Hubei"
+        },
+        "06b40eee-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"青海省",
+          "name_en":"Qinghai"
+        },
+        "06b40f20-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"福建省",
+          "name_en":"Fujian"
+        },
+        "06b4148e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"江苏省",
+          "name_en":"Jiangsu"
+        },
+        "06b41088-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"广西省",
+          "name_en":"Guangxi"
         }
       }
     },
@@ -1398,6 +1998,195 @@
         },
         "065c85c0-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Sverdlovsk Oblast"
+        },
+        "065c7c9c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Komi Republic"
+        },
+        "065c86c4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Vladimir Oblast"
+        },
+        "065c7d96-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tuva Republic"
+        },
+        "065c83ea-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Omsk Oblast"
+        },
+        "065c87fa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kaliningrad Oblast"
+        },
+        "065c7ecc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Stavropol Krai"
+        },
+        "065c7bca-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Dagestan Republic"
+        },
+        "065c84ee-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Rostov Oblast"
+        },
+        "065c85f2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tambov Oblast"
+        },
+        "065c7cce-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Mari El Republic"
+        },
+        "065c8b38-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Altai Krai"
+        },
+        "065c820a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Samara Oblast"
+        },
+        "065c8250-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Leningrad Oblast"
+        },
+        "065c8b6a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Altai Republic"
+        },
+        "065c7b34-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Buryatia Republic"
+        },
+        "065c8458-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Oryol Oblast"
+        },
+        "065c8070-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ivanovo Oblast"
+        },
+        "065c899e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Khakassia Republic"
+        },
+        "065c8ad4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Khanty-Mansi Autonomous Okrug - Yugra"
+        },
+        "065c819c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kurgan Oblast"
+        },
+        "065c7efe-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Amur Oblast"
+        },
+        "065c882c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Saint Petersburg Federal City"
+        },
+        "065c8c0a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Moscow Oblast"
+        },
+        "065c834a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Murmansk Oblast"
+        },
+        "065c8520-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ryazan Oblast"
+        },
+        "065c7bfc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kabardino-Balkaria Republic"
+        },
+        "065c7b98-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chuvashia Republic"
+        },
+        "065c84bc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Pskov Oblast"
+        },
+        "065c8106-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kemerovo Oblast"
+        },
+        "065c8a34-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Karachay-Cherkessia Republic"
+        },
+        "065c816a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kostroma Oblast"
+        },
+        "065c8a98-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Yamalo-Nenets Autonomous Okrug"
+        },
+        "065c8962-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Jewish Autonomous Oblast"
+        },
+        "065c8034-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Irkutsk Oblast"
+        },
+        "065c8138-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kirov Oblast"
+        },
+        "065c8a66-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Krasnoyarsk Krai"
+        },
+        "065c7b66-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chechnya Republic"
+        },
+        "065c848a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Penza Oblast"
+        },
+        "065c7d64-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tatarstan Republic"
+        },
+        "065c8692-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ulyanovsk Oblast"
+        },
+        "065c7dc8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Udmurtia Republic"
+        },
+        "065c86f6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Volgograd Oblast"
+        },
+        "065c828c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Lipetsk Oblast"
+        },
+        "065c8b9c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kamchatka Krai"
+        },
+        "065c8bd8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Zabaykalsky Krai"
+        },
+        "065c82be-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Moscow Federal City"
+        },
+        "065c83b8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Novosibirsk Oblast"
+        },
+        "065c885e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Arkhangelsk Oblast"
+        },
+        "065c7f30-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Astrakhan Oblast"
+        },
+        "065c8732-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Vologda Oblast"
+        },
+        "065c7e04-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sakha Republic"
+        },
+        "065c7c2e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kalmykia Republic"
+        },
+        "065c8552-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Saratov Oblast"
+        },
+        "065c7e36-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Khabarovsk Krai"
+        },
+        "065c8764-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Voronezh Oblast"
+        },
+        "065c8624-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tomsk Oblast"
+        },
+        "065c7d00-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Mordovia Republic"
+        },
+        "065c8660-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tula Oblast"
+        },
+        "065c7d32-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"North Ossetia-Alania Republic"
+        },
+        "065c7af8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bashkortostan Republic"
+        },
+        "065c841c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Orenburg Oblast"
+        },
+        "065c88cc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Perm Krai"
+        },
+        "065c7f9e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bryansk Oblast"
         }
       }
     },
@@ -1487,6 +2276,30 @@
         "06a2c95e-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Kanton Basel-Stadt",
           "name_en":"Canton of Basel-City"
+        },
+        "06a2ccf6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kanton Uri",
+          "name_en":"Canton of Uri"
+        },
+        "06a2caf8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Canton de Neuchâtel",
+          "name_en":"Canton of Neuchatel"
+        },
+        "06a2cd28-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Canton de Valais",
+          "name_en":"Canton of Valais"
+        },
+        "06a2cbe8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kanton Schaffhausen",
+          "name_en":"Canton of Schaffhausen"
+        },
+        "06a2cc1a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kanton Schwyz",
+          "name_en":"Canton of Schwyz"
+        },
+        "06a2c9c2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Canton de Fribourg",
+          "name_en":"Canton of Fribourg"
         }
       }
     },
@@ -1648,6 +2461,9 @@
         },
         "11598c0c-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Osječko-baranjska"
+        },
+        "11598e78-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Grad Zagreb"
         }
       }
     },
@@ -1717,6 +2533,75 @@
         },
         "115fa484-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Zalaegerszeg"
+        },
+        "115f9d04-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nógrád"
+        },
+        "115fa31c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Veszprém"
+        },
+        "115f9e3a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Békés"
+        },
+        "115fa010-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Heves"
+        },
+        "115f9fac-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Jász-Nagykun-Szolnok"
+        },
+        "115fa524-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Komárom-Esztergom"
+        },
+        "115f9cd2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Budapest"
+        },
+        "115fa452-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nagykanizsa"
+        },
+        "115f9ca0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hajdú-Bihar"
+        },
+        "115f9f7a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tolna"
+        },
+        "115fa182-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Szeged"
+        },
+        "115fa1e6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Érd"
+        },
+        "115f9dd6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Borsod-Abaúj-Zemplén"
+        },
+        "115f9e08-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Somogy"
+        },
+        "115f9ea8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Szabolcs-Szatmár-Bereg"
+        },
+        "115fa34e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kecskemét"
+        },
+        "115fa218-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sopron"
+        },
+        "115fa04c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Eger"
+        },
+        "115fa24a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Gyôr"
+        },
+        "115fa114-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Székesfehérvár"
+        },
+        "115fa150-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hódmezôvásárhely"
+        },
+        "115f9f0c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Győr-Moson-Sopron"
+        },
+        "115fa3bc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nyíregyháza"
         }
       }
     },
@@ -1863,6 +2748,138 @@
         },
         "0a8a38ae-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Binh Dinh"
+        },
+        "0a8a3e58-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bac Lieu"
+        },
+        "0a8a35a2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Quang Ninh"
+        },
+        "0a8a3f5c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bin Phuoc"
+        },
+        "0a8a36a6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tien Giang"
+        },
+        "0a8a3bec-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Quang Tri"
+        },
+        "0a8a3c1e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Soc Trang"
+        },
+        "0a8a3dc2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bin Duong"
+        },
+        "0a8a34ee-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Lam Dong"
+        },
+        "0a8a3a48-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Khanh Hoa"
+        },
+        "0a8a3b7e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phu Yen"
+        },
+        "0a8a38e0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Binh Thuan"
+        },
+        "0a8a3cbe-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tuyen Quang"
+        },
+        "0a8a35d4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Son La"
+        },
+        "0a8a3e8a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ca Mau"
+        },
+        "0a8a3e26-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hai Duong"
+        },
+        "0a8a3570-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Quang Nam"
+        },
+        "0a8a3ae8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nghe An"
+        },
+        "0a8a3b4c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ninh Thuan"
+        },
+        "0a8a3a16-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hoa Binh"
+        },
+        "0a8a3b1a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ninh Binh"
+        },
+        "0a8a3df4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hung Yen"
+        },
+        "0a8a3534-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Long An"
+        },
+        "0a8a373c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Dak Lak"
+        },
+        "0a8a3ff2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nam Dinh"
+        },
+        "0a8a37aa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Dong Thap"
+        },
+        "0a8a4056-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Phu Tho"
+        },
+        "0a8a3c50-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Thura Thien-Hue"
+        },
+        "0a8a3c82-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tra Vinh"
+        },
+        "0a8a344e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Cao Bang"
+        },
+        "0a8a3d22-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Yen Bai"
+        },
+        "0a8a3912-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Can Tho"
+        },
+        "0a8a37dc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kien Giang"
+        },
+        "0a8a4088-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Dien Bien"
+        },
+        "0a8a3ebc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Thai Nguyen"
+        },
+        "0a8a3606-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tay Ninh"
+        },
+        "0a8a40c4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Dac Nong"
+        },
+        "0a8a380e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ha Noi"
+        },
+        "0a8a36d8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Lang Son"
+        },
+        "0a8a3f8e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bac Giang"
+        },
+        "0a8a370a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"An Giang"
+        },
+        "0a8a3fc0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bac Ninh"
+        },
+        "0a8a34bc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Lai Chau"
+        },
+        "0a8a3d90-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Quang Ngai"
+        },
+        "0a8a3980-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ha Giang"
         }
       }
     },
@@ -2013,6 +3030,55 @@
         "11686c04-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Kalimantan Timur",
           "name_en":"East Kalimantan"
+        },
+        "11686ba0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kepulauan Riau"
+        },
+        "11686826-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nusa Tenggara Timur",
+          "name_en":"East Nusa Tenggara"
+        },
+        "1168688a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sulawesi Tengah",
+          "name_en":"Central Sulawesi"
+        },
+        "11686754-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Kalimantan Selatan",
+          "name_en":"South Kalimantan"
+        },
+        "11686858-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sulawesi Selatan",
+          "name_en":"South Sulawesi"
+        },
+        "11686b6e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Riau"
+        },
+        "1168698e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sumatera Utara",
+          "name_en":"North Sumatra"
+        },
+        "116869c0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Maluku"
+        },
+        "11686a9c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sulawesi Barat",
+          "name_en":"West Sulawesi"
+        },
+        "11686650-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Jawa Barat",
+          "name_en":"West Java"
+        },
+        "11686556-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nanggroe Aceh Darussalam",
+          "name_en":"Aceh"
+        },
+        "11686b00-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Papua Barat",
+          "name_en":"West Papua"
+        },
+        "116866be-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Jawa Timur",
+          "name_en":"East Java"
         }
       }
     },
@@ -2106,6 +3172,24 @@
         },
         "117becd4-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Tipperary"
+        },
+        "117beb9e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Mayo"
+        },
+        "117be9c8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Dublin"
+        },
+        "117bebd0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Meath"
+        },
+        "117bea9a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Leitrim"
+        },
+        "117beacc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Laois"
+        },
+        "117bed38-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Wicklow"
         }
       }
     },
@@ -2175,6 +3259,21 @@
         },
         "0a869654-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Yaracuy"
+        },
+        "0a869488-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Lara"
+        },
+        "0a869686-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Zulia"
+        },
+        "0a86955a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nueva Esparta"
+        },
+        "0a86958c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Portuguesa"
+        },
+        "0a86935c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Carabobo"
         }
       }
     },
@@ -2366,6 +3465,19 @@
         },
         "03119b4e-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Catamarca"
+        },
+        "03119d56-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Corrientes"
+        },
+        "03119c16-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"La Pampa"
+        },
+        "03119c48-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ciudad de Buenos Aires",
+          "name_en":"Autonomous City of Buenos Aires"
+        },
+        "03119ef0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"La Rioja"
         }
       }
     },
@@ -2434,6 +3546,99 @@
         },
         "0864a3c0-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Texas"
+        },
+        "0864a050-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Mississippi"
+        },
+        "0864a08c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Missouri"
+        },
+        "0864a226-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"North Dakota"
+        },
+        "08649ec0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Iowa"
+        },
+        "08649fec-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Michigan"
+        },
+        "08649d58-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"District of Columbia"
+        },
+        "0864a60e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Louisiana"
+        },
+        "0864a122-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nevada"
+        },
+        "0864a2ee-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Rhode Island"
+        },
+        "0864a28a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Oregon"
+        },
+        "08649f56-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Maine"
+        },
+        "08649fba-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Massachusetts"
+        },
+        "08649e84-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Indiana"
+        },
+        "08649f88-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Maryland"
+        },
+        "0864a258-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ohio"
+        },
+        "0864a460-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Virginia"
+        },
+        "0864a4c4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"West Virginia"
+        },
+        "08649c22-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Alaska"
+        },
+        "0864a0be-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Montana"
+        },
+        "0864a0f0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nebraska"
+        },
+        "0864a190-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"New Jersey"
+        },
+        "08649d8a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Florida"
+        },
+        "0864a4f6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Wisconsin"
+        },
+        "08649c54-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Arizona"
+        },
+        "0864a320-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"South Carolina"
+        },
+        "08649c86-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"California"
+        },
+        "0864a528-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Wyoming"
+        },
+        "0864a3f2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Utah"
+        },
+        "0864a424-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Vermont"
+        },
+        "0864a1f4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"New York"
+        },
+        "08649dee-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hawaii"
         }
       }
     },
@@ -2503,6 +3708,42 @@
         },
         "01ac4efc-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Tabasco"
+        },
+        "01ac4bc8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Guanajuato"
+        },
+        "01ac4c2c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hidalgo"
+        },
+        "01ac4af6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chihuahua"
+        },
+        "01ac4bfa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Guerrero"
+        },
+        "01ac4eca-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sonora"
+        },
+        "01ac4d30-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nayarit"
+        },
+        "01ac4d62-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Nuevo Leon"
+        },
+        "01ac4df8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Queretaro de Arteaga"
+        },
+        "01ac49f2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Aguascalientes"
+        },
+        "01ac4f9c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Veracruz-Llave"
+        },
+        "01ac4e5c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"San Luis Potosi"
+        },
+        "01ac4a60-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Baja California Sur"
         }
       }
     },
@@ -2654,6 +3895,51 @@
         },
         "11828e2c-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Sikkim"
+        },
+        "118293a4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Haryana"
+        },
+        "1182944e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Jammu and Kashmir"
+        },
+        "118292d2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Daman and Diu"
+        },
+        "11829412-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Maharashtra"
+        },
+        "11828dfa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bihar"
+        },
+        "11828ff8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Jharkhand"
+        },
+        "11829066-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Chhattisgarh"
+        },
+        "118291ce-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Uttar Pradesh"
+        },
+        "11829098-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Madhya Pradesh"
+        },
+        "11828ec2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Manipur"
+        },
+        "118290ca-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Dadra and Nagar Haveli"
+        },
+        "11828f94-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Assam"
+        },
+        "11828fc6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"West Bengal"
+        },
+        "11828d8c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Uttarakhand"
+        },
+        "11829232-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Tamil Nadu"
         }
       }
     },
@@ -2781,6 +4067,42 @@
         "0823623e-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"دمياط",
           "name_en":"Dumiat"
+        },
+        "08235f0a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"شمال سيناء",
+          "name_en":"North Sinai"
+        },
+        "082363b0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"السادس من اكتوبر",
+          "name_en":"Sixth Of October"
+        },
+        "08236270-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"الوادي الجديد",
+          "name_en":"El Wadi El Gedeed"
+        },
+        "082360a4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"البحيرة",
+          "name_en":"Beheira"
+        },
+        "082362ac-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"جنوب سيناء",
+          "name_en":"South Sinai"
+        },
+        "08236176-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"السويس",
+          "name_en":"El Suez"
+        },
+        "082361a8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"مطروح",
+          "name_en":"Matrouh"
+        },
+        "08235f6e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"الدقهلية",
+          "name_en":"Daqahlia"
+        },
+        "0823641e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"كفر الشيخ",
+          "name_en":"Kafr El Sheikh"
         }
       }
     },
@@ -2870,6 +4192,14 @@
         "07ed7250-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"新北市",
           "name_en":"New Taipei City"
+        },
+        "07ed728c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"台東縣",
+          "name_en":"Taitung County"
+        },
+        "07ed73f4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"桃園縣",
+          "name_en":"Taoyuan County"
         }
       }
     },
@@ -3089,6 +4419,180 @@
         },
         "0261f54a-8f76-11e1-848f-cfd5bf3ef515":{
           "region":"Quebradillas"
+        },
+        "0261eb68-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Moca"
+        },
+        "0261ec8a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"San Lorenzo"
+        },
+        "0261f662-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Cabo Rojo"
+        },
+        "0261e960-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Cayey"
+        },
+        "0261f342-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Guayanilla"
+        },
+        "0261f7b6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Caguas"
+        },
+        "0261edde-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Toa Baja"
+        },
+        "0261ea78-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Juncos"
+        },
+        "0261f464-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Isabela"
+        },
+        "0261f57c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"San Sebastián"
+        },
+        "0261eba4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Morovis"
+        },
+        "0261f1a8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Arroyo"
+        },
+        "0261f1e4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Guayama"
+        },
+        "0261f3ba-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Lajas"
+        },
+        "0261e9ce-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Cidra"
+        },
+        "0261f9be-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Vega Alta"
+        },
+        "0261efaa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ceiba"
+        },
+        "0261f13a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Maunabo"
+        },
+        "0261ee1a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Cataño"
+        },
+        "0261f7f2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Gurabo"
+        },
+        "0261e8b6-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Adjuntas"
+        },
+        "0261f298-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Juana Díaz"
+        },
+        "0261eab4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Lares"
+        },
+        "0261f496-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Aguada"
+        },
+        "0261ea46-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Jayuya"
+        },
+        "0261f428-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Rincón"
+        },
+        "0261f090-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Naguabo"
+        },
+        "0261fa5e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Florida"
+        },
+        "0261f0fe-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Yabucoa"
+        },
+        "0261f98c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Corozal"
+        },
+        "0261ef6e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Fajardo"
+        },
+        "0261f0cc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Humacao"
+        },
+        "0261ea0a-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Coamo"
+        },
+        "0261f3ec-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Añasco"
+        },
+        "0261ec4e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"San Germán"
+        },
+        "0261f626-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Mayagüez"
+        },
+        "0261f69e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hormigueros"
+        },
+        "0261ecbc-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Toa Alta"
+        },
+        "0261f220-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Salinas"
+        },
+        "0261f25c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Santa Isabel"
+        },
+        "0261f306-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Peñuelas"
+        },
+        "0261e924-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Barranquitas"
+        },
+        "0261ee56-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Guaynabo"
+        },
+        "0261f82e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Comerío"
+        },
+        "0261ecf8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Utuado"
+        },
+        "0261f6d0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Manatí"
+        },
+        "0261eafa-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Las Piedras"
+        },
+        "0261f4d2-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Aguadilla"
+        },
+        "0261ed34-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Villalba"
+        },
+        "0261f70c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Barceloneta"
+        },
+        "0261ebe0-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Orocovis"
+        },
+        "0261f5b8-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Camuy"
+        },
+        "0261ec12-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Sabana Grande"
+        },
+        "0261f5f4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Hatillo"
+        },
+        "0261f37e-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Guánica"
+        },
+        "0261e99c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Ciales"
+        },
+        "0261eec4-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Loíza"
+        },
+        "0261f89c-8f76-11e1-848f-cfd5bf3ef515":{
+          "region":"Bayamón"
         }
       }
     },
@@ -3141,6 +4645,6 @@
           "region":"Groningen"
         }
       }
-    }
+    },
   }
 }
