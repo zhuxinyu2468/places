@@ -1,4 +1,4 @@
-**country-regions.json**
+**[countryRegions.json](https://github.com/Factual/places/blob/master/geographies/countryRegions.json)**
 
 This file will contain listings of all regions contained in all Factual-supported countries that may be helpful for building autocompletion lists. 
 
@@ -20,7 +20,7 @@ This is test document. Currently, only USA, Canada, and Korea are populated. We'
 
 
 
-**addressComponentDensity.json**
+**[addressComponentDensity.json](https://github.com/Factual/places/blob/master/geographies/addressComponentDensity.json)**
 
 This file contains the density of various components of postal addresses for each country supported by Factual's [global places](http://www.factual.com/data/t/places) data.
 
