@@ -1,418 +1,678 @@
 {
   "ca":{
     "total":2137551,
+    "address":1910254,
+    "address_extended":360016,
+    "locality":2083594,
     "region":2132784,
     "postcode":1931002,
     "post_town":0,
     "admin_region":0,
     "po_box":34607
+    "latitude":2102425,
+    "longitude":2102425
   },
   "tr":{
     "total":174929,
+    "address":153332,
+    "address_extended":3,
+    "locality":169287,
     "region":152065,
     "postcode":49717,
     "post_town":149181,
     "admin_region":0,
     "po_box":0
+    "latitude":163910,
+    "longitude":163945
   },
   "no":{
     "total":403376,
+    "address":403298,
+    "address_extended":0,
+    "locality":400086,
     "region":0,
     "postcode":402963,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":338292,
+    "longitude":338291
   },
   "jp":{
     "total":3138650,
+    "address":2913001,
+    "address_extended":239759,
+    "locality":3056548,
     "region":3069849,
     "postcode":2581246,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":2909502,
+    "longitude":2909502
   },
   "nz":{
     "total":76473,
+    "address":69671,
+    "address_extended":0,
+    "locality":47412,
     "region":7,
     "postcode":26024,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":75997,
+    "longitude":75997
   },
   "br":{
     "total":1818302,
+    "address":1763607,
+    "address_extended":438865,
+    "locality":1732026,
     "region":1585749,
     "postcode":1029265,
     "post_town":1252716,
     "admin_region":0,
     "po_box":0
+    "latitude":1520223,
+    "longitude":1520223
   },
   "gb":{
     "total":3210328,
+    "address":2941921,
+    "address_extended":0,
+    "locality":2824355,
     "region":2936784,
     "postcode":3137810,
     "post_town":1163990,
     "admin_region":2936759,
     "po_box":0
+    "latitude":3180254,
+    "longitude":3180256
   },
   "th":{
     "total":88794,
+    "address":84045,
+    "address_extended":0,
+    "locality":56717,
     "region":24398,
     "postcode":66660,
     "post_town":32470,
     "admin_region":71651,
     "po_box":0
+    "latitude":82792,
+    "longitude":82792
   },
   "fi":{
     "total":376903,
+    "address":376179,
+    "address_extended":0,
+    "locality":373327,
     "region":1,
     "postcode":370190,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":375655,
+    "longitude":375655
   },
   "the netherlands":{
     "total":2,
+    "address":2,
+    "address_extended":0,
+    "locality":2,
     "region":1,
     "postcode":2,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":2,
+    "longitude":2
   },
   "fr":{
     "total":4418583,
+    "address":3976312,
+    "address_extended":0,
+    "locality":4133963,
     "region":4366707,
     "postcode":4321789,
     "post_town":0,
     "admin_region":4387924,
     "po_box":0
+    "latitude":4336282,
+    "longitude":4336282
   },
   "be":{
     "total":257663,
+    "address":257663,
+    "address_extended":0,
+    "locality":249060,
     "region":79864,
     "postcode":236029,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":257663,
+    "longitude":257663
   },
   "united state":{
     "total":1,
+    "address":1,
+    "address_extended":0,
+    "locality":1,
     "region":1,
     "postcode":1,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":1,
+    "longitude":1
   },
   "cz":{
     "total":33725,
+    "address":32998,
+    "address_extended":6,
+    "locality":32645,
     "region":10800,
     "postcode":21551,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":33683,
+    "longitude":33683
   },
   "se":{
     "total":1081609,
+    "address":1049489,
+    "address_extended":0,
+    "locality":1046177,
     "region":1069280,
     "postcode":953467,
     "post_town":0,
     "admin_region":0,
     "po_box":32063
+    "latitude":954204,
+    "longitude":954204
   },
   "kr":{
     "total":381619,
+    "address":326131,
+    "address_extended":75732,
+    "locality":366881,
     "region":370421,
     "postcode":228995,
     "post_town":219480,
     "admin_region":0,
     "po_box":0
+    "latitude":309124,
+    "longitude":309124
   },
   "sg":{
     "total":190685,
+    "address":186276,
+    "address_extended":48904,
+    "locality":190676,
     "region":0,
     "postcode":169751,
     "post_town":0,
     "admin_region":0,
     "po_box":85
+    "latitude":186798,
+    "longitude":186798
   },
   "pe":{
     "total":24458,
+    "address":24403,
+    "address_extended":1,
+    "locality":22572,
     "region":16749,
     "postcode":1,
     "post_town":2051,
     "admin_region":1351,
     "po_box":0
+    "latitude":24422,
+    "longitude":24422
   },
   "co":{
     "total":82128,
+    "address":80042,
+    "address_extended":4,
+    "locality":78343,
     "region":60332,
     "postcode":9,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":80682,
+    "longitude":80682
   },
   "cn":{
     "total":9473669,
+    "address":9473530,
+    "address_extended":1433862,
+    "locality":9219819,
     "region":9138592,
     "postcode":9468652,
     "post_town":6557421,
     "admin_region":0,
     "po_box":0
+    "latitude":7630349,
+    "longitude":7630349
   },
   "cl":{
     "total":110418,
+    "address":110400,
+    "address_extended":12500,
+    "locality":110387,
     "region":108282,
     "postcode":1,
     "post_town":0,
     "admin_region":107773,
     "po_box":0
+    "latitude":87569,
+    "longitude":87569
   },
   "pl":{
     "total":206390,
+    "address":194309,
+    "address_extended":0,
+    "locality":203411,
     "region":0,
     "postcode":179501,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":194531,
+    "longitude":194531
   },
   "ru":{
     "total":953436,
+    "address":941992,
+    "address_extended":0,
+    "locality":945062,
     "region":920590,
     "postcode":915995,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":589242,
+    "longitude":589242
   },
   "ch":{
     "total":711733,
+    "address":699925,
+    "address_extended":0,
+    "locality":694841,
     "region":246947,
     "postcode":705742,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":538305,
+    "longitude":538358
   },
   "gr":{
     "total":24331,
+    "address":24065,
+    "address_extended":2,
+    "locality":24161,
     "region":8476,
     "postcode":21690,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":24299,
+    "longitude":24299
   },
   "ph":{
     "total":78755,
+    "address":71385,
+    "address_extended":0,
+    "locality":74997,
     "region":75667,
     "postcode":36918,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":74851,
+    "longitude":74851
   },
   "hr":{
     "total":43908,
+    "address":43904,
+    "address_extended":1,
+    "locality":43791,
     "region":43180,
     "postcode":16159,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":42130,
+    "longitude":42130
   },
   "hu":{
     "total":74972,
+    "address":74306,
+    "address_extended":14,
+    "locality":73951,
     "region":3,
     "postcode":46488,
     "post_town":13140,
     "admin_region":0,
     "po_box":0
+    "latitude":66695,
+    "longitude":66695
   },
   "hk":{
     "total":141403,
+    "address":124297,
+    "address_extended":0,
+    "locality":126711,
     "region":134610,
     "postcode":0,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":117355,
+    "longitude":117355
   },
   "lu":{
     "total":28581,
+    "address":28567,
+    "address_extended":1,
+    "locality":28572,
     "region":0,
     "postcode":28466,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":28576,
+    "longitude":28576
   },
   "za":{
     "total":50678,
+    "address":43699,
+    "address_extended":2,
+    "locality":50483,
     "region":50272,
     "postcode":14128,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":50665,
+    "longitude":50665
   },
   "vn":{
     "total":44259,
+    "address":44214,
+    "address_extended":1905,
+    "locality":43564,
     "region":15878,
     "postcode":0,
     "post_town":32795,
     "admin_region":0,
     "po_box":0
+    "latitude":44249,
+    "longitude":44249
   },
   "de":{
     "total":4801817,
+    "address":4229906,
+    "address_extended":0,
+    "locality":4301964,
     "region":4721145,
     "postcode":4707479,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":4626642,
+    "longitude":4626642
   },
   "id":{
     "total":129619,
+    "address":125962,
+    "address_extended":3651,
+    "locality":114368,
     "region":119733,
     "postcode":74588,
     "post_town":100105,
     "admin_region":0,
     "po_box":0
+    "latitude":89787,
+    "longitude":89787
   },
   "dk":{
     "total":513501,
+    "address":513418,
+    "address_extended":0,
+    "locality":506029,
     "region":3,
     "postcode":512415,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":348523,
+    "longitude":348521
   },
   "ie":{
     "total":229174,
+    "address":227252,
+    "address_extended":0,
+    "locality":221781,
     "region":146353,
     "postcode":2,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":228782,
+    "longitude":228783
   },
   "ve":{
     "total":28399,
+    "address":28086,
+    "address_extended":0,
+    "locality":24255,
     "region":18847,
     "postcode":0,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":15521,
+    "longitude":15521
   },
   "it":{
     "total":2977709,
+    "address":2579977,
+    "address_extended":0,
+    "locality":2703167,
     "region":2871408,
     "postcode":2885049,
     "post_town":0,
     "admin_region":2726528,
     "po_box":0
+    "latitude":2754774,
+    "longitude":2754774
   },
   "at":{
     "total":476198,
+    "address":433343,
+    "address_extended":0,
+    "locality":460862,
     "region":470484,
     "postcode":459570,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":469964,
+    "longitude":469964
   },
   "ar":{
     "total":229606,
+    "address":224632,
+    "address_extended":0,
+    "locality":218617,
     "region":165826,
     "postcode":33172,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":211614,
+    "longitude":211614
   },
   "us":{
-    "total":23301858,
-    "region":23299870,
-    "postcode":21991865,
+    "total":23301914,
+    "address":21637381,
+    "address_extended":4456502,
+    "locality":22899458,
+    "region":23299831,
+    "postcode":21991870,
     "post_town":0,
     "admin_region":0,
-    "po_box":704963
+    "po_box":704959
+    "latitude":22797066,
+    "longitude":22796991
   },
   "mx":{
     "total":120205,
+    "address":113631,
+    "address_extended":0,
+    "locality":103422,
     "region":116483,
     "postcode":106021,
     "post_town":0,
     "admin_region":0,
     "po_box":6
+    "latitude":30639,
+    "longitude":30639
   },
   "il":{
     "total":74874,
+    "address":74280,
+    "address_extended":0,
+    "locality":74772,
     "region":0,
     "postcode":1487,
     "post_town":1297,
     "admin_region":0,
     "po_box":0
+    "latitude":47210,
+    "longitude":47210
   },
   "my":{
     "total":156670,
+    "address":151854,
+    "address_extended":0,
+    "locality":149254,
     "region":153047,
     "postcode":127267,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":156665,
+    "longitude":156665
   },
   "in":{
     "total":155520,
+    "address":154034,
+    "address_extended":3,
+    "locality":141075,
     "region":77871,
     "postcode":152305,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":18211,
+    "longitude":18211
   },
   "au":{
     "total":1463480,
+    "address":1274589,
+    "address_extended":340832,
+    "locality":1402343,
     "region":1456677,
     "postcode":1404872,
     "post_town":0,
     "admin_region":0,
     "po_box":63975
+    "latitude":1443067,
+    "longitude":1443067
   },
   "eg":{
     "total":12220,
+    "address":12220,
+    "address_extended":0,
+    "locality":11655,
     "region":0,
     "postcode":0,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":11994,
+    "longitude":11994
   },
   "tw":{
     "total":836482,
+    "address":832922,
+    "address_extended":282934,
+    "locality":679703,
     "region":798395,
     "postcode":338012,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":801952,
+    "longitude":801952
   },
   "pt":{
     "total":324701,
+    "address":290376,
+    "address_extended":32887,
+    "locality":297851,
     "region":316400,
     "postcode":305811,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":290678,
+    "longitude":290678
   },
   "es":{
     "total":1915823,
+    "address":1893421,
+    "address_extended":0,
+    "locality":1835129,
     "region":1843526,
     "postcode":1754859,
     "post_town":0,
     "admin_region":1837371,
     "po_box":0
+    "latitude":538279,
+    "longitude":538279
   },
   "pr":{
     "total":29113,
+    "address":29045,
+    "address_extended":0,
+    "locality":28515,
     "region":0,
     "postcode":20947,
     "post_town":0,
     "admin_region":0,
     "po_box":0
+    "latitude":9302,
+    "longitude":9302
   },
   "nl":{
     "total":351796,
+    "address":351796,
+    "address_extended":0,
+    "locality":343375,
     "region":85959,
     "postcode":351796,
     "post_town":0,
     "admin_region":0,
     "po_box":0
-  }
+    "latitude":348446,
+    "longitude":348446
+  },
 }
