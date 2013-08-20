@@ -3,6 +3,8 @@
 
 This CSV file contains mappings between Factual IDs, Yahoo Geoplanet WOEIDs, and Geoname Identifiers.
 
+Special thanks to David Blackman for the ~400k [Geonames-to-Geoplanet mappings](https://github.com/blackmad/geoplanet-concordance/tree/master/current)
+
 # Region Mapping
 **[countryRegions.json](https://github.com/Factual/places/blob/master/geographies/countryRegions.json)**
 
