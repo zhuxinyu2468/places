@@ -1,3 +1,9 @@
+# World Geographies Concordance
+**[world_geo_concordance.csv.zip](https://github.com/Factual/places/blob/master/geographies/world_geo_concordance.csv.zip)**
+
+This CSV file contains mappings between Factual IDs, Yahoo Geoplanet WOEIDs, and Geoname Identifiers.
+
+# Region Mapping
 **[countryRegions.json](https://github.com/Factual/places/blob/master/geographies/countryRegions.json)**
 
 This file contains mappings of all regions contained in Factual's [supported countries](http://developer.factual.com/working-with-factual-places/). It is intended to be helpful for building autocompletion UIs.
@@ -17,6 +23,7 @@ For each region, you will receive:
 
 <br/>
 
+# Address Compatibility
 **[addressComponentDensity.json](https://github.com/Factual/places/blob/master/geographies/addressComponentDensity.json)**
 
 This file contains the counts of various components of postal addresses for each country supported by Factual's [global places](http://www.factual.com/data/t/places) data.
