@@ -1,0 +1,16 @@
+status,name,address,address_extended,po_box,locality,region,postcode,country,latitude,longitude,tel,fax,website,email,category_ids,category,hours,brands,factual_id,store_number,foreign_id,sourceUrl
+1,RPC Home Inspections,1925 Madison Rd,,,Columbia,SC,29204,us,34.023998,-80.983398,(803) 787-6648,,http://www.rpchi.com,,293,,,,08a86200-2aaa-4479-a506-57a871aec8a6,,FactualPartner1396,http://www.factualpartner.com/business/1396
+1,Galati's Pizza and Pasta,7 Jandus Rd,,,Cary,IL,60013,us,42.2086386,-88.241107,(847) 516-3663,,,,347,,,,196f0190-ea2d-012e-e1a9-002590044574,,FactualPartner12,http://www.factualpartner.com/business/12
+1,Stanley Richard Nebel,1402 Liberty St,,PO Box 750,Franklin,PA,16323,us,41.398514,-79.836196,(814) 432-5121,(814) 432-5121,,,159,,,,22cfd7fe-31fa-4f2b-b6fb-94761d7b3343,,,
+1,Halekulani,2199 Kalia Rd,,,Honolulu,HI,96815,us,21.278578,-157.82959,(808) 923-2311,(808) 926-8004,http://www.halekulani.com,dining.reservations@halekulani.com,347,restaurant,,,28b417b0-d502-46e6-b71d-f2b3d214cdbe,,,
+1,Subway,1700 W Commercial St,B,,Ozark,AR,72949,us,35.488961,-93.842429,(479) 667-0159,,,,355,fastfood,,,488e986d-ef69-4b39-8846-aa851a3a8e6a,# 34627,LocationAR,
+1,Burger King,322 S State St,,,Girard,OH,44420,us,41.150813,-80.699944,(330) 545-3127,,http://bk.com,,"355,351",,,coca-cola,56363bec-cc02-46ed-b86b-88606efde85f,#6051,,
+1,Cupcake Salon,30 Mall Dr W,,,Jersey City,NJ,7310,us,40.727283,-74.039419,(201) 217-1600,,http://www.cupcakesalon.com,,343,cupcake store,,,75731250-1e18-012f-0643-0030487f54d8,,LocationNJ,
+1,Grand Traverse Pie Co.,525 W Front St,Ste A,,Traverse City,MI,49684,us,44.76387,-85.63136,(231) 922-7437,(231) 929-7849,http://www.gtpie.com,pieguy@gtpie.com,347,,,,83c12df3-ebd0-440b-b383-570fcb225a3c,,,
+1,Sport Chalet,2650 E Germann Rd,,,Chandler,AZ,85286,us,33.27955229,-111.79549035,(480) 899-9881,,http://www.sportchalet.com,,170,,,"nike,adidas",85dfadfe-4ef2-42a6-ad40-d1c679b2354e,,SportChaletABC1,
+1,Tula Restaurant and Lounge,47 Easton Ave,,,New Brunswick,NJ,8901,us,40.497754,-74.448658,(732) 246-0014,(732) 246-1077,http://www.tulalounge.com,info@tulalounge.com,347,,,,93fa14d8-fffc-4177-af4e-8f821dd41079,,,
+1,Brookfield Preventive Medicine,300 Federal Rd,Ste 108,,Brookfield,CT,6804,us,41.448616,-73.402692,(203) 740-7500,,http://www.brookfieldpreventivemedicine.com,,83,,,,947efb7f-aee1-473b-af07-a08d3b329c8c,,,
+1,Taco Bell,5141 Lapalco Blvd,,,Marrero,LA,70072,us,29.875035,-90.10245,(504) 341-5367,,http://www.tacobell.com,,"355,361",,,,b9cbc8c1-1044-4a43-ac1a-97155dcab8d0,,,
+1,Boston Market,625 S County Farm Rd,,,Wheaton,IL,60187,us,41.859145,-88.142101,(630) 871-0100,(630) 871-0233,http://www.bostonmarket.com,info@bostonmarket.com,347,,,,e07c3aa3-b880-4969-b7d0-6a3892202947,,,
+1,Chick-Fil-A,1105 N Burleson Blvd,,,Burleson,TX,76028,us,32.56671,-97.31934,(817) 447-4552,,http://www.chick-fil-a.com,,355,,"2:6:00:22:00,3:6:00:22:00,4:6:00:22:00,5:6:00:22:00,6:6:00:22:00,7:6:00:22:00",,e13d342b-c2f4-4c0d-8e1b-31fe8c77ee2c,,,
+1,G and S Mechanical,2736 N Johnson Rd,,,Weidman,MI,48893,us,43.680545,-84.958738,(989) 644-2106,(989) 644-2107,,,185,mechanical services and supplies,,,f34e03ab-0bcb-4d86-9886-52df33a9839e,,FactualPartner1142,http://www.factualpartner.com/business/1142
