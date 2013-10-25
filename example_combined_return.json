@@ -1,0 +1,500 @@
+{
+  "audience": {
+    "metadata": {
+      "user": "a.00940A45-46BE-4D45-AC2A-FC470A334291",
+      "audience-guid": "zzriiw-lpob2c-c48wko-x8t1ad",
+      "customer": "twc",
+      "updated": "2013-08-17T18:05:11Z",
+      "interval": 523337,
+      "inputs": 49,
+      "namespace": "repl.clj",
+      "version": "snapshot"
+    },
+    "geographic": {
+      "home": {
+        "approximate_location": {
+          "latitude": 33.476791,
+          "longitude": -117.705856
+        },
+        "context": {
+          "commercial_residential": {
+            "business": {
+              "percentage": 0
+            },
+            "residential": {
+              "percentage": 100
+            },
+            "unknown": {
+              "percentage": 0
+            }
+          },
+          "population_density": {
+            "percentile": 82
+          }
+        },
+        "country": "US",
+        "locality": "Dana Point",
+        "postcode": "92629",
+        "region": "California"
+      },
+      "dmas": {
+        "803": {
+          "name": "LOS ANGELES",
+          "percentage": 100
+        }
+      },
+      "metros": {
+        "31100": {
+          "name": "Los Angeles-Long Beach-Santa Ana, CA",
+          "percentage": 100
+        }
+      },
+      "countries": {
+        "08d549a4-8f76-11e1-848f-cfd5bf3ef515": {
+          "name": "US",
+          "percentage": 100
+        }
+      },
+      "regions": {
+        "08649c86-8f76-11e1-848f-cfd5bf3ef515": {
+          "country": "08d549a4-8f76-11e1-848f-cfd5bf3ef515",
+          "name": "California",
+          "percentage": 100
+        }
+      },
+      "localities": {
+        "08c1e2c4-8f76-11e1-848f-cfd5bf3ef515": {
+          "name": "Dana Point",
+          "percentage": 94.73684210526316,
+          "region": "08649c86-8f76-11e1-848f-cfd5bf3ef515"
+        },
+        "09419dde-8f76-11e1-848f-cfd5bf3ef515": {
+          "name": "Laguna Niguel",
+          "percentage": 5.2631578947368425,
+          "region": "08649c86-8f76-11e1-848f-cfd5bf3ef515"
+        }
+      },
+      "postcodes": {
+        "92629": {
+          "name": "92629",
+          "percentage": 94.73684210526316,
+          "region": "08649c86-8f76-11e1-848f-cfd5bf3ef515"
+        },
+        "92677": {
+          "name": "92677",
+          "percentage": 5.2631578947368425,
+          "region": "08649c86-8f76-11e1-848f-cfd5bf3ef515"
+        }
+      },
+      "aoas": {
+        "45b62812-49dc-f7be-6db8-57bf6e4ec28d": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0
+              },
+              "residential": {
+                "percentage": 91.5
+              },
+              "unknown": {
+                "percentage": 8.5
+              }
+            },
+            "population_density": {
+              "percentile": 76
+            }
+          },
+          "country": "US",
+          "latitude": 33.4843,
+          "locality": "Dana Point",
+          "longitude": -117.69445,
+          "percentage": 5,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "56d07b03-f614-48c8-9459-84a0997e8c9e": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0
+              },
+              "residential": {
+                "percentage": 91.5
+              },
+              "unknown": {
+                "percentage": 8.5
+              }
+            },
+            "population_density": {
+              "percentile": 76
+            }
+          },
+          "country": "US",
+          "latitude": 33.48402,
+          "locality": "Dana Point",
+          "longitude": -117.69533,
+          "percentage": 10,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "5a702976-3d6a-d621-25db-ca27bc55a414": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0.6
+              },
+              "residential": {
+                "percentage": 98.8
+              },
+              "unknown": {
+                "percentage": 0.6
+              }
+            },
+            "population_density": {
+              "percentile": 75
+            }
+          },
+          "country": "US",
+          "latitude": 33.4798,
+          "locality": "Dana Point",
+          "longitude": -117.69058,
+          "percentage": 5,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "5bf14445-148f-2a47-40f6-4321b5b18cef": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0
+              },
+              "residential": {
+                "percentage": 91.5
+              },
+              "unknown": {
+                "percentage": 8.5
+              }
+            },
+            "population_density": {
+              "percentile": 76
+            }
+          },
+          "country": "US",
+          "latitude": 33.48479,
+          "locality": "Dana Point",
+          "longitude": -117.695,
+          "percentage": 5,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "6118dd2a-c3ca-0066-9fc8-36eacb2debc3": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0.6
+              },
+              "residential": {
+                "percentage": 91.7
+              },
+              "unknown": {
+                "percentage": 7.6
+              }
+            },
+            "population_density": {
+              "percentile": 89
+            }
+          },
+          "country": "US",
+          "latitude": 33.48534,
+          "locality": "Dana Point",
+          "longitude": -117.69588,
+          "percentage": 5,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "64ed39a5-b41c-4516-e356-1a92c6232726": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0.6
+              },
+              "residential": {
+                "percentage": 98.8
+              },
+              "unknown": {
+                "percentage": 0.6
+              }
+            },
+            "population_density": {
+              "percentile": 75
+            }
+          },
+          "country": "US",
+          "latitude": 33.48133,
+          "locality": "Dana Point",
+          "longitude": -117.69367,
+          "percentage": 5,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "a50dd5bf-9830-ddb5-8552-b430e5a1001a": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 1.2
+              },
+              "residential": {
+                "percentage": 96
+              },
+              "unknown": {
+                "percentage": 2.8
+              }
+            },
+            "population_density": {
+              "percentile": 68
+            }
+          },
+          "country": "US",
+          "latitude": 33.47517,
+          "locality": "Dana Point",
+          "longitude": -117.68343,
+          "percentage": 10,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "a5ca9bd9-17c0-4469-a42f-18f0178e97a7": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0.6
+              },
+              "residential": {
+                "percentage": 91.7
+              },
+              "unknown": {
+                "percentage": 7.6
+              }
+            },
+            "population_density": {
+              "percentile": 89
+            }
+          },
+          "country": "US",
+          "latitude": 33.48557,
+          "locality": "Dana Point",
+          "longitude": -117.69622,
+          "percentage": 5,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "aa4842fe-d0cf-454e-99ce-41309081488f": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 1
+              },
+              "residential": {
+                "percentage": 98.3
+              },
+              "unknown": {
+                "percentage": 0.7
+              }
+            },
+            "population_density": {
+              "percentile": 61
+            }
+          },
+          "country": "US",
+          "latitude": 33.49184,
+          "locality": "Laguna Niguel",
+          "longitude": -117.69919,
+          "percentage": 5,
+          "postcode": "92677",
+          "radius": 0,
+          "region": "California"
+        },
+        "b7d5a7da-3bef-9346-cdfc-19acbdce6ce1": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0
+              },
+              "residential": {
+                "percentage": 100
+              },
+              "unknown": {
+                "percentage": 0
+              }
+            },
+            "population_density": {
+              "percentile": 82
+            }
+          },
+          "country": "US",
+          "latitude": 33.47605,
+          "locality": "Dana Point",
+          "longitude": -117.68341,
+          "percentage": 5,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        },
+        "e9213a74-8320-e74c-6b5b-feb786052950": {
+          "context": {
+            "commercial_residential": {
+              "business": {
+                "percentage": 0
+              },
+              "residential": {
+                "percentage": 91.5
+              },
+              "unknown": {
+                "percentage": 8.5
+              }
+            },
+            "population_density": {
+              "percentile": 76
+            }
+          },
+          "country": "US",
+          "latitude": 33.48434,
+          "locality": "Dana Point",
+          "longitude": -117.69541,
+          "percentage": 5,
+          "postcode": "92629",
+          "radius": 0,
+          "region": "California"
+        }
+      }
+    },
+    "demographic": {
+      "income": {
+        "percentiles": {
+          "country": 88,
+          "region": 79
+        },
+        "value": 92012
+      },
+      "gender": {
+        "male": {
+          "confidence": 0.5000170409483209
+        }
+      },
+      "age": {
+        "index": 4,
+        "range": "35-44",
+        "confidence": 0.5216445480914418
+      },
+      "family": {
+        "family": {
+          "dad": {
+            "confidence": 0.45798396004440106,
+            "percentile": 0.2
+          },
+          "mom": {
+            "confidence": 0.504414984045502,
+            "percentile": 83.2
+          },
+          "parent": {
+            "confidence": 0.512971134655698,
+            "percentile": 75.9
+          }
+        }
+      },
+      "race": {
+        "african_american": {
+          "confidence": 0.008
+        },
+        "hispanic": {
+          "confidence": 0.127
+        }
+      }
+    },
+    "behavioral": {
+      "segments": {
+        "affluent_customer": {
+          "confidence": 0.4283543486747341,
+          "percentile": 45.3
+        },
+        "business_traveller": {
+          "confidence": 0.45333846912068443,
+          "percentile": 58.5
+        },
+        "college_student": {
+          "confidence": 0.0000010796265904591616,
+          "percentile": 31.9
+        },
+        "electronics_buyer": {
+          "confidence": 0.4599647608022385,
+          "percentile": 25.9
+        },
+        "frequent_traveller": {
+          "confidence": 0.4830815306945987,
+          "percentile": 78.5
+        },
+        "golfer": {
+          "confidence": 0.47962522395569984,
+          "percentile": 29
+        },
+        "healthcare_professional": {
+          "confidence": 0.48817102515042876,
+          "percentile": 36.8
+        },
+        "in_market_autobuyer": {
+          "confidence": 0.0000010263936515418942,
+          "percentile": 19.7
+        },
+        "leisure_traveller": {
+          "confidence": 0.4920975064885394,
+          "percentile": 87.5
+        },
+        "live_sports_fan": {
+          "confidence": 0.44315040902581215,
+          "percentile": 29.8
+        },
+        "moviegoer": {
+          "confidence": 0.48433805239922767,
+          "percentile": 32.2
+        },
+        "qsr": {
+          "confidence": 0.3502831297932043,
+          "percentile": 90.2
+        }
+      },
+      "interests": {
+        "333": {
+          "category": [
+            "Social",
+            "Entertainment",
+            "Music and Show Venues"
+          ],
+          "score": 0.3333333333333333,
+          "percentile": 100.0
+        }
+      }
+    }
+  },
+  "proximity": [
+    {
+      "context": {
+        "name": "walmart",
+        "store_id": 39843
+      },
+      "filter": "big_box"
+    },
+    {
+      "context": {
+        "name": "San Francisco-Oak-San Jose"
+      },
+      "filter": "DMA"
+    }
+  ]
+}
