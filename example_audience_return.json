@@ -1,13 +1,12 @@
 {
-  "audience": {
     "metadata": {
-      "user": "a.00940A45-46BE-4D45-AC2A-FC470A334291",
-      "audience-guid": "zzriiw-lpob2c-c48wko-x8t1ad",
-      "customer": "twc",
+      "user": "a.00940A45-46BE-3D45-AE2A-FC450A334291",
+      "audience-guid": "zzriiw-lpob2c-x8t1ad",
+      "customer": "partner1",
       "updated": "2013-08-17T18:05:11Z",
       "interval": 523337,
       "inputs": 49,
-      "namespace": "repl.clj",
+      "namespace": "rep1",
       "version": "snapshot"
     },
     "geographic": {
@@ -481,5 +480,4 @@
         }
       }
     }
-  }
 }
