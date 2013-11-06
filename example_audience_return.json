@@ -393,7 +393,6 @@
         "confidence": 0.5216445480914418
       },
       "family": {
-        "family": {
           "dad": {
             "confidence": 0.45798396004440106,
             "percentile": 0.2
@@ -405,7 +404,6 @@
           "parent": {
             "confidence": 0.512971134655698,
             "percentile": 75.9
-          }
         }
       },
       "race": {
