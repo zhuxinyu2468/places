@@ -1,0 +1,17 @@
+{
+  "proximity": [
+    {
+      "context": {
+        "name": "walmart", 
+        "store_id": 39843
+      }, 
+      "filter": "big_box"
+    }, 
+    {
+      "context": {
+        "name": "San Francisco-Oak-San Jose"
+      }, 
+      "filter": "DMA"
+    }
+  ]
+}
