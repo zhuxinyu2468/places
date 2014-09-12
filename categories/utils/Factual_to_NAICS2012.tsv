@@ -441,7 +441,7 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 452	Surfing	NM	7139	Other Amusement and Recreation Industries
 453	Embassies	NM	928120	Embassies
 454	Infrastructure	NM	517110	Wired Telecommunications Carriers
-455	Mobile CR	443142	Electronics Stores
+455	Mobile	CR	443142	Electronics Stores
 456	Advertising	NM	541810	Advertising Agencies
 457	Asian	NM	7225	Restaurants and Other Eating Places
 458	Food Trucks	NM	7225	Restaurants and Other Eating Places
