@@ -1,4 +1,4 @@
-factual_id	factual_description	mapping_type	NAICS_id	NAICS_description	
+factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 4	Car Dealers and Leasing	NM	441110	New Car Dealers
 5	Used Cars	CR	44112	Used Car Dealers
 6	Car Parts and Accessories	VM	441310	Automotive Parts and Accessories Stores
@@ -13,6 +13,7 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 15	Repair	NM	811198	All Other Automotive Repair and Maintenance
 16	Sales	NM	44122	Motorcycle, Boat, and Other Motor Vehicle Dealers
 17	RVs and Motor Homes	VM	441210	Recreational Vehicle Dealers
+18	Salvage Yards	CR	423140	Motor Vehicle Parts (Used) Merchant Wholsalers
 19	Towing	CR	488410	Motor Vehicle Towing
 20	Community and Government	NM	92	Public Administration
 21	Animal Shelters and Humane Societies	NM	813319	Other Social Advocacy Organizations
@@ -420,15 +421,39 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 432	Lodging	CR	7211	Traveler Accommodation
 433	Bed and Breakfasts	CR	721191	Bed-and-Breakfast Inns
 434	Cottages and Cabins	NM	72119	Other Traveler Accommodation
-435	Hostels	NM	72119	Other Traveler Accommodation
+435	Hostels	NM	721199	Hostels
 436	Hotels and Motels	CR	72111	Hotels (except Casino Hotels) and Motels
 437	Lodges and Vacation Rentals	NM	72119	Other Traveler Accommodation
 438	Resorts	NM	72119	Other Traveler Accommodation
 439	Tourist Information and Services	NM	5615	Travel Arrangement and Reservation Services
 440	Travel Agents and Tour Operators	CR	56152	Tour Operators
+441	Geraitrics	NM	62139	Offices of All Other Health Practitioners
+442	Discount Stores	CR	45299	 All Other General Merchandise Stores
+443	Meat and Seafood	NM	44522	Fish and Seafood Markets
+444	Office Supplies	NM	45321	Office Supplies and Stationery Stores
+445	Party Supplies	CR	45299	 All Other General Merchandise Stores
+446	Career Counseling	CR	611710	Educational Support Servicesgol
+447	Construction	NM	23	Construction
+448	Notary	NM	541199	Notary Public Services
+449	Photography NM	54192	Photographic Services
+450	Translation Services	NM	541930	Translation Services, Language
+451	Golf Courses	NM	713910	Golf and country clubs
+452	Surfing	NM	7139	Other Amusement and Recreation Industries
+453	Embassies	NM	928120	Embassies
+454	Infrastructure	NM	517110	Wired Telecommunications Carriers
+455	Mobile CR	443142	Electronics Stores
+456	Advertising	NM	541810	Advertising Agencies
+457	Asian	NM	7225	Restaurants and Other Eating Places
+458	Food Trucks	NM	7225	Restaurants and Other Eating Places
+460	Technology	CR	4431	Electronics and Appliance Stores
+461	Dog Parks	CR	924120	Administration of Conservation Programs
+462	International Airports	CR	488119	Other Airport Operations
+463	Arcades	NM	713120	Amusement Arcades
+464	International	NM	7225	Restaurants and Other Eating Places
+465	Convention Centers	NM	531120	Convention Center, No Promotion of Events, Rental or Leasing
+466	Optometrist	NM	621320  Optometrists' offices (e.g., Centers, Clinics)
 2	Automotive	 	 	 
 3	Car Appraisers	 	 	 
-18	Salvage Yards	 	 	 
 108	Buildings and Structures	 	 	 
 177	Services and Supplies	 	 	 
 185	Refrigeration and Ice	 	 	 
@@ -438,3 +463,4 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 222	Business Brokers and Franchises	 	 	 
 226	Fund Raising	 	 	 
 308	Social	 	 	 
+459	Rest Areas	
