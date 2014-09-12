@@ -402,6 +402,32 @@ factual_id	factual_description	mapping_type	SIC_id	SIC_description
 438	Resorts	NM	7000	Hotels And Other Lodging Places
 439	Tourist Information and Services	NM	4722	Passenger Transportation Arrangement
 440	Travel Agents and Tour Operators	NM	4722	Passenger Transportation Arrangement
+441	Geraitrics	NM	8049	Offices and Clinics Health Practitioners, not elsewhere classified
+442	Discount Stores	CR	5531	Miscellaneous General Merchandise Stores
+443	Meat and Seafood	NM	5146	Fish and Seafoods
+444	Office Supplies	NM	5112	Stationary and Office Supplies
+445	Party Supplies	CR	5531	Miscellaneous General Merchandise Stores
+446	Career Counseling	CR	8299	Schools and Educational Services, not elsewhere classified
+447	Construction	NM	1629	Heavy Construction, not elsewhere classified
+448	Notary	NM	7389	Business Services, not elsewhere classified
+449	Photography	NM	7335	Commercial Photography
+450	Translation Services	CR	7389	Business Services, not elsewhere classified
+451	Golf Courses	NM	7992	Public Golf Courses
+452	Surfing	NM	7999 Amusement and Recreation Services, not elsewhere classified
+453	Embassies	NM	9721	International Affairs
+454	Infrastructure	NM	4813	Telephone Communications, except Radiotelephones
+455	Mobile	CR	5065	Electronic Parts and Equipment, not elsewhere classified
+456	Advertising	NM	7311	Advertising Agencies
+457	Asian	NM	5812	Eating Places
+458	Food Trucks	NM	5812	Eating Places
+460	Technology	CR	5731	Radio, Television, and Consumer Electronics Stores
+461	Dog Parks	CR	9512	Land, Mineral, Wildlife, and Forest Conservation
+462	International Airports	CR	4581	Airports, Flying Fields, and Airport Terminal Services
+463	Arcades	NM	7993	Coin-Operated Amusement Devices
+464	International	NM	5812	Eating Places
+465	Convention Centers	NM	6512	Operators of Nonresidential Buildings
+466	Optometrist	NM	8042	Officies and Clinics of Optometrists
+
 2	Automotive	 	 	 
 20	Community and Government	 	 	 
 37	Government Departments and Agencies	 	 	 
