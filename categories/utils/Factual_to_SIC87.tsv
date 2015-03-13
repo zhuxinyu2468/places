@@ -413,7 +413,7 @@ factual_id	factual_description	mapping_type	SIC_id	SIC_description
 449	Photography	NM	7335	Commercial Photography
 450	Translation Services	CR	7389	Business Services, not elsewhere classified
 451	Golf Courses	NM	7992	Public Golf Courses
-452	Surfing	NM	7999 Amusement and Recreation Services, not elsewhere classified
+452	Surfing	NM	7999	Amusement and Recreation Services, not elsewhere classified
 453	Embassies	NM	9721	International Affairs
 454	Infrastructure	NM	4813	Telephone Communications, except Radiotelephones
 455	Mobile	CR	5065	Electronic Parts and Equipment, not elsewhere classified
