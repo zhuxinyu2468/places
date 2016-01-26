@@ -455,7 +455,7 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 2	Automotive	NM	441	Motor Vehicle and Parts Dealers
 3	Car Appraisers	NM	81112	Automotive Body, Paint, Interior, and Glass Repair
 108	Buildings and Structures	 	 	 
-177	Services and Supplies	CR	73	Business Services
+177	Businesses and Services	CR	73	Business Services
 185	Refrigeration and Ice	NM	335222	Household Refrigerator and Home Freezer Manufacturing
 205	Art Restoration	CR	711510	Independent Artists, Writers, and Performers
 210	Corporate HQ	CR	551114	Corporate, Subsidiary, and Regional Managing Offices
