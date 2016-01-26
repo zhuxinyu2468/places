@@ -452,15 +452,15 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 464	International	NM	7225	Restaurants and Other Eating Places
 465	Convention Centers	NM	531120	Convention Center, No Promotion of Events, Rental or Leasing
 466	Optometrist	NM	621320	Optometrists' offices (e.g., Centers, Clinics)
-2	Automotive	 	 	 
-3	Car Appraisers	 	 	 
+2	Automotive	NM	441	Motor Vehicle and Parts Dealers
+3	Car Appraisers	NM	81112	Automotive Body, Paint, Interior, and Glass Repair
 108	Buildings and Structures	 	 	 
-177	Services and Supplies	 	 	 
-185	Refrigeration and Ice	 	 	 
-205	Art Restoration	 	 	 
-210	Corporate HQ	 	 	 
-217	Events and Event Planning	 	 	 
-222	Business Brokers and Franchises	 	 	 
-226	Fund Raising	 	 	 
-308	Social	 	 	 
+177	Services and Supplies	CR	73	Business Services
+185	Refrigeration and Ice	NM	335222	Household Refrigerator and Home Freezer Manufacturing
+205	Art Restoration	CR	711510	Independent Artists, Writers, and Performers
+210	Corporate HQ	CR	551114	Corporate, Subsidiary, and Regional Managing Offices
+217	Events and Event Planning	NM	812990	All Other Personal Services
+222	Business Brokers and Franchises	NM	541	Professional, Scientific, and Technical Services
+226	Fund Raising	NM	561499	All Other Business Support Services
+308	Social	CR	71	Arts, Entertainment, and Recreation
 459	Rest Areas			
