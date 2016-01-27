@@ -462,5 +462,5 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 217	Events and Event Planning	NM	812990	All Other Personal Services
 222	Business Brokers and Franchises	NM	541	Professional, Scientific, and Technical Services
 226	Fund Raising	NM	561499	All Other Business Support Services
-308	Social	CR	71	Arts, Entertainment, and Recreation
+308	Social	NM	71	Arts, Entertainment, and Recreation
 459	Rest Areas			
