@@ -8404,5 +8404,185 @@
       "1"
     ],
     "abstract": false
+  },
+  "468": {
+    "labels": {
+      "en": "Hardware Stores",
+      "de": "Eisenwarengeschäft",
+      "fr": "Quincailleries",
+      "es": "Ferreterías",
+      "jp": "金物店",
+      "kr": "철물점",
+      "zh-hant": "五金用品店",
+      "zh": "五金用品店",
+      "it": "Ferramenta",
+      "pt": "Loja de Ferragens"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "469": {
+    "labels": {
+      "en": "Pet Sitting and Boarding",
+      "de": "Haustiersitter und Tierpension",
+      "fr": "Pension et Garde d'Animaux",
+      "es": "Cuidador y Residencia para Mascotas",
+      "jp": "ペット シッター",
+      "kr": "애완동물 돌보미",
+      "zh-hant": "寵物保姆",
+      "zh": "宠物保姆",
+      "it": "Pensioni per Animali e Pet Sitter",
+      "pt": "Hotéis para Animais"
+    },
+    "parents": [
+      "167"
+    ],
+    "abstract": false
+  },
+  "470": {
+    "labels": {
+      "en": "Grooming",
+      "de": "Haustierfrisör",
+      "fr": "Toilettage",
+      "es": "Peluquería Canina",
+      "jp": "トリミングサロン",
+      "kr": "애완동물미용사",
+      "zh-hant": "寵物美容師",
+      "zh": "宠物美容师",
+      "it": "Toletta per Animali",
+      "pt": "Banhos e Tosquias"
+    },
+    "parents": [
+      "167"
+    ],
+    "abstract": false
+  },
+  "471": {
+    "labels": {
+      "en": "Pet Supplies",
+      "de": "Haustierbedarfsgeschäft",
+      "fr": "Fournitures pour Animaux",
+      "es": "Tiendas de Mascotas",
+      "jp": "ペット用品店",
+      "kr": "애완동물 용품점",
+      "zh-hant": "寵物用品店",
+      "zh": "宠物用品店",
+      "it": "Negozi di Animali",
+      "pt": "Lojas de Animais"
+    },
+    "parents": [
+      "167"
+    ],
+    "abstract": false
+  },
+  "472": {
+    "labels": {
+      "en": "Car Dealers",
+      "de": "Autohaus",
+      "fr": "Concessionnaire Automobile",
+      "es": "Concesionarios de Coches",
+      "jp": "自動車販売店",
+      "kr": "자동차 대리점",
+      "zh-hant": "汽車經銷商",
+      "zh": "汽车经销商",
+      "it": "Concessionari Auto",
+      "pt": "Concessionários Automóvel"
+    },
+    "parents": [
+      "4"
+    ],
+    "abstract": false
+  },
+  "473": {
+    "labels": {
+      "en": "Banks and Credit Unions",
+      "de": "Bank und Kreditgenossenschaft",
+      "fr": "Banques et Banque Coopératives",
+      "es": "Bancos y Cooperativas de Ahorro y Crédito",
+      "jp": "銀行そして信用組合",
+      "kr": "은행과신협",
+      "zh-hant": "銀行",
+      "zh": "银行",
+      "it": "Banche e Organismi di Credito",
+      "pt": "Bancos e Cooperativa de Crédito"
+    },
+    "parents": [
+      "221"
+    ],
+    "abstract": false
+  },
+   "474": {
+    "labels": {
+      "en": "Attorneys and Law Offices",
+      "de": "Rechtsanwalt und Anwaltskanzlei",
+      "fr": "Avocats et Cabinets d'Avocats",
+      "es": "Abogados y Oficinas Jurídicas",
+      "jp": "法律事務所",
+      "kr": "변호사과법률 사무소",
+      "zh-hant": "律師事務所",
+      "zh": "律师事务所",
+      "it": "Avvocati e Studio Legale",
+      "pt": "Advogados e Escritórios Jurídicos"
+    },
+    "parents": [
+      "269"
+    ],
+    "abstract": false
+  },
+  "475": {
+    "labels": {
+      "en": "Other Healthcare Professionals",
+      "de": "Andere Medizinische Fachkräfte",
+      "fr": "Autres Professionnels de la Santé",
+      "es": "Otros Profesionales de la Salud",
+      "jp": "その他の医療専門家",
+      "kr": "기타 의료 전문가",
+      "zh-hant": "其他醫療專業",
+      "zh": "其他医疗专业",
+      "it": "Altri Operatori Sanitari",
+      "pt": "Outros Profissionais da Saúde"
+    },
+    "parents": [
+      "62"
+    ],
+    "abstract": false
+  },
+  "476": {
+    "labels": {
+      "en": "Oral Surgeons",
+      "de": "Kieferchirurg",
+      "fr": "Chirurgie Dentaire",
+      "es": "Cirujano-Dentistas",
+      "jp": "口腔外科医",
+      "kr": "구강외과",
+      "zh-hant": "口腔外科醫生",
+      "zh": "口腔外科医生",
+      "it": "Chirurghi Odontoiatri",
+      "pt": "Cirurgiões-Dentistas"
+    },
+    "parents": [
+      "83"
+    ],
+    "abstract": false
+  },
+   "477": {
+    "labels": {
+      "en": "City Halls",
+      "de": "Rathaus",
+      "fr": "Mairies",
+      "es": "Ayuntamientos",
+      "jp": "町役場",
+      "kr": "시 당국",
+      "zh-hant": "市政府",
+      "zh": "市政府",
+      "it": "Municipio",
+      "pt": "Prefeituras"
+    },
+    "parents": [
+      "20"
+    ],
+    "abstract": false
   }
 }

@@ -57,15 +57,15 @@ npi_id	npi_description	factual_category_id
 1223P0221X	Dental Providers > Dentist > Pediatric Dentistry	69
 1223P0300X	Dental Providers > Dentist > Periodontics	69
 1223P0700X	Dental Providers > Dentist > Prosthodontics	69
-1223S0112X	Dental Providers > Dentist > Oral and Maxillofacial Surgery	69
+1223S0112X	Dental Providers > Dentist > Oral and Maxillofacial Surgery	476
 1223X0008X	Dental Providers > Dentist > Oral and Maxillofacial Radiology	69
 1223X0400X	Dental Providers > Dentist > Orthodontics and Dentofacial Orthopedics	69
 122400000X	Dental Providers > Denturist	69
-124Q00000X	Dental Providers > Dental Hygienist	69
-125J00000X	Dental Providers > Dental Therapist	69
-125K00000X	Dental Providers > Advanced Practice Dental Therapist	69
-126800000X	Dental Providers > Dental Assistant	69
-126900000X	Dental Providers > Dental Laboratory Technician	69
+124Q00000X	Dental Providers > Dental Hygienist	475
+125J00000X	Dental Providers > Dental Therapist	475
+125K00000X	Dental Providers > Advanced Practice Dental Therapist	475
+126800000X	Dental Providers > Dental Assistant	475
+126900000X	Dental Providers > Dental Laboratory Technician	475
 132700000X	Dietary & Nutritional Service Providers > Dietary Manager	106
 133N00000X	Dietary & Nutritional Service Providers > Nutritionist	106
 133NN1002X	Dietary & Nutritional Service Providers > Nutritionist > Nutrition, Education	106
@@ -75,9 +75,9 @@ npi_id	npi_description	factual_category_id
 133VN1006X	Dietary & Nutritional Service Providers > Dietitian, Registered > Nutrition, Metabolic	106
 136A00000X	Dietary & Nutritional Service Providers > Dietetic Technician, Registered	106
 146D00000X	Emergency Medical Service Providers > Personal Emergency Response Attendant	62
-146L00000X	Emergency Medical Service Providers > Emergency Medical Technician, Paramedic	62
-146M00000X	Emergency Medical Service Providers > Emergency Medical Technician, Intermediate	62
-146N00000X	Emergency Medical Service Providers > Emergency Medical Technician, Basic	62
+146L00000X	Emergency Medical Service Providers > Emergency Medical Technician, Paramedic	475
+146M00000X	Emergency Medical Service Providers > Emergency Medical Technician, Intermediate	475
+146N00000X	Emergency Medical Service Providers > Emergency Medical Technician, Basic	475
 152W00000X	Eye and Vision Services Providers > Optometrist	95
 152WC0802X	Eye and Vision Services Providers > Optometrist > Corneal and Contact Management	95
 152WL0500X	Eye and Vision Services Providers > Optometrist > Low Vision Rehabilitation	95
@@ -205,7 +205,7 @@ npi_id	npi_description	factual_category_id
 202K00000X	Allopathic & Osteopathic Physicians > Phlebology	83
 204C00000X	Allopathic & Osteopathic Physicians > Neuromusculoskeletal Medicine, Sports Medicine	82
 204D00000X	Allopathic & Osteopathic Physicians > Neuromusculoskeletal Medicine & OMM	83
-204E00000X	Allopathic & Osteopathic Physicians > Oral & Maxillofacial Surgery	83
+204E00000X	Allopathic & Osteopathic Physicians > Oral & Maxillofacial Surgery	476
 204F00000X	Allopathic & Osteopathic Physicians > Transplant Surgery	83
 204R00000X	Allopathic & Osteopathic Physicians > Electrodiagnostic Medicine	83
 207K00000X	Allopathic & Osteopathic Physicians > Allergy & Immunology	83
@@ -501,79 +501,79 @@ npi_id	npi_description	factual_category_id
 2279P4000X	Respiratory, Developmental, Rehabilitative and Restorative Service Providers > Respiratory Therapist, Registered > Patient Transport	81
 2279S1500X	Respiratory, Developmental, Rehabilitative and Restorative Service Providers > Respiratory Therapist, Registered > SNF/Subacute Care	81
 229N00000X	Respiratory, Developmental, Rehabilitative and Restorative Service Providers > Anaplastologist	81
-231H00000X	Speech, Language and Hearing Service Providers > Audiologist	62
-231HA2400X	Speech, Language and Hearing Service Providers > Audiologist > Assistive Technology Practitioner	62
-231HA2500X	Speech, Language and Hearing Service Providers > Audiologist > Assistive Technology Supplier	62
-235500000X	Speech, Language and Hearing Service Providers > Specialist/Technologist	62
-2355A2700X	Speech, Language and Hearing Service Providers > Specialist/Technologist > Audiology Assistant	62
-2355S0801X	Speech, Language and Hearing Service Providers > Specialist/Technologist > Speech-Language Assistant	62
-235Z00000X	Speech, Language and Hearing Service Providers > Speech-Language Pathologist	62
-237600000X	Speech, Language and Hearing Service Providers > Audiologist-Hearing Aid Fitter	62
-237700000X	Speech, Language and Hearing Service Providers > Hearing Instrument Specialist	62
-242T00000X	Technologists, Technicians & Other Technical Service Providers > Perfusionist	62
-243U00000X	Technologists, Technicians & Other Technical Service Providers > Radiology Practitioner Assistant	62
-246Q00000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology	62
-246QB0000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Blood Banking	62
-246QC1000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Chemistry	62
-246QC2700X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Cytotechnology	62
-246QH0000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Hematology	62
-246QH0401X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Hemapheresis Practitioner	62
-246QH0600X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Histology	62
-246QI0000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Immunology	62
-246QL0900X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Laboratory Management	62
-246QL0901X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Laboratory Management, Diplomate	62
-246QM0706X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Medical Technologist	62
-246QM0900X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Microbiology	62
-246R00000X	Technologists, Technicians & Other Technical Service Providers > Technician, Pathology	62
-246RH0600X	Technologists, Technicians & Other Technical Service Providers > Technician, Pathology > Histology	62
-246RM2200X	Technologists, Technicians & Other Technical Service Providers > Technician, Pathology > Medical Laboratory	62
-246RP1900X	Technologists, Technicians & Other Technical Service Providers > Technician, Pathology > Phlebotomy	62
-246W00000X	Technologists, Technicians & Other Technical Service Providers > Technician, Cardiology	62
-246X00000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Cardiovascular	62
-246XC2901X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Cardiovascular > Cardiovascular Invasive Specialist	62
-246XC2903X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Cardiovascular > Vascular Specialist	62
-246XS1301X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Cardiovascular > Sonography	62
-246Y00000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Health Info	62
-246YC3301X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Health Info > Coding Specialist, Hospital Based	62
-246YC3302X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Health Info > Coding Specialist, Physician Office Based	62
-246YR1600X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Health Info > Registered Record Administrator	62
-246Z00000X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other	62
-246ZA2600X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Art, Medical	62
-246ZB0301X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Biomedical Engineering	62
-246ZB0302X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Biomedical Photographer	62
-246ZB0500X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Biochemist	62
-246ZB0600X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Biostatistician	62
-246ZC0007X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Certified First Assistant	62
-246ZE0500X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > EEG	62
-246ZE0600X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Electroneurodiagnostic	62
-246ZG0701X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Graphics Methods	62
-246ZG1000X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Geneticist, Medical (PhD)	62
-246ZI1000X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Illustration, Medical	62
-246ZN0300X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Nephrology	62
-246ZS0400X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Surgical	62
-247000000X	Technologists, Technicians & Other Technical Service Providers > Technician, Health Information	62
-2470A2800X	Technologists, Technicians & Other Technical Service Providers > Technician, Health Information > Assistant Record Technician	62
-247100000X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist	62
-2471B0102X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Bone Densitometry	62
-2471C1101X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Cardiovascular-Interventional Technology	62
-2471C1106X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Cardiac-Interventional Technology	62
-2471C3401X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Computed Tomography	62
-2471C3402X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Radiography	62
-2471M1202X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Magnetic Resonance Imaging	62
-2471M2300X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Mammography	62
-2471N0900X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Nuclear Medicine Technology	62
-2471Q0001X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Quality Management	62
-2471R0002X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Radiation Therapy	62
-2471S1302X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Sonography	62
-2471V0105X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Vascular Sonography	62
-2471V0106X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Vascular-Interventional Technology	62
-247200000X	Technologists, Technicians & Other Technical Service Providers > Technician, Other	62
-2472B0301X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > Biomedical Engineering	62
-2472D0500X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > Darkroom	62
-2472E0500X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > EEG	62
-2472R0900X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > Renal Dialysis	62
-2472V0600X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > Veterinary	62
-247ZC0005X	Technologists, Technicians & Other Technical Service Providers > Pathology > Clinical Laboratory Director, Non-physician	62
+231H00000X	Speech, Language and Hearing Service Providers > Audiologist	475
+231HA2400X	Speech, Language and Hearing Service Providers > Audiologist > Assistive Technology Practitioner	475
+231HA2500X	Speech, Language and Hearing Service Providers > Audiologist > Assistive Technology Supplier	475
+235500000X	Speech, Language and Hearing Service Providers > Specialist/Technologist	475
+2355A2700X	Speech, Language and Hearing Service Providers > Specialist/Technologist > Audiology Assistant	475
+2355S0801X	Speech, Language and Hearing Service Providers > Specialist/Technologist > Speech-Language Assistant	475
+235Z00000X	Speech, Language and Hearing Service Providers > Speech-Language Pathologist	475
+237600000X	Speech, Language and Hearing Service Providers > Audiologist-Hearing Aid Fitter	475
+237700000X	Speech, Language and Hearing Service Providers > Hearing Instrument Specialist	475
+242T00000X	Technologists, Technicians & Other Technical Service Providers > Perfusionist	475
+243U00000X	Technologists, Technicians & Other Technical Service Providers > Radiology Practitioner Assistant	475
+246Q00000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology	475
+246QB0000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Blood Banking	475
+246QC1000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Chemistry	475
+246QC2700X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Cytotechnology	475
+246QH0000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Hematology	475
+246QH0401X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Hemapheresis Practitioner	475
+246QH0600X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Histology	475
+246QI0000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Immunology	475
+246QL0900X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Laboratory Management	475
+246QL0901X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Laboratory Management, Diplomate	475
+246QM0706X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Medical Technologist	475
+246QM0900X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Pathology > Microbiology	475
+246R00000X	Technologists, Technicians & Other Technical Service Providers > Technician, Pathology	475
+246RH0600X	Technologists, Technicians & Other Technical Service Providers > Technician, Pathology > Histology	475
+246RM2200X	Technologists, Technicians & Other Technical Service Providers > Technician, Pathology > Medical Laboratory	475
+246RP1900X	Technologists, Technicians & Other Technical Service Providers > Technician, Pathology > Phlebotomy	475
+246W00000X	Technologists, Technicians & Other Technical Service Providers > Technician, Cardiology	485
+246X00000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Cardiovascular	475
+246XC2901X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Cardiovascular > Cardiovascular Invasive Specialist	475
+246XC2903X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Cardiovascular > Vascular Specialist	475
+246XS1301X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Cardiovascular > Sonography	475
+246Y00000X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Health Info	475
+246YC3301X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Health Info > Coding Specialist, Hospital Based	475
+246YC3302X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Health Info > Coding Specialist, Physician Office Based	475
+246YR1600X	Technologists, Technicians & Other Technical Service Providers > Spec/Tech, Health Info > Registered Record Administrator	475
+246Z00000X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other	475
+246ZA2600X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Art, Medical	475
+246ZB0301X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Biomedical Engineering	475
+246ZB0302X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Biomedical Photographer	475
+246ZB0500X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Biochemist	475
+246ZB0600X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Biostatistician	475
+246ZC0007X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Certified First Assistant	475
+246ZE0500X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > EEG	475
+246ZE0600X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Electroneurodiagnostic	475
+246ZG0701X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Graphics Methods	475
+246ZG1000X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Geneticist, Medical (PhD)	475
+246ZI1000X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Illustration, Medical	475
+246ZN0300X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Nephrology	475
+246ZS0400X	Technologists, Technicians & Other Technical Service Providers > Specialist/Technologist, Other > Surgical	475
+247000000X	Technologists, Technicians & Other Technical Service Providers > Technician, Health Information	475
+2470A2800X	Technologists, Technicians & Other Technical Service Providers > Technician, Health Information > Assistant Record Technician	475
+247100000X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist	475
+2471B0102X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Bone Densitometry	475
+2471C1101X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Cardiovascular-Interventional Technology	475
+2471C1106X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Cardiac-Interventional Technology	475
+2471C3401X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Computed Tomography	475
+2471C3402X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Radiography	475
+2471M1202X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Magnetic Resonance Imaging	475
+2471M2300X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Mammography	475
+2471N0900X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Nuclear Medicine Technology	475
+2471Q0001X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Quality Management	475
+2471R0002X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Radiation Therapy	475
+2471S1302X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Sonography	475
+2471V0105X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Vascular Sonography	475
+2471V0106X	Technologists, Technicians & Other Technical Service Providers > Radiologic Technologist > Vascular-Interventional Technology	475
+247200000X	Technologists, Technicians & Other Technical Service Providers > Technician, Other	475
+2472B0301X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > Biomedical Engineering	475
+2472D0500X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > Darkroom	475
+2472E0500X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > EEG	475
+2472R0900X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > Renal Dialysis	475
+2472V0600X	Technologists, Technicians & Other Technical Service Providers > Technician, Other > Veterinary	475
+247ZC0005X	Technologists, Technicians & Other Technical Service Providers > Pathology > Clinical Laboratory Director, Non-physician	475
 251300000X	Agencies > Local Education Agency (LEA)	62
 251B00000X	Agencies > Case Management	62
 251C00000X	Agencies > Day Training, Developmentally Disabled Services	24

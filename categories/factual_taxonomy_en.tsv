@@ -465,3 +465,15 @@
 465	Convention Centers	217	["Businesses and Services","Events and Event Planning","Convention Centers"]
 466	Optometrist	62	["Healthcare","Optometrist"]
 467	NoExport	1	["NoExport"]
+468	Hardware Stores	123	["Retail", "Hardware Stores"]
+469	Pet Sitting and Boarding	167	["Retail", "Pets", "Pet Sitting and Boarding"]
+470	Grooming	167	["Retail", "Pets", "Grooming"]
+471	Pet Supplies	167	["Retail", "Pets", "Pet Supplies"]
+472	Car Dealers	4	["Automotive", "Car Dealers and Leasing", "Car Dealers"]
+473	Banks and Credit Unions	221	["Businesses and Services", "Financial", "Banking and Finance", "Banks and Credit Unions"]
+474	Attorneys and Law Offices	269	["Businesses and Services", "Legal", "Attorneys and Law Offices"]
+475	Other Healthcare Professionals	62	["Healthcare", "Other Healthcare Professionals"]
+476	Oral Surgeons	62	["Healthcare", "Physicians", "Oral Surgeons"]
+477	City Halls	20	["Community and Government", "City Halls"]
+
+
