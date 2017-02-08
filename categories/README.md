@@ -59,9 +59,9 @@ The utils folder contains files and scripts that assist with category manipulati
 
 ### Mapping Types
 The type of mapping to SIC and NAICS are defined as either: 
-* Cross Reference <tt>(CR)<tt> = Exact match
-* Near Match <tt>(NM)<tt> = Same concept plus a modifier. For example, “Wooden Barrels” would near match to “barrels”
-* Vended Match <tt>(VM)<tt> = The target term is a vendor of the mapped term. For example, “Cupcake Stores” would Vended Match to “Cupcakes”.
+* Cross Reference (CR) = Exact match
+* Near Match (NM) = Same concept plus a modifier. For example, “Wooden Barrels” would near match to “barrels”
+* Vended Match (VM) = The target term is a vendor of the mapped term. For example, “Cupcake Stores” would Vended Match to “Cupcakes”.
 
 ### php
 A number of quick-and-dirty php scripts:
