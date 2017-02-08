@@ -452,6 +452,16 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 464	International	NM	7225	Restaurants and Other Eating Places
 465	Convention Centers	NM	531120	Convention Center, No Promotion of Events, Rental or Leasing
 466	Optometrist	NM	621320	Optometrists' offices (e.g., Centers, Clinics)
+468	Hardware Stores	CR	444130	Hardware Stores
+469	Pet Sitting and Boarding	NM	812910	Pet Care (except Veterinary) Services
+470	Grooming	NM	812910	Pet Care (except Veterinary) Services
+471	Pet Supplies	NM	812910	Pet Care (except Veterinary) Services
+472	Car Dealers	NM	441110	New Car Dealers
+473	Banks and Credit Unions	NM	522	Credit Intermediation and Related Activities
+474	Attorneys and Law Offices	CR	541110	Offices of Lawyers
+475	Other Healthcare Professionals	CR	621399	Offices of All Other Miscellaneous Health Practitioners
+476	Oral Surgeons	NM	621210	Offices of Dentists
+477	City Halls	NM	92	Public Administration
 2	Automotive	NM	441	Motor Vehicle and Parts Dealers
 3	Car Appraisers	NM	81112	Automotive Body, Paint, Interior, and Glass Repair
 108	Buildings and Structures	 	 	 

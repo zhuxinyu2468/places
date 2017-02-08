@@ -3,7 +3,7 @@ This repo contains the master category file describing the category schema for F
 
 ## Category Overview
 ### Structure
-Factual divides the worlds places into 467 categories (nodes in the taxonomy).  Categories are formally polyhierarchal -- a node can have more than one parent, but currently no nodes do. Nodes are identified by an Integer.  IDs are assigned sequentially and contain no semantics. 
+Factual divides the worlds places into 477 categories (nodes in the taxonomy).  Categories are formally polyhierarchal -- a node can have more than one parent, but currently no nodes do. Nodes are identified by an Integer.  IDs are assigned sequentially and contain no semantics. 
 
 The taxonomy has ten top-level branches:
 
@@ -56,6 +56,12 @@ The utils folder contains files and scripts that assist with category manipulati
 *   <tt>Factual_to_MCC.tsv</tt> file mapping MCC (Merchant Category Code) to our current categories
 *   <tt>Factual_to_NAICS2012.tsv</tt> file mapping NAICS (North American Industry Classification System) to our current categories
 *   <tt>Factual_to_SIC87.tsv</tt> file mapping SIC (Standard Industrial Classification System) to our current categories                               
+
+### Mapping Types
+The type of mapping to SIC and NAICS are defined as either: 
+* Cross Reference (CR) = Exact match
+* Near Match (NM) = Same concept plus a modifier. For example, “Wooden Barrels” would near match to “barrels”
+* Vended Match (VM) = The target term is a vendor of the mapped term. For example, “Cupcake Stores” would Vended Match to “Cupcakes”.
 
 ### php
 A number of quick-and-dirty php scripts:

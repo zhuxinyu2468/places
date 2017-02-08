@@ -749,7 +749,7 @@ mcc_code	mcc_label	factual_category_id
 5200	Home Supply Warehouse Stores	157
 5211	Lumber And Building Materials Stores	137
 5231	Glass, Paint, And Wallpaper Stores	137
-5251	Hardware Stores	246
+5251	Hardware Stores	468
 5261	Nurseries – Lawn And Garden Supply Store	164
 5271	Mobile Home Dealers	255
 5300	Wholesale Clubs	175
@@ -844,7 +844,7 @@ mcc_code	mcc_label	factual_category_id
 5992	Florists	148
 5993	Cigar Stores And Stands	172
 5994	News Dealers And Newsstands	163
-5995	Pet Shops, Pet Foods, And Supplies Stores	167
+5995	Pet Shops, Pet Foods, And Supplies Stores	471
 5996	Swimming Pools – Sales, Service, And Supplies	263
 5997	Electric Razor Stores – Sales And Service	133
 5998	Tent And Awning Shops	123
