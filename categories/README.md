@@ -57,6 +57,12 @@ The utils folder contains files and scripts that assist with category manipulati
 *   <tt>Factual_to_NAICS2012.tsv</tt> file mapping NAICS (North American Industry Classification System) to our current categories
 *   <tt>Factual_to_SIC87.tsv</tt> file mapping SIC (Standard Industrial Classification System) to our current categories                               
 
+### Mapping Types
+The type of mapping to SIC and NAICS are defined as either: 
+* Cross Reference <tt>(CR)<tt> = Exact match
+* Near Match <tt>(NM)<tt> = Same concept plus a modifier. For example, “Wooden Barrels” would near match to “barrels”
+* Vended Match <tt>(VM)<tt> = The target term is a vendor of the mapped term. For example, “Cupcake Stores” would Vended Match to “Cupcakes”.
+
 ### php
 A number of quick-and-dirty php scripts:
 

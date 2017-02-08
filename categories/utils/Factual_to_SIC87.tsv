@@ -427,6 +427,15 @@ factual_id	factual_description	mapping_type	SIC_id	SIC_description
 464	International	NM	5812	Eating Places
 465	Convention Centers	NM	6512	Operators of Nonresidential Buildings
 466	Optometrist	NM	8042	Officies and Clinics of Optometrists
+468	Hardware Stores	CR	5051	Hardware Stores
+469	Pet Sitting and Boarding	NM	0752	Pet Care (except Veterinary) Services
+470	Grooming	NM	0752	Pet Care (except Veterinary) Services
+471	Pet Supplies	NM	0752	Pet Care (except Veterinary) Services
+472	Car Dealers	CR	5510	New And Used Car Dealers
+473	Banks and Credit Unions	CR	6000	Banking
+474	Attorneys and Law Offices	NM	8111	Legal Services
+475	Other Healthcare Professionals	CR	8049	Offices and Clinics of Health Practitioners, not elsewhere classified
+476	Oral Surgeons	NM	8021	Offices and Clinics of Dentists
 
 2	Automotive	 	 	 
 20	Community and Government	 	 	 
@@ -465,3 +474,4 @@ factual_id	factual_description	mapping_type	SIC_id	SIC_description
 304	Tailors	 	 	 
 308	Social	 	 	 
 373	Athletic Fields	 	 	 
+477	City Halls			
