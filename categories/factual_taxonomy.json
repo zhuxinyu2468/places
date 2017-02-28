@@ -20,7 +20,7 @@
   "2": {
     "labels": {
       "en": "Automotive",
-      "de": "Kraftfahrzeuge",
+      "de": "Auto",
       "fr": "Automobile",
       "es": "Automotriz",
       "jp": "自動車",
@@ -578,7 +578,7 @@
   "33": {
     "labels": {
       "en": "Fraternities and Sororities",
-      "de": "Verbindungen und Burschenschaften",
+      "de": "Studentenverbindung",
       "fr": "Fraternités et Sororités",
       "es": "Fraternidades y Sororidades",
       "jp": "男子・女子社交クラブ",
@@ -2774,7 +2774,7 @@
   "155": {
     "labels": {
       "en": "Health and Diet Food",
-      "de": "Reformkost",
+      "de": "Gesunde Ernährung",
       "fr": "Santé et de L'alimentation Diète",
       "es": "Salud y Dieta Alimentaria",
       "jp": "健康とダイエット食品",
@@ -3278,7 +3278,7 @@
   "183": {
     "labels": {
       "en": "Petroleum",
-      "de": "Öl",
+      "de": "Ölindustrie",
       "fr": "Pétrole",
       "es": "Petróleo",
       "jp": "石油",
@@ -3494,7 +3494,7 @@
   "195": {
     "labels": {
       "en": "Creative Services",
-      "de": "Creative Services",
+      "de": "Kreative Dienstleistungen",
       "fr": "Services Créatifs",
       "es": "Servicios Creativos",
       "jp": "制作会社",
@@ -6014,7 +6014,7 @@
   "335": {
     "labels": {
       "en": "Party Centers",
-      "de": "Party Center",
+      "de": "Eventagenturen",
       "fr": "Centres de Fêtes",
       "es": "Centros de Partido",
       "jp": "パーティー会場",
