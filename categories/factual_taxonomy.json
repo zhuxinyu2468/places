@@ -20,7 +20,7 @@
   "2": {
     "labels": {
       "en": "Automotive",
-      "de": "Kraftfahrzeug",
+      "de": "Auto",
       "fr": "Automobile",
       "es": "Automotriz",
       "jp": "自動車",
@@ -110,7 +110,7 @@
   "7": {
     "labels": {
       "en": "Car Wash and Detail",
-      "de": "Autowaschanlage und Sonstiges",
+      "de": "Autowaschanlagen und Sonstiges",
       "fr": "Lavage de Voitures et Détail",
       "es": "Lavacoches y Detalle",
       "jp": "洗車と清掃、手入れ",
@@ -308,7 +308,7 @@
   "18": {
     "labels": {
       "en": "Salvage Yards",
-      "de": "Schrottplatz",
+      "de": "Schrottplätze",
       "fr": "Casse",
       "es": "Patios de Salvamento",
       "jp": "廃車置き場",
@@ -326,7 +326,7 @@
   "19": {
     "labels": {
       "en": "Towing",
-      "de": "Abschleppen",
+      "de": "Abschleppdienste",
       "fr": "Remorquage",
       "es": "Remolque",
       "jp": "けん引",
@@ -362,7 +362,7 @@
   "21": {
     "labels": {
       "en": "Animal Shelters and Humane Societies",
-      "de": "Tierheime und Menschliche Gesellschaften",
+      "de": "Tierheime und Tierschutz",
       "fr": "Abris D'animaux et Sociétés de Protection Des Animaux",
       "es": "Refugios de Animales y Sociedades Humanas",
       "jp": "動物のシェルターと愛護団体",
@@ -416,7 +416,7 @@
   "24": {
     "labels": {
       "en": "Disabled Persons Services",
-      "de": "Dienstleistungen Für Menschen Mit Behinderung",
+      "de": "Dienstleistungen für Menschen mit Behinderung",
       "fr": "Services Aux Personnes À Mobilité Réduite",
       "es": "Servicios para Personas Deshabilitadas",
       "jp": "身体障害者支援",
@@ -488,7 +488,7 @@
   "28": {
     "labels": {
       "en": "Art Lessons and Schools",
-      "de": "Kunstunterricht und Schule",
+      "de": "Kunstunterricht und Kunstschulen",
       "fr": "Écoles et Leçons de Beaux-art",
       "es": "Lecciones de Arte y Escuelas",
       "jp": "美術教室と学校",
@@ -542,7 +542,7 @@
   "31": {
     "labels": {
       "en": "Culinary Lessons and Schools",
-      "de": "Kulinarischer Unterricht und Schulen",
+      "de": "Kochunterricht und Kochschulen",
       "fr": "Écoles Culinaires et Cours de Cuisine",
       "es": "Lecciones Culinarias y Escuelas",
       "jp": "料理教室、調理師学校",
@@ -578,7 +578,7 @@
   "33": {
     "labels": {
       "en": "Fraternities and Sororities",
-      "de": "Bruderschaften und Schwesternschaften",
+      "de": "Studentenverbindung",
       "fr": "Fraternités et Sororités",
       "es": "Fraternidades y Sororidades",
       "jp": "男子・女子社交クラブ",
@@ -596,7 +596,7 @@
   "34": {
     "labels": {
       "en": "Primary and Secondary Schools",
-      "de": "Haupt-und Realschulen",
+      "de": "Grundschulen und weiterführende Schulen",
       "fr": "Écoles Primaires et Secondaires",
       "es": "Escuelas Primaria y Secundaria",
       "jp": "小学校、中学／高等学校",
@@ -632,7 +632,7 @@
   "36": {
     "labels": {
       "en": "Vocational Schools",
-      "de": "Berufliche Schulen",
+      "de": "Berufsschulen",
       "fr": "Écoles de Formation Professionnelle",
       "es": "Escuelas de Formación Profesional",
       "jp": "職業専門学校",
@@ -668,7 +668,7 @@
   "38": {
     "labels": {
       "en": "Government Lobbyists",
-      "de": "Staatliche Interessenvertreter",
+      "de": "Lobbyisten",
       "fr": "Lobbyistes",
       "es": "Cabilderos del Gobierno",
       "jp": "政府ロビイスト",
@@ -686,7 +686,7 @@
   "39": {
     "labels": {
       "en": "Housing Assistance and Shelters",
-      "de": "Unterstützung Für Die Wohnung und Unterkünfte",
+      "de": "Sozialwohnungen und Notunterkünfte",
       "fr": "Aides Au Logement et Refuges",
       "es": "Asistencia para la Vivienda y Refugios",
       "jp": "住宅支援と施設",
@@ -740,7 +740,7 @@
   "42": {
     "labels": {
       "en": "Fire Stations",
-      "de": "Feuerwehr",
+      "de": "Feuerwehren",
       "fr": "Casernes de Pompiers",
       "es": "Estaciones de Bomberos",
       "jp": "消防署",
@@ -758,7 +758,7 @@
   "43": {
     "labels": {
       "en": "Police Stations",
-      "de": "Polizei-stationen",
+      "de": "Polizeistationen",
       "fr": "Stations de Police",
       "es": "Comisarías",
       "jp": "警察署",
@@ -812,7 +812,7 @@
   "46": {
     "labels": {
       "en": "Bases",
-      "de": "Militärstationen",
+      "de": "Militärbasen",
       "fr": "Bases Militaires",
       "es": "Bases",
       "jp": "基地",
@@ -992,7 +992,7 @@
   "56": {
     "labels": {
       "en": "Hindu Temples",
-      "de": "Hindu-tempel",
+      "de": "Hindu-Tempel",
       "fr": "Temples Hindous",
       "es": "Templos Hindúes",
       "jp": "ヒンズー教教会",
@@ -1046,7 +1046,7 @@
   "59": {
     "labels": {
       "en": "Senior Citizen Services",
-      "de": "Dienstleistungen Für Senioren",
+      "de": "Dienstleistungen für Senioren",
       "fr": "Services Aux Personnes Âgées",
       "es": "Servicios para Ciudadanos de la Tercera Edad",
       "jp": "老人福祉サービス",
@@ -1136,7 +1136,7 @@
   "64": {
     "labels": {
       "en": "Assisted Living Services",
-      "de": "Betreutes Wohnen Dienstleistungen",
+      "de": "Betreutes Wohnen",
       "fr": "Services Pour Personnes Dépendantes",
       "es": "Servicios de Vida Asistida",
       "jp": "介護サービス",
@@ -1154,7 +1154,7 @@
   "65": {
     "labels": {
       "en": "Home Health Care Services",
-      "de": "Hauspflege",
+      "de": "Häusliche Pflege",
       "fr": "Soins à Domicile",
       "es": "Servicios de Salud en el Hogar",
       "jp": "ホームヘルスケアサービス",
@@ -1190,7 +1190,7 @@
   "67": {
     "labels": {
       "en": "Blood Banks and Centers",
-      "de": "Blutbanken und Zentren",
+      "de": "Blutbanken und -zentren",
       "fr": "Banques de Sang",
       "es": "Bancos de Sangre y Centros",
       "jp": "血液バンク ・ センター",
@@ -1262,7 +1262,7 @@
   "71": {
     "labels": {
       "en": "Ambulance",
-      "de": "Krankenwagen",
+      "de": "Ambulanz",
       "fr": "Ambulance",
       "es": "Ambulancia",
       "jp": "救急車",
@@ -1280,7 +1280,7 @@
   "72": {
     "labels": {
       "en": "Holistic, Alternative and Naturopathic Medicine",
-      "de": "Ganzheitliche, Komplementärmedizinischen und Naturheilkundlichen",
+      "de": "Ganzheitliche Medizin, Komplementärmedizin und Naturheilkunde",
       "fr": "Holistique, Médecine Douce et de Naturopathie",
       "es": "Medicina Holística, Alternativa y Naturista",
       "jp": "東洋および自然療法医学",
@@ -1550,7 +1550,7 @@
   "87": {
     "labels": {
       "en": "Ear, Nose and Throat",
-      "de": "Hals-, Nasen-und Ohrenheilkunde",
+      "de": "Hals-, Nasen- und Ohrenheilkunde",
       "fr": "Orl (oto-rhino-laryngologist)",
       "es": "Oído, Nariz y Garganta",
       "jp": "耳鼻咽喉科",
@@ -1748,7 +1748,7 @@
   "98": {
     "labels": {
       "en": "Pediatricians",
-      "de": "Kinderarzt",
+      "de": "Kinderärzte",
       "fr": "Pédiatres",
       "es": "Pediatras",
       "jp": "小児科医",
@@ -1820,7 +1820,7 @@
   "102": {
     "labels": {
       "en": "Respiratory",
-      "de": "Atemschutz",
+      "de": "Pneumologie",
       "fr": "Médecine Respiratoire",
       "es": "Respiratorio",
       "jp": "呼吸器科",
@@ -1964,7 +1964,7 @@
   "110": {
     "labels": {
       "en": "Historic and Protected Sites",
-      "de": "Historische und Geschützte Standort",
+      "de": "Historische und Geschützte Standorte",
       "fr": "Lieux Historiques et Protégées",
       "es": "Sitios Históricos y Protegidos",
       "jp": "指定文化財",
@@ -2144,7 +2144,7 @@
   "120": {
     "labels": {
       "en": "Picnic Areas",
-      "de": "Picknick-plätze",
+      "de": "Picknickplätze",
       "fr": "Aires de Pique-nique",
       "es": "Áreas de Comer Afuera",
       "jp": "ピクニック",
@@ -2216,7 +2216,7 @@
   "124": {
     "labels": {
       "en": "Adult",
-      "de": "Erwachsener",
+      "de": "Erotik",
       "fr": "Adulte",
       "es": "Adulto",
       "jp": "紳士、婦人",
@@ -2270,7 +2270,7 @@
   "127": {
     "labels": {
       "en": "Auctions",
-      "de": "Versteigerung",
+      "de": "Versteigerungen",
       "fr": "Ventes Aux Enchères",
       "es": "Subastas",
       "jp": "オークション",
@@ -2342,7 +2342,7 @@
   "131": {
     "labels": {
       "en": "Cards and Stationery",
-      "de": "Karten und Briefpapier",
+      "de": "Schreibwaren",
       "fr": "Cartes et Papeterie",
       "es": "Tarjetas y Papelería",
       "jp": "カードや文房具",
@@ -2432,7 +2432,7 @@
   "136": {
     "labels": {
       "en": "Video Games",
-      "de": "Video-spiele",
+      "de": "Videospiele",
       "fr": "Jeux Vidéo",
       "es": "Videojuegos",
       "jp": "ビデオ ゲーム",
@@ -2774,7 +2774,7 @@
   "155": {
     "labels": {
       "en": "Health and Diet Food",
-      "de": "Gesundheit und Ernährung Lebensmittel",
+      "de": "Gesunde Ernährung",
       "fr": "Santé et de L'alimentation Diète",
       "es": "Salud y Dieta Alimentaria",
       "jp": "健康とダイエット食品",
@@ -2810,7 +2810,7 @@
   "157": {
     "labels": {
       "en": "Furniture and Decor",
-      "de": "Möbel und dekoraton",
+      "de": "Möbel und Dekoraton",
       "fr": "Meubles et Décor",
       "es": "Muebles y Decoración",
       "jp": "家具とインテリア",
@@ -2828,7 +2828,7 @@
   "158": {
     "labels": {
       "en": "Gift and Novelty",
-      "de": "Geschenke und Kuriositäten",
+      "de": "Geschenkartikel",
       "fr": "Cadeaux et Babioles",
       "es": "Regalo y Novedad",
       "jp": "ギフト、ノベルティ",
@@ -2900,7 +2900,7 @@
   "162": {
     "labels": {
       "en": "Music, Video and DVD",
-      "de": "Musik, Video und Dvd",
+      "de": "Musik, Video und DVD",
       "fr": "Musique, Vidéo et Dvd",
       "es": "Música, Vídeo y DVD",
       "jp": "音楽、ビデオ、DVD",
@@ -2936,7 +2936,7 @@
   "164": {
     "labels": {
       "en": "Nurseries and Garden Centers",
-      "de": "Baumschulen und Garten-center",
+      "de": "Baumschulen und Gartencenter",
       "fr": "Pépinières et Centres de Jardinage",
       "es": "Guarderías y Centros de Jardinería",
       "jp": "園芸用品とガーデン センター",
@@ -3116,7 +3116,7 @@
   "174": {
     "labels": {
       "en": "Vintage and Thrift",
-      "de": "Vintage und Second-hand",
+      "de": "Vintage und Secondhand",
       "fr": "Vinage et Friperies",
       "es": "De época y Ahorro",
       "jp": "ヴィンテージと古着",
@@ -3188,7 +3188,7 @@
   "178": {
     "labels": {
       "en": "Business and Strategy Consulting",
-      "de": "Geschäft und Strategie Beratung",
+      "de": "Unternehmensberatung",
       "fr": "Consultation Affaires et Stratégie",
       "es": "Consulta de Negocios y Estrategia",
       "jp": "ビジネスと戦略コンサルティング",
@@ -3224,7 +3224,7 @@
   "180": {
     "labels": {
       "en": "Logging and Sawmills",
-      "de": "Holzfällen und Sägewerke",
+      "de": "Holzfäller und Sägewerke",
       "fr": "Abattage D'arbres et Scieries",
       "es": "Explotación Forestal y Aserraderos",
       "jp": "木材と製材工場",
@@ -3242,7 +3242,7 @@
   "181": {
     "labels": {
       "en": "Metals",
-      "de": "Metals",
+      "de": "Metalle",
       "fr": "Métaux",
       "es": "Metales",
       "jp": "金属",
@@ -3260,7 +3260,7 @@
   "182": {
     "labels": {
       "en": "Packaging",
-      "de": "Packaging",
+      "de": "Verpackungen",
       "fr": "Emballage",
       "es": "Embalaje",
       "jp": "梱包",
@@ -3278,7 +3278,7 @@
   "183": {
     "labels": {
       "en": "Petroleum",
-      "de": "Petroleum",
+      "de": "Ölindustrie",
       "fr": "Pétrole",
       "es": "Petróleo",
       "jp": "石油",
@@ -3368,7 +3368,7 @@
   "188": {
     "labels": {
       "en": "Security and Safety",
-      "de": "Sicherheitsdienst und Sicherheit",
+      "de": "Sicherheitsdienste",
       "fr": "Sécurité et Sûreté",
       "es": "Seguridad y Seguridad",
       "jp": "警備保障",
@@ -3422,7 +3422,7 @@
   "191": {
     "labels": {
       "en": "Water and Waste Management",
-      "de": "Wasser-und Abfallwirtschaft",
+      "de": "Wasser- und Abfallwirtschaft",
       "fr": "Gestion Des Eaux et Des Déchets",
       "es": "Agua y Gestión de Residuos",
       "jp": "水、廃棄物管理",
@@ -3476,14 +3476,14 @@
   "194": {
     "labels": {
       "en": "Advertising Agencies and Media Buyers",
-      "de": "Werbeagenturen und Medien Käufer",
+      "de": "Werbeagenturen und Mediaplaner",
       "fr": "Agences de Publicité et Acheteurs Médias",
       "es": "Agencias de Publicidad y Compradores de Medios de Comunicación",
       "jp": "広告代理店とメディアのバイヤー",
       "kr": "광고 대행사 및 미디어 구매자",
       "zh-hant": "廣告公司和媒體購買公司",
       "zh": "广告公司和媒体购买公司",
-      "it": "Agenzie Di Pubblicità  e Compritori Media",
+      "it": "Agenzie Di Pubblicità  e Compritori Media",
       "pt": "Agências de Publicidade e Compradores de Meios de Comunicação"
     },
     "parents": [
@@ -3494,7 +3494,7 @@
   "195": {
     "labels": {
       "en": "Creative Services",
-      "de": "Kreative Dienste",
+      "de": "Kreative Dienstleistungen",
       "fr": "Services Créatifs",
       "es": "Servicios Creativos",
       "jp": "制作会社",
@@ -3512,7 +3512,7 @@
   "196": {
     "labels": {
       "en": "Direct Mail and Email Marketing Services",
-      "de": "Direct Mail und E-mail-marketing Services",
+      "de": "Direct Mail und Email-Marketing Services",
       "fr": "Courrier Direct et Services de Marketing Par Courriel",
       "es": "Correo Directo y Servicios de Mercadotecnia por Correo Electrónico",
       "jp": "ダイレクト メール、Eマーケティング サービス",
@@ -3548,14 +3548,14 @@
   "198": {
     "labels": {
       "en": "Online Advertising",
-      "de": "Online-werbung",
+      "de": "Online-Werbung",
       "fr": "Publicité En Ligne",
       "es": "Publicidad en Línea",
       "jp": "オンライン広告",
       "kr": "온라인 광고",
       "zh-hant": "在線廣告",
       "zh": "在线广告",
-      "it": "Pubblicità  Online",
+      "it": "Pubblicità  Online",
       "pt": "Publicidade Online"
     },
     "parents": [
@@ -3566,7 +3566,7 @@
   "199": {
     "labels": {
       "en": "Print, TV, Radio and Outdoor Advertising",
-      "de": "Print, Tv, Radio und Außenwerbung",
+      "de": "Print-, TV-, Radio- und Außenwerbung",
       "fr": "En Presse, Télé, Radio et Affiches",
       "es": "Publicidad en Prensa, Televisión, Radio y Exterior",
       "jp": "印刷、テレビ、ラジオ、屋外広告",
@@ -3620,7 +3620,7 @@
   "202": {
     "labels": {
       "en": "Search Engine Marketing and Optimization",
-      "de": "Suchmaschinen-marketing Und-optimierung",
+      "de": "Suchmaschinen-Marketing und -Optimierung",
       "fr": "Marketing et Optimisation Pour Les Moteurs de Recherche",
       "es": "Mercadotecnia por Motor de Búsqueda y Optimización",
       "jp": "検索エンジン マーケティングと最適化",
@@ -3656,7 +3656,7 @@
   "204": {
     "labels": {
       "en": "Agriculture and Forestry",
-      "de": "Land-und Forstwirtschaft",
+      "de": "Land- und Forstwirtschaft",
       "fr": "Agriculture et Foresterie, Sylvieculture",
       "es": "Agricultura y Silvicultura",
       "jp": "農林",
@@ -3710,7 +3710,7 @@
   "207": {
     "labels": {
       "en": "Automation and Control Systems",
-      "de": "Automatisierungs-und Leitsysteme",
+      "de": "Automatisierungs- und Leitsysteme",
       "fr": "Systèmes D'automatisation et de Contrôle",
       "es": "Automatización y Sistemas de Control",
       "jp": "自動化および制御システム",
@@ -3800,7 +3800,7 @@
   "212": {
     "labels": {
       "en": "Employment Agencies",
-      "de": "Agenturen Für Arbeitsagenturen",
+      "de": "Arbeitsagenturen",
       "fr": "Agences de Placement D'emploi",
       "es": "Agencias de Empleo",
       "jp": "求人および派遣会社",
@@ -3818,7 +3818,7 @@
   "213": {
     "labels": {
       "en": "Engineering",
-      "de": "Ingenieurwissenschaf",
+      "de": "Ingenieurwissenschaften",
       "fr": "Ingénierie",
       "es": "Ingeniería",
       "jp": "エンジニア リング",
@@ -3890,7 +3890,7 @@
   "217": {
     "labels": {
       "en": "Events and Event Planning",
-      "de": "Events und Event-planung",
+      "de": "Events und Eventplanung",
       "fr": "Evénements et Planification D'événements",
       "es": "Eventos y Planificación de Eventos",
       "jp": "イベント、イベント企画",
@@ -3980,7 +3980,7 @@
   "222": {
     "labels": {
       "en": "Business Brokers and Franchises",
-      "de": "Unternehmensmakler und Franchiseverträge",
+      "de": "Unternehmensmakler und Franchises",
       "fr": "Courtiers Commerce et Franchises",
       "es": "Agentes Corredores de Negocios y Franquicias",
       "jp": "ビジネス ブローカーとのフランチャイズ",
@@ -4052,7 +4052,7 @@
   "226": {
     "labels": {
       "en": "Fund Raising",
-      "de": "Geldbeschafung",
+      "de": "Geldbeschaffung",
       "fr": "Collecte de Fonds",
       "es": "Recaudación de Fondos",
       "jp": "資金調達",
@@ -4214,7 +4214,7 @@
   "235": {
     "labels": {
       "en": "Home Improvement",
-      "de": "Heimwerken",
+      "de": "Heimwerken und Handwerker",
       "fr": "Rénovations",
       "es": "Mejoramiento de Casa",
       "jp": "改築",
@@ -4250,7 +4250,7 @@
   "237": {
     "labels": {
       "en": "Carpenters",
-      "de": "Tischler",
+      "de": "Tischler und Schreiner",
       "fr": "Charpentiers et Menuisiers",
       "es": "Carpinteros",
       "jp": "大工",
@@ -4268,7 +4268,7 @@
   "238": {
     "labels": {
       "en": "Carpet and Flooring",
-      "de": "Teppich-und Bodenbelag",
+      "de": "Teppich und Bodenbelag",
       "fr": "Tapis et Revêtements de Sol",
       "es": "Alfombras y Suelos",
       "jp": "カーペットやフローリング",
@@ -4412,7 +4412,7 @@
   "246": {
     "labels": {
       "en": "Hardware and Services",
-      "de": "Hardware und Services",
+      "de": "Haushalts- und Eisenwaren",
       "fr": "Quincaillerie, Matériel et Services",
       "es": "Ferretería y Servicios",
       "jp": "ハードウェアとサービス",
@@ -4430,7 +4430,7 @@
   "247": {
     "labels": {
       "en": "Heating, Ventilating and Air Conditioning",
-      "de": "Heizungs-, Lüftungs-und Klimatechnik",
+      "de": "Heizungs-, Lüftungs- und Klimatechnik",
       "fr": "Chauffage, Ventilation et Air Conditionné",
       "es": "Calefacción, Ventilación y Aire Acondicionado",
       "jp": "暖房、換気および空調",
@@ -4574,7 +4574,7 @@
   "255": {
     "labels": {
       "en": "Mobile Homes",
-      "de": "Mobilheime",
+      "de": "Wohnwagen und Wohnmobile",
       "fr": "Maisons Mobiles",
       "es": "Casas Móviles",
       "jp": "モービルホーム",
@@ -4610,7 +4610,7 @@
   "257": {
     "labels": {
       "en": "Painting",
-      "de": "Anstrich",
+      "de": "Maler",
       "fr": "Peinture",
       "es": "Pintura",
       "jp": "絵画",
@@ -4646,7 +4646,7 @@
   "259": {
     "labels": {
       "en": "Plumbing",
-      "de": "Rohre",
+      "de": "Klempner",
       "fr": "Plomberie",
       "es": "Fontanería",
       "jp": "配管",
@@ -4664,7 +4664,7 @@
   "260": {
     "labels": {
       "en": "Pools and Spas",
-      "de": "Schwimmbäder und Wellness-centren",
+      "de": "Schwimmbäder und Wellness-Zentren",
       "fr": "Piscines et Spas",
       "es": "Piscinas y Balnearios",
       "jp": "プールおよびスパ",
@@ -4718,7 +4718,7 @@
   "263": {
     "labels": {
       "en": "Swimming Pool Maintenance and Services",
-      "de": "Schwimmbad Wartung und Pflege",
+      "de": "Poolreinigung und -wartung",
       "fr": "Entretien de La Piscine",
       "es": "Mantenimiento de Piscina y Servicios",
       "jp": "スイミング プール維持とサービス",
@@ -4772,7 +4772,7 @@
   "266": {
     "labels": {
       "en": "Human Resources",
-      "de": "Personalabteilung",
+      "de": "Personalwesen",
       "fr": "Ressources Humaines",
       "es": "Recursos Humanos",
       "jp": "人材",
@@ -4844,7 +4844,7 @@
   "270": {
     "labels": {
       "en": "Credit Counseling and Bankruptcy Services",
-      "de": "Kreditbearatung und Konkursdienstleister",
+      "de": "Kreditberatung und Konkursdienstleister",
       "fr": "Counseil Juridique Sur Le Crédit et Aides Pour Faillite",
       "es": "Consejería de Crédito y Servicios de Bancarrota",
       "jp": "クレジット カウンセリングや倒産サービス",
@@ -4898,7 +4898,7 @@
   "273": {
     "labels": {
       "en": "Machine Shops",
-      "de": "Maschinenfabriken",
+      "de": "Maschinenhallen",
       "fr": "Ateliers D'usinage",
       "es": "Talleres Mecánicos",
       "jp": "機械販売",
@@ -5024,7 +5024,7 @@
   "280": {
     "labels": {
       "en": "Beauty Salons and Barbers",
-      "de": "Schönheitssalon und Friseure",
+      "de": "Schönheitssalons und Friseure",
       "fr": "Salons de Beauté et Barbiers",
       "es": "Salones de Belleza y Peluqueros",
       "jp": "美容院、理容室",
@@ -5060,7 +5060,7 @@
   "282": {
     "labels": {
       "en": "Massage Clinics and Therapists",
-      "de": "Massage Kliniken und Therapeuten",
+      "de": "Massage-Kliniken und Therapeuten",
       "fr": "Cliniques de Massage et Massothérapeutes",
       "es": "Clínicas de Masaje y Terapeutas",
       "jp": "マッサージ療法、診療所",
@@ -5247,7 +5247,7 @@
       "kr": "부동산 관리",
       "zh-hant": "物業管理",
       "zh": "物业管理",
-      "it": "Gestione Delle Proprietà ",
+      "it": "Gestione Delle Proprietà ",
       "pt": "Gestão de Propriedades"
     },
     "parents": [
@@ -5294,7 +5294,7 @@
   "295": {
     "labels": {
       "en": "Real Estate Development and Title Companies",
-      "de": "Immobilien Entwicklung und Titel Firmen",
+      "de": "Immobilienentwicklung und -versicherer",
       "fr": "Entreprises de Développement Immobilier et de Titres",
       "es": "Desarrollo Inmobiliario y Compañías de Título",
       "jp": "不動産開発、名義",
@@ -5312,7 +5312,7 @@
   "296": {
     "labels": {
       "en": "Apartments, Condos, and Houses",
-      "de": "Wohnungen, Eigentumswohnungen, Häuser Und",
+      "de": "Wohnungen, Eigentumswohnungen und Häuser",
       "fr": "Appartements, Condos et Maisons",
       "es": "Apartamentos, Condominios y Casas",
       "jp": "アパート、マンションや家",
@@ -5330,7 +5330,7 @@
   "297": {
     "labels": {
       "en": "Boarding Houses",
-      "de": "Privatpension",
+      "de": "Privatpensionen",
       "fr": "Pensions",
       "es": "Hostales",
       "jp": "下宿",
@@ -5348,7 +5348,7 @@
   "298": {
     "labels": {
       "en": "Building and Land Surveyors",
-      "de": "Bau-und Landvermesser",
+      "de": "Bau- und Landvermesser",
       "fr": "Bâtiment et Arpenteurs",
       "es": "Tasadores de Edificios y Tierra",
       "jp": "建物、土地測量",
@@ -5366,7 +5366,7 @@
   "299": {
     "labels": {
       "en": "Commercial Real Estate",
-      "de": "Gewerblische Immobilien",
+      "de": "Gewerbliche Immobilien",
       "fr": "Immobilier Commercial",
       "es": "Inmobiliaria Comercial",
       "jp": "商業用不動産",
@@ -5384,7 +5384,7 @@
   "300": {
     "labels": {
       "en": "Corporate Housing",
-      "de": "Institutioneller Wohnungsbau",
+      "de": "Möbliertes Wohnen",
       "fr": "Location Meublé À Court Terme",
       "es": "Vivienda Corporativa",
       "jp": "社宅",
@@ -5420,7 +5420,7 @@
   "302": {
     "labels": {
       "en": "Repair Services",
-      "de": "Reparatur-dienstleistungen",
+      "de": "Reparaturdienstleistungen",
       "fr": "Services de Réparation",
       "es": "Servicios de Reparación",
       "jp": "修復サービス",
@@ -5438,7 +5438,7 @@
   "303": {
     "labels": {
       "en": "Shipping, Freight, and Material Transportation",
-      "de": "Versand, Fracht-und Materialtransport",
+      "de": "Versand, Fracht- und Materialtransport",
       "fr": "Expédition, Cargaison et Transport de Matières",
       "es": "Envío, Carga y Transporte de Material",
       "jp": "出荷、貨物と輸送",
@@ -5492,7 +5492,7 @@
   "306": {
     "labels": {
       "en": "Web Design and Development",
-      "de": "Webdesign Und-entwicklung",
+      "de": "Webdesign und -entwicklung",
       "fr": "Conception et Développement Web",
       "es": "Diseño y Desarrollo del Web",
       "jp": "Web デザインと開発",
@@ -5636,7 +5636,7 @@
   "314": {
     "labels": {
       "en": "Jazz and Blues Cafes",
-      "de": "Jazz und Blues-cafes",
+      "de": "Jazz- und Bluescafés",
       "fr": "Cafés Jazz et Blues",
       "es": "Cafés de la Música Jazz y Blues",
       "jp": "ジャズとブルースのカフェ",
@@ -5744,7 +5744,7 @@
   "320": {
     "labels": {
       "en": "Billiard and Pool",
-      "de": "Billard-und Pool",
+      "de": "Billard und Pool",
       "fr": "Billard et Billard Américain",
       "es": "Billar y Billar Americano",
       "jp": "ビリヤード、プール",
@@ -5816,7 +5816,7 @@
   "324": {
     "labels": {
       "en": "Casinos and Gaming",
-      "de": "Casinos und Gaming",
+      "de": "Casinos und Spielhallen",
       "fr": "Casinos et Jeux",
       "es": "Casinos y Juegos",
       "jp": "カジノ ・ ゲーム",
@@ -5852,7 +5852,7 @@
   "326": {
     "labels": {
       "en": "Dance Halls and Saloons",
-      "de": "Tanz-hallen und Saloons",
+      "de": "Tanzhallen und Saloons",
       "fr": "Salles de Danse et Berlines",
       "es": "Salas de Baile y Salones",
       "jp": "ダンスホールや酒場",
@@ -5870,7 +5870,7 @@
   "327": {
     "labels": {
       "en": "Fairgrounds and Rodeos",
-      "de": "Messegelände und Rodeos",
+      "de": "Festplätze und Rodeos",
       "fr": "Foires et Rodéos",
       "es": "Recinto Ferial y Rodeos",
       "jp": "見本市会場、ロデオ",
@@ -5888,7 +5888,7 @@
   "328": {
     "labels": {
       "en": "Go Carts",
-      "de": "Go Carts",
+      "de": "Go-Karts",
       "fr": "Karting",
       "es": "Carretillas",
       "jp": "ゴーカート",
@@ -6014,7 +6014,7 @@
   "335": {
     "labels": {
       "en": "Party Centers",
-      "de": "Party Centers",
+      "de": "Eventagenturen",
       "fr": "Centres de Fêtes",
       "es": "Centros de Partido",
       "jp": "パーティー会場",
@@ -6140,7 +6140,7 @@
   "342": {
     "labels": {
       "en": "Cafes, Coffee and Tea Houses",
-      "de": "Cafés, Kaffee- And Teehäuser",
+      "de": "Cafés, Kaffee- und Teehäuser",
       "fr": "Cafés et Salons de Thé",
       "es": "Cafés, Café y Casas de Té",
       "jp": "カフェ、コーヒー、喫茶店",
@@ -6194,7 +6194,7 @@
   "345": {
     "labels": {
       "en": "Internet Cafes",
-      "de": "Internetcafes",
+      "de": "Internetcafés",
       "fr": "Cafés Internet",
       "es": "Cibercafés",
       "jp": "インターネット カフェ",
@@ -6248,7 +6248,7 @@
   "348": {
     "labels": {
       "en": "American",
-      "de": "Americanische Restaurants",
+      "de": "Amerikanische Restaurants",
       "fr": "American",
       "es": "Americana",
       "jp": "アメリカ料理",
@@ -6302,7 +6302,7 @@
   "351": {
     "labels": {
       "en": "Burgers",
-      "de": "Burgers",
+      "de": "Burger-Restaurants",
       "fr": "Burgers",
       "es": "Hamburguesas",
       "jp": "ハンバーガー",
@@ -6356,7 +6356,7 @@
   "354": {
     "labels": {
       "en": "Diners",
-      "de": "Imbiss",
+      "de": "Imbisse",
       "fr": "Diners",
       "es": "Cafeterías",
       "jp": "ダイナー",
@@ -6392,7 +6392,7 @@
   "356": {
     "labels": {
       "en": "French",
-      "de": "Französisch",
+      "de": "Französische Restaurants",
       "fr": "Français",
       "es": "Francés",
       "jp": "フレンチ",
@@ -6410,7 +6410,7 @@
   "357": {
     "labels": {
       "en": "Indian",
-      "de": "Indisch",
+      "de": "Indische Restaurants",
       "fr": "Indien",
       "es": "Indio",
       "jp": "インド料理",
@@ -6428,7 +6428,7 @@
   "358": {
     "labels": {
       "en": "Italian",
-      "de": "Italienisch",
+      "de": "Italienische Restaurants",
       "fr": "Italien",
       "es": "Italiano",
       "jp": "イタリアン",
@@ -6446,7 +6446,7 @@
   "359": {
     "labels": {
       "en": "Japanese",
-      "de": "Japanisch",
+      "de": "Japanische Restaurants",
       "fr": "Japonais",
       "es": "Japonés",
       "jp": "和食",
@@ -6464,7 +6464,7 @@
   "360": {
     "labels": {
       "en": "Korean",
-      "de": "Koreanisch",
+      "de": "Koreanische Restaurants",
       "fr": "Coréen",
       "es": "Coreano",
       "jp": "韓国料理",
@@ -6482,7 +6482,7 @@
   "361": {
     "labels": {
       "en": "Mexican",
-      "de": "Mexikanisch",
+      "de": "Mexikanische Restaurants",
       "fr": "Mexicain",
       "es": "Mexicana",
       "jp": "メキシカン",
@@ -6608,7 +6608,7 @@
   "368": {
     "labels": {
       "en": "Vegan and Vegetarian",
-      "de": "Veganische und Vegetarier",
+      "de": "Vegane und Vegetarische Restaurants",
       "fr": "Végétalien et Végétarien",
       "es": "Vegana y Vegetariana",
       "jp": "ビーガン、ベジタリアン",
@@ -6878,7 +6878,7 @@
   "383": {
     "labels": {
       "en": "Gun Ranges",
-      "de": "Schießstande",
+      "de": "Schießstände",
       "fr": "Centres de Tir",
       "es": "Rangos de Pistola",
       "jp": "射撃場",
@@ -6950,7 +6950,7 @@
   "387": {
     "labels": {
       "en": "Outdoors",
-      "de": "Außenbereich",
+      "de": "Outdoor",
       "fr": "Plein Air",
       "es": "Afuera",
       "jp": "アウトドア",
@@ -6968,7 +6968,7 @@
   "388": {
     "labels": {
       "en": "Campgrounds and RV Parks",
-      "de": "Campingplätze und Wohnmobil-parks",
+      "de": "Campingplätze und Wohnmobilparks",
       "fr": "Aires de Camping",
       "es": "Lugares de Campamento y Parques de Vehículos de Recreación",
       "jp": "キャンプ場とRVパーク",
@@ -7022,7 +7022,7 @@
   "391": {
     "labels": {
       "en": "Hunting and Fishing",
-      "de": "Jagd-und Angelsport",
+      "de": "Jagd- und Angelsport",
       "fr": "Chasse et Pêche",
       "es": "Caza y Pesca",
       "jp": "狩猟や釣り",
@@ -7472,7 +7472,7 @@
   "416": {
     "labels": {
       "en": "Airlines and Aviation Services",
-      "de": "Fluggesellschaften und Bedarfsflugverkehr",
+      "de": "Fluggesellschaften und Flugdienstleistungen",
       "fr": "Compagnies Aériennes et Des Services de L'aviation",
       "es": "Servicios de Aerolíneas y Aviación",
       "jp": "航空と航空サービス",
@@ -7562,7 +7562,7 @@
   "421": {
     "labels": {
       "en": "Car and Truck Rentals",
-      "de": "Auto-und Lkw-vermietungen",
+      "de": "Auto- und LKW-Vermietungen",
       "fr": "Location de Voitures et de Camions",
       "es": "coches y Alquiler de Camiones",
       "jp": "車とトラックのレンタル",
@@ -7580,7 +7580,7 @@
   "422": {
     "labels": {
       "en": "Charter Buses",
-      "de": "Charter Busse",
+      "de": "Charter-Busse",
       "fr": "Autocar Charter",
       "es": "Autobuses Chárter",
       "jp": "貸切バス",
@@ -7616,7 +7616,7 @@
   "424": {
     "labels": {
       "en": "Transport Hubs",
-      "de": "Verkehrsknotenpunkt",
+      "de": "Verkehrsknotenpunkte",
       "fr": "Centres de Transport",
       "es": "Concentradores de Transporte",
       "jp": "ハブ",
@@ -7652,7 +7652,7 @@
   "426": {
     "labels": {
       "en": "Bus Stations",
-      "de": "Bushaltstellen",
+      "de": "Bushaltestellen",
       "fr": "Stations de Bus et Garres Routières",
       "es": "Estaciones de Autobuses",
       "jp": "バス駅",
@@ -7778,7 +7778,7 @@
   "433": {
     "labels": {
       "en": "Bed and Breakfasts",
-      "de": "Bed And Breakfast",
+      "de": "Bed and Breakfast",
       "fr": "Bed And Breakfasts",
       "es": "Cama y Desayuno",
       "jp": "ベッド &ブレックファースト",
@@ -7796,7 +7796,7 @@
   "434": {
     "labels": {
       "en": "Cottages and Cabins",
-      "de": "Landhaus & Landhotel",
+      "de": "Landhäuser und Landhotels",
       "fr": "Chalets et Cabanes",
       "es": "Casitas y Cabañas",
       "jp": "コテージやキャビン",
@@ -7904,7 +7904,7 @@
   "440": {
     "labels": {
       "en": "Travel Agents and Tour Operators",
-      "de": "Reisebüros und Reiseveranstalte",
+      "de": "Reisebüros und Reiseveranstalter",
       "fr": "Agences de Voyages et Guides Touristiques",
       "es": "Agentes de Viaje y Operadores Turísticos",
       "jp": "旅行代理店やツアー オペレーター",
@@ -7994,7 +7994,7 @@
   "445": {
     "labels": {
       "en": "Party Supplies",
-      "de": "Partei Nachschub",
+      "de": "Partybedarf",
       "fr": "Articles de Fête",
       "es": "Artículos de Fiesta",
       "jp": "パーティー用品",
@@ -8210,7 +8210,7 @@
   "457": {
     "labels": {
       "en": "Asian",
-      "de": "Asian",
+      "de": "Asiatische Restaurants",
       "fr": "Asiatique",
       "es": "Comida Asiática",
       "jp": "アジアの",
@@ -8228,7 +8228,7 @@
   "458": {
     "labels": {
       "en": "Food Trucks",
-      "de": "Nahrungsmittel-LKWs",
+      "de": "Imbisswagen",
       "fr": "Food Trucks",
       "es": "Camión de Comida",
       "jp": "フードトラック",
@@ -8264,7 +8264,7 @@
   "460": {
     "labels": {
       "en": "Technology",
-      "de": "Tecnology",
+      "de": "Technologie",
       "fr": "Technologie",
       "es": "Tecnología",
       "jp": "テクノロジー",
@@ -8300,7 +8300,7 @@
   "462": {
     "labels": {
       "en": "International Airports",
-      "de": "Internationalen Flughäfen",
+      "de": "Internationale Flughäfen",
       "fr": "Aéroports Internationaux",
       "es": "Aeropuertos Internacionales",
       "jp": "国際空港",
@@ -8336,7 +8336,7 @@
   "464": {
     "labels": {
       "en": "International",
-      "de": "International",
+      "de": "Internationale Restaurants",
       "fr": "International",
       "es": "Internacional",
       "jp": "インターナショナル",
@@ -8354,7 +8354,7 @@
   "465": {
     "labels": {
       "en": "Convention Centers",
-      "de": "Kongresszentrum",
+      "de": "Kongresszentren",
       "fr": "Centres de Congrès",
       "es": "Centros de Convenciones",
       "jp": "コンベンションセンター",
