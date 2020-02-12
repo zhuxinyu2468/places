@@ -8513,7 +8513,7 @@
     ],
     "abstract": false
   },
-   "474": {
+  "474": {
     "labels": {
       "en": "Attorneys and Law Offices",
       "de": "Rechtsanwalt und Anwaltskanzlei",
@@ -8567,7 +8567,7 @@
     ],
     "abstract": false
   },
-   "477": {
+  "477": {
     "labels": {
       "en": "City Halls",
       "de": "Rathaus",
@@ -8582,6 +8582,24 @@
     },
     "parents": [
       "20"
+    ],
+    "abstract": false
+  },
+  "478": {
+    "labels": {
+      "en": "Private Airports",
+      "de": "Private Flughäfen",
+      "fr": "Aéroports Privés",
+      "es": "Aeropuertos Privados",
+      "jp": "プライベート空港",
+      "kr": "개인 공항",
+      "zh-hant": "私人機場",
+      "zh": "私人机场",
+      "it": "Aeroporti Privati",
+      "pt": "Aeroportos Privados"
+    },
+    "parents": [
+      "425"
     ],
     "abstract": false
   }

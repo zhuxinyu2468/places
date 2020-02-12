@@ -3,7 +3,7 @@ This repo contains the master category file describing the category schema for F
 
 ## Category Overview
 ### Structure
-Factual divides the worlds places into 477 categories (nodes in the taxonomy).  Categories are formally polyhierarchal -- a node can have more than one parent, but currently no nodes do. Nodes are identified by an Integer.  IDs are assigned sequentially and contain no semantics. 
+Factual divides the worlds places into 478 categories (nodes in the taxonomy).  Categories are formally polyhierarchal -- a node can have more than one parent, but currently no nodes do. Nodes are identified by an Integer.  IDs are assigned sequentially and contain no semantics. 
 
 The taxonomy has ten top-level branches:
 
