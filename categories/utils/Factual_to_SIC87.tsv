@@ -474,5 +474,11 @@ factual_id	factual_description	mapping_type	SIC_id	SIC_description
 304	Tailors	 	 	 
 308	Social	 	 	 
 373	Athletic Fields	 	 	 
-477	City Halls			
+477	City Halls
 478	Private Airports	NM	4581	Airports, Flying Fields, and Airport Terminal Services
+479	Electric Vehicle Charging Stations	NM	5500	Automotive Dealers and Gasoline Service Stations
+480	Comic Book Stores	NM	5942	Book Stores
+481	Comedy Clubs	NM	7929	Bands, Orchestras, Actors, and Other Entertainers and Entertainment
+482	Bubble Tea	NM	5810	Eating and Drinking Places
+483	Vaporizer Shops	NM	5993	Tobacco Stores and Stands
+484	Cannabis Stores	NM	5912	Drug Stores and Proprietary Stores
