@@ -473,7 +473,7 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 222	Business Brokers and Franchises	NM	541	Professional, Scientific, and Technical Services
 226	Fund Raising	NM	561499	All Other Business Support Services
 308	Social	NM	71	Arts, Entertainment, and Recreation
-459	Rest Areas
+459	Rest Areas			
 478	Private Airports	NM	488119	Other Airport Operations
 479	Electric Vehicle Charging Stations	NM	447190	Other Gasoline Stations
 480	Comic Book Stores	NM	451211	Book stores
