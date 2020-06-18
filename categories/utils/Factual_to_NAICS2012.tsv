@@ -464,7 +464,7 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 477	City Halls	NM	92	Public Administration
 2	Automotive	NM	441	Motor Vehicle and Parts Dealers
 3	Car Appraisers	NM	81112	Automotive Body, Paint, Interior, and Glass Repair
-108	Buildings and Structures	 	 	 
+108	Buildings and Structures			
 177	Businesses and Services	CR	73	Business Services
 185	Refrigeration and Ice	NM	312113	Ice Manufacturing
 205	Art Restoration	CR	711510	Independent Artists, Writers, and Performers
@@ -474,3 +474,10 @@ factual_id	factual_description	mapping_type	NAICS_id	NAICS_description
 226	Fund Raising	NM	561499	All Other Business Support Services
 308	Social	NM	71	Arts, Entertainment, and Recreation
 459	Rest Areas			
+478	Private Airports	NM	488119	Other Airport Operations
+479	Electric Vehicle Charging Stations	NM	447190	Other Gasoline Stations
+480	Comic Book Stores	NM	451211	Book stores
+481	Comedy Clubs	NM	711190	Other Performing Arts Companies
+482	Bubble Tea	NM	722515	Snack and Nonalcoholic Beverage Bars
+483	Vaporizer Shops	NM	453991	Tobacco Stores
+484	Cannabis Stores	NM	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)

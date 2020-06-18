@@ -8513,7 +8513,7 @@
     ],
     "abstract": false
   },
-   "474": {
+  "474": {
     "labels": {
       "en": "Attorneys and Law Offices",
       "de": "Rechtsanwalt und Anwaltskanzlei",
@@ -8567,7 +8567,7 @@
     ],
     "abstract": false
   },
-   "477": {
+  "477": {
     "labels": {
       "en": "City Halls",
       "de": "Rathaus",
@@ -8582,6 +8582,132 @@
     },
     "parents": [
       "20"
+    ],
+    "abstract": false
+  },
+  "478": {
+    "labels": {
+      "en": "Private Airports",
+      "de": "Private Flughäfen",
+      "fr": "Aéroports Privés",
+      "es": "Aeropuertos Privados",
+      "jp": "プライベート空港",
+      "kr": "개인 공항",
+      "zh-hant": "私人機場",
+      "zh": "私人机场",
+      "it": "Aeroporti Privati",
+      "pt": "Aeroportos Privados"
+    },
+    "parents": [
+      "425"
+    ],
+    "abstract": false
+  },
+  "479": {
+    "labels": {
+      "en": "Electric Vehicle Charging Stations",
+      "de": "Ladestationen für Elektrofahrzeuge",
+      "fr": "Stations de Recharge pour Véhicules Électriques",
+      "es": "Estaciones de Carga de Vehículos Eléctricos",
+      "jp": "電気自動車の充電ステーション",
+      "kr": "전기차 충전소",
+      "zh-hant": "電動汽車充電站",
+      "zh": "电动汽车充电站",
+      "it": "Stazioni di Ricarica per Veicoli Elettrici",
+      "pt": "Estações de Carregamento de Veículos Elétricos"
+    },
+    "parents": [
+      "417"
+    ],
+    "abstract": false
+  },
+  "480": {
+    "labels": {
+      "en": "Comic Book Stores",
+      "de": "Comic-Läden",
+      "fr": "Magasins de Bandes Dessinées",
+      "es": "Tiendas de Cómics",
+      "jp": "コミックブックストア",
+      "kr": "만화 점",
+      "zh-hant": "漫畫書店",
+      "zh": "漫画书店",
+      "it": "Negozi di Fumetti",
+      "pt": "Lojas de Revistas em Quadrinhos"
+    },
+    "parents": [
+      "123"
+    ],
+    "abstract": false
+  },
+  "481": {
+    "labels": {
+      "en": "Comedy Clubs",
+      "de": "Comedy Clubs",
+      "fr": "Clubs de Comédie",
+      "es": "Clubes de Comedia",
+      "jp": "コメディクラブ",
+      "kr": "코미디 클럽",
+      "zh-hant": "喜劇俱樂部",
+      "zh": "喜剧俱乐部",
+      "it": "Cabaret",
+      "pt": "Clubes de comédia"
+    },
+    "parents": [
+      "317"
+    ],
+    "abstract": false
+  },
+  "482": {
+    "labels": {
+      "en": "Bubble Tea",
+      "de": "Bubble Tea",
+      "fr": "Thé aux Bulles",
+      "es": "Té de Burbujas",
+      "jp": "バブルティー",
+      "kr": "버블티",
+      "zh-hant": "波霸奶茶",
+      "zh": "珍珠奶茶",
+      "it": "Bubble Tea",
+      "pt": "Chá de Bolhas"
+    },
+    "parents": [
+      "342"
+    ],
+    "abstract": false
+  },
+  "483": {
+    "labels": {
+      "en": "Vaporizer Shops",
+      "de": "Vaporizer Shops",
+      "fr": "Magasins de Vaporisateurs",
+      "es": "Tiendas de Vaporizadores",
+      "jp": "気化器ショップ",
+      "kr": "기화기 상점",
+      "zh-hant": "蒸發器商店",
+      "zh": "蒸发器商店",
+      "it": "Vaporizzatori",
+      "pt": "Lojas de Vaporizadores"
+    },
+    "parents": [
+      "172"
+    ],
+    "abstract": false
+  },
+  "484": {
+    "labels": {
+      "en": "Cannabis Stores",
+      "de": "Cannabis-Läden",
+      "fr": "Magasins de Cannabis",
+      "es": "Tiendas de Cannabis",
+      "jp": "大麻店",
+      "kr": "대마초 상점",
+      "zh-hant": "大麻商店",
+      "zh": "大麻商店",
+      "it": "Negozi di Cannabis",
+      "pt": "Lojas de Cannabis"
+    },
+    "parents": [
+      "123"
     ],
     "abstract": false
   }

@@ -475,5 +475,10 @@
 475	Other Healthcare Professionals	62	["Healthcare", "Other Healthcare Professionals"]
 476	Oral Surgeons	62	["Healthcare", "Physicians", "Oral Surgeons"]
 477	City Halls	20	["Community and Government", "City Halls"]
-
-
+478	Private Airports	425	["Transportation","Transport Hubs","Airports","Private Airports"]
+479	Electric Vehicle Charging Stations	417	["Transportation", "Gas Stations", "Electric Vehicle Charging Stations"]
+480	Comic Book Stores	123	["Retail", "Comic Book Stores"]
+481	Comedy Clubs	317	["Social", "Entertainment", "Comedy Clubs"]
+482	Bubble Tea	342	["Social", "Food and Dining", "Cafes, Coffee and Tea Houses", "Bubble Tea"]
+483	Vaporizer Shops	172	["Retail", "Tobacco", "Vaporizer Shops"]
+484	Cannabis Stores	123	["Retail", "Cannabis Stores"]
