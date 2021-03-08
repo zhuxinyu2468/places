@@ -1,8 +1,9 @@
-# Legacy to Integrated Category Maps
+# Integrated Places Category Files
 
-This folder contains mappings of:
-- legacy Foursquare category to Integrated category
-- legacy Factual category to Integrated category
+This folder contains the most up-to-date versions of:
+- the Integrated Places Category taxonomy.
+- mappings of legacy Foursquare categories to Integrated categories.
+- mappings of legacy Factual categories to Integrated categories.
 
 These mappings are derived from the sheet [here](https://docs.google.com/spreadsheets/d/1WEa155l35R84tWfKAKakF9-MoLZ8ZjKuvP5tbLW07JE/edit#gid=221336214).
 
