@@ -1514,10 +1514,10 @@
     "full_label": [
       "Business and Professional Services",
       "Health and Beauty Service",
-      "Beauty Salon"
+      "Hair Salon"
     ],
     "labels": {
-      "en": "Beauty Salon"
+      "en": "Hair Salon"
     },
     "parents": [
       "11061"
@@ -11328,10 +11328,10 @@
     "full_label": [
       "Health and Medicine",
       "Physician",
-      "Opthamologist"
+      "Ophthalmologist"
     ],
     "labels": {
-      "en": "Opthamologist"
+      "en": "Ophthalmologist"
     },
     "parents": [
       "15027"

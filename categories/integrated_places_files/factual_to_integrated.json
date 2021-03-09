@@ -1,0 +1,4205 @@
+{
+  "171": {
+    "factual_label": "Retail > Supermarkets and Groceries",
+    "single_match": {
+      "integrated_category_id": "17069",
+      "integrated_category_label": "Retail > Food and Beverage Retail > Grocery Store / Supermarket",
+      "is_exact": true
+    }
+  },
+  "270": {
+    "factual_label": "Businesses and Services > Legal > Credit Counseling and Bankruptcy Services",
+    "single_match": {
+      "integrated_category_id": "11050",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Credit Counseling and Bankruptcy Service",
+      "is_exact": true
+    }
+  },
+  "49": {
+    "factual_label": "Community and Government > Organizations and Associations > Environmental",
+    "single_match": {
+      "integrated_category_id": "12085",
+      "integrated_category_label": "Community and Government > Organization > Environmental Organization",
+      "is_exact": true
+    }
+  },
+  "158": {
+    "factual_label": "Retail > Gift and Novelty",
+    "single_match": {
+      "integrated_category_id": "17089",
+      "integrated_category_label": "Retail > Gift Store",
+      "is_exact": true
+    }
+  },
+  "74": {
+    "factual_label": "Healthcare > Hospitals, Clinics and Medical Centers",
+    "single_match": {
+      "integrated_category_id": "15000",
+      "integrated_category_label": "Health and Medicine",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "15016",
+        "integrated_category_label": "Health and Medicine > Medical Center",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "15014",
+        "integrated_category_label": "Health and Medicine > Hospital",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "15011",
+        "integrated_category_label": "Health and Medicine > Healthcare Clinic",
+        "is_exact": false
+      }
+    ]
+  },
+  "35": {
+    "factual_label": "Community and Government > Education > Tutoring and Educational Services",
+    "single_match": {
+      "integrated_category_id": "11172",
+      "integrated_category_label": "Business and Professional Services > Tutoring Service",
+      "is_exact": true
+    }
+  },
+  "109": {
+    "factual_label": "Landmarks > Gardens",
+    "single_match": {
+      "integrated_category_id": "16017",
+      "integrated_category_label": "Landmarks and Outdoors > Garden",
+      "is_exact": true
+    }
+  },
+  "339": {
+    "factual_label": "Social > Food and Dining > Bagels and Donuts",
+    "single_match": {
+      "integrated_category_id": "13001",
+      "integrated_category_label": "Dining and Drinking > Bagel Shop",
+      "is_exact": true
+    }
+  },
+  "182": {
+    "factual_label": "Businesses and Services > Packaging",
+    "single_match": {
+      "integrated_category_id": "17106",
+      "integrated_category_label": "Retail > Packaging Supply Store",
+      "is_exact": true
+    }
+  },
+  "128": {
+    "factual_label": "Retail > Beauty Products",
+    "single_match": {
+      "integrated_category_id": "17030",
+      "integrated_category_label": "Retail > Cosmetics Store",
+      "is_exact": true
+    }
+  },
+  "195": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Creative Services",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "399": {
+    "factual_label": "Sports and Recreation > Racquet Sports > Tennis",
+    "single_match": {
+      "integrated_category_id": "18045",
+      "integrated_category_label": "Sports and Recreation > Racquet Sports > Tennis",
+      "is_exact": true
+    }
+  },
+  "249": {
+    "factual_label": "Businesses and Services > Home Improvement > Home Inspection Services",
+    "single_match": {
+      "integrated_category_id": "11088",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Home Inspection",
+      "is_exact": true
+    }
+  },
+  "395": {
+    "factual_label": "Sports and Recreation > Personal Trainers",
+    "single_match": {
+      "integrated_category_id": "18038",
+      "integrated_category_label": "Sports and Recreation > Personal Trainer",
+      "is_exact": true
+    }
+  },
+  "78": {
+    "factual_label": "Healthcare > Mental Health > Psychologists",
+    "single_match": {
+      "integrated_category_id": "15020",
+      "integrated_category_label": "Health and Medicine > Mental Health Service > Psychologist",
+      "is_exact": true
+    }
+  },
+  "40": {
+    "factual_label": "Community and Government > Law Enforcement and Public Safety",
+    "single_match": {
+      "integrated_category_id": "12070",
+      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety",
+      "is_exact": true
+    }
+  },
+  "184": {
+    "factual_label": "Businesses and Services > Plastics",
+    "single_match": {
+      "integrated_category_id": "11141",
+      "integrated_category_label": "Business and Professional Services > Plastics Supplier",
+      "is_exact": true
+    }
+  },
+  "254": {
+    "factual_label": "Businesses and Services > Home Improvement > Lighting Fixtures",
+    "single_match": {
+      "integrated_category_id": "11076",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service",
+      "is_exact": false
+    }
+  },
+  "274": {
+    "factual_label": "Businesses and Services > Management",
+    "single_match": {
+      "integrated_category_id": "11119",
+      "integrated_category_label": "Business and Professional Services > Management Consultant",
+      "is_exact": true
+    }
+  },
+  "391": {
+    "factual_label": "Sports and Recreation > Outdoors > Hunting and Fishing",
+    "single_match": {
+      "integrated_category_id": "18000",
+      "integrated_category_label": "Sports and Recreation",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "17124",
+        "integrated_category_label": "Retail > Sporting Goods Retail > Hunting Supply Store",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17121",
+        "integrated_category_label": "Retail > Sporting Goods Retail > Fishing Store",
+        "is_exact": false
+      }
+    ]
+  },
+  "293": {
+    "factual_label": "Businesses and Services > Real Estate > Real Estate Agents",
+    "single_match": {
+      "integrated_category_id": "11149",
+      "integrated_category_label": "Business and Professional Services > Real Estate Service > Real Estate Agency",
+      "is_exact": true
+    }
+  },
+  "127": {
+    "factual_label": "Retail > Auctions",
+    "single_match": {
+      "integrated_category_id": "17004",
+      "integrated_category_label": "Retail > Auction House",
+      "is_exact": true
+    }
+  },
+  "347": {
+    "factual_label": "Social > Food and Dining > Restaurants",
+    "single_match": {
+      "integrated_category_id": "13065",
+      "integrated_category_label": "Dining and Drinking > Restaurant",
+      "is_exact": true
+    }
+  },
+  "82": {
+    "factual_label": "Healthcare > Physical Therapy and Rehabilitation > Sports Medicine",
+    "single_match": {
+      "integrated_category_id": "15052",
+      "integrated_category_label": "Health and Medicine > Sports Medicine Clinic",
+      "is_exact": true
+    }
+  },
+  "110": {
+    "factual_label": "Landmarks > Historic and Protected Sites",
+    "single_match": {
+      "integrated_category_id": "16020",
+      "integrated_category_label": "Landmarks and Outdoors > Historic and Protected Site",
+      "is_exact": true
+    }
+  },
+  "408": {
+    "factual_label": "Sports and Recreation > Water Sports",
+    "single_match": {
+      "integrated_category_id": "18067",
+      "integrated_category_label": "Sports and Recreation > Water Sports",
+      "is_exact": true
+    }
+  },
+  "267": {
+    "factual_label": "Businesses and Services > Import and Export",
+    "single_match": {
+      "integrated_category_id": "11104",
+      "integrated_category_label": "Business and Professional Services > Import and Export Service",
+      "is_exact": true
+    }
+  },
+  "380": {
+    "factual_label": "Sports and Recreation > Equestrian",
+    "single_match": {
+      "integrated_category_id": "18012",
+      "integrated_category_label": "Sports and Recreation > Equestrian Facility",
+      "is_exact": true
+    }
+  },
+  "170": {
+    "factual_label": "Retail > Sporting Goods",
+    "single_match": {
+      "integrated_category_id": "17117",
+      "integrated_category_label": "Retail > Sporting Goods Retail",
+      "is_exact": true
+    }
+  },
+  "29": {
+    "factual_label": "Community and Government > Education > Colleges and Universities",
+    "single_match": {
+      "integrated_category_id": "12013",
+      "integrated_category_label": "Community and Government > Education > College and University",
+      "is_exact": true
+    }
+  },
+  "31": {
+    "factual_label": "Community and Government > Education > Culinary Lessons and Schools",
+    "single_match": {
+      "integrated_category_id": "12050",
+      "integrated_category_label": "Community and Government > Education > Culinary School",
+      "is_exact": true
+    }
+  },
+  "405": {
+    "factual_label": "Sports and Recreation > Sports Clubs",
+    "single_match": {
+      "integrated_category_id": "18065",
+      "integrated_category_label": "Sports and Recreation > Sports Club",
+      "is_exact": true
+    }
+  },
+  "479": {
+    "factual_label": "Transportation > Fuel Stations > Electric Vehicle Charging Stations",
+    "single_match": {
+      "integrated_category_id": "19006",
+      "integrated_category_label": "Travel and Transportation > Electric Vehicle Charging Station",
+      "is_exact": true
+    }
+  },
+  "101": {
+    "factual_label": "Healthcare > Physicians > Radiologists",
+    "single_match": {
+      "integrated_category_id": "15048",
+      "integrated_category_label": "Health and Medicine > Physician > Radiologist",
+      "is_exact": true
+    }
+  },
+  "176": {
+    "factual_label": "Retail > Wedding and Bridal",
+    "single_match": {
+      "integrated_category_id": "17041",
+      "integrated_category_label": "Retail > Fashion Retail > Bridal Store",
+      "is_exact": true
+    }
+  },
+  "210": {
+    "factual_label": "Businesses and Services > Corporate HQ",
+    "single_match": {
+      "integrated_category_id": "11124",
+      "integrated_category_label": "Business and Professional Services > Office",
+      "is_exact": true
+    }
+  },
+  "80": {
+    "factual_label": "Healthcare > Pharmacies",
+    "single_match": {
+      "integrated_category_id": "17035",
+      "integrated_category_label": "Retail > Drugstore",
+      "is_exact": true
+    }
+  },
+  "291": {
+    "factual_label": "Businesses and Services > Real Estate",
+    "single_match": {
+      "integrated_category_id": "11145",
+      "integrated_category_label": "Business and Professional Services > Real Estate Service",
+      "is_exact": true
+    }
+  },
+  "475": {
+    "factual_label": "Healthcare > Other Healthcare Professionals",
+    "single_match": {
+      "integrated_category_id": "15025",
+      "integrated_category_label": "Health and Medicine > Other Healthcare Professional",
+      "is_exact": true
+    }
+  },
+  "432": {
+    "factual_label": "Travel > Lodging",
+    "single_match": {
+      "integrated_category_id": "19009",
+      "integrated_category_label": "Travel and Transportation > Lodging",
+      "is_exact": true
+    }
+  },
+  "394": {
+    "factual_label": "Sports and Recreation > Paintball",
+    "single_match": {
+      "integrated_category_id": "18037",
+      "integrated_category_label": "Sports and Recreation > Paintball Field",
+      "is_exact": true
+    }
+  },
+  "437": {
+    "factual_label": "Travel > Lodging > Lodges and Vacation Rentals",
+    "single_match": {
+      "integrated_category_id": "19019",
+      "integrated_category_label": "Travel and Transportation > Lodging > Vacation Rental",
+      "is_exact": true
+    }
+  },
+  "121": {
+    "factual_label": "Landmarks > Parks > Playgrounds",
+    "single_match": {
+      "integrated_category_id": "16037",
+      "integrated_category_label": "Landmarks and Outdoors > Park > Playground",
+      "is_exact": true
+    }
+  },
+  "9": {
+    "factual_label": "Automotive > Maintenance and Repair",
+    "single_match": {
+      "integrated_category_id": "11010",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Automotive Repair Shop",
+      "is_exact": true
+    }
+  },
+  "111": {
+    "factual_label": "Landmarks > Monuments and Memorials",
+    "single_match": {
+      "integrated_category_id": "16026",
+      "integrated_category_label": "Landmarks and Outdoors > Monument",
+      "is_exact": true
+    }
+  },
+  "172": {
+    "factual_label": "Retail > Tobacco",
+    "single_match": {
+      "integrated_category_id": "17134",
+      "integrated_category_label": "Retail > Tobacco Store",
+      "is_exact": true
+    }
+  },
+  "234": {
+    "factual_label": "Businesses and Services > Geological",
+    "single_match": {
+      "integrated_category_id": "11060",
+      "integrated_category_label": "Business and Professional Services > Geological Service",
+      "is_exact": true
+    }
+  },
+  "289": {
+    "factual_label": "Businesses and Services > Professional Cleaning",
+    "single_match": {
+      "integrated_category_id": "11097",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Professional Cleaning Service",
+      "is_exact": true
+    }
+  },
+  "310": {
+    "factual_label": "Social > Arts > Art Dealers and Galleries",
+    "single_match": {
+      "integrated_category_id": "10004",
+      "integrated_category_label": "Arts and Entertainment > Art Gallery",
+      "is_exact": true
+    }
+  },
+  "295": {
+    "factual_label": "Businesses and Services > Real Estate > Real Estate Development and Title Companies",
+    "single_match": {
+      "integrated_category_id": "11151",
+      "integrated_category_label": "Business and Professional Services > Real Estate Service > Real Estate Development and Title Company",
+      "is_exact": true
+    }
+  },
+  "223": {
+    "factual_label": "Businesses and Services > Financial > Check Cashing",
+    "single_match": {
+      "integrated_category_id": "11048",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Check Cashing Service",
+      "is_exact": true
+    }
+  },
+  "425": {
+    "factual_label": "Transportation > Transport Hubs > Airports",
+    "single_match": {
+      "integrated_category_id": "19031",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Airport",
+      "is_exact": true
+    }
+  },
+  "453": {
+    "factual_label": "Community and Government > Government Departments and Agencies > Embassies",
+    "single_match": {
+      "integrated_category_id": "12068",
+      "integrated_category_label": "Community and Government > Government Building > Embassy / Consulate",
+      "is_exact": true
+    }
+  },
+  "480": {
+    "factual_label": "Retail > Comic Book Stores",
+    "single_match": {
+      "integrated_category_id": "17022",
+      "integrated_category_label": "Retail > Comic Book Store",
+      "is_exact": true
+    }
+  },
+  "302": {
+    "factual_label": "Businesses and Services > Repair Services",
+    "single_match": {
+      "integrated_category_id": "11157",
+      "integrated_category_label": "Business and Professional Services > Repair Service",
+      "is_exact": true
+    }
+  },
+  "288": {
+    "factual_label": "Businesses and Services > Printing, Copying and Signage",
+    "single_match": {
+      "integrated_category_id": "17112",
+      "integrated_category_label": "Retail > Print Store",
+      "is_exact": true
+    }
+  },
+  "180": {
+    "factual_label": "Businesses and Services > Logging and Sawmills",
+    "single_match": {
+      "integrated_category_id": "11116",
+      "integrated_category_label": "Business and Professional Services > Logging Service",
+      "is_exact": true
+    }
+  },
+  "16": {
+    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters > Sales",
+    "single_match": {
+      "integrated_category_id": "17012",
+      "integrated_category_label": "Retail > Automotive Retail > Motorcycle Dealership",
+      "is_exact": true
+    }
+  },
+  "208": {
+    "factual_label": "Businesses and Services > Chemicals and Gasses",
+    "single_match": {
+      "integrated_category_id": "11024",
+      "integrated_category_label": "Business and Professional Services > Chemicals and Gasses Manufacturer",
+      "is_exact": true
+    }
+  },
+  "420": {
+    "factual_label": "Transportation > Taxi and Car Services",
+    "single_match": {
+      "integrated_category_id": "19049",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Taxi Stand",
+      "is_exact": true
+    }
+  },
+  "224": {
+    "factual_label": "Businesses and Services > Financial > Collections",
+    "single_match": {
+      "integrated_category_id": "11049",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Collections Service",
+      "is_exact": true
+    }
+  },
+  "440": {
+    "factual_label": "Travel > Travel Agents and Tour Operators",
+    "single_match": {
+      "integrated_category_id": "19000",
+      "integrated_category_label": "Travel and Transportation",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "19055",
+        "integrated_category_label": "Travel and Transportation > Travel Agency",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "19029",
+        "integrated_category_label": "Travel and Transportation > Tourist Information and Service > Tour Provider",
+        "is_exact": false
+      }
+    ]
+  },
+  "236": {
+    "factual_label": "Businesses and Services > Home Improvement > Architects",
+    "single_match": {
+      "integrated_category_id": "11003",
+      "integrated_category_label": "Business and Professional Services > Architecture Firm",
+      "is_exact": true
+    }
+  },
+  "24": {
+    "factual_label": "Community and Government > Disabled Persons Services",
+    "single_match": {
+      "integrated_category_id": "12006",
+      "integrated_category_label": "Community and Government > Disabled Persons Service",
+      "is_exact": true
+    }
+  },
+  "123": {
+    "factual_label": "Retail",
+    "single_match": {
+      "integrated_category_id": "17000",
+      "integrated_category_label": "Retail",
+      "is_exact": true
+    }
+  },
+  "351": {
+    "factual_label": "Social > Food and Dining > Restaurants > Burgers",
+    "single_match": {
+      "integrated_category_id": "13031",
+      "integrated_category_label": "Dining and Drinking > Burger Joint",
+      "is_exact": true
+    }
+  },
+  "166": {
+    "factual_label": "Retail > Pawn Shops",
+    "single_match": {
+      "integrated_category_id": "17108",
+      "integrated_category_label": "Retail > Pawn Shop",
+      "is_exact": true
+    }
+  },
+  "247": {
+    "factual_label": "Businesses and Services > Home Improvement > Heating, Ventilating and Air Conditioning",
+    "single_match": {
+      "integrated_category_id": "11087",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Heating, Ventilating and Air Conditioning Contractor",
+      "is_exact": true
+    }
+  },
+  "167": {
+    "factual_label": "Retail > Pets",
+    "single_match": {
+      "integrated_category_id": "17110",
+      "integrated_category_label": "Retail > Pet Supplies Store",
+      "is_exact": true
+    }
+  },
+  "238": {
+    "factual_label": "Businesses and Services > Home Improvement > Carpet and Flooring",
+    "single_match": {
+      "integrated_category_id": "11079",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Carpet and Flooring Contractor",
+      "is_exact": true
+    }
+  },
+  "227": {
+    "factual_label": "Businesses and Services > Financial > Loans and Mortgages",
+    "single_match": {
+      "integrated_category_id": "11054",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Loans Agency",
+      "is_exact": true
+    }
+  },
+  "41": {
+    "factual_label": "Community and Government > Law Enforcement and Public Safety > Rescue Services",
+    "single_match": {
+      "integrated_category_id": "15008",
+      "integrated_category_label": "Health and Medicine > Emergency Service",
+      "is_exact": false
+    }
+  },
+  "322": {
+    "factual_label": "Social > Entertainment > Bowling",
+    "single_match": {
+      "integrated_category_id": "10006",
+      "integrated_category_label": "Arts and Entertainment > Bowling Alley",
+      "is_exact": true
+    }
+  },
+  "138": {
+    "factual_label": "Retail > Convenience Stores",
+    "single_match": {
+      "integrated_category_id": "17029",
+      "integrated_category_label": "Retail > Convenience Store",
+      "is_exact": true
+    }
+  },
+  "197": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Market Research and Consulting",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "306": {
+    "factual_label": "Businesses and Services > Technology > Web Design and Development",
+    "single_match": {
+      "integrated_category_id": "11169",
+      "integrated_category_label": "Business and Professional Services > Technology Business > Website Designer",
+      "is_exact": true
+    }
+  },
+  "186": {
+    "factual_label": "Businesses and Services > Rubber",
+    "single_match": {
+      "integrated_category_id": "11159",
+      "integrated_category_label": "Business and Professional Services > Rubber Supplier",
+      "is_exact": true
+    }
+  },
+  "317": {
+    "factual_label": "Social > Entertainment",
+    "single_match": {
+      "integrated_category_id": "10000",
+      "integrated_category_label": "Arts and Entertainment",
+      "is_exact": false
+    }
+  },
+  "13": {
+    "factual_label": "Automotive > Maintenance and Repair > Transmissions",
+    "single_match": {
+      "integrated_category_id": "11017",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Transmissions Shop",
+      "is_exact": true
+    }
+  },
+  "484": {
+    "factual_label": "Retail > Cannabis Stores",
+    "single_match": {
+      "integrated_category_id": "17021",
+      "integrated_category_label": "Retail > Cannabis Store",
+      "is_exact": true
+    }
+  },
+  "175": {
+    "factual_label": "Retail > Warehouses and Wholesale Stores",
+    "single_match": {
+      "integrated_category_id": "17139",
+      "integrated_category_label": "Retail > Warehouse / Wholesale Store",
+      "is_exact": true
+    }
+  },
+  "143": {
+    "factual_label": "Retail > Fashion > Clothing and Accessories",
+    "single_match": {
+      "integrated_category_id": "17043",
+      "integrated_category_label": "Retail > Fashion Retail > Clothing Store",
+      "is_exact": true
+    }
+  },
+  "423": {
+    "factual_label": "Transportation > Taxi and Car Services > Limos and Chauffeurs",
+    "single_match": {
+      "integrated_category_id": "19053",
+      "integrated_category_label": "Travel and Transportation > Transportation Service > Limo / Chauffeur",
+      "is_exact": true
+    }
+  },
+  "55": {
+    "factual_label": "Community and Government > Religious > Churches",
+    "single_match": {
+      "integrated_category_id": "12101",
+      "integrated_category_label": "Community and Government > Spiritual Center > Church",
+      "is_exact": true
+    }
+  },
+  "358": {
+    "factual_label": "Social > Food and Dining > Restaurants > Italian",
+    "single_match": {
+      "integrated_category_id": "13236",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Italian Restaurant",
+      "is_exact": true
+    }
+  },
+  "383": {
+    "factual_label": "Sports and Recreation > Gun Ranges",
+    "single_match": {
+      "integrated_category_id": "18020",
+      "integrated_category_label": "Sports and Recreation > Gun Range",
+      "is_exact": true
+    }
+  },
+  "187": {
+    "factual_label": "Businesses and Services > Scientific",
+    "single_match": {
+      "integrated_category_id": "11161",
+      "integrated_category_label": "Business and Professional Services > Scientific Equipment Supplier",
+      "is_exact": true
+    }
+  },
+  "36": {
+    "factual_label": "Community and Government > Education > Vocational Schools",
+    "single_match": {
+      "integrated_category_id": "12063",
+      "integrated_category_label": "Community and Government > Education > Trade School",
+      "is_exact": true
+    }
+  },
+  "451": {
+    "factual_label": "Sports and Recreation > Golf > Golf Courses",
+    "single_match": {
+      "integrated_category_id": "18018",
+      "integrated_category_label": "Sports and Recreation > Golf > Golf Course",
+      "is_exact": true
+    }
+  },
+  "239": {
+    "factual_label": "Businesses and Services > Home Improvement > Contractors",
+    "single_match": {
+      "integrated_category_id": "11086",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > General Contractor",
+      "is_exact": true
+    }
+  },
+  "148": {
+    "factual_label": "Retail > Florists",
+    "single_match": {
+      "integrated_category_id": "17056",
+      "integrated_category_label": "Retail > Flower Store",
+      "is_exact": true
+    }
+  },
+  "120": {
+    "factual_label": "Landmarks > Parks > Picnic Areas",
+    "single_match": {
+      "integrated_category_id": "16036",
+      "integrated_category_label": "Landmarks and Outdoors > Park > Picnic Area",
+      "is_exact": true
+    }
+  },
+  "33": {
+    "factual_label": "Community and Government > Education > Fraternities and Sororities",
+    "single_match": {
+      "integrated_category_id": "12013",
+      "integrated_category_label": "Community and Government > Education > College and University",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "12043",
+        "integrated_category_label": "Community and Government > Education > College and University > Fraternity House",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "12046",
+        "integrated_category_label": "Community and Government > Education > College and University > Sorority House",
+        "is_exact": false
+      }
+    ]
+  },
+  "305": {
+    "factual_label": "Businesses and Services > Veterinarians",
+    "single_match": {
+      "integrated_category_id": "15054",
+      "integrated_category_label": "Health and Medicine > Veterinarian",
+      "is_exact": true
+    }
+  },
+  "286": {
+    "factual_label": "Businesses and Services > Personal Care > Tanning Salons",
+    "single_match": {
+      "integrated_category_id": "11074",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Tanning Salon",
+      "is_exact": true
+    }
+  },
+  "7": {
+    "factual_label": "Automotive > Car Wash and Detail",
+    "single_match": {
+      "integrated_category_id": "11011",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Car Wash and Detail",
+      "is_exact": true
+    }
+  },
+  "253": {
+    "factual_label": "Businesses and Services > Home Improvement > Landscaping and Gardeners",
+    "single_match": {
+      "integrated_category_id": "11092",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Landscaper and Gardener",
+      "is_exact": true
+    }
+  },
+  "415": {
+    "factual_label": "Transportation",
+    "single_match": {
+      "integrated_category_id": "19000",
+      "integrated_category_label": "Travel and Transportation",
+      "is_exact": false
+    }
+  },
+  "344": {
+    "factual_label": "Social > Food and Dining > Ice Cream Parlors",
+    "single_match": {
+      "integrated_category_id": "13046",
+      "integrated_category_label": "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+      "is_exact": true
+    }
+  },
+  "242": {
+    "factual_label": "Businesses and Services > Home Improvement > Contractors > Sewer",
+    "single_match": {
+      "integrated_category_id": "11099",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Sewer Contractor",
+      "is_exact": true
+    }
+  },
+  "377": {
+    "factual_label": "Sports and Recreation > Combat Sports",
+    "single_match": {
+      "integrated_category_id": "18036",
+      "integrated_category_label": "Sports and Recreation > Martial Arts Dojo",
+      "is_exact": true
+    }
+  },
+  "157": {
+    "factual_label": "Retail > Furniture and Decor",
+    "single_match": {
+      "integrated_category_id": "17082",
+      "integrated_category_label": "Retail > Furniture and Home Store",
+      "is_exact": true
+    }
+  },
+  "97": {
+    "factual_label": "Healthcare > Physicians > Pathologists",
+    "single_match": {
+      "integrated_category_id": "15044",
+      "integrated_category_label": "Health and Medicine > Physician > Pathologist",
+      "is_exact": true
+    }
+  },
+  "435": {
+    "factual_label": "Travel > Lodging > Hostels",
+    "single_match": {
+      "integrated_category_id": "19013",
+      "integrated_category_label": "Travel and Transportation > Lodging > Hostel",
+      "is_exact": true
+    }
+  },
+  "448": {
+    "factual_label": "Businesses and Services > Legal > Notary",
+    "single_match": {
+      "integrated_category_id": "11114",
+      "integrated_category_label": "Business and Professional Services > Legal Service > Notary",
+      "is_exact": true
+    }
+  },
+  "91": {
+    "factual_label": "Healthcare > Physicians > Internal Medicine",
+    "single_match": {
+      "integrated_category_id": "15037",
+      "integrated_category_label": "Health and Medicine > Physician > Internal Medicine Doctor",
+      "is_exact": true
+    }
+  },
+  "73": {
+    "factual_label": "Healthcare > Holistic, Alternative and Naturopathic Medicine > Acupuncture",
+    "single_match": {
+      "integrated_category_id": "15001",
+      "integrated_category_label": "Health and Medicine > Acupuncture Clinic",
+      "is_exact": true
+    }
+  },
+  "44": {
+    "factual_label": "Community and Government > Libraries",
+    "single_match": {
+      "integrated_category_id": "12080",
+      "integrated_category_label": "Community and Government > Library",
+      "is_exact": true
+    }
+  },
+  "300": {
+    "factual_label": "Businesses and Services > Real Estate > Corporate Housing",
+    "single_match": {
+      "integrated_category_id": "11127",
+      "integrated_category_label": "Business and Professional Services > Office > Corporate Housing Agency",
+      "is_exact": true
+    }
+  },
+  "181": {
+    "factual_label": "Businesses and Services > Metals",
+    "single_match": {
+      "integrated_category_id": "11122",
+      "integrated_category_label": "Business and Professional Services > Metals Supplier",
+      "is_exact": true
+    }
+  },
+  "304": {
+    "factual_label": "Businesses and Services > Tailors",
+    "single_match": {
+      "integrated_category_id": "11166",
+      "integrated_category_label": "Business and Professional Services > Tailor",
+      "is_exact": true
+    }
+  },
+  "38": {
+    "factual_label": "Community and Government > Government Lobbyists",
+    "single_match": {
+      "integrated_category_id": "12076",
+      "integrated_category_label": "Community and Government > Government Lobbyist",
+      "is_exact": true
+    }
+  },
+  "419": {
+    "factual_label": "Transportation > Public Transportation Services",
+    "single_match": {
+      "integrated_category_id": "19054",
+      "integrated_category_label": "Travel and Transportation > Transportation Service > Public Transportation",
+      "is_exact": true
+    }
+  },
+  "92": {
+    "factual_label": "Healthcare > Physicians > Neurologists",
+    "single_match": {
+      "integrated_category_id": "15038",
+      "integrated_category_label": "Health and Medicine > Physician > Neurologist",
+      "is_exact": true
+    }
+  },
+  "90": {
+    "factual_label": "Healthcare > Physicians > General Surgery",
+    "single_match": {
+      "integrated_category_id": "15035",
+      "integrated_category_label": "Health and Medicine > Physician > General Surgeon",
+      "is_exact": true
+    }
+  },
+  "83": {
+    "factual_label": "Healthcare > Physicians",
+    "single_match": {
+      "integrated_category_id": "15027",
+      "integrated_category_label": "Health and Medicine > Physician",
+      "is_exact": true
+    }
+  },
+  "216": {
+    "factual_label": "Businesses and Services > Equipment Rental",
+    "single_match": {
+      "integrated_category_id": "11037",
+      "integrated_category_label": "Business and Professional Services > Equipment Rental Service",
+      "is_exact": true
+    }
+  },
+  "258": {
+    "factual_label": "Businesses and Services > Home Improvement > Pest Control",
+    "single_match": {
+      "integrated_category_id": "11095",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Pest Control Service",
+      "is_exact": true
+    }
+  },
+  "193": {
+    "factual_label": "Businesses and Services > Advertising and Marketing",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": true
+    }
+  },
+  "416": {
+    "factual_label": "Transportation > Airlines and Aviation Services",
+    "single_match": {
+      "integrated_category_id": "19036",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Airport > Airport Service",
+      "is_exact": true
+    }
+  },
+  "207": {
+    "factual_label": "Businesses and Services > Automation and Control Systems",
+    "single_match": {
+      "integrated_category_id": "11008",
+      "integrated_category_label": "Business and Professional Services > Automation and Control System",
+      "is_exact": true
+    }
+  },
+  "429": {
+    "factual_label": "Transportation > Transport Hubs > Rail Stations",
+    "single_match": {
+      "integrated_category_id": "19047",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Rail Station",
+      "is_exact": true
+    }
+  },
+  "443": {
+    "factual_label": "Retail > Food and Beverage > Meat and Seafood",
+    "single_match": {
+      "integrated_category_id": "17077",
+      "integrated_category_label": "Retail > Food and Beverage Retail > Meat and Seafood Store",
+      "is_exact": true
+    }
+  },
+  "331": {
+    "factual_label": "Social > Entertainment > Miniature Golf",
+    "single_match": {
+      "integrated_category_id": "10023",
+      "integrated_category_label": "Arts and Entertainment > Mini Golf Course",
+      "is_exact": true
+    }
+  },
+  "244": {
+    "factual_label": "Businesses and Services > Home Improvement > Electricians",
+    "single_match": {
+      "integrated_category_id": "11083",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Electrician",
+      "is_exact": true
+    }
+  },
+  "72": {
+    "factual_label": "Healthcare > Holistic, Alternative and Naturopathic Medicine",
+    "single_match": {
+      "integrated_category_id": "15003",
+      "integrated_category_label": "Health and Medicine > Alternative Medicine Clinic",
+      "is_exact": true
+    }
+  },
+  "483": {
+    "factual_label": "Retail > Tobacco > Vaporizer Shops",
+    "single_match": {
+      "integrated_category_id": "17136",
+      "integrated_category_label": "Retail > Vaporizer Store",
+      "is_exact": true
+    }
+  },
+  "81": {
+    "factual_label": "Healthcare > Physical Therapy and Rehabilitation",
+    "single_match": {
+      "integrated_category_id": "15026",
+      "integrated_category_label": "Health and Medicine > Physical Therapy Clinic",
+      "is_exact": true
+    }
+  },
+  "56": {
+    "factual_label": "Community and Government > Religious > Hindu Temples",
+    "single_match": {
+      "integrated_category_id": "12103",
+      "integrated_category_label": "Community and Government > Spiritual Center > Hindu Temple",
+      "is_exact": true
+    }
+  },
+  "190": {
+    "factual_label": "Businesses and Services > Textiles",
+    "single_match": {
+      "integrated_category_id": "17038",
+      "integrated_category_label": "Retail > Fabric / Textiles Store",
+      "is_exact": true
+    }
+  },
+  "476": {
+    "factual_label": "Healthcare > Physicians > Oral Surgeons",
+    "single_match": {
+      "integrated_category_id": "15042",
+      "integrated_category_label": "Health and Medicine > Physician > Oral Surgeon",
+      "is_exact": true
+    }
+  },
+  "406": {
+    "factual_label": "Sports and Recreation > Stadiums and Arenas",
+    "single_match": {
+      "integrated_category_id": "10051",
+      "integrated_category_label": "Arts and Entertainment > Stadium",
+      "is_exact": true
+    }
+  },
+  "130": {
+    "factual_label": "Retail > Bookstores",
+    "single_match": {
+      "integrated_category_id": "17018",
+      "integrated_category_label": "Retail > Bookstore",
+      "is_exact": true
+    }
+  },
+  "108": {
+    "factual_label": "Landmarks > Buildings and Structures",
+    "single_match": {
+      "integrated_category_id": "16007",
+      "integrated_category_label": "Landmarks and Outdoors > Building / Structure",
+      "is_exact": true
+    }
+  },
+  "45": {
+    "factual_label": "Community and Government > Military",
+    "single_match": {
+      "integrated_category_id": "12073",
+      "integrated_category_label": "Community and Government > Government Building > Military",
+      "is_exact": true
+    }
+  },
+  "325": {
+    "factual_label": "Social > Entertainment > Circuses",
+    "single_match": {
+      "integrated_category_id": "10009",
+      "integrated_category_label": "Arts and Entertainment > Circus",
+      "is_exact": true
+    }
+  },
+  "360": {
+    "factual_label": "Social > Food and Dining > Restaurants > Korean",
+    "single_match": {
+      "integrated_category_id": "13289",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Korean Restaurant",
+      "is_exact": true
+    }
+  },
+  "70": {
+    "factual_label": "Healthcare > Emergency Services",
+    "single_match": {
+      "integrated_category_id": "15008",
+      "integrated_category_label": "Health and Medicine > Emergency Service",
+      "is_exact": true
+    }
+  },
+  "338": {
+    "factual_label": "Social > Food and Dining",
+    "single_match": {
+      "integrated_category_id": "13000",
+      "integrated_category_label": "Dining and Drinking",
+      "is_exact": true
+    }
+  },
+  "178": {
+    "factual_label": "Businesses and Services > Business and Strategy Consulting",
+    "single_match": {
+      "integrated_category_id": "11020",
+      "integrated_category_label": "Business and Professional Services > Business and Strategy Consulting Office",
+      "is_exact": true
+    }
+  },
+  "237": {
+    "factual_label": "Businesses and Services > Home Improvement > Carpenters",
+    "single_match": {
+      "integrated_category_id": "11078",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Carpenter",
+      "is_exact": true
+    }
+  },
+  "106": {
+    "factual_label": "Healthcare > Weight Loss and Nutritionists",
+    "single_match": {
+      "integrated_category_id": "15023",
+      "integrated_category_label": "Health and Medicine > Nutritionist",
+      "is_exact": true
+    }
+  },
+  "107": {
+    "factual_label": "Landmarks",
+    "single_match": {
+      "integrated_category_id": "16000",
+      "integrated_category_label": "Landmarks and Outdoors",
+      "is_exact": false
+    }
+  },
+  "452": {
+    "factual_label": "Sports and Recreation > Water Sports > Surfing",
+    "single_match": {
+      "integrated_category_id": "18072",
+      "integrated_category_label": "Sports and Recreation > Water Sports > Surfing",
+      "is_exact": true
+    }
+  },
+  "32": {
+    "factual_label": "Community and Government > Education > Driving Schools",
+    "single_match": {
+      "integrated_category_id": "12051",
+      "integrated_category_label": "Community and Government > Education > Driving School",
+      "is_exact": true
+    }
+  },
+  "221": {
+    "factual_label": "Businesses and Services > Financial > Banking and Finance",
+    "single_match": {
+      "integrated_category_id": "11046",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance",
+      "is_exact": true
+    }
+  },
+  "330": {
+    "factual_label": "Social > Entertainment > Karaoke",
+    "single_match": {
+      "integrated_category_id": "13015",
+      "integrated_category_label": "Dining and Drinking > Bar > Karaoke Bar",
+      "is_exact": true
+    }
+  },
+  "296": {
+    "factual_label": "Businesses and Services > Real Estate > Apartments, Condos, and Houses",
+    "single_match": {
+      "integrated_category_id": "12094",
+      "integrated_category_label": "Community and Government > Residential Building",
+      "is_exact": true
+    }
+  },
+  "441": {
+    "factual_label": "Healthcare > Physicians > Geriatrics",
+    "single_match": {
+      "integrated_category_id": "15036",
+      "integrated_category_label": "Health and Medicine > Physician > Geriatric Doctor",
+      "is_exact": true
+    }
+  },
+  "2": {
+    "factual_label": "Automotive",
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11009",
+        "integrated_category_label": "Business and Professional Services > Automotive Service",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17005",
+        "integrated_category_label": "Retail > Automotive Retail",
+        "is_exact": false
+      }
+    ]
+  },
+  "50": {
+    "factual_label": "Community and Government > Organizations and Associations > Youth Organizations",
+    "single_match": {
+      "integrated_category_id": "12089",
+      "integrated_category_label": "Community and Government > Organization > Youth Organization",
+      "is_exact": true
+    }
+  },
+  "434": {
+    "factual_label": "Travel > Lodging > Cottages and Cabins",
+    "single_match": {
+      "integrated_category_id": "19012",
+      "integrated_category_label": "Travel and Transportation > Lodging > Cottage / Cabin",
+      "is_exact": true
+    }
+  },
+  "301": {
+    "factual_label": "Businesses and Services > Renewable Energy",
+    "single_match": {
+      "integrated_category_id": "11155",
+      "integrated_category_label": "Business and Professional Services > Renewable Energy Service",
+      "is_exact": true
+    }
+  },
+  "390": {
+    "factual_label": "Sports and Recreation > Outdoors > Hot Air Balloons",
+    "single_match": {
+      "integrated_category_id": "19008",
+      "integrated_category_label": "Travel and Transportation > Hot Air Balloon Tour Agency",
+      "is_exact": true
+    }
+  },
+  "146": {
+    "factual_label": "Retail > Fashion > Swimwear",
+    "single_match": {
+      "integrated_category_id": "17050",
+      "integrated_category_label": "Retail > Fashion Retail > Swimwear Store",
+      "is_exact": true
+    }
+  },
+  "93": {
+    "factual_label": "Healthcare > Physicians > Obstetricians and Gynecologists",
+    "single_match": {
+      "integrated_category_id": "15039",
+      "integrated_category_label": "Health and Medicine > Physician > Obstetrician Gynecologist (Ob-gyn)",
+      "is_exact": true
+    }
+  },
+  "264": {
+    "factual_label": "Businesses and Services > Home Improvement > Tree Service",
+    "single_match": {
+      "integrated_category_id": "11101",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Tree Service",
+      "is_exact": true
+    }
+  },
+  "245": {
+    "factual_label": "Businesses and Services > Home Improvement > Fences, Fireplaces and Garage Doors",
+    "single_match": {
+      "integrated_category_id": "11076",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11080",
+        "integrated_category_label": "Business and Professional Services > Home Improvement Service > Chimney Sweep",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11085",
+        "integrated_category_label": "Business and Professional Services > Home Improvement Service > Garage Door Supplier",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11084",
+        "integrated_category_label": "Business and Professional Services > Home Improvement Service > Fence Contractor",
+        "is_exact": false
+      }
+    ]
+  },
+  "27": {
+    "factual_label": "Community and Government > Education > Adult Education",
+    "single_match": {
+      "integrated_category_id": "12010",
+      "integrated_category_label": "Community and Government > Education > Adult Education",
+      "is_exact": true
+    }
+  },
+  "8": {
+    "factual_label": "Automotive > Classic and Antique Car",
+    "single_match": {
+      "integrated_category_id": "17007",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > Classic and Antique Car Dealership",
+      "is_exact": true
+    }
+  },
+  "5": {
+    "factual_label": "Automotive > Car Dealers and Leasing > Used Cars",
+    "single_match": {
+      "integrated_category_id": "17010",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > Used Car Dealership",
+      "is_exact": true
+    }
+  },
+  "318": {
+    "factual_label": "Social > Entertainment > Adult Entertainment",
+    "single_match": {
+      "integrated_category_id": "10052",
+      "integrated_category_label": "Arts and Entertainment > Strip Club",
+      "is_exact": true
+    }
+  },
+  "341": {
+    "factual_label": "Social > Food and Dining > Breweries",
+    "single_match": {
+      "integrated_category_id": "13029",
+      "integrated_category_label": "Dining and Drinking > Brewery",
+      "is_exact": true
+    }
+  },
+  "103": {
+    "factual_label": "Healthcare > Physicians > Urologists",
+    "single_match": {
+      "integrated_category_id": "15050",
+      "integrated_category_label": "Health and Medicine > Physician > Urologist",
+      "is_exact": true
+    }
+  },
+  "469": {
+    "factual_label": "Retail > Pets > Pet Sitting and Boarding",
+    "single_match": {
+      "integrated_category_id": "11135",
+      "integrated_category_label": "Business and Professional Services > Pet Service > Pet Sitting and Boarding Service",
+      "is_exact": true
+    }
+  },
+  "196": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Direct Mail and Email Marketing Services",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "256": {
+    "factual_label": "Businesses and Services > Home Improvement > Movers",
+    "single_match": {
+      "integrated_category_id": "11093",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Mover",
+      "is_exact": true
+    }
+  },
+  "280": {
+    "factual_label": "Businesses and Services > Personal Care > Beauty Salons and Barbers",
+    "single_match": {
+      "integrated_category_id": "11061",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11064",
+        "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Hair Salon",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11062",
+        "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Barbershop",
+        "is_exact": false
+      }
+    ]
+  },
+  "65": {
+    "factual_label": "Healthcare > Home Health Care Services",
+    "single_match": {
+      "integrated_category_id": "15012",
+      "integrated_category_label": "Health and Medicine > Home Health Care Service",
+      "is_exact": true
+    }
+  },
+  "98": {
+    "factual_label": "Healthcare > Physicians > Pediatricians",
+    "single_match": {
+      "integrated_category_id": "15045",
+      "integrated_category_label": "Health and Medicine > Physician > Pediatrician",
+      "is_exact": true
+    }
+  },
+  "124": {
+    "factual_label": "Retail > Adult",
+    "single_match": {
+      "integrated_category_id": "17001",
+      "integrated_category_label": "Retail > Adult Store",
+      "is_exact": true
+    }
+  },
+  "364": {
+    "factual_label": "Social > Food and Dining > Restaurants > Seafood",
+    "single_match": {
+      "integrated_category_id": "13338",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Seafood Restaurant",
+      "is_exact": true
+    }
+  },
+  "215": {
+    "factual_label": "Businesses and Services > Entertainment > Media",
+    "single_match": {
+      "integrated_category_id": "11121",
+      "integrated_category_label": "Business and Professional Services > Media Agency",
+      "is_exact": true
+    }
+  },
+  "456": {
+    "factual_label": "Businesses and Services > Technology > Advertising",
+    "single_match": {
+      "integrated_category_id": "11167",
+      "integrated_category_label": "Business and Professional Services > Technology Business",
+      "is_exact": false
+    }
+  },
+  "368": {
+    "factual_label": "Social > Food and Dining > Restaurants > Vegan and Vegetarian",
+    "single_match": {
+      "integrated_category_id": "13377",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant",
+      "is_exact": true
+    }
+  },
+  "315": {
+    "factual_label": "Social > Bars > Sports Bars",
+    "single_match": {
+      "integrated_category_id": "13022",
+      "integrated_category_label": "Dining and Drinking > Bar > Sports Bar",
+      "is_exact": true
+    }
+  },
+  "279": {
+    "factual_label": "Businesses and Services > Personal Care > Hair Removal",
+    "single_match": {
+      "integrated_category_id": "11067",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Hair Removal Service",
+      "is_exact": true
+    }
+  },
+  "60": {
+    "factual_label": "Community and Government > Senior Citizen Services > Retirement",
+    "single_match": {
+      "integrated_category_id": "12095",
+      "integrated_category_label": "Community and Government > Retirement Home",
+      "is_exact": true
+    }
+  },
+  "246": {
+    "factual_label": "Businesses and Services > Home Improvement > Hardware and Services",
+    "single_match": {
+      "integrated_category_id": "11076",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service",
+      "is_exact": false
+    }
+  },
+  "367": {
+    "factual_label": "Social > Food and Dining > Restaurants > Thai",
+    "single_match": {
+      "integrated_category_id": "13352",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Thai Restaurant",
+      "is_exact": true
+    }
+  },
+  "262": {
+    "factual_label": "Businesses and Services > Storage",
+    "single_match": {
+      "integrated_category_id": "11165",
+      "integrated_category_label": "Business and Professional Services > Storage Facility",
+      "is_exact": true
+    }
+  },
+  "85": {
+    "factual_label": "Healthcare > Physicians > Cardiologists",
+    "single_match": {
+      "integrated_category_id": "15029",
+      "integrated_category_label": "Health and Medicine > Physician > Cardiologist",
+      "is_exact": true
+    }
+  },
+  "269": {
+    "factual_label": "Businesses and Services > Legal",
+    "single_match": {
+      "integrated_category_id": "11111",
+      "integrated_category_label": "Business and Professional Services > Legal Service",
+      "is_exact": true
+    }
+  },
+  "369": {
+    "factual_label": "Social > Country Clubs",
+    "single_match": {
+      "integrated_category_id": "10011",
+      "integrated_category_label": "Arts and Entertainment > Country Club",
+      "is_exact": true
+    }
+  },
+  "404": {
+    "factual_label": "Sports and Recreation > Soccer",
+    "single_match": {
+      "integrated_category_id": "18062",
+      "integrated_category_label": "Sports and Recreation > Soccer",
+      "is_exact": true
+    }
+  },
+  "374": {
+    "factual_label": "Sports and Recreation > Baseball",
+    "single_match": {
+      "integrated_category_id": "18002",
+      "integrated_category_label": "Sports and Recreation > Baseball",
+      "is_exact": true
+    }
+  },
+  "153": {
+    "factual_label": "Retail > Food and Beverage > Chocolate",
+    "single_match": {
+      "integrated_category_id": "17062",
+      "integrated_category_label": "Retail > Food and Beverage Retail > Chocolate Store",
+      "is_exact": true
+    }
+  },
+  "209": {
+    "factual_label": "Businesses and Services > Computers",
+    "single_match": {
+      "integrated_category_id": "11027",
+      "integrated_category_label": "Business and Professional Services > Computer Repair Service",
+      "is_exact": true
+    }
+  },
+  "445": {
+    "factual_label": "Retail > Party Supplies",
+    "single_match": {
+      "integrated_category_id": "17107",
+      "integrated_category_label": "Retail > Party Supply Store",
+      "is_exact": true
+    }
+  },
+  "165": {
+    "factual_label": "Retail > Outlet",
+    "single_match": {
+      "integrated_category_id": "17105",
+      "integrated_category_label": "Retail > Outlet Store",
+      "is_exact": true
+    }
+  },
+  "84": {
+    "factual_label": "Healthcare > Physicians > Anesthesiologists",
+    "single_match": {
+      "integrated_category_id": "15028",
+      "integrated_category_label": "Health and Medicine > Physician > Anesthesiologist",
+      "is_exact": true
+    }
+  },
+  "203": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Writing, Copywriting and Technical Writing",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "139": {
+    "factual_label": "Retail > Costumes",
+    "single_match": {
+      "integrated_category_id": "17031",
+      "integrated_category_label": "Retail > Costume Store",
+      "is_exact": true
+    }
+  },
+  "77": {
+    "factual_label": "Healthcare > Mental Health > Counseling and Therapy",
+    "single_match": {
+      "integrated_category_id": "15019",
+      "integrated_category_label": "Health and Medicine > Mental Health Service > Mental Health Clinic",
+      "is_exact": true
+    }
+  },
+  "188": {
+    "factual_label": "Businesses and Services > Security and Safety",
+    "single_match": {
+      "integrated_category_id": "11162",
+      "integrated_category_label": "Business and Professional Services > Security and Safety",
+      "is_exact": true
+    }
+  },
+  "52": {
+    "factual_label": "Community and Government > Public and Social Services",
+    "single_match": {
+      "integrated_category_id": "12091",
+      "integrated_category_label": "Community and Government > Public and Social Service",
+      "is_exact": true
+    }
+  },
+  "220": {
+    "factual_label": "Businesses and Services > Financial > Accounting and Bookkeeping",
+    "single_match": {
+      "integrated_category_id": "11043",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Accounting and Bookkeeping Service",
+      "is_exact": true
+    }
+  },
+  "388": {
+    "factual_label": "Sports and Recreation > Outdoors > Campgrounds and RV Parks",
+    "single_match": {
+      "integrated_category_id": "16008",
+      "integrated_category_label": "Landmarks and Outdoors > Campground",
+      "is_exact": true
+    }
+  },
+  "104": {
+    "factual_label": "Healthcare > Podiatrists",
+    "single_match": {
+      "integrated_category_id": "15051",
+      "integrated_category_label": "Health and Medicine > Podiatrist",
+      "is_exact": true
+    }
+  },
+  "379": {
+    "factual_label": "Sports and Recreation > Dance",
+    "single_match": {
+      "integrated_category_id": "18025",
+      "integrated_category_label": "Sports and Recreation > Gym and Studio > Dance Studio",
+      "is_exact": true
+    }
+  },
+  "400": {
+    "factual_label": "Sports and Recreation > Recreation Centers",
+    "single_match": {
+      "integrated_category_id": "18048",
+      "integrated_category_label": "Sports and Recreation > Recreation Center",
+      "is_exact": true
+    }
+  },
+  "251": {
+    "factual_label": "Businesses and Services > Home Improvement > Interior Design",
+    "single_match": {
+      "integrated_category_id": "11090",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Interior Designer",
+      "is_exact": true
+    }
+  },
+  "307": {
+    "factual_label": "Businesses and Services > Wholesale",
+    "single_match": {
+      "integrated_category_id": "11179",
+      "integrated_category_label": "Business and Professional Services > Wholesaler",
+      "is_exact": true
+    }
+  },
+  "87": {
+    "factual_label": "Healthcare > Physicians > Ear, Nose and Throat",
+    "single_match": {
+      "integrated_category_id": "15032",
+      "integrated_category_label": "Health and Medicine > Physician > Ear, Nose and Throat Doctor",
+      "is_exact": true
+    }
+  },
+  "191": {
+    "factual_label": "Businesses and Services > Water and Waste Management",
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11176",
+        "integrated_category_label": "Business and Professional Services > Water Treatment Service",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11175",
+        "integrated_category_label": "Business and Professional Services > Waste Management Service",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "12008",
+        "integrated_category_label": "Community and Government > Dump",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11153",
+        "integrated_category_label": "Business and Professional Services > Recycling Facility",
+        "is_exact": false
+      }
+    ]
+  },
+  "58": {
+    "factual_label": "Community and Government > Religious > Synagogues",
+    "single_match": {
+      "integrated_category_id": "12110",
+      "integrated_category_label": "Community and Government > Spiritual Center > Synagogue",
+      "is_exact": true
+    }
+  },
+  "114": {
+    "factual_label": "Landmarks > Natural > Mountains",
+    "single_match": {
+      "integrated_category_id": "16027",
+      "integrated_category_label": "Landmarks and Outdoors > Mountain",
+      "is_exact": true
+    }
+  },
+  "266": {
+    "factual_label": "Businesses and Services > Human Resources",
+    "single_match": {
+      "integrated_category_id": "11103",
+      "integrated_category_label": "Business and Professional Services > Human Resources Agency",
+      "is_exact": true
+    }
+  },
+  "43": {
+    "factual_label": "Community and Government > Law Enforcement and Public Safety > Police Stations",
+    "single_match": {
+      "integrated_category_id": "12072",
+      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety > Police Station",
+      "is_exact": true
+    }
+  },
+  "135": {
+    "factual_label": "Retail > Computers and Electronics > Mobile Phones",
+    "single_match": {
+      "integrated_category_id": "17026",
+      "integrated_category_label": "Retail > Computers and Electronics Retail > Mobile Phone Store",
+      "is_exact": true
+    }
+  },
+  "454": {
+    "factual_label": "Businesses and Services > Technology > Infrastructure",
+    "single_match": {
+      "integrated_category_id": "11168",
+      "integrated_category_label": "Business and Professional Services > Technology Business > Software Company",
+      "is_exact": true
+    }
+  },
+  "206": {
+    "factual_label": "Businesses and Services > Audiovisual",
+    "single_match": {
+      "integrated_category_id": "11006",
+      "integrated_category_label": "Business and Professional Services > Audiovisual Service",
+      "is_exact": true
+    }
+  },
+  "250": {
+    "factual_label": "Retail > Housewares",
+    "single_match": {
+      "integrated_category_id": "17085",
+      "integrated_category_label": "Retail > Furniture and Home Store > Housewares Store",
+      "is_exact": true
+    }
+  },
+  "357": {
+    "factual_label": "Social > Food and Dining > Restaurants > Indian",
+    "single_match": {
+      "integrated_category_id": "13199",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Indian Restaurant",
+      "is_exact": true
+    }
+  },
+  "324": {
+    "factual_label": "Social > Entertainment > Casinos and Gaming",
+    "single_match": {
+      "integrated_category_id": "10008",
+      "integrated_category_label": "Arts and Entertainment > Casino",
+      "is_exact": true
+    }
+  },
+  "51": {
+    "factual_label": "Community and Government > Post Offices",
+    "single_match": {
+      "integrated_category_id": "12075",
+      "integrated_category_label": "Community and Government > Government Building > Post Office",
+      "is_exact": true
+    }
+  },
+  "362": {
+    "factual_label": "Social > Food and Dining > Restaurants > Middle Eastern",
+    "single_match": {
+      "integrated_category_id": "13309",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Middle Eastern Restaurant",
+      "is_exact": true
+    }
+  },
+  "179": {
+    "factual_label": "Businesses and Services > Industrial Machinery and Vehicles",
+    "single_match": {
+      "integrated_category_id": "11105",
+      "integrated_category_label": "Business and Professional Services > Industrial Equipment Supplier",
+      "is_exact": true
+    }
+  },
+  "115": {
+    "factual_label": "Landmarks > Natural > Forests",
+    "single_match": {
+      "integrated_category_id": "16015",
+      "integrated_category_label": "Landmarks and Outdoors > Forest",
+      "is_exact": true
+    }
+  },
+  "12": {
+    "factual_label": "Automotive > Maintenance and Repair > Tires",
+    "single_match": {
+      "integrated_category_id": "11015",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Tire Repair Shop",
+      "is_exact": true
+    }
+  },
+  "211": {
+    "factual_label": "Businesses and Services > Electrical Equipment",
+    "single_match": {
+      "integrated_category_id": "11032",
+      "integrated_category_label": "Business and Professional Services > Electrical Equipment Supplier",
+      "is_exact": true
+    }
+  },
+  "294": {
+    "factual_label": "Businesses and Services > Real Estate > Real Estate Appraiser",
+    "single_match": {
+      "integrated_category_id": "11150",
+      "integrated_category_label": "Business and Professional Services > Real Estate Service > Real Estate Appraiser",
+      "is_exact": true
+    }
+  },
+  "312": {
+    "factual_label": "Social > Bars",
+    "single_match": {
+      "integrated_category_id": "13003",
+      "integrated_category_label": "Dining and Drinking > Bar",
+      "is_exact": true
+    }
+  },
+  "95": {
+    "factual_label": "Healthcare > Physicians > Ophthalmologists",
+    "single_match": {
+      "integrated_category_id": "15041",
+      "integrated_category_label": "Health and Medicine > Physician > Ophthalmologist",
+      "is_exact": true
+    }
+  },
+  "282": {
+    "factual_label": "Businesses and Services > Personal Care > Massage Clinics and Therapists",
+    "single_match": {
+      "integrated_category_id": "11070",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Massage Clinic",
+      "is_exact": true
+    }
+  },
+  "382": {
+    "factual_label": "Sports and Recreation > Golf",
+    "single_match": {
+      "integrated_category_id": "18016",
+      "integrated_category_label": "Sports and Recreation > Golf",
+      "is_exact": true
+    }
+  },
+  "228": {
+    "factual_label": "Businesses and Services > Financial > Stock Brokers",
+    "single_match": {
+      "integrated_category_id": "11055",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Stock Broker",
+      "is_exact": true
+    }
+  },
+  "257": {
+    "factual_label": "Businesses and Services > Home Improvement > Painting",
+    "single_match": {
+      "integrated_category_id": "11094",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Painter",
+      "is_exact": true
+    }
+  },
+  "332": {
+    "factual_label": "Social > Entertainment > Movie Theatres",
+    "single_match": {
+      "integrated_category_id": "10024",
+      "integrated_category_label": "Arts and Entertainment > Movie Theater",
+      "is_exact": true
+    }
+  },
+  "189": {
+    "factual_label": "Businesses and Services > Telecommunication Services",
+    "single_match": {
+      "integrated_category_id": "11170",
+      "integrated_category_label": "Business and Professional Services > Telecommunication Service",
+      "is_exact": true
+    }
+  },
+  "125": {
+    "factual_label": "Retail > Antiques",
+    "single_match": {
+      "integrated_category_id": "17002",
+      "integrated_category_label": "Retail > Antique Store",
+      "is_exact": true
+    }
+  },
+  "464": {
+    "factual_label": "Social > Food and Dining > Restaurants > International",
+    "single_match": {
+      "integrated_category_id": "13065",
+      "integrated_category_label": "Dining and Drinking > Restaurant",
+      "is_exact": false
+    }
+  },
+  "86": {
+    "factual_label": "Healthcare > Physicians > Dermatologists",
+    "single_match": {
+      "integrated_category_id": "15030",
+      "integrated_category_label": "Health and Medicine > Physician > Dermatologist",
+      "is_exact": true
+    }
+  },
+  "235": {
+    "factual_label": "Businesses and Services > Home Improvement",
+    "single_match": {
+      "integrated_category_id": "11076",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service",
+      "is_exact": true
+    }
+  },
+  "340": {
+    "factual_label": "Social > Food and Dining > Bakeries",
+    "single_match": {
+      "integrated_category_id": "13002",
+      "integrated_category_label": "Dining and Drinking > Bakery",
+      "is_exact": true
+    }
+  },
+  "444": {
+    "factual_label": "Retail > Office Supplies",
+    "single_match": {
+      "integrated_category_id": "17102",
+      "integrated_category_label": "Retail > Office Supply Store",
+      "is_exact": true
+    }
+  },
+  "183": {
+    "factual_label": "Businesses and Services > Petroleum",
+    "single_match": {
+      "integrated_category_id": "11136",
+      "integrated_category_label": "Business and Professional Services > Petroleum Supplier",
+      "is_exact": true
+    }
+  },
+  "68": {
+    "factual_label": "Healthcare > Chiropractors",
+    "single_match": {
+      "integrated_category_id": "15006",
+      "integrated_category_label": "Health and Medicine > Chiropractor",
+      "is_exact": true
+    }
+  },
+  "116": {
+    "factual_label": "Landmarks > Natural > Lakes",
+    "single_match": {
+      "integrated_category_id": "16023",
+      "integrated_category_label": "Landmarks and Outdoors > Lake",
+      "is_exact": true
+    }
+  },
+  "25": {
+    "factual_label": "Community and Government > Drug and Alcohol Services",
+    "single_match": {
+      "integrated_category_id": "12001",
+      "integrated_category_label": "Community and Government > Addiction Treatment Center",
+      "is_exact": true
+    }
+  },
+  "299": {
+    "factual_label": "Businesses and Services > Real Estate > Commercial Real Estate",
+    "single_match": {
+      "integrated_category_id": "11147",
+      "integrated_category_label": "Business and Professional Services > Real Estate Service > Commercial Real Estate Developer",
+      "is_exact": true
+    }
+  },
+  "346": {
+    "factual_label": "Social > Food and Dining > Juice Bars and Smoothies",
+    "single_match": {
+      "integrated_category_id": "13059",
+      "integrated_category_label": "Dining and Drinking > Juice Bar",
+      "is_exact": true
+    }
+  },
+  "413": {
+    "factual_label": "Sports and Recreation > Water Sports > Swimming",
+    "single_match": {
+      "integrated_category_id": "18073",
+      "integrated_category_label": "Sports and Recreation > Water Sports > Swimming",
+      "is_exact": true
+    }
+  },
+  "132": {
+    "factual_label": "Retail > Children",
+    "single_match": {
+      "integrated_category_id": "17042",
+      "integrated_category_label": "Retail > Fashion Retail > Children's Clothing Store",
+      "is_exact": true
+    }
+  },
+  "355": {
+    "factual_label": "Social > Food and Dining > Restaurants > Fast Food",
+    "single_match": {
+      "integrated_category_id": "13145",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Fast Food Restaurant",
+      "is_exact": true
+    }
+  },
+  "113": {
+    "factual_label": "Landmarks > Natural > Beaches",
+    "single_match": {
+      "integrated_category_id": "16003",
+      "integrated_category_label": "Landmarks and Outdoors > Beach",
+      "is_exact": true
+    }
+  },
+  "474": {
+    "factual_label": "Businesses and Services > Legal > Attorneys and Law Offices",
+    "single_match": {
+      "integrated_category_id": "11112",
+      "integrated_category_label": "Business and Professional Services > Legal Service > Attorney / Law Office",
+      "is_exact": true
+    }
+  },
+  "403": {
+    "factual_label": "Sports and Recreation > Snow Sports",
+    "single_match": {
+      "integrated_category_id": "18058",
+      "integrated_category_label": "Sports and Recreation > Snow Sports",
+      "is_exact": true
+    }
+  },
+  "200": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Promotional Items",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "320": {
+    "factual_label": "Social > Entertainment > Billiard and Pool",
+    "single_match": {
+      "integrated_category_id": "10045",
+      "integrated_category_label": "Arts and Entertainment > Pool Hall",
+      "is_exact": true
+    }
+  },
+  "473": {
+    "factual_label": "Businesses and Services > Financial > Banking and Finance > Banks and Credit Unions",
+    "single_match": {
+      "integrated_category_id": "11046",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11051",
+        "integrated_category_label": "Business and Professional Services > Financial Service > Credit Union",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11045",
+        "integrated_category_label": "Business and Professional Services > Financial Service > Bank",
+        "is_exact": false
+      }
+    ]
+  },
+  "381": {
+    "factual_label": "Sports and Recreation > Football",
+    "single_match": {
+      "integrated_category_id": "18013",
+      "integrated_category_label": "Sports and Recreation > Football",
+      "is_exact": true
+    }
+  },
+  "89": {
+    "factual_label": "Healthcare > Physicians > Gastroenterologists",
+    "single_match": {
+      "integrated_category_id": "15034",
+      "integrated_category_label": "Health and Medicine > Physician > Gastroenterologist",
+      "is_exact": true
+    }
+  },
+  "4": {
+    "factual_label": "Automotive > Car Dealers and Leasing",
+    "single_match": {
+      "integrated_category_id": "17006",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership",
+      "is_exact": true
+    }
+  },
+  "67": {
+    "factual_label": "Healthcare > Blood Banks and Centers",
+    "single_match": {
+      "integrated_category_id": "15005",
+      "integrated_category_label": "Health and Medicine > Blood Bank",
+      "is_exact": true
+    }
+  },
+  "426": {
+    "factual_label": "Transportation > Transport Hubs > Bus Stations",
+    "single_match": {
+      "integrated_category_id": "19042",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Bus Station",
+      "is_exact": true
+    }
+  },
+  "218": {
+    "factual_label": "Businesses and Services > Financial > Banking and Finance > ATMs",
+    "single_match": {
+      "integrated_category_id": "11044",
+      "integrated_category_label": "Business and Professional Services > Financial Service > ATM",
+      "is_exact": true
+    }
+  },
+  "471": {
+    "factual_label": "Retail > Pets > Pet Supplies",
+    "single_match": {
+      "integrated_category_id": "17110",
+      "integrated_category_label": "Retail > Pet Supplies Store",
+      "is_exact": true
+    }
+  },
+  "126": {
+    "factual_label": "Retail > Arts and Crafts",
+    "single_match": {
+      "integrated_category_id": "17003",
+      "integrated_category_label": "Retail > Arts and Crafts Store",
+      "is_exact": true
+    }
+  },
+  "205": {
+    "factual_label": "Businesses and Services > Art Restoration",
+    "single_match": {
+      "integrated_category_id": "11004",
+      "integrated_category_label": "Business and Professional Services > Art Restoration Service",
+      "is_exact": true
+    }
+  },
+  "365": {
+    "factual_label": "Social > Food and Dining > Restaurants > Steakhouses",
+    "single_match": {
+      "integrated_category_id": "13383",
+      "integrated_category_label": "Dining and Drinking > Steakhouse",
+      "is_exact": true
+    }
+  },
+  "17": {
+    "factual_label": "Automotive > RVs and Motor Homes",
+    "single_match": {
+      "integrated_category_id": "17009",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > RV and Motorhome Dealership",
+      "is_exact": true
+    }
+  },
+  "309": {
+    "factual_label": "Social > Arts",
+    "single_match": {
+      "integrated_category_id": "10000",
+      "integrated_category_label": "Arts and Entertainment",
+      "is_exact": false
+    }
+  },
+  "333": {
+    "factual_label": "Social > Entertainment > Music and Show Venues",
+    "single_match": {
+      "integrated_category_id": "10039",
+      "integrated_category_label": "Arts and Entertainment > Performing Arts Venue > Music Venue",
+      "is_exact": true
+    }
+  },
+  "297": {
+    "factual_label": "Businesses and Services > Real Estate > Boarding Houses",
+    "single_match": {
+      "integrated_category_id": "19011",
+      "integrated_category_label": "Travel and Transportation > Lodging > Boarding House",
+      "is_exact": true
+    }
+  },
+  "144": {
+    "factual_label": "Retail > Fashion > Jewelry and Watches",
+    "single_match": {
+      "integrated_category_id": "17045",
+      "integrated_category_label": "Retail > Fashion Retail > Jewelry Store",
+      "is_exact": true
+    }
+  },
+  "337": {
+    "factual_label": "Social > Entertainment > Ticket Sales",
+    "single_match": {
+      "integrated_category_id": "10053",
+      "integrated_category_label": "Arts and Entertainment > Ticket Seller",
+      "is_exact": true
+    }
+  },
+  "71": {
+    "factual_label": "Healthcare > Emergency Services > Ambulance",
+    "single_match": {
+      "integrated_category_id": "15009",
+      "integrated_category_label": "Health and Medicine > Emergency Service > Ambulance Service",
+      "is_exact": true
+    }
+  },
+  "129": {
+    "factual_label": "Retail > Bicycles",
+    "single_match": {
+      "integrated_category_id": "17119",
+      "integrated_category_label": "Retail > Sporting Goods Retail > Bicycle Store",
+      "is_exact": true
+    }
+  },
+  "152": {
+    "factual_label": "Retail > Food and Beverage > Cheese",
+    "single_match": {
+      "integrated_category_id": "17061",
+      "integrated_category_label": "Retail > Food and Beverage Retail > Cheese Store",
+      "is_exact": true
+    }
+  },
+  "370": {
+    "factual_label": "Social > Wineries and Vineyards",
+    "single_match": {
+      "integrated_category_id": "13000",
+      "integrated_category_label": "Dining and Drinking",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "13386",
+        "integrated_category_label": "Dining and Drinking > Vineyard",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "13387",
+        "integrated_category_label": "Dining and Drinking > Winery",
+        "is_exact": false
+      }
+    ]
+  },
+  "76": {
+    "factual_label": "Healthcare > Mental Health",
+    "single_match": {
+      "integrated_category_id": "15018",
+      "integrated_category_label": "Health and Medicine > Mental Health Service",
+      "is_exact": true
+    }
+  },
+  "348": {
+    "factual_label": "Social > Food and Dining > Restaurants > American",
+    "single_match": {
+      "integrated_category_id": "13068",
+      "integrated_category_label": "Dining and Drinking > Restaurant > American Restaurant",
+      "is_exact": true
+    }
+  },
+  "290": {
+    "factual_label": "Businesses and Services > Publishing",
+    "single_match": {
+      "integrated_category_id": "11143",
+      "integrated_category_label": "Business and Professional Services > Publisher",
+      "is_exact": true
+    }
+  },
+  "376": {
+    "factual_label": "Sports and Recreation > Basketball",
+    "single_match": {
+      "integrated_category_id": "18006",
+      "integrated_category_label": "Sports and Recreation > Basketball",
+      "is_exact": true
+    }
+  },
+  "22": {
+    "factual_label": "Community and Government > Cemeteries",
+    "single_match": {
+      "integrated_category_id": "12003",
+      "integrated_category_label": "Community and Government > Cemetery",
+      "is_exact": true
+    }
+  },
+  "26": {
+    "factual_label": "Community and Government > Education",
+    "single_match": {
+      "integrated_category_id": "12009",
+      "integrated_category_label": "Community and Government > Education",
+      "is_exact": true
+    }
+  },
+  "468": {
+    "factual_label": "Retail > Hardware Stores",
+    "single_match": {
+      "integrated_category_id": "17090",
+      "integrated_category_label": "Retail > Hardware Store",
+      "is_exact": true
+    }
+  },
+  "276": {
+    "factual_label": "Businesses and Services > Paper",
+    "single_match": {
+      "integrated_category_id": "11132",
+      "integrated_category_label": "Business and Professional Services > Paper Supplier",
+      "is_exact": true
+    }
+  },
+  "59": {
+    "factual_label": "Community and Government > Senior Citizen Services",
+    "single_match": {
+      "integrated_category_id": "12096",
+      "integrated_category_label": "Community and Government > Senior Citizen Service",
+      "is_exact": true
+    }
+  },
+  "168": {
+    "factual_label": "Retail > Photos and Frames",
+    "single_match": {
+      "integrated_category_id": "17081",
+      "integrated_category_label": "Retail > Framing Store",
+      "is_exact": true
+    }
+  },
+  "447": {
+    "factual_label": "Businesses and Services > Construction",
+    "single_match": {
+      "integrated_category_id": "11028",
+      "integrated_category_label": "Business and Professional Services > Construction",
+      "is_exact": true
+    }
+  },
+  "402": {
+    "factual_label": "Sports and Recreation > Skating",
+    "single_match": {
+      "integrated_category_id": "18054",
+      "integrated_category_label": "Sports and Recreation > Skating",
+      "is_exact": true
+    }
+  },
+  "57": {
+    "factual_label": "Community and Government > Religious > Mosques",
+    "single_match": {
+      "integrated_category_id": "12106",
+      "integrated_category_label": "Community and Government > Spiritual Center > Mosque",
+      "is_exact": true
+    }
+  },
+  "46": {
+    "factual_label": "Community and Government > Military > Bases",
+    "single_match": {
+      "integrated_category_id": "12074",
+      "integrated_category_label": "Community and Government > Government Building > Military > Military Base",
+      "is_exact": true
+    }
+  },
+  "214": {
+    "factual_label": "Businesses and Services > Entertainment",
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11036",
+        "integrated_category_label": "Business and Professional Services > Entertainment Service",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11035",
+        "integrated_category_label": "Business and Professional Services > Entertainment Agency",
+        "is_exact": false
+      }
+    ]
+  },
+  "259": {
+    "factual_label": "Businesses and Services > Home Improvement > Plumbing",
+    "single_match": {
+      "integrated_category_id": "11096",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Plumber",
+      "is_exact": true
+    }
+  },
+  "352": {
+    "factual_label": "Social > Food and Dining > Restaurants > Chinese",
+    "single_match": {
+      "integrated_category_id": "13099",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Chinese Restaurant",
+      "is_exact": true
+    }
+  },
+  "231": {
+    "factual_label": "Businesses and Services > Food and Beverage > Catering",
+    "single_match": {
+      "integrated_category_id": "11057",
+      "integrated_category_label": "Business and Professional Services > Food and Beverage Service > Caterer",
+      "is_exact": true
+    }
+  },
+  "328": {
+    "factual_label": "Social > Entertainment > Go Carts",
+    "single_match": {
+      "integrated_category_id": "10019",
+      "integrated_category_label": "Arts and Entertainment > Go Kart Track",
+      "is_exact": true
+    }
+  },
+  "384": {
+    "factual_label": "Sports and Recreation > Gymnastics",
+    "single_match": {
+      "integrated_category_id": "18029",
+      "integrated_category_label": "Sports and Recreation > Gymnastics",
+      "is_exact": true
+    }
+  },
+  "433": {
+    "factual_label": "Travel > Lodging > Bed and Breakfasts",
+    "single_match": {
+      "integrated_category_id": "19010",
+      "integrated_category_label": "Travel and Transportation > Lodging > Bed and Breakfast",
+      "is_exact": true
+    }
+  },
+  "100": {
+    "factual_label": "Healthcare > Physicians > Psychiatrists",
+    "single_match": {
+      "integrated_category_id": "15047",
+      "integrated_category_label": "Health and Medicine > Physician > Psychiatrist",
+      "is_exact": true
+    }
+  },
+  "42": {
+    "factual_label": "Community and Government > Law Enforcement and Public Safety > Fire Stations",
+    "single_match": {
+      "integrated_category_id": "12071",
+      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety > Fire Station",
+      "is_exact": true
+    }
+  },
+  "141": {
+    "factual_label": "Retail > Department Stores",
+    "single_match": {
+      "integrated_category_id": "17033",
+      "integrated_category_label": "Retail > Department Store",
+      "is_exact": true
+    }
+  },
+  "414": {
+    "factual_label": "Sports and Recreation > Yoga and Pilates",
+    "single_match": {
+      "integrated_category_id": "18021",
+      "integrated_category_label": "Sports and Recreation > Gym and Studio",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "18028",
+        "integrated_category_label": "Sports and Recreation > Gym and Studio > Yoga Studio",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "18027",
+        "integrated_category_label": "Sports and Recreation > Gym and Studio > Pilates Studio",
+        "is_exact": false
+      }
+    ]
+  },
+  "450": {
+    "factual_label": "Businesses and Services > Translation Services",
+    "single_match": {
+      "integrated_category_id": "11171",
+      "integrated_category_label": "Business and Professional Services > Translation Service",
+      "is_exact": true
+    }
+  },
+  "222": {
+    "factual_label": "Businesses and Services > Financial > Business Brokers and Franchises",
+    "single_match": {
+      "integrated_category_id": "11047",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Business Broker",
+      "is_exact": true
+    }
+  },
+  "265": {
+    "factual_label": "Businesses and Services > Home Improvement > Upholstery",
+    "single_match": {
+      "integrated_category_id": "11102",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Upholstery Service",
+      "is_exact": true
+    }
+  },
+  "53": {
+    "factual_label": "Community and Government > Religious",
+    "single_match": {
+      "integrated_category_id": "12098",
+      "integrated_category_label": "Community and Government > Spiritual Center",
+      "is_exact": true
+    }
+  },
+  "375": {
+    "factual_label": "Sports and Recreation > Baseball > Batting Ranges",
+    "single_match": {
+      "integrated_category_id": "18005",
+      "integrated_category_label": "Sports and Recreation > Baseball > Batting Range",
+      "is_exact": true
+    }
+  },
+  "378": {
+    "factual_label": "Sports and Recreation > Cycling",
+    "single_match": {
+      "integrated_category_id": "18000",
+      "integrated_category_label": "Sports and Recreation",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "18024",
+        "integrated_category_label": "Sports and Recreation > Gym and Studio > Cycle Studio",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "16004",
+        "integrated_category_label": "Landmarks and Outdoors > Bike Trail",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "19002",
+        "integrated_category_label": "Travel and Transportation > Bike Rental",
+        "is_exact": false
+      }
+    ]
+  },
+  "278": {
+    "factual_label": "Businesses and Services > Personal Care > Dry Cleaning, Ironing and Laundry",
+    "single_match": {
+      "integrated_category_id": "11061",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11066",
+        "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Dry Cleaner",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11068",
+        "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Laundromat",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11069",
+        "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Laundry Service",
+        "is_exact": false
+      }
+    ]
+  },
+  "145": {
+    "factual_label": "Retail > Fashion > Shoes",
+    "single_match": {
+      "integrated_category_id": "17048",
+      "integrated_category_label": "Retail > Fashion Retail > Shoe Store",
+      "is_exact": true
+    }
+  },
+  "407": {
+    "factual_label": "Sports and Recreation > Swimming Pools",
+    "single_match": {
+      "integrated_category_id": "18075",
+      "integrated_category_label": "Sports and Recreation > Water Sports > Swimming > Swimming Pool",
+      "is_exact": true
+    }
+  },
+  "226": {
+    "factual_label": "Businesses and Services > Financial > Fund Raising",
+    "single_match": {
+      "integrated_category_id": "11042",
+      "integrated_category_label": "Business and Professional Services > Financial Service",
+      "is_exact": false
+    }
+  },
+  "154": {
+    "factual_label": "Retail > Food and Beverage > Farmers' Markets",
+    "single_match": {
+      "integrated_category_id": "17065",
+      "integrated_category_label": "Retail > Food and Beverage Retail > Farmers' Market",
+      "is_exact": true
+    }
+  },
+  "213": {
+    "factual_label": "Businesses and Services > Engineering",
+    "single_match": {
+      "integrated_category_id": "11034",
+      "integrated_category_label": "Business and Professional Services > Engineer",
+      "is_exact": true
+    }
+  },
+  "66": {
+    "factual_label": "Healthcare > Assisted Living Services > Facilities and Nursing Homes",
+    "single_match": {
+      "integrated_category_id": "15022",
+      "integrated_category_label": "Health and Medicine > Nursing Home",
+      "is_exact": true
+    }
+  },
+  "212": {
+    "factual_label": "Businesses and Services > Employment Agencies",
+    "single_match": {
+      "integrated_category_id": "11033",
+      "integrated_category_label": "Business and Professional Services > Employment Agency",
+      "is_exact": true
+    }
+  },
+  "319": {
+    "factual_label": "Social > Entertainment > Amusement Parks",
+    "single_match": {
+      "integrated_category_id": "10001",
+      "integrated_category_label": "Arts and Entertainment > Amusement Park",
+      "is_exact": true
+    }
+  },
+  "421": {
+    "factual_label": "Transportation > Taxi and Car Services > Car and Truck Rentals",
+    "single_match": {
+      "integrated_category_id": "19048",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Rental Car Location",
+      "is_exact": true
+    }
+  },
+  "75": {
+    "factual_label": "Healthcare > Medical Supplies and Labs",
+    "single_match": {
+      "integrated_category_id": "15000",
+      "integrated_category_label": "Health and Medicine",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "17095",
+        "integrated_category_label": "Retail > Medical Supply Store",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "15017",
+        "integrated_category_label": "Health and Medicine > Medical Lab",
+        "is_exact": false
+      }
+    ]
+  },
+  "162": {
+    "factual_label": "Retail > Music, Video and DVD",
+    "single_match": {
+      "integrated_category_id": "17000",
+      "integrated_category_label": "Retail",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "17098",
+        "integrated_category_label": "Retail > Music Store",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17137",
+        "integrated_category_label": "Retail > Video Store",
+        "is_exact": false
+      }
+    ]
+  },
+  "142": {
+    "factual_label": "Retail > Fashion",
+    "single_match": {
+      "integrated_category_id": "17039",
+      "integrated_category_label": "Retail > Fashion Retail",
+      "is_exact": true
+    }
+  },
+  "460": {
+    "factual_label": "Businesses and Services > Technology",
+    "single_match": {
+      "integrated_category_id": "11167",
+      "integrated_category_label": "Business and Professional Services > Technology Business",
+      "is_exact": true
+    }
+  },
+  "79": {
+    "factual_label": "Healthcare > Nurses",
+    "single_match": {
+      "integrated_category_id": "15021",
+      "integrated_category_label": "Health and Medicine > Nurse",
+      "is_exact": true
+    }
+  },
+  "151": {
+    "factual_label": "Retail > Food and Beverage > Candy Stores",
+    "single_match": {
+      "integrated_category_id": "17060",
+      "integrated_category_label": "Retail > Food and Beverage Retail > Candy Store",
+      "is_exact": true
+    }
+  },
+  "230": {
+    "factual_label": "Businesses and Services > Food and Beverage",
+    "single_match": {
+      "integrated_category_id": "11056",
+      "integrated_category_label": "Business and Professional Services > Food and Beverage Service",
+      "is_exact": true
+    }
+  },
+  "292": {
+    "factual_label": "Businesses and Services > Real Estate > Property Management",
+    "single_match": {
+      "integrated_category_id": "11148",
+      "integrated_category_label": "Business and Professional Services > Real Estate Service > Property Management Office",
+      "is_exact": true
+    }
+  },
+  "64": {
+    "factual_label": "Healthcare > Assisted Living Services",
+    "single_match": {
+      "integrated_category_id": "15004",
+      "integrated_category_label": "Health and Medicine > Assisted Living Service",
+      "is_exact": true
+    }
+  },
+  "140": {
+    "factual_label": "Retail > Dance and Music",
+    "single_match": {
+      "integrated_category_id": "17000",
+      "integrated_category_label": "Retail",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "17032",
+        "integrated_category_label": "Retail > Dance Store",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17098",
+        "integrated_category_label": "Retail > Music Store",
+        "is_exact": false
+      }
+    ]
+  },
+  "326": {
+    "factual_label": "Social > Entertainment > Dance Halls and Saloons",
+    "single_match": {
+      "integrated_category_id": "10013",
+      "integrated_category_label": "Arts and Entertainment > Dance Hall",
+      "is_exact": true
+    }
+  },
+  "88": {
+    "factual_label": "Healthcare > Physicians > Family Medicine",
+    "single_match": {
+      "integrated_category_id": "15033",
+      "integrated_category_label": "Health and Medicine > Physician > Family Medicine Doctor",
+      "is_exact": true
+    }
+  },
+  "3": {
+    "factual_label": "Automotive > Car Appraisers",
+    "single_match": {
+      "integrated_category_id": "11009",
+      "integrated_category_label": "Business and Professional Services > Automotive Service",
+      "is_exact": false
+    }
+  },
+  "30": {
+    "factual_label": "Community and Government > Education > Computer Training",
+    "single_match": {
+      "integrated_category_id": "12049",
+      "integrated_category_label": "Community and Government > Education > Computer Training School",
+      "is_exact": true
+    }
+  },
+  "345": {
+    "factual_label": "Social > Food and Dining > Internet Cafes",
+    "single_match": {
+      "integrated_category_id": "10020",
+      "integrated_category_label": "Arts and Entertainment > Internet Cafe",
+      "is_exact": true
+    }
+  },
+  "263": {
+    "factual_label": "Businesses and Services > Home Improvement > Swimming Pool Maintenance and Services",
+    "single_match": {
+      "integrated_category_id": "11100",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Swimming Pool Maintenance and Service",
+      "is_exact": true
+    }
+  },
+  "225": {
+    "factual_label": "Businesses and Services > Financial > Financial Planning and Investments",
+    "single_match": {
+      "integrated_category_id": "11053",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Financial Planner",
+      "is_exact": true
+    }
+  },
+  "118": {
+    "factual_label": "Landmarks > Parks",
+    "single_match": {
+      "integrated_category_id": "16032",
+      "integrated_category_label": "Landmarks and Outdoors > Park",
+      "is_exact": true
+    }
+  },
+  "37": {
+    "factual_label": "Community and Government > Government Departments and Agencies",
+    "single_match": {
+      "integrated_category_id": "12069",
+      "integrated_category_label": "Community and Government > Government Building > Government Department / Agency",
+      "is_exact": true
+    }
+  },
+  "174": {
+    "factual_label": "Retail > Vintage and Thrift",
+    "single_match": {
+      "integrated_category_id": "17138",
+      "integrated_category_label": "Retail > Vintage and Thrift Store",
+      "is_exact": true
+    }
+  },
+  "243": {
+    "factual_label": "Businesses and Services > Home Improvement > Doors and Windows",
+    "single_match": {
+      "integrated_category_id": "11082",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Doors and Windows Contractor",
+      "is_exact": true
+    }
+  },
+  "161": {
+    "factual_label": "Retail > Luggage",
+    "single_match": {
+      "integrated_category_id": "17094",
+      "integrated_category_label": "Retail > Luggage Store",
+      "is_exact": true
+    }
+  },
+  "271": {
+    "factual_label": "Businesses and Services > Legal > Immigration",
+    "single_match": {
+      "integrated_category_id": "11113",
+      "integrated_category_label": "Business and Professional Services > Legal Service > Immigration Attorney",
+      "is_exact": true
+    }
+  },
+  "439": {
+    "factual_label": "Travel > Tourist Information and Services",
+    "single_match": {
+      "integrated_category_id": "19028",
+      "integrated_category_label": "Travel and Transportation > Tourist Information and Service",
+      "is_exact": true
+    }
+  },
+  "321": {
+    "factual_label": "Social > Entertainment > Bingo",
+    "single_match": {
+      "integrated_category_id": "10005",
+      "integrated_category_label": "Arts and Entertainment > Bingo Center",
+      "is_exact": true
+    }
+  },
+  "122": {
+    "factual_label": "Landmarks > Parks > Urban Parks",
+    "single_match": {
+      "integrated_category_id": "16039",
+      "integrated_category_label": "Landmarks and Outdoors > Park > Urban Park",
+      "is_exact": true
+    }
+  },
+  "287": {
+    "factual_label": "Businesses and Services > Personal Care > Tattooing",
+    "single_match": {
+      "integrated_category_id": "11075",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Tattoo Parlor",
+      "is_exact": true
+    }
+  },
+  "342": {
+    "factual_label": "Social > Food and Dining > Cafes, Coffee and Tea Houses",
+    "single_match": {
+      "integrated_category_id": "13032",
+      "integrated_category_label": "Dining and Drinking > Cafes, Coffee, and Tea Houses",
+      "is_exact": true
+    }
+  },
+  "481": {
+    "factual_label": "Social > Entertainment > Comedy Clubs",
+    "single_match": {
+      "integrated_category_id": "10010",
+      "integrated_category_label": "Arts and Entertainment > Comedy Club",
+      "is_exact": true
+    }
+  },
+  "323": {
+    "factual_label": "Social > Entertainment > Carnivals",
+    "single_match": {
+      "integrated_category_id": "10007",
+      "integrated_category_label": "Arts and Entertainment > Carnival",
+      "is_exact": true
+    }
+  },
+  "14": {
+    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters",
+    "single_match": {
+      "integrated_category_id": "11009",
+      "integrated_category_label": "Business and Professional Services > Automotive Service",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11009",
+        "integrated_category_label": "Business and Professional Services > Automotive Service",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11012",
+        "integrated_category_label": "Business and Professional Services > Automotive Service > Motorcycle Repair Shop",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17012",
+        "integrated_category_label": "Retail > Automotive Retail > Motorcycle Dealership",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17013",
+        "integrated_category_label": "Retail > Automotive Retail > Motorsports Store",
+        "is_exact": false
+      }
+    ]
+  },
+  "462": {
+    "factual_label": "Transportation > Transport Hubs > Airports > International Airports",
+    "single_match": {
+      "integrated_category_id": "19040",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Airport > International Airport",
+      "is_exact": true
+    }
+  },
+  "436": {
+    "factual_label": "Travel > Lodging > Hotels and Motels",
+    "single_match": {
+      "integrated_category_id": "19009",
+      "integrated_category_label": "Travel and Transportation > Lodging",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "19014",
+        "integrated_category_label": "Travel and Transportation > Lodging > Hotel",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "19017",
+        "integrated_category_label": "Travel and Transportation > Lodging > Motel",
+        "is_exact": false
+      }
+    ]
+  },
+  "164": {
+    "factual_label": "Retail > Nurseries and Garden Centers",
+    "single_match": {
+      "integrated_category_id": "17101",
+      "integrated_category_label": "Retail > Garden Center",
+      "is_exact": true
+    }
+  },
+  "277": {
+    "factual_label": "Businesses and Services > Personal Care",
+    "single_match": {
+      "integrated_category_id": "11061",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
+      "is_exact": true
+    }
+  },
+  "372": {
+    "factual_label": "Sports and Recreation",
+    "single_match": {
+      "integrated_category_id": "18000",
+      "integrated_category_label": "Sports and Recreation",
+      "is_exact": true
+    }
+  },
+  "156": {
+    "factual_label": "Retail > Food and Beverage > Kosher",
+    "single_match": {
+      "integrated_category_id": "17074",
+      "integrated_category_label": "Retail > Food and Beverage Retail > Kosher Store",
+      "is_exact": true
+    }
+  },
+  "96": {
+    "factual_label": "Healthcare > Physicians > Orthopedic Surgeons",
+    "single_match": {
+      "integrated_category_id": "15043",
+      "integrated_category_label": "Health and Medicine > Physician > Orthopedic Surgeon",
+      "is_exact": true
+    }
+  },
+  "457": {
+    "factual_label": "Social > Food and Dining > Restaurants > Asian",
+    "single_match": {
+      "integrated_category_id": "13072",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Asian Restaurant",
+      "is_exact": true
+    }
+  },
+  "69": {
+    "factual_label": "Healthcare > Dentists",
+    "single_match": {
+      "integrated_category_id": "15007",
+      "integrated_category_label": "Health and Medicine > Dentist",
+      "is_exact": true
+    }
+  },
+  "63": {
+    "factual_label": "Healthcare > AIDS Resources",
+    "single_match": {
+      "integrated_category_id": "15002",
+      "integrated_category_label": "Health and Medicine > AIDS Resource",
+      "is_exact": true
+    }
+  },
+  "298": {
+    "factual_label": "Businesses and Services > Real Estate > Building and Land Surveyors",
+    "single_match": {
+      "integrated_category_id": "11146",
+      "integrated_category_label": "Business and Professional Services > Real Estate Service > Building and Land Surveyor",
+      "is_exact": true
+    }
+  },
+  "411": {
+    "factual_label": "Sports and Recreation > Water Sports > Rafting",
+    "single_match": {
+      "integrated_category_id": "18069",
+      "integrated_category_label": "Sports and Recreation > Water Sports > Rafting Outfitter",
+      "is_exact": true
+    }
+  },
+  "458": {
+    "factual_label": "Social > Food and Dining > Restaurants > Food Trucks",
+    "single_match": {
+      "integrated_category_id": "13054",
+      "integrated_category_label": "Dining and Drinking > Food Truck",
+      "is_exact": true
+    }
+  },
+  "268": {
+    "factual_label": "Businesses and Services > Leather",
+    "single_match": {
+      "integrated_category_id": "11110",
+      "integrated_category_label": "Business and Professional Services > Leather Supplier",
+      "is_exact": true
+    }
+  },
+  "311": {
+    "factual_label": "Social > Arts > Museums",
+    "single_match": {
+      "integrated_category_id": "10027",
+      "integrated_category_label": "Arts and Entertainment > Museum",
+      "is_exact": true
+    }
+  },
+  "335": {
+    "factual_label": "Social > Entertainment > Party Centers",
+    "single_match": {
+      "integrated_category_id": "10034",
+      "integrated_category_label": "Arts and Entertainment > Party Center",
+      "is_exact": true
+    }
+  },
+  "356": {
+    "factual_label": "Social > Food and Dining > Restaurants > French",
+    "single_match": {
+      "integrated_category_id": "13148",
+      "integrated_category_label": "Dining and Drinking > Restaurant > French Restaurant",
+      "is_exact": true
+    }
+  },
+  "155": {
+    "factual_label": "Retail > Food and Beverage > Health and Diet Food",
+    "single_match": {
+      "integrated_category_id": "17071",
+      "integrated_category_label": "Retail > Food and Beverage Retail > Health Food Store",
+      "is_exact": true
+    }
+  },
+  "350": {
+    "factual_label": "Social > Food and Dining > Restaurants > Buffets",
+    "single_match": {
+      "integrated_category_id": "13030",
+      "integrated_category_label": "Dining and Drinking > Buffet",
+      "is_exact": true
+    }
+  },
+  "410": {
+    "factual_label": "Sports and Recreation > Water Sports > Canoes and Kayaks",
+    "single_match": {
+      "integrated_category_id": "18068",
+      "integrated_category_label": "Sports and Recreation > Water Sports > Canoe and Kayak Rental",
+      "is_exact": true
+    }
+  },
+  "177": {
+    "factual_label": "Businesses and Services",
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": true
+    }
+  },
+  "137": {
+    "factual_label": "Retail > Construction Supplies",
+    "single_match": {
+      "integrated_category_id": "17028",
+      "integrated_category_label": "Retail > Construction Supplies Store",
+      "is_exact": true
+    }
+  },
+  "461": {
+    "factual_label": "Landmarks > Parks > Dog Parks",
+    "single_match": {
+      "integrated_category_id": "16033",
+      "integrated_category_label": "Landmarks and Outdoors > Park > Dog Park",
+      "is_exact": true
+    }
+  },
+  "272": {
+    "factual_label": "Businesses and Services > Insurance",
+    "single_match": {
+      "integrated_category_id": "11107",
+      "integrated_category_label": "Business and Professional Services > Insurance Agency",
+      "is_exact": true
+    }
+  },
+  "397": {
+    "factual_label": "Sports and Recreation > Racquet Sports",
+    "single_match": {
+      "integrated_category_id": "18040",
+      "integrated_category_label": "Sports and Recreation > Racquet Sports",
+      "is_exact": true
+    }
+  },
+  "466": {
+    "factual_label": "Healthcare > Optometrist",
+    "single_match": {
+      "integrated_category_id": "15024",
+      "integrated_category_label": "Health and Medicine > Optometrist",
+      "is_exact": true
+    }
+  },
+  "329": {
+    "factual_label": "Social > Entertainment > Hookah Lounges",
+    "single_match": {
+      "integrated_category_id": "13012",
+      "integrated_category_label": "Dining and Drinking > Bar > Hookah Bar",
+      "is_exact": true
+    }
+  },
+  "353": {
+    "factual_label": "Social > Food and Dining > Restaurants > Delis",
+    "single_match": {
+      "integrated_category_id": "13039",
+      "integrated_category_label": "Dining and Drinking > Deli",
+      "is_exact": true
+    }
+  },
+  "316": {
+    "factual_label": "Social > Bars > Wine Bars",
+    "single_match": {
+      "integrated_category_id": "13025",
+      "integrated_category_label": "Dining and Drinking > Bar > Wine Bar",
+      "is_exact": true
+    }
+  },
+  "112": {
+    "factual_label": "Landmarks > Natural",
+    "single_match": {
+      "integrated_category_id": "16000",
+      "integrated_category_label": "Landmarks and Outdoors",
+      "is_exact": false
+    }
+  },
+  "39": {
+    "factual_label": "Community and Government > Housing Assistance and Shelters",
+    "single_match": {
+      "integrated_category_id": "12077",
+      "integrated_category_label": "Community and Government > Homeless Shelter",
+      "is_exact": true
+    }
+  },
+  "159": {
+    "factual_label": "Retail > Glasses",
+    "single_match": {
+      "integrated_category_id": "17037",
+      "integrated_category_label": "Retail > Eyecare Store",
+      "is_exact": true
+    }
+  },
+  "150": {
+    "factual_label": "Retail > Food and Beverage > Beer, Wine and Spirits",
+    "single_match": {
+      "integrated_category_id": "17057",
+      "integrated_category_label": "Retail > Food and Beverage Retail",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "17058",
+        "integrated_category_label": "Retail > Food and Beverage Retail > Beer Store",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17080",
+        "integrated_category_label": "Retail > Food and Beverage Retail > Wine Store",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17076",
+        "integrated_category_label": "Retail > Food and Beverage Retail > Liquor Store",
+        "is_exact": false
+      }
+    ]
+  },
+  "308": {
+    "factual_label": "Social",
+    "single_match": {
+      "integrated_category_id": "10000",
+      "integrated_category_label": "Arts and Entertainment",
+      "is_exact": true
+    }
+  },
+  "201": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Public Relations",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "313": {
+    "factual_label": "Social > Bars > Hotel Lounges",
+    "single_match": {
+      "integrated_category_id": "13013",
+      "integrated_category_label": "Dining and Drinking > Bar > Hotel Bar",
+      "is_exact": true
+    }
+  },
+  "373": {
+    "factual_label": "Sports and Recreation > Athletic Fields",
+    "single_match": {
+      "integrated_category_id": "18001",
+      "integrated_category_label": "Sports and Recreation > Athletic Field",
+      "is_exact": true
+    }
+  },
+  "477": {
+    "factual_label": "Community and Government > City Halls",
+    "single_match": {
+      "integrated_category_id": "12066",
+      "integrated_category_label": "Community and Government > Government Building > City Hall",
+      "is_exact": true
+    }
+  },
+  "465": {
+    "factual_label": "Businesses and Services > Events and Event Planning > Convention Centers",
+    "single_match": {
+      "integrated_category_id": "11029",
+      "integrated_category_label": "Business and Professional Services > Convention Center",
+      "is_exact": true
+    }
+  },
+  "273": {
+    "factual_label": "Businesses and Services > Machine Shops",
+    "single_match": {
+      "integrated_category_id": "11118",
+      "integrated_category_label": "Business and Professional Services > Machine Shop",
+      "is_exact": true
+    }
+  },
+  "418": {
+    "factual_label": "Transportation > Parking",
+    "single_match": {
+      "integrated_category_id": "19020",
+      "integrated_category_label": "Travel and Transportation > Parking",
+      "is_exact": true
+    }
+  },
+  "199": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Print, TV, Radio and Outdoor Advertising",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "389": {
+    "factual_label": "Sports and Recreation > Outdoors > Hiking",
+    "single_match": {
+      "integrated_category_id": "16019",
+      "integrated_category_label": "Landmarks and Outdoors > Hiking Trail",
+      "is_exact": true
+    }
+  },
+  "371": {
+    "factual_label": "Social > Zoos, Aquariums and Wildlife Sanctuaries",
+    "single_match": {
+      "integrated_category_id": "10000",
+      "integrated_category_label": "Arts and Entertainment",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "10056",
+        "integrated_category_label": "Arts and Entertainment > Zoo",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "10002",
+        "integrated_category_label": "Arts and Entertainment > Aquarium",
+        "is_exact": false
+      }
+    ]
+  },
+  "240": {
+    "factual_label": "Businesses and Services > Home Improvement > Contractors > Bathrooms",
+    "single_match": {
+      "integrated_category_id": "11077",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Bathroom Contractor",
+      "is_exact": true
+    }
+  },
+  "478": {
+    "factual_label": "Transportation > Transport Hubs > Airports > Private Airports",
+    "single_match": {
+      "integrated_category_id": "19041",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Airport > Private Airport",
+      "is_exact": true
+    }
+  },
+  "424": {
+    "factual_label": "Transportation > Transport Hubs",
+    "single_match": {
+      "integrated_category_id": "19030",
+      "integrated_category_label": "Travel and Transportation > Transport Hub",
+      "is_exact": true
+    }
+  },
+  "28": {
+    "factual_label": "Community and Government > Education > Art Lessons and Schools",
+    "single_match": {
+      "integrated_category_id": "12011",
+      "integrated_category_label": "Community and Government > Education > Art School",
+      "is_exact": true
+    }
+  },
+  "232": {
+    "factual_label": "Businesses and Services > Food and Beverage > Distribution",
+    "single_match": {
+      "integrated_category_id": "11058",
+      "integrated_category_label": "Business and Professional Services > Food and Beverage Service > Food Distribution Center",
+      "is_exact": true
+    }
+  },
+  "285": {
+    "factual_label": "Businesses and Services > Personal Care > Spas",
+    "single_match": {
+      "integrated_category_id": "11073",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Spa",
+      "is_exact": true
+    }
+  },
+  "136": {
+    "factual_label": "Retail > Computers and Electronics > Video Games",
+    "single_match": {
+      "integrated_category_id": "17027",
+      "integrated_category_label": "Retail > Computers and Electronics Retail > Video Games Store",
+      "is_exact": true
+    }
+  },
+  "133": {
+    "factual_label": "Retail > Computers and Electronics",
+    "single_match": {
+      "integrated_category_id": "17023",
+      "integrated_category_label": "Retail > Computers and Electronics Retail",
+      "is_exact": true
+    }
+  },
+  "336": {
+    "factual_label": "Social > Entertainment > Psychics and Astrologers",
+    "single_match": {
+      "integrated_category_id": "10046",
+      "integrated_category_label": "Arts and Entertainment > Psychics and Astrologers",
+      "is_exact": true
+    }
+  },
+  "261": {
+    "factual_label": "Businesses and Services > Home Improvement > Roofers",
+    "single_match": {
+      "integrated_category_id": "11098",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Roofer",
+      "is_exact": true
+    }
+  },
+  "147": {
+    "factual_label": "Retail > Flea Markets",
+    "single_match": {
+      "integrated_category_id": "17054",
+      "integrated_category_label": "Retail > Flea Market",
+      "is_exact": true
+    }
+  },
+  "47": {
+    "factual_label": "Community and Government > Organizations and Associations",
+    "single_match": {
+      "integrated_category_id": "12082",
+      "integrated_category_label": "Community and Government > Organization",
+      "is_exact": true
+    }
+  },
+  "48": {
+    "factual_label": "Community and Government > Organizations and Associations > Charities and Non-Profits",
+    "single_match": {
+      "integrated_category_id": "12083",
+      "integrated_category_label": "Community and Government > Organization > Charity",
+      "is_exact": true
+    }
+  },
+  "327": {
+    "factual_label": "Social > Entertainment > Fairgrounds and Rodeos",
+    "single_match": {
+      "integrated_category_id": "10017",
+      "integrated_category_label": "Arts and Entertainment > Fair",
+      "is_exact": true
+    }
+  },
+  "23": {
+    "factual_label": "Community and Government > Day Care and Preschools",
+    "single_match": {
+      "integrated_category_id": "12000",
+      "integrated_category_label": "Community and Government",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11026",
+        "integrated_category_label": "Business and Professional Services > Child Care Service > Daycare",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "12056",
+        "integrated_category_label": "Community and Government > Education > Preschool",
+        "is_exact": false
+      }
+    ]
+  },
+  "427": {
+    "factual_label": "Transportation > Transport Hubs > Heliports",
+    "single_match": {
+      "integrated_category_id": "19044",
+      "integrated_category_label": "Travel and Transportation > Transport Hub > Heliport",
+      "is_exact": true
+    }
+  },
+  "173": {
+    "factual_label": "Retail > Toys",
+    "single_match": {
+      "integrated_category_id": "17135",
+      "integrated_category_label": "Retail > Toy / Game Store",
+      "is_exact": true
+    }
+  },
+  "117": {
+    "factual_label": "Landmarks > Natural > Rivers",
+    "single_match": {
+      "integrated_category_id": "16043",
+      "integrated_category_label": "Landmarks and Outdoors > River",
+      "is_exact": true
+    }
+  },
+  "233": {
+    "factual_label": "Businesses and Services > Funeral Services",
+    "single_match": {
+      "integrated_category_id": "11059",
+      "integrated_category_label": "Business and Professional Services > Funeral Home",
+      "is_exact": true
+    }
+  },
+  "61": {
+    "factual_label": "Community and Government > Utility Companies",
+    "single_match": {
+      "integrated_category_id": "12115",
+      "integrated_category_label": "Community and Government > Utility Company",
+      "is_exact": true
+    }
+  },
+  "349": {
+    "factual_label": "Social > Food and Dining > Restaurants > Barbecue",
+    "single_match": {
+      "integrated_category_id": "13026",
+      "integrated_category_label": "Dining and Drinking > BBQ Joint",
+      "is_exact": true
+    }
+  },
+  "102": {
+    "factual_label": "Healthcare > Physicians > Respiratory",
+    "single_match": {
+      "integrated_category_id": "15049",
+      "integrated_category_label": "Health and Medicine > Physician > Respiratory Doctor",
+      "is_exact": true
+    }
+  },
+  "303": {
+    "factual_label": "Businesses and Services > Shipping, Freight, and Material Transportation",
+    "single_match": {
+      "integrated_category_id": "11163",
+      "integrated_category_label": "Business and Professional Services > Shipping, Freight, and Material Transportation Service",
+      "is_exact": true
+    }
+  },
+  "34": {
+    "factual_label": "Community and Government > Education > Primary and Secondary Schools",
+    "single_match": {
+      "integrated_category_id": "12057",
+      "integrated_category_label": "Community and Government > Education > Primary and Secondary School",
+      "is_exact": true
+    }
+  },
+  "134": {
+    "factual_label": "Retail > Computers and Electronics > Cameras",
+    "single_match": {
+      "integrated_category_id": "17024",
+      "integrated_category_label": "Retail > Computers and Electronics Retail > Camera Store",
+      "is_exact": true
+    }
+  },
+  "455": {
+    "factual_label": "Businesses and Services > Technology > Mobile",
+    "single_match": {
+      "integrated_category_id": "11123",
+      "integrated_category_label": "Business and Professional Services > Mobile Company",
+      "is_exact": true
+    }
+  },
+  "10": {
+    "factual_label": "Automotive > Maintenance and Repair > Oil and Lube",
+    "single_match": {
+      "integrated_category_id": "11013",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Oil Change Service",
+      "is_exact": true
+    }
+  },
+  "409": {
+    "factual_label": "Sports and Recreation > Water Sports > Boating",
+    "single_match": {
+      "integrated_category_id": "18067",
+      "integrated_category_label": "Sports and Recreation > Water Sports",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "18070",
+        "integrated_category_label": "Sports and Recreation > Water Sports > Sailing Club",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "19003",
+        "integrated_category_label": "Travel and Transportation > Boat Rental",
+        "is_exact": false
+      }
+    ]
+  },
+  "94": {
+    "factual_label": "Healthcare > Physicians > Oncologists",
+    "single_match": {
+      "integrated_category_id": "15040",
+      "integrated_category_label": "Health and Medicine > Physician > Oncologist",
+      "is_exact": true
+    }
+  },
+  "366": {
+    "factual_label": "Social > Food and Dining > Restaurants > Sushi",
+    "single_match": {
+      "integrated_category_id": "13276",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Japanese Restaurant > Sushi Restaurant",
+      "is_exact": true
+    }
+  },
+  "472": {
+    "factual_label": "Automotive > Car Dealers and Leasing > Car Dealers",
+    "single_match": {
+      "integrated_category_id": "17006",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership",
+      "is_exact": true
+    }
+  },
+  "412": {
+    "factual_label": "Sports and Recreation > Water Sports > Scuba Diving",
+    "single_match": {
+      "integrated_category_id": "18071",
+      "integrated_category_label": "Sports and Recreation > Water Sports > Scuba Diving Instructor",
+      "is_exact": true
+    }
+  },
+  "21": {
+    "factual_label": "Community and Government > Animal Shelters and Humane Societies",
+    "single_match": {
+      "integrated_category_id": "12002",
+      "integrated_category_label": "Community and Government > Animal Shelter",
+      "is_exact": true
+    }
+  },
+  "131": {
+    "factual_label": "Retail > Cards and Stationery",
+    "single_match": {
+      "integrated_category_id": "17131",
+      "integrated_category_label": "Retail > Stationery Store",
+      "is_exact": true
+    }
+  },
+  "219": {
+    "factual_label": "Businesses and Services > Financial",
+    "single_match": {
+      "integrated_category_id": "11042",
+      "integrated_category_label": "Business and Professional Services > Financial Service",
+      "is_exact": true
+    }
+  },
+  "392": {
+    "factual_label": "Sports and Recreation > Outdoors > Rock Climbing",
+    "single_match": {
+      "integrated_category_id": "16044",
+      "integrated_category_label": "Landmarks and Outdoors > Rock Climbing Spot",
+      "is_exact": true
+    }
+  },
+  "431": {
+    "factual_label": "Travel > Cruises",
+    "single_match": {
+      "integrated_category_id": "19005",
+      "integrated_category_label": "Travel and Transportation > Cruise",
+      "is_exact": true
+    }
+  },
+  "361": {
+    "factual_label": "Social > Food and Dining > Restaurants > Mexican",
+    "single_match": {
+      "integrated_category_id": "13303",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Mexican Restaurant",
+      "is_exact": true
+    }
+  },
+  "105": {
+    "factual_label": "Healthcare > Pregnancy and Sexual Health",
+    "single_match": {
+      "integrated_category_id": "15015",
+      "integrated_category_label": "Health and Medicine > Maternity Clinic",
+      "is_exact": true
+    }
+  },
+  "149": {
+    "factual_label": "Retail > Food and Beverage",
+    "single_match": {
+      "integrated_category_id": "17057",
+      "integrated_category_label": "Retail > Food and Beverage Retail",
+      "is_exact": true
+    }
+  },
+  "387": {
+    "factual_label": "Sports and Recreation > Outdoors",
+    "single_match": {
+      "integrated_category_id": "16000",
+      "integrated_category_label": "Landmarks and Outdoors",
+      "is_exact": true
+    }
+  },
+  "198": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Online Advertising",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "229": {
+    "factual_label": "Businesses and Services > Financial > Student Aid and Grants",
+    "single_match": {
+      "integrated_category_id": "11042",
+      "integrated_category_label": "Business and Professional Services > Financial Service",
+      "is_exact": false
+    }
+  },
+  "343": {
+    "factual_label": "Social > Food and Dining > Dessert",
+    "single_match": {
+      "integrated_category_id": "13040",
+      "integrated_category_label": "Dining and Drinking > Dessert Shop",
+      "is_exact": true
+    }
+  },
+  "396": {
+    "factual_label": "Sports and Recreation > Race Tracks",
+    "single_match": {
+      "integrated_category_id": "18039",
+      "integrated_category_label": "Sports and Recreation > Race Track",
+      "is_exact": true
+    }
+  },
+  "463": {
+    "factual_label": "Social > Entertainment > Arcades",
+    "single_match": {
+      "integrated_category_id": "10003",
+      "integrated_category_label": "Arts and Entertainment > Arcade",
+      "is_exact": true
+    }
+  },
+  "354": {
+    "factual_label": "Social > Food and Dining > Restaurants > Diners",
+    "single_match": {
+      "integrated_category_id": "13049",
+      "integrated_category_label": "Dining and Drinking > Diner",
+      "is_exact": true
+    }
+  },
+  "275": {
+    "factual_label": "Businesses and Services > Manufacturing",
+    "single_match": {
+      "integrated_category_id": "11120",
+      "integrated_category_label": "Business and Professional Services > Manufacturer",
+      "is_exact": true
+    }
+  },
+  "393": {
+    "factual_label": "Sports and Recreation > Outdoors > Skydiving",
+    "single_match": {
+      "integrated_category_id": "18057",
+      "integrated_category_label": "Sports and Recreation > Skydiving Center",
+      "is_exact": true
+    }
+  },
+  "449": {
+    "factual_label": "Businesses and Services > Photography",
+    "single_match": {
+      "integrated_category_id": "11137",
+      "integrated_category_label": "Business and Professional Services > Photography Service",
+      "is_exact": true
+    }
+  },
+  "99": {
+    "factual_label": "Healthcare > Physicians > Plastic Surgeons",
+    "single_match": {
+      "integrated_category_id": "15046",
+      "integrated_category_label": "Health and Medicine > Physician > Plastic Surgeon",
+      "is_exact": true
+    }
+  },
+  "283": {
+    "factual_label": "Businesses and Services > Personal Care > Piercing",
+    "single_match": {
+      "integrated_category_id": "11065",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Body Piercing Shop",
+      "is_exact": true
+    }
+  },
+  "284": {
+    "factual_label": "Businesses and Services > Personal Care > Skin Care",
+    "single_match": {
+      "integrated_category_id": "11072",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Skin Care Clinic",
+      "is_exact": true
+    }
+  },
+  "119": {
+    "factual_label": "Landmarks > Parks > Natural Parks",
+    "single_match": {
+      "integrated_category_id": "16035",
+      "integrated_category_label": "Landmarks and Outdoors > Park > Natural Park",
+      "is_exact": true
+    }
+  },
+  "363": {
+    "factual_label": "Social > Food and Dining > Restaurants > Pizza",
+    "single_match": {
+      "integrated_category_id": "13064",
+      "integrated_category_label": "Dining and Drinking > Pizzeria",
+      "is_exact": true
+    }
+  },
+  "19": {
+    "factual_label": "Automotive > Towing",
+    "single_match": {
+      "integrated_category_id": "11016",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Towing Service",
+      "is_exact": true
+    }
+  },
+  "446": {
+    "factual_label": "Businesses and Services > Career Counseling",
+    "single_match": {
+      "integrated_category_id": "11023",
+      "integrated_category_label": "Business and Professional Services > Career Counselor",
+      "is_exact": true
+    }
+  },
+  "470": {
+    "factual_label": "Retail > Pets > Grooming",
+    "single_match": {
+      "integrated_category_id": "11134",
+      "integrated_category_label": "Business and Professional Services > Pet Service > Pet Grooming Service",
+      "is_exact": true
+    }
+  },
+  "248": {
+    "factual_label": "Retail > Home Appliances",
+    "single_match": {
+      "integrated_category_id": "17084",
+      "integrated_category_label": "Retail > Furniture and Home Store > Home Appliance Store",
+      "is_exact": true
+    }
+  },
+  "482": {
+    "factual_label": "Social > Food and Dining > Cafes, Coffee and Tea Houses > Bubble Tea",
+    "single_match": {
+      "integrated_category_id": "13033",
+      "integrated_category_label": "Dining and Drinking > Cafes, Coffee, and Tea Houses > Bubble Tea Shop",
+      "is_exact": true
+    }
+  },
+  "401": {
+    "factual_label": "Sports and Recreation > Running",
+    "single_match": {
+      "integrated_category_id": "18051",
+      "integrated_category_label": "Sports and Recreation > Running and Track",
+      "is_exact": true
+    }
+  },
+  "428": {
+    "factual_label": "Transportation > Transport Hubs > Ports",
+    "single_match": {
+      "integrated_category_id": "19023",
+      "integrated_category_label": "Travel and Transportation > Port",
+      "is_exact": true
+    }
+  },
+  "334": {
+    "factual_label": "Social > Entertainment > Night Clubs",
+    "single_match": {
+      "integrated_category_id": "10032",
+      "integrated_category_label": "Arts and Entertainment > Night Club",
+      "is_exact": true
+    }
+  },
+  "281": {
+    "factual_label": "Businesses and Services > Personal Care > Manicures and Pedicures",
+    "single_match": {
+      "integrated_category_id": "11071",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Nail Salon",
+      "is_exact": true
+    }
+  },
+  "430": {
+    "factual_label": "Travel",
+    "single_match": {
+      "integrated_category_id": "19000",
+      "integrated_category_label": "Travel and Transportation",
+      "is_exact": false
+    }
+  },
+  "62": {
+    "factual_label": "Healthcare",
+    "single_match": {
+      "integrated_category_id": "15000",
+      "integrated_category_label": "Health and Medicine",
+      "is_exact": true
+    }
+  },
+  "169": {
+    "factual_label": "Retail > Shopping Centers and Malls",
+    "single_match": {
+      "integrated_category_id": "17000",
+      "integrated_category_label": "Retail",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "17114",
+        "integrated_category_label": "Retail > Shopping Mall",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "17115",
+        "integrated_category_label": "Retail > Shopping Plaza",
+        "is_exact": false
+      }
+    ]
+  },
+  "385": {
+    "factual_label": "Sports and Recreation > Gyms and Fitness Centers",
+    "single_match": {
+      "integrated_category_id": "18021",
+      "integrated_category_label": "Sports and Recreation > Gym and Studio",
+      "is_exact": true
+    }
+  },
+  "255": {
+    "factual_label": "Businesses and Services > Real Estate > Mobile Homes",
+    "single_match": {
+      "integrated_category_id": "19025",
+      "integrated_category_label": "Travel and Transportation > RV Park",
+      "is_exact": true
+    }
+  },
+  "18": {
+    "factual_label": "Automotive > Salvage Yards",
+    "single_match": {
+      "integrated_category_id": "11160",
+      "integrated_category_label": "Business and Professional Services > Salvage Yard",
+      "is_exact": true
+    }
+  },
+  "192": {
+    "factual_label": "Businesses and Services > Welding",
+    "single_match": {
+      "integrated_category_id": "11178",
+      "integrated_category_label": "Business and Professional Services > Welding Service",
+      "is_exact": true
+    }
+  },
+  "438": {
+    "factual_label": "Travel > Lodging > Resorts",
+    "single_match": {
+      "integrated_category_id": "19018",
+      "integrated_category_label": "Travel and Transportation > Lodging > Resort",
+      "is_exact": true
+    }
+  },
+  "260": {
+    "factual_label": "Businesses and Services > Home Improvement > Pools and Spas",
+    "single_match": {
+      "integrated_category_id": "11100",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Swimming Pool Maintenance and Service",
+      "is_exact": true
+    }
+  },
+  "359": {
+    "factual_label": "Social > Food and Dining > Restaurants > Japanese",
+    "single_match": {
+      "integrated_category_id": "13263",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Japanese Restaurant",
+      "is_exact": true
+    }
+  },
+  "6": {
+    "factual_label": "Automotive > Car Parts and Accessories",
+    "single_match": {
+      "integrated_category_id": "17011",
+      "integrated_category_label": "Retail > Automotive Retail > Car Parts and Accessories",
+      "is_exact": true
+    }
+  },
+  "20": {
+    "factual_label": "Community and Government",
+    "single_match": {
+      "integrated_category_id": "12000",
+      "integrated_category_label": "Community and Government",
+      "is_exact": true
+    }
+  },
+  "202": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Search Engine Marketing and Optimization",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "54": {
+    "factual_label": "Community and Government > Religious > Buddhist Temples",
+    "single_match": {
+      "integrated_category_id": "12099",
+      "integrated_category_label": "Community and Government > Spiritual Center > Buddhist Temple",
+      "is_exact": true
+    }
+  },
+  "11": {
+    "factual_label": "Automotive > Maintenance and Repair > Smog Check",
+    "single_match": {
+      "integrated_category_id": "11014",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Smog Check Shop",
+      "is_exact": true
+    }
+  },
+  "314": {
+    "factual_label": "Social > Bars > Jazz and Blues Cafes",
+    "single_match": {
+      "integrated_category_id": "10040",
+      "integrated_category_label": "Arts and Entertainment > Performing Arts Venue > Music Venue > Jazz and Blues Venue",
+      "is_exact": true
+    }
+  },
+  "442": {
+    "factual_label": "Retail > Discount Stores",
+    "single_match": {
+      "integrated_category_id": "17034",
+      "integrated_category_label": "Retail > Discount Store",
+      "is_exact": true
+    }
+  },
+  "194": {
+    "factual_label": "Businesses and Services > Advertising and Marketing > Advertising Agencies and Media Buyers",
+    "single_match": {
+      "integrated_category_id": "11001",
+      "integrated_category_label": "Business and Professional Services > Advertising Agency",
+      "is_exact": false
+    }
+  },
+  "417": {
+    "factual_label": "Transportation > Fuel Stations",
+    "single_match": {
+      "integrated_category_id": "19007",
+      "integrated_category_label": "Travel and Transportation > Fuel Station",
+      "is_exact": true
+    }
+  },
+  "15": {
+    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters > Repair",
+    "single_match": {
+      "integrated_category_id": "11012",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Motorcycle Repair Shop",
+      "is_exact": true
+    }
+  },
+  "185": {
+    "factual_label": "Businesses and Services > Refrigeration and Ice",
+    "single_match": {
+      "integrated_category_id": "11154",
+      "integrated_category_label": "Business and Professional Services > Refrigeration and Ice Supplier",
+      "is_exact": true
+    }
+  },
+  "160": {
+    "factual_label": "Retail > Hobby and Collectibles",
+    "single_match": {
+      "integrated_category_id": "17091",
+      "integrated_category_label": "Retail > Hobby Store",
+      "is_exact": true
+    }
+  },
+  "459": {
+    "factual_label": "Transportation > Rest Areas",
+    "single_match": {
+      "integrated_category_id": "19024",
+      "integrated_category_label": "Travel and Transportation > Rest Area",
+      "is_exact": true
+    }
+  },
+  "398": {
+    "factual_label": "Sports and Recreation > Racquet Sports > Racquetball",
+    "single_match": {
+      "integrated_category_id": "18043",
+      "integrated_category_label": "Sports and Recreation > Racquet Sports > Racquetball Club",
+      "is_exact": true
+    }
+  },
+  "217": {
+    "factual_label": "Businesses and Services > Events and Event Planning",
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    },
+    "multiple_match": [
+      {
+        "integrated_category_id": "11000",
+        "integrated_category_label": "Business and Professional Services",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11038",
+        "integrated_category_label": "Business and Professional Services > Event Service",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11039",
+        "integrated_category_label": "Business and Professional Services > Event Space",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "14000",
+        "integrated_category_label": "Event",
+        "is_exact": false
+      }
+    ]
+  },
+  "252": {
+    "factual_label": "Businesses and Services > Home Improvement > Kitchens",
+    "single_match": {
+      "integrated_category_id": "11091",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Kitchen Remodeler",
+      "is_exact": true
+    }
+  },
+  "241": {
+    "factual_label": "Businesses and Services > Home Improvement > Contractors > Deck and Patio",
+    "single_match": {
+      "integrated_category_id": "11081",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service > Deck and Patio Contractor",
+      "is_exact": true
+    }
+  },
+  "163": {
+    "factual_label": "Retail > Newsstands",
+    "single_match": {
+      "integrated_category_id": "17100",
+      "integrated_category_label": "Retail > Newsstand",
+      "is_exact": true
+    }
+  },
+  "422": {
+    "factual_label": "Transportation > Taxi and Car Services > Charter Buses",
+    "single_match": {
+      "integrated_category_id": "19052",
+      "integrated_category_label": "Travel and Transportation > Transportation Service > Charter Bus",
+      "is_exact": true
+    }
+  },
+  "386": {
+    "factual_label": "Sports and Recreation > Hockey",
+    "single_match": {
+      "integrated_category_id": "18031",
+      "integrated_category_label": "Sports and Recreation > Hockey",
+      "is_exact": true
+    }
+  }
+}
