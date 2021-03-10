@@ -8,7 +8,7 @@ This folder contains the most up-to-date versions of:
 These mappings are derived from the sheet [here](https://docs.google.com/spreadsheets/d/1WEa155l35R84tWfKAKakF9-MoLZ8ZjKuvP5tbLW07JE/edit#gid=221336214).
 
 ## Usage
-For each legacy taxonomy to Integrated taxonomy mapping, each key is a category id from the legacy taxonomy, and each value contains the legacy category label, a single matched Integrated category, and if applicable, multiple Integrated category matches. Most categories do not have multiple integrated match categories, but every category will have a single matched Integrated category. If a legacy category has multiple Integrated category matches, then the multiple Integrated category matches are more accurate than the single matched Integrated category.
+For each legacy taxonomy to Integrated taxonomy mapping, each key is a category id from the legacy taxonomy, and each value contains the legacy category label, a single matched Integrated category, and if applicable, multiple Integrated category matches. Most categories do not have multiple integrated match categories, but every category will have a single matched Integrated category. If a legacy category has multiple Integrated category matches, then the multiple Integrated category matches are more accurate matches than the single matched Integrated category.
 
 ## Examples
 ### Legacy Factual category: has no multiple Integrated category matches
@@ -47,17 +47,17 @@ For each legacy taxonomy to Integrated taxonomy mapping, each key is a category 
       {
         "integrated_category_id": "17058",
         "integrated_category_label": "Retail > Food and Beverage Retail > Beer Store",
-        "is_exact": false
+        "is_exact": true
       },
       {
         "integrated_category_id": "17080",
         "integrated_category_label": "Retail > Food and Beverage Retail > Wine Store",
-        "is_exact": false
+        "is_exact": true
       },
       {
         "integrated_category_id": "17076",
         "integrated_category_label": "Retail > Food and Beverage Retail > Liquor Store",
-        "is_exact": false
+        "is_exact": true
       }
     ]
   },
