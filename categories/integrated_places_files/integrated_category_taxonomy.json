@@ -7548,10 +7548,10 @@
     "full_label": [
       "Dining and Drinking",
       "Restaurant",
-      "Honduran Restaurants"
+      "Honduran Restaurant"
     ],
     "labels": {
-      "en": "Honduran Restaurants"
+      "en": "Honduran Restaurant"
     },
     "parents": [
       "13065"
@@ -8724,10 +8724,10 @@
       "Dining and Drinking",
       "Restaurant",
       "Japanese Restaurant",
-      "Japanese Family Restaurants"
+      "Japanese Family Restaurant"
     ],
     "labels": {
-      "en": "Japanese Family Restaurants"
+      "en": "Japanese Family Restaurant"
     },
     "parents": [
       "13263"
@@ -8916,10 +8916,10 @@
       "Dining and Drinking",
       "Restaurant",
       "Japanese Restaurant",
-      "Teishoku Restaurants"
+      "Teishoku Restaurant"
     ],
     "labels": {
-      "en": "Teishoku Restaurants"
+      "en": "Teishoku Restaurant"
     },
     "parents": [
       "13263"
@@ -9170,10 +9170,10 @@
       "Dining and Drinking",
       "Restaurant",
       "Korean Restaurant",
-      "Korean BBQ Restaurants"
+      "Korean BBQ Restaurant"
     ],
     "labels": {
-      "en": "Korean BBQ Restaurants"
+      "en": "Korean BBQ Restaurant"
     },
     "parents": [
       "13289"
@@ -9269,10 +9269,10 @@
     "full_label": [
       "Dining and Drinking",
       "Restaurant",
-      "Mauritian Restaurants"
+      "Mauritian Restaurant"
     ],
     "labels": {
-      "en": "Mauritian Restaurants"
+      "en": "Mauritian Restaurant"
     },
     "parents": [
       "13065"
@@ -9643,10 +9643,10 @@
     "full_label": [
       "Dining and Drinking",
       "Restaurant",
-      "Puerto Rican Restaurants"
+      "Puerto Rican Restaurant"
     ],
     "labels": {
-      "en": "Puerto Rican Restaurants"
+      "en": "Puerto Rican Restaurant"
     },
     "parents": [
       "13065"
@@ -9842,10 +9842,10 @@
     "full_label": [
       "Dining and Drinking",
       "Restaurant",
-      "Singaporean Restaurants"
+      "Singaporean Restaurant"
     ],
     "labels": {
-      "en": "Singaporean Restaurants"
+      "en": "Singaporean Restaurant"
     },
     "parents": [
       "13065"
@@ -13896,10 +13896,10 @@
   "17135": {
     "full_label": [
       "Retail",
-      "Toys and Games Store"
+      "Toy / Game Store"
     ],
     "labels": {
-      "en": "Toys and Games Store"
+      "en": "Toy / Game Store"
     },
     "parents": [
       "17000"
