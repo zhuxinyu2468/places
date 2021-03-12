@@ -1599,12 +1599,6 @@
     },
     "parents": [
       "11061"
-    ],
-    "countries_supported": [
-      "us",
-      "nl",
-      "uy",
-      "ca"
     ]
   },
   "11071": {
@@ -2167,10 +2161,6 @@
     },
     "parents": [
       "11111"
-    ],
-    "countries_supported": [
-      "uk",
-      "ca"
     ]
   },
   "11115": {
@@ -12466,6 +12456,12 @@
     },
     "parents": [
       "17000"
+    ],
+    "countries_supported": [
+      "us",
+      "nl",
+      "uy",
+      "ca"
     ]
   },
   "17022": {
@@ -13088,9 +13084,6 @@
     },
     "parents": [
       "17069"
-    ],
-    "countries_supported": [
-      "tr"
     ]
   },
   "17071": {
@@ -13130,9 +13123,6 @@
     },
     "parents": [
       "17057"
-    ],
-    "countries_supported": [
-      "tr"
     ]
   },
   "17074": {
@@ -13159,6 +13149,9 @@
     },
     "parents": [
       "17057"
+    ],
+    "countries_supported": [
+      "tr"
     ]
   },
   "17076": {
@@ -13211,6 +13204,9 @@
     },
     "parents": [
       "17057"
+    ],
+    "countries_supported": [
+      "tr"
     ]
   },
   "17080": {
@@ -13458,6 +13454,10 @@
     },
     "parents": [
       "17000"
+    ],
+    "countries_supported": [
+      "uk",
+      "ca"
     ]
   },
   "17100": {
