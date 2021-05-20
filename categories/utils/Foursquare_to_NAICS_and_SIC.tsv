@@ -1,0 +1,1146 @@
+integrated_category_id	integrated_category_label	naics_code	sic_code
+10000	Arts and Entertainment	71	
+10001	Arts and Entertainment > Amusement Park	713110	7996
+10002	Arts and Entertainment > Aquarium	712130	8422
+10003	Arts and Entertainment > Arcade	713120	7993
+10004	Arts and Entertainment > Art Gallery	453920	5999
+10005	Arts and Entertainment > Bingo Center	713290	7993
+10006	Arts and Entertainment > Bowling Alley	713950	7933
+10007	Arts and Entertainment > Carnival	71	
+10008	Arts and Entertainment > Casino	7132	
+10009	Arts and Entertainment > Circus	711190	7929
+10010	Arts and Entertainment > Comedy Club	71	
+10011	Arts and Entertainment > Country Club	713910	7992
+10012	Arts and Entertainment > Country Dance Club	711120	7922
+10013	Arts and Entertainment > Dance Hall	711120	7922
+10014	Arts and Entertainment > Disc Golf Course	713910	7992
+10015	Arts and Entertainment > Escape Room	71	
+10016	Arts and Entertainment > Exhibit	7121	
+10017	Arts and Entertainment > Fair	71	
+10018	Arts and Entertainment > Gaming Cafe	81	
+10019	Arts and Entertainment > Go Kart Track	711212	7948
+10020	Arts and Entertainment > Internet Cafe	561439	7334
+10021	Arts and Entertainment > Karaoke Box	71	
+10022	Arts and Entertainment > Laser Tag Center	7139	
+10023	Arts and Entertainment > Mini Golf Course	7139	
+10024	Arts and Entertainment > Movie Theater	512131	7832
+10025	Arts and Entertainment > Movie Theater > Drive-in Theater	512132	7833
+10026	Arts and Entertainment > Movie Theater > Indie Movie Theater	512131	7832
+10027	Arts and Entertainment > Museum	712110	8412
+10028	Arts and Entertainment > Museum > Art Museum	7121	
+10029	Arts and Entertainment > Museum > Erotic Museum	7121	
+10030	Arts and Entertainment > Museum > History Museum	7121	
+10031	Arts and Entertainment > Museum > Science Museum	7121	
+10032	Arts and Entertainment > Night Club	722410	5813
+10033	Arts and Entertainment > Pachinko Parlor	713290	7993
+10034	Arts and Entertainment > Party Center	71	
+10035	Arts and Entertainment > Performing Arts Venue	71	
+10036	Arts and Entertainment > Performing Arts Venue > Amphitheater	711110	5812
+10037	Arts and Entertainment > Performing Arts Venue > Concert Hall	711110	5812
+10038	Arts and Entertainment > Performing Arts Venue > Indie Theater	512131	7832
+10039	Arts and Entertainment > Performing Arts Venue > Music Venue	71	
+10040	Arts and Entertainment > Performing Arts Venue > Music Venue > Jazz and Blues Venue	71	
+10041	Arts and Entertainment > Performing Arts Venue > Music Venue > Rock Club	71	
+10042	Arts and Entertainment > Performing Arts Venue > Opera House	711110	5812
+10043	Arts and Entertainment > Performing Arts Venue > Theater	711110	5812
+10044	Arts and Entertainment > Planetarium	7121	
+10045	Arts and Entertainment > Pool Hall	713990	7911
+10046	Arts and Entertainment > Psychics and Astrologers	812990	4899
+10047	Arts and Entertainment > Public Art	71	
+10048	Arts and Entertainment > Roller Rink	713940	7991
+10049	Arts and Entertainment > Salsa Club	71	
+10050	Arts and Entertainment > Samba School	71	
+10051	Arts and Entertainment > Stadium	7139	
+10052	Arts and Entertainment > Strip Club	722410	5813
+10053	Arts and Entertainment > Ticket Seller	71	
+10054	Arts and Entertainment > VR Cafe	561439	7334
+10055	Arts and Entertainment > Water Park	713110	7996
+10056	Arts and Entertainment > Zoo	712130	8422
+11000	Business and Professional Services	54	
+11001	Business and Professional Services > Advertising Agency	541810	7311
+11002	Business and Professional Services > Agriculture and Forestry Service	115310	851
+11003	Business and Professional Services > Architecture Firm	541310	8712
+11004	Business and Professional Services > Art Restoration Service	44	
+11005	Business and Professional Services > Art Studio	71	
+11006	Business and Professional Services > Audiovisual Service	44	
+11007	Business and Professional Services > Auditorium	71	
+11008	Business and Professional Services > Automation and Control System	44	
+11009	Business and Professional Services > Automotive Service	332710	3599
+11010	Business and Professional Services > Automotive Service > Automotive Repair Shop	332710	3599
+11011	Business and Professional Services > Automotive Service > Car Wash and Detail	811192	7542
+11012	Business and Professional Services > Automotive Service > Motorcycle Repair Shop	332710	3599
+11013	Business and Professional Services > Automotive Service > Oil Change Service	332710	3599
+11014	Business and Professional Services > Automotive Service > Smog Check Shop	332710	3599
+11015	Business and Professional Services > Automotive Service > Tire Repair Shop	332710	3599
+11016	Business and Professional Services > Automotive Service > Towing Service	332710	3599
+11017	Business and Professional Services > Automotive Service > Transmissions Shop	332710	3599
+11018	Business and Professional Services > Automotive Service > Vehicle Inspection Station	811198	7534
+11019	Business and Professional Services > Ballroom	713990	7911
+11020	Business and Professional Services > Business and Strategy Consulting Office	561110	8741
+11021	Business and Professional Services > Business Center	81	
+11022	Business and Professional Services > Campaign Office	813940	8651
+11023	Business and Professional Services > Career Counselor	54	
+11024	Business and Professional Services > Chemicals and Gasses Manufacturer	54	
+11025	Business and Professional Services > Child Care Service	624410	8351
+11026	Business and Professional Services > Child Care Service > Daycare	624410	8351
+11027	Business and Professional Services > Computer Repair Service	811490	3732
+11028	Business and Professional Services > Construction	561730	782
+11029	Business and Professional Services > Convention Center	71	
+11030	Business and Professional Services > Design Studio	541490	7389
+11031	Business and Professional Services > Distribution Center	49	
+11032	Business and Professional Services > Electrical Equipment Supplier	44	
+11033	Business and Professional Services > Employment Agency	561311	7299
+11034	Business and Professional Services > Engineer	54	
+11035	Business and Professional Services > Entertainment Agency	54	
+11036	Business and Professional Services > Entertainment Service	71	
+11037	Business and Professional Services > Equipment Rental Service	532310	7359
+11038	Business and Professional Services > Event Service	81	
+11039	Business and Professional Services > Event Space	71	
+11040	Business and Professional Services > Factory	31	
+11041	Business and Professional Services > Film Studio	512110	7812
+11042	Business and Professional Services > Financial Service	541611	8742
+11043	Business and Professional Services > Financial Service > Accounting and Bookkeeping Service	541611	8742
+11044	Business and Professional Services > Financial Service > ATM	523910	6153
+11045	Business and Professional Services > Financial Service > Bank	521110	6011
+11046	Business and Professional Services > Financial Service > Banking and Finance	541611	8742
+11047	Business and Professional Services > Financial Service > Business Broker	541611	8742
+11048	Business and Professional Services > Financial Service > Check Cashing Service	522390	6099
+11049	Business and Professional Services > Financial Service > Collections Service	541611	8742
+11050	Business and Professional Services > Financial Service > Credit Counseling and Bankruptcy Service	541611	8742
+11051	Business and Professional Services > Financial Service > Credit Union	522130	6061
+11052	Business and Professional Services > Financial Service > Currency Exchange	523130	6099
+11053	Business and Professional Services > Financial Service > Financial Planner	541611	8742
+11054	Business and Professional Services > Financial Service > Loans Agency	541611	8742
+11055	Business and Professional Services > Financial Service > Stock Broker	541611	8742
+11056	Business and Professional Services > Food and Beverage Service	722310	4789
+11057	Business and Professional Services > Food and Beverage Service > Caterer	722310	4789
+11058	Business and Professional Services > Food and Beverage Service > Food Distribution Center	722310	4789
+11059	Business and Professional Services > Funeral Home	812210	7261
+11060	Business and Professional Services > Geological Service	541360	1081
+11061	Business and Professional Services > Health and Beauty Service	812112	7231
+11062	Business and Professional Services > Health and Beauty Service > Barbershop	812199	7299
+11063	Business and Professional Services > Health and Beauty Service > Bath House	812199	7299
+11064	Business and Professional Services > Health and Beauty Service > Hair Salon	812199	7299
+11065	Business and Professional Services > Health and Beauty Service > Body Piercing Shop	812199	7299
+11066	Business and Professional Services > Health and Beauty Service > Dry Cleaner	812320	7211
+11067	Business and Professional Services > Health and Beauty Service > Hair Removal Service	812112	7231
+11068	Business and Professional Services > Health and Beauty Service > Laundromat	812310	7215
+11069	Business and Professional Services > Health and Beauty Service > Laundry Service	812320	7211
+11070	Business and Professional Services > Health and Beauty Service > Massage Clinic	812199	7299
+11071	Business and Professional Services > Health and Beauty Service > Nail Salon	812113	7231
+11072	Business and Professional Services > Health and Beauty Service > Skin Care Clinic	812112	7231
+11073	Business and Professional Services > Health and Beauty Service > Spa	812199	7299
+11074	Business and Professional Services > Health and Beauty Service > Tanning Salon	812199	7299
+11075	Business and Professional Services > Health and Beauty Service > Tattoo Parlor	812199	7299
+11076	Business and Professional Services > Home Improvement Service	561730	782
+11077	Business and Professional Services > Home Improvement Service > Bathroom Contractor	561730	782
+11078	Business and Professional Services > Home Improvement Service > Carpenter	561730	782
+11079	Business and Professional Services > Home Improvement Service > Carpet and Flooring Contractor	561730	782
+11080	Business and Professional Services > Home Improvement Service > Chimney Sweep	561730	782
+11081	Business and Professional Services > Home Improvement Service > Deck and Patio Contractor	561730	782
+11082	Business and Professional Services > Home Improvement Service > Doors and Windows Contractor	561730	782
+11083	Business and Professional Services > Home Improvement Service > Electrician	561730	782
+11084	Business and Professional Services > Home Improvement Service > Fence Contractor	561730	782
+11085	Business and Professional Services > Home Improvement Service > Garage Door Supplier	561730	782
+11086	Business and Professional Services > Home Improvement Service > General Contractor	561730	782
+11087	Business and Professional Services > Home Improvement Service > Heating, Ventilating and Air Conditioning Contractor	561730	782
+11088	Business and Professional Services > Home Improvement Service > Home Inspection	561730	782
+11089	Business and Professional Services > Home Improvement Service > Home Service	236118	1521
+11090	Business and Professional Services > Home Improvement Service > Interior Designer	561730	782
+11091	Business and Professional Services > Home Improvement Service > Kitchen Remodeler	561730	782
+11092	Business and Professional Services > Home Improvement Service > Landscaper and Gardener	561730	782
+11093	Business and Professional Services > Home Improvement Service > Mover	561730	782
+11094	Business and Professional Services > Home Improvement Service > Painter	561730	782
+11095	Business and Professional Services > Home Improvement Service > Pest Control Service	561730	782
+11096	Business and Professional Services > Home Improvement Service > Plumber	561730	782
+11097	Business and Professional Services > Home Improvement Service > Professional Cleaning Service	561730	782
+11098	Business and Professional Services > Home Improvement Service > Roofer	561730	782
+11099	Business and Professional Services > Home Improvement Service > Sewer Contractor	561730	782
+11100	Business and Professional Services > Home Improvement Service > Swimming Pool Maintenance and Service	561730	782
+11101	Business and Professional Services > Home Improvement Service > Tree Service	561730	782
+11102	Business and Professional Services > Home Improvement Service > Upholstery Service	561730	782
+11103	Business and Professional Services > Human Resources Agency	54	
+11104	Business and Professional Services > Import and Export Service	44	
+11105	Business and Professional Services > Industrial Equipment Supplier	423830	5084
+11106	Business and Professional Services > Industrial Estate	523991	6091
+11107	Business and Professional Services > Insurance Agency	524210	6411
+11108	Business and Professional Services > IT Service	519190	7389
+11109	Business and Professional Services > Laboratory	541380	8734
+11110	Business and Professional Services > Leather Supplier	316110	3111
+11111	Business and Professional Services > Legal Service	541611	8742
+11112	Business and Professional Services > Legal Service > Attorney / Law Office	541110	8111
+11113	Business and Professional Services > Legal Service > Immigration Attorney	541110	8111
+11114	Business and Professional Services > Legal Service > Notary	541199	7389
+11115	Business and Professional Services > Locksmith	561622	7699
+11116	Business and Professional Services > Logging Service	113310	2411
+11117	Business and Professional Services > Lottery Retailer	713290	7993
+11118	Business and Professional Services > Machine Shop	332710	3599
+11119	Business and Professional Services > Management Consultant	54	
+11120	Business and Professional Services > Manufacturer	44	
+11121	Business and Professional Services > Media Agency	541810	7311
+11122	Business and Professional Services > Metals Supplier	423510	5051
+11123	Business and Professional Services > Mobile Company	54	
+11124	Business and Professional Services > Office	54	
+11125	Business and Professional Services > Office > Corporate Cafeteria	54	
+11126	Business and Professional Services > Office > Corporate Coffee Shop	722515	5461
+11127	Business and Professional Services > Office > Corporate Housing Agency	54	
+11128	Business and Professional Services > Office > Coworking Space	54	
+11129	Business and Professional Services > Office > Meeting Room	81	
+11130	Business and Professional Services > Office > Office Building	53	
+11131	Business and Professional Services > Outdoor Event Space	71	
+11132	Business and Professional Services > Paper Supplier	44	
+11133	Business and Professional Services > Pet Service	812910	752
+11134	Business and Professional Services > Pet Service > Pet Grooming Service	812910	752
+11135	Business and Professional Services > Pet Service > Pet Sitting and Boarding Service	812910	752
+11136	Business and Professional Services > Petroleum Supplier	424720	5172
+11137	Business and Professional Services > Photography Service	541922	7335
+11138	Business and Professional Services > Photography Service > Photographer	44	
+11139	Business and Professional Services > Photography Service > Photography Lab	541921	7221
+11140	Business and Professional Services > Photography Service > Photography Studio	541921	7221
+11141	Business and Professional Services > Plastics Supplier	44	
+11142	Business and Professional Services > Power Plant	237990	1622
+11143	Business and Professional Services > Publisher	54	
+11144	Business and Professional Services > Radio Station	515112	4832
+11145	Business and Professional Services > Real Estate Service	531210	6531
+11146	Business and Professional Services > Real Estate Service > Building and Land Surveyor	531210	6531
+11147	Business and Professional Services > Real Estate Service > Commercial Real Estate Developer	531210	6531
+11148	Business and Professional Services > Real Estate Service > Property Management Office	531210	6531
+11149	Business and Professional Services > Real Estate Service > Real Estate Agency	531210	6531
+11150	Business and Professional Services > Real Estate Service > Real Estate Appraiser	531210	6531
+11151	Business and Professional Services > Real Estate Service > Real Estate Development and Title Company	531210	6531
+11152	Business and Professional Services > Recording Studio	512240	7389
+11153	Business and Professional Services > Recycling Facility	562920	4953
+11154	Business and Professional Services > Refrigeration and Ice Supplier	423740	5078
+11155	Business and Professional Services > Renewable Energy Service	44	
+11156	Business and Professional Services > Rental Service	532310	7359
+11157	Business and Professional Services > Repair Service	811490	3732
+11158	Business and Professional Services > Research Station	541720	8732
+11159	Business and Professional Services > Rubber Supplier	3262	
+11160	Business and Professional Services > Salvage Yard	44	
+11161	Business and Professional Services > Scientific Equipment Supplier	423490	5049
+11162	Business and Professional Services > Security and Safety	44	
+11163	Business and Professional Services > Shipping, Freight, and Material Transportation Service	48-49	
+11164	Business and Professional Services > Shoe Repair Service	811430	7251
+11165	Business and Professional Services > Storage Facility	493110	4225
+11166	Business and Professional Services > Tailor	811490	3732
+11167	Business and Professional Services > Technology Business	54	
+11168	Business and Professional Services > Technology Business > Software Company	54	
+11169	Business and Professional Services > Technology Business > Website Designer	54	
+11170	Business and Professional Services > Telecommunication Service	44	
+11171	Business and Professional Services > Translation Service	44	
+11172	Business and Professional Services > Tutoring Service	44	
+11173	Business and Professional Services > TV Station	515120	4833
+11174	Business and Professional Services > Warehouse	452311	5311
+11175	Business and Professional Services > Waste Management Service	562119	4212
+11176	Business and Professional Services > Water Treatment Service	54	
+11177	Business and Professional Services > Wedding Hall	812990	4899
+11178	Business and Professional Services > Welding Service	44	
+11179	Business and Professional Services > Wholesaler	44	
+12000	Community and Government	54	
+12001	Community and Government > Addiction Treatment Center	54	
+12002	Community and Government > Animal Shelter	812910	752
+12003	Community and Government > Cemetery	812220	6531
+12004	Community and Government > Community Center	71	
+12005	Community and Government > Cultural Center	71	
+12006	Community and Government > Disabled Persons Service	624120	8322
+12007	Community and Government > Domestic Abuse Treatment Center	54	
+12008	Community and Government > Dump	44	
+12009	Community and Government > Education	611710	8299
+12010	Community and Government > Education > Adult Education	611710	8299
+12011	Community and Government > Education > Art School	611710	8299
+12012	Community and Government > Education > Circus School	711190	7929
+12013	Community and Government > Education > College and University	6113	
+12014	Community and Government > Education > College and University > College Academic Building	6113	
+12015	Community and Government > Education > College and University > College Administrative Building	6113	
+12016	Community and Government > Education > College and University > College Arts Building	6113	
+12017	Community and Government > Education > College and University > College Auditorium	6113	
+12018	Community and Government > Education > College and University > College Baseball Diamond	7139	
+12019	Community and Government > Education > College and University > College Basketball Court	7139	
+12020	Community and Government > Education > College and University > College Bookstore	451211	5192
+12021	Community and Government > Education > College and University > College Cafeteria	722514	5812
+12022	Community and Government > Education > College and University > College Classroom	6113	
+12023	Community and Government > Education > College and University > College Communications Building	6113	
+12024	Community and Government > Education > College and University > College Cricket Pitch	7139	
+12025	Community and Government > Education > College and University > College Engineering Building	6113	
+12026	Community and Government > Education > College and University > College Football Field	7139	
+12027	Community and Government > Education > College and University > College Gym	713940	7991
+12028	Community and Government > Education > College and University > College History Building	6113	
+12029	Community and Government > Education > College and University > College Hockey Rink	7139	
+12030	Community and Government > Education > College and University > College Lab	6113	
+12031	Community and Government > Education > College and University > College Library	6113	
+12032	Community and Government > Education > College and University > College Math Building	6113	
+12033	Community and Government > Education > College and University > College Quad	6113	
+12034	Community and Government > Education > College and University > College Rec Center	713940	7991
+12035	Community and Government > Education > College and University > College Residence Hall	6113	
+12036	Community and Government > Education > College and University > College Science Building	6113	
+12037	Community and Government > Education > College and University > College Soccer Field	7139	
+12038	Community and Government > Education > College and University > College Stadium	7139	
+12039	Community and Government > Education > College and University > College Technology Building	6113	
+12040	Community and Government > Education > College and University > College Tennis Court	7139	
+12041	Community and Government > Education > College and University > College Theater	71	
+12042	Community and Government > Education > College and University > College Track	7139	
+12043	Community and Government > Education > College and University > Fraternity House	721310	7021
+12044	Community and Government > Education > College and University > Law School	6113	
+12045	Community and Government > Education > College and University > Medical School	611519	8243
+12046	Community and Government > Education > College and University > Sorority House	721310	7021
+12047	Community and Government > Education > College and University > Student Center	6113	
+12048	Community and Government > Education > Community College	6113	
+12049	Community and Government > Education > Computer Training School	611710	8299
+12050	Community and Government > Education > Culinary School	611519	8243
+12051	Community and Government > Education > Driving School	611692	8299
+12052	Community and Government > Education > Flight School	611710	8299
+12053	Community and Government > Education > Language School	611630	8299
+12054	Community and Government > Education > Music School	611610	7911
+12055	Community and Government > Education > Nursery School	624410	8351
+12056	Community and Government > Education > Preschool	624410	8351
+12057	Community and Government > Education > Primary and Secondary School	611710	8299
+12058	Community and Government > Education > Primary and Secondary School > Elementary School	611110	8211
+12059	Community and Government > Education > Primary and Secondary School > High School	611110	8211
+12060	Community and Government > Education > Primary and Secondary School > Middle School	611110	8211
+12061	Community and Government > Education > Private School	611110	8211
+12062	Community and Government > Education > Religious School	611519	8243
+12063	Community and Government > Education > Trade School	6115	
+12064	Community and Government > Government Building	921120	9121
+12065	Community and Government > Government Building > Capitol Building	921120	9121
+12066	Community and Government > Government Building > City Hall	921120	9121
+12067	Community and Government > Government Building > Courthouse	922110	9211
+12068	Community and Government > Government Building > Embassy / Consulate	928120	9721
+12069	Community and Government > Government Building > Government Department / Agency	921120	9121
+12070	Community and Government > Government Building > Law Enforcement and Public Safety	921120	9121
+12071	Community and Government > Government Building > Law Enforcement and Public Safety > Fire Station	922160	9224
+12072	Community and Government > Government Building > Law Enforcement and Public Safety > Police Station	922120	9221
+12073	Community and Government > Government Building > Military	922120	9221
+12074	Community and Government > Government Building > Military > Military Base	928110	9711
+12075	Community and Government > Government Building > Post Office	561499	7389
+12076	Community and Government > Government Lobbyist	541820	8743
+12077	Community and Government > Homeless Shelter	624221	8322
+12078	Community and Government > Housing Authority	44	
+12079	Community and Government > Housing Development	925110	9531
+12080	Community and Government > Library	519120	7829
+12081	Community and Government > Observatory	541715	8731
+12082	Community and Government > Organization	54	
+12083	Community and Government > Organization > Charity	813219	8399
+12084	Community and Government > Organization > Club House	813410	8641
+12085	Community and Government > Organization > Environmental Organization	813410	8641
+12086	Community and Government > Organization > Non-Profit Organization	813219	8399
+12087	Community and Government > Organization > Social Services Organization	813319	8399
+12088	Community and Government > Organization > Veterans' Organization	813410	8641
+12089	Community and Government > Organization > Youth Organization	813410	8641
+12090	Community and Government > Prison	922140	9223
+12091	Community and Government > Public and Social Service	54	
+12092	Community and Government > Public Bathroom	NULL	
+12093	Community and Government > Rehabilitation Center	622310	8069
+12094	Community and Government > Residential Building	925110	9531
+12095	Community and Government > Retirement Home	6233	
+12096	Community and Government > Senior Citizen Service	44	
+12097	Community and Government > Social Club	813410	8641
+12098	Community and Government > Spiritual Center	813110	8661
+12099	Community and Government > Spiritual Center > Buddhist Temple	813110	8661
+12100	Community and Government > Spiritual Center > Cemevi	813110	8661
+12101	Community and Government > Spiritual Center > Church	813110	8661
+12102	Community and Government > Spiritual Center > Confucian Temple	813110	8661
+12103	Community and Government > Spiritual Center > Hindu Temple	813110	8661
+12104	Community and Government > Spiritual Center > Kingdom Hall	813110	8661
+12105	Community and Government > Spiritual Center > Monastery	813110	8661
+12106	Community and Government > Spiritual Center > Mosque	813110	8661
+12107	Community and Government > Spiritual Center > Prayer Room	813110	8661
+12108	Community and Government > Spiritual Center > Shrine	813110	8661
+12109	Community and Government > Spiritual Center > Sikh Temple	813110	8661
+12110	Community and Government > Spiritual Center > Synagogue	813110	8661
+12111	Community and Government > Spiritual Center > Temple	813110	8661
+12112	Community and Government > Spiritual Center > Terreiro	561499	7389
+12113	Community and Government > Summer Camp	713990	7911
+12114	Community and Government > Trailer Park	531190	6515
+12115	Community and Government > Utility Company	44	
+12116	Community and Government > Polling Place	423850	5087
+13000	Dining and Drinking	72	
+13001	Dining and Drinking > Bagel Shop	722515	5461
+13002	Dining and Drinking > Bakery	722515	5461
+13003	Dining and Drinking > Bar	722410	5813
+13004	Dining and Drinking > Bar > Apres Ski Bar	722410	5813
+13005	Dining and Drinking > Bar > Beach Bar	722410	5813
+13006	Dining and Drinking > Bar > Beer Bar	722410	5813
+13007	Dining and Drinking > Bar > Beer Garden	722410	5813
+13008	Dining and Drinking > Bar > Champagne Bar	722410	5813
+13009	Dining and Drinking > Bar > Cocktail Bar	722410	5813
+13010	Dining and Drinking > Bar > Dive Bar	722410	5813
+13011	Dining and Drinking > Bar > Gay Bar	722410	5813
+13012	Dining and Drinking > Bar > Hookah Bar	722410	5813
+13013	Dining and Drinking > Bar > Hotel Bar	722410	5813
+13014	Dining and Drinking > Bar > Ice Bar	722410	5813
+13015	Dining and Drinking > Bar > Karaoke Bar	722410	5813
+13016	Dining and Drinking > Bar > Lounge	722410	5813
+13017	Dining and Drinking > Bar > Piano Bar	71	
+13018	Dining and Drinking > Bar > Pub	722410	5813
+13019	Dining and Drinking > Bar > Rooftop Bar	722410	5813
+13020	Dining and Drinking > Bar > Sake Bar	722410	5813
+13021	Dining and Drinking > Bar > Speakeasy	722410	5813
+13022	Dining and Drinking > Bar > Sports Bar	722410	5813
+13023	Dining and Drinking > Bar > Tiki Bar	722410	5813
+13024	Dining and Drinking > Bar > Whisky Bar	722410	5813
+13025	Dining and Drinking > Bar > Wine Bar	722410	5813
+13026	Dining and Drinking > BBQ Joint	7225	
+13027	Dining and Drinking > Bistro	7225	
+13028	Dining and Drinking > Breakfast Spot	7225	
+13029	Dining and Drinking > Brewery	722410	5813
+13030	Dining and Drinking > Buffet	722514	5812
+13031	Dining and Drinking > Burger Joint	7225	
+13032	Dining and Drinking > Cafes, Coffee, and Tea Houses	72	
+13033	Dining and Drinking > Cafes, Coffee, and Tea Houses > Bubble Tea Shop	722330	5963
+13034	Dining and Drinking > Cafes, Coffee, and Tea Houses > Café	7225	
+13035	Dining and Drinking > Cafes, Coffee, and Tea Houses > Coffee Shop	722515	5461
+13036	Dining and Drinking > Cafes, Coffee, and Tea Houses > Tea Room	722515	5461
+13037	Dining and Drinking > Cafeteria	722514	5812
+13038	Dining and Drinking > Cidery	312130	2084
+13039	Dining and Drinking > Deli	7225	
+13040	Dining and Drinking > Dessert Shop	722515	5461
+13041	Dining and Drinking > Dessert Shop > Creperie	7225	
+13042	Dining and Drinking > Dessert Shop > Cupcake Shop	722515	5461
+13043	Dining and Drinking > Dessert Shop > Donut Shop	7225	
+13044	Dining and Drinking > Dessert Shop > Frozen Yogurt Shop	722515	5461
+13045	Dining and Drinking > Dessert Shop > Gelato Shop	7225	
+13046	Dining and Drinking > Dessert Shop > Ice Cream Parlor	7225	
+13047	Dining and Drinking > Dessert Shop > Pastry Shop	722515	5461
+13048	Dining and Drinking > Dessert Shop > Pie Shop	722515	5461
+13049	Dining and Drinking > Diner	7225	
+13050	Dining and Drinking > Distillery	312140	2085
+13051	Dining and Drinking > Fish and Chips Shop	7225	
+13052	Dining and Drinking > Food Court	7225	
+13053	Dining and Drinking > Food Stand	722330	5963
+13054	Dining and Drinking > Food Truck	722330	5963
+13055	Dining and Drinking > Fried Chicken Joint	7225	
+13056	Dining and Drinking > Friterie	7225	
+13057	Dining and Drinking > Gastropub	7225	
+13058	Dining and Drinking > Hot Dog Joint	7225	
+13059	Dining and Drinking > Juice Bar	722410	5813
+13060	Dining and Drinking > Mac and Cheese Joint	7225	
+13061	Dining and Drinking > Meadery	312130	2084
+13062	Dining and Drinking > Night Market	722410	5813
+13063	Dining and Drinking > Pet Café	722515	5461
+13064	Dining and Drinking > Pizzeria	7225	
+13065	Dining and Drinking > Restaurant	72	
+13066	Dining and Drinking > Restaurant > Afghan Restaurant	7225	
+13067	Dining and Drinking > Restaurant > African Restaurant	7225	
+13068	Dining and Drinking > Restaurant > American Restaurant	7225	
+13069	Dining and Drinking > Restaurant > Arepa Restaurant	7225	
+13070	Dining and Drinking > Restaurant > Argentinian Restaurant	7225	
+13071	Dining and Drinking > Restaurant > Armenian Restaurant	7225	
+13072	Dining and Drinking > Restaurant > Asian Restaurant	7225	
+13073	Dining and Drinking > Restaurant > Australian Restaurant	7225	
+13074	Dining and Drinking > Restaurant > Austrian Restaurant	7225	
+13075	Dining and Drinking > Restaurant > Bangladeshi Restaurant	7225	
+13076	Dining and Drinking > Restaurant > Belarusian Restaurant	7225	
+13077	Dining and Drinking > Restaurant > Belgian Restaurant	7225	
+13078	Dining and Drinking > Restaurant > Bosnian Restaurant	7225	
+13079	Dining and Drinking > Restaurant > Brazilian Restaurant	7225	
+13080	Dining and Drinking > Restaurant > Brazilian Restaurant > Acai House	7225	
+13081	Dining and Drinking > Restaurant > Brazilian Restaurant > Baiano Restaurant	7225	
+13082	Dining and Drinking > Restaurant > Brazilian Restaurant > Central Brazilian Restaurant	7225	
+13083	Dining and Drinking > Restaurant > Brazilian Restaurant > Churrascaria	7225	
+13084	Dining and Drinking > Restaurant > Brazilian Restaurant > Empada House	7225	
+13085	Dining and Drinking > Restaurant > Brazilian Restaurant > Goiano Restaurant	7225	
+13086	Dining and Drinking > Restaurant > Brazilian Restaurant > Mineiro Restaurant	7225	
+13087	Dining and Drinking > Restaurant > Brazilian Restaurant > Northeastern Brazilian Restaurant	7225	
+13088	Dining and Drinking > Restaurant > Brazilian Restaurant > Northern Brazilian Restaurant	7225	
+13089	Dining and Drinking > Restaurant > Brazilian Restaurant > Pastelaria	7225	
+13090	Dining and Drinking > Restaurant > Brazilian Restaurant > Southeastern Brazilian Restaurant	7225	
+13091	Dining and Drinking > Restaurant > Brazilian Restaurant > Southern Brazilian Restaurant	7225	
+13092	Dining and Drinking > Restaurant > Brazilian Restaurant > Tapiocaria	7225	
+13093	Dining and Drinking > Restaurant > Bulgarian Restaurant	7225	
+13094	Dining and Drinking > Restaurant > Burmese Restaurant	7225	
+13095	Dining and Drinking > Restaurant > Cajun / Creole Restaurant	7225	
+13096	Dining and Drinking > Restaurant > Cambodian Restaurant	7225	
+13097	Dining and Drinking > Restaurant > Caribbean Restaurant	7225	
+13098	Dining and Drinking > Restaurant > Caucasian Restaurant	7225	
+13099	Dining and Drinking > Restaurant > Chinese Restaurant	7225	
+13100	Dining and Drinking > Restaurant > Chinese Restaurant > Anhui Restaurant	7225	
+13101	Dining and Drinking > Restaurant > Chinese Restaurant > Beijing Restaurant	7225	
+13102	Dining and Drinking > Restaurant > Chinese Restaurant > Cantonese Restaurant	7225	
+13103	Dining and Drinking > Restaurant > Chinese Restaurant > Cha Chaan Teng	7225	
+13104	Dining and Drinking > Restaurant > Chinese Restaurant > Chinese Aristocrat Restaurant	7225	
+13105	Dining and Drinking > Restaurant > Chinese Restaurant > Chinese Breakfast Restaurant	722513	5812
+13106	Dining and Drinking > Restaurant > Chinese Restaurant > Dim Sum Restaurant	7225	
+13107	Dining and Drinking > Restaurant > Chinese Restaurant > Dongbei Restaurant	7225	
+13108	Dining and Drinking > Restaurant > Chinese Restaurant > Fujian Restaurant	7225	
+13109	Dining and Drinking > Restaurant > Chinese Restaurant > Guizhou Restaurant	7225	
+13110	Dining and Drinking > Restaurant > Chinese Restaurant > Hainan Restaurant	7225	
+13111	Dining and Drinking > Restaurant > Chinese Restaurant > Hakka Restaurant	7225	
+13112	Dining and Drinking > Restaurant > Chinese Restaurant > Henan Restaurant	7225	
+13113	Dining and Drinking > Restaurant > Chinese Restaurant > Hong Kong Restaurant	7225	
+13114	Dining and Drinking > Restaurant > Chinese Restaurant > Huaiyang Restaurant	7225	
+13115	Dining and Drinking > Restaurant > Chinese Restaurant > Hubei Restaurant	7225	
+13116	Dining and Drinking > Restaurant > Chinese Restaurant > Hunan Restaurant	7225	
+13117	Dining and Drinking > Restaurant > Chinese Restaurant > Imperial Restaurant	7225	
+13118	Dining and Drinking > Restaurant > Chinese Restaurant > Jiangsu Restaurant	7225	
+13119	Dining and Drinking > Restaurant > Chinese Restaurant > Jiangxi Restaurant	7225	
+13120	Dining and Drinking > Restaurant > Chinese Restaurant > Macanese Restaurant	7225	
+13121	Dining and Drinking > Restaurant > Chinese Restaurant > Manchu Restaurant	7225	
+13122	Dining and Drinking > Restaurant > Chinese Restaurant > Peking Duck Restaurant	7225	
+13123	Dining and Drinking > Restaurant > Chinese Restaurant > Shaanxi Restaurant	7225	
+13124	Dining and Drinking > Restaurant > Chinese Restaurant > Shandong Restaurant	7225	
+13125	Dining and Drinking > Restaurant > Chinese Restaurant > Shanghai Restaurant	7225	
+13126	Dining and Drinking > Restaurant > Chinese Restaurant > Shanxi Restaurant	7225	
+13127	Dining and Drinking > Restaurant > Chinese Restaurant > Szechuan Restaurant	7225	
+13128	Dining and Drinking > Restaurant > Chinese Restaurant > Taiwanese Restaurant	7225	
+13129	Dining and Drinking > Restaurant > Chinese Restaurant > Tianjin Restaurant	7225	
+13130	Dining and Drinking > Restaurant > Chinese Restaurant > Xinjiang Restaurant	7225	
+13131	Dining and Drinking > Restaurant > Chinese Restaurant > Yunnan Restaurant	7225	
+13132	Dining and Drinking > Restaurant > Chinese Restaurant > Zhejiang Restaurant	7225	
+13133	Dining and Drinking > Restaurant > Colombian Restaurant	7225	
+13134	Dining and Drinking > Restaurant > Comfort Food Restaurant	7225	
+13135	Dining and Drinking > Restaurant > Cuban Restaurant	7225	
+13136	Dining and Drinking > Restaurant > Czech Restaurant	7225	
+13137	Dining and Drinking > Restaurant > Dumpling Restaurant	7225	
+13138	Dining and Drinking > Restaurant > Dutch Restaurant	7225	
+13139	Dining and Drinking > Restaurant > Eastern European Restaurant	7225	
+13140	Dining and Drinking > Restaurant > Egyptian Restaurant	7225	
+13141	Dining and Drinking > Restaurant > Empanada Restaurant	7225	
+13142	Dining and Drinking > Restaurant > English Restaurant	7225	
+13143	Dining and Drinking > Restaurant > Ethiopian Restaurant	7225	
+13144	Dining and Drinking > Restaurant > Falafel Restaurant	7225	
+13145	Dining and Drinking > Restaurant > Fast Food Restaurant	7225	
+13146	Dining and Drinking > Restaurant > Filipino Restaurant	7225	
+13147	Dining and Drinking > Restaurant > Fondue Restaurant	7225	
+13148	Dining and Drinking > Restaurant > French Restaurant	7225	
+13149	Dining and Drinking > Restaurant > French Restaurant > Alsatian Restaurant	7225	
+13150	Dining and Drinking > Restaurant > French Restaurant > Auvergne Restaurant	7225	
+13151	Dining and Drinking > Restaurant > French Restaurant > Basque Restaurant	7225	
+13152	Dining and Drinking > Restaurant > French Restaurant > Brasserie	7225	
+13153	Dining and Drinking > Restaurant > French Restaurant > Breton Restaurant	7225	
+13154	Dining and Drinking > Restaurant > French Restaurant > Burgundian Restaurant	7225	
+13155	Dining and Drinking > Restaurant > French Restaurant > Catalan Restaurant	7225	
+13156	Dining and Drinking > Restaurant > French Restaurant > Ch'ti Restaurant	7225	
+13157	Dining and Drinking > Restaurant > French Restaurant > Corsican Restaurant	7225	
+13158	Dining and Drinking > Restaurant > French Restaurant > Estaminet	7225	
+13159	Dining and Drinking > Restaurant > French Restaurant > Labour Canteen	7225	
+13160	Dining and Drinking > Restaurant > French Restaurant > Lyonese Bouchon	7225	
+13161	Dining and Drinking > Restaurant > French Restaurant > Norman Restaurant	7225	
+13162	Dining and Drinking > Restaurant > French Restaurant > Provençal Restaurant	7225	
+13163	Dining and Drinking > Restaurant > French Restaurant > Savoyard Restaurant	7225	
+13164	Dining and Drinking > Restaurant > French Restaurant > Southwestern French Restaurant	7225	
+13165	Dining and Drinking > Restaurant > German Restaurant	7225	
+13166	Dining and Drinking > Restaurant > German Restaurant > Apple Wine Pub	7225	
+13167	Dining and Drinking > Restaurant > German Restaurant > Bavarian Restaurant	7225	
+13168	Dining and Drinking > Restaurant > German Restaurant > Bratwurst Joint	7225	
+13169	Dining and Drinking > Restaurant > German Restaurant > Currywurst Joint	7225	
+13170	Dining and Drinking > Restaurant > German Restaurant > Franconian Restaurant	7225	
+13171	Dining and Drinking > Restaurant > German Restaurant > German Pop-Up Restaurant	7225	
+13172	Dining and Drinking > Restaurant > German Restaurant > Palatine Restaurant	7225	
+13173	Dining and Drinking > Restaurant > German Restaurant > Rhenisch Restaurant	7225	
+13174	Dining and Drinking > Restaurant > German Restaurant > Schnitzel Restaurant	7225	
+13175	Dining and Drinking > Restaurant > German Restaurant > Silesian Restaurant	7225	
+13176	Dining and Drinking > Restaurant > German Restaurant > Swabian Restaurant	7225	
+13177	Dining and Drinking > Restaurant > Greek Restaurant	7225	
+13178	Dining and Drinking > Restaurant > Greek Restaurant > Bougatsa Shop	7225	
+13179	Dining and Drinking > Restaurant > Greek Restaurant > Cretan Restaurant	7225	
+13180	Dining and Drinking > Restaurant > Greek Restaurant > Fish Taverna	7225	
+13181	Dining and Drinking > Restaurant > Greek Restaurant > Grilled Meat Restaurant	722514	5812
+13182	Dining and Drinking > Restaurant > Greek Restaurant > Kafenio	7225	
+13183	Dining and Drinking > Restaurant > Greek Restaurant > Magirio	7225	
+13184	Dining and Drinking > Restaurant > Greek Restaurant > Meze Restaurant	7225	
+13185	Dining and Drinking > Restaurant > Greek Restaurant > Modern Greek Restaurant	7225	
+13186	Dining and Drinking > Restaurant > Greek Restaurant > Ouzeri	7225	
+13187	Dining and Drinking > Restaurant > Greek Restaurant > Patsa Restaurant	7225	
+13188	Dining and Drinking > Restaurant > Greek Restaurant > Souvlaki Shop	7225	
+13189	Dining and Drinking > Restaurant > Greek Restaurant > Taverna	7225	
+13190	Dining and Drinking > Restaurant > Greek Restaurant > Tsipouro Restaurant	7225	
+13191	Dining and Drinking > Restaurant > Halal Restaurant	7225	
+13192	Dining and Drinking > Restaurant > Hawaiian Restaurant	7225	
+13193	Dining and Drinking > Restaurant > Hawaiian Restaurant > Poke Restaurant	7225	
+13194	Dining and Drinking > Restaurant > Himalayan Restaurant	7225	
+13195	Dining and Drinking > Restaurant > Honduran Restaurant	7225	
+13196	Dining and Drinking > Restaurant > Hotpot Restaurant	7225	
+13197	Dining and Drinking > Restaurant > Hungarian Restaurant	7225	
+13198	Dining and Drinking > Restaurant > Indian Chinese Restaurant	7225	
+13199	Dining and Drinking > Restaurant > Indian Restaurant	7225	
+13200	Dining and Drinking > Restaurant > Indian Restaurant > Andhra Restaurant	7225	
+13201	Dining and Drinking > Restaurant > Indian Restaurant > Awadhi Restaurant	7225	
+13202	Dining and Drinking > Restaurant > Indian Restaurant > Bengali Restaurant	7225	
+13203	Dining and Drinking > Restaurant > Indian Restaurant > Chaat Place	7225	
+13204	Dining and Drinking > Restaurant > Indian Restaurant > Chettinad Restaurant	7225	
+13205	Dining and Drinking > Restaurant > Indian Restaurant > Dhaba	7225	
+13206	Dining and Drinking > Restaurant > Indian Restaurant > Dosa Place	7225	
+13207	Dining and Drinking > Restaurant > Indian Restaurant > Goan Restaurant	7225	
+13208	Dining and Drinking > Restaurant > Indian Restaurant > Gujarati Restaurant	7225	
+13209	Dining and Drinking > Restaurant > Indian Restaurant > Hyderabadi Restaurant	7225	
+13210	Dining and Drinking > Restaurant > Indian Sweet Shop	445292	5145
+13211	Dining and Drinking > Restaurant > Indian Restaurant > Irani Cafe	722515	5461
+13212	Dining and Drinking > Restaurant > Indian Restaurant > Jain Restaurant	7225	
+13213	Dining and Drinking > Restaurant > Indian Restaurant > Karnataka Restaurant	7225	
+13214	Dining and Drinking > Restaurant > Indian Restaurant > Kerala Restaurant	7225	
+13215	Dining and Drinking > Restaurant > Indian Restaurant > Maharashtrian Restaurant	7225	
+13216	Dining and Drinking > Restaurant > Indian Restaurant > Mughlai Restaurant	7225	
+13217	Dining and Drinking > Restaurant > Indian Restaurant > Multicuisine Indian Restaurant	7225	
+13218	Dining and Drinking > Restaurant > Indian Restaurant > North Indian Restaurant	7225	
+13219	Dining and Drinking > Restaurant > Indian Restaurant > Northeast Indian Restaurant	7225	
+13220	Dining and Drinking > Restaurant > Indian Restaurant > Parsi Restaurant	7225	
+13221	Dining and Drinking > Restaurant > Indian Restaurant > Punjabi Restaurant	7225	
+13222	Dining and Drinking > Restaurant > Indian Restaurant > Rajasthani Restaurant	7225	
+13223	Dining and Drinking > Restaurant > Indian Restaurant > South Indian Restaurant	7225	
+13224	Dining and Drinking > Restaurant > Indian Restaurant > Udupi Restaurant	7225	
+13225	Dining and Drinking > Restaurant > Indonesian Restaurant	7225	
+13226	Dining and Drinking > Restaurant > Indonesian Restaurant > Acehnese Restaurant	7225	
+13227	Dining and Drinking > Restaurant > Indonesian Restaurant > Balinese Restaurant	7225	
+13228	Dining and Drinking > Restaurant > Indonesian Restaurant > Betawinese Restaurant	7225	
+13229	Dining and Drinking > Restaurant > Indonesian Restaurant > Indonesian Meatball Restaurant	7225	
+13230	Dining and Drinking > Restaurant > Indonesian Restaurant > Javanese Restaurant	7225	
+13231	Dining and Drinking > Restaurant > Indonesian Restaurant > Manadonese Restaurant	7225	
+13232	Dining and Drinking > Restaurant > Indonesian Restaurant > Padangnese Restaurant	7225	
+13233	Dining and Drinking > Restaurant > Indonesian Restaurant > Sundanese Restaurant	7225	
+13234	Dining and Drinking > Restaurant > Iraqi Restaurant	7225	
+13235	Dining and Drinking > Restaurant > Israeli Restaurant	7225	
+13236	Dining and Drinking > Restaurant > Italian Restaurant	7225	
+13237	Dining and Drinking > Restaurant > Italian Restaurant > Abruzzo Restaurant	7225	
+13238	Dining and Drinking > Restaurant > Italian Restaurant > Agriturismo	7225	
+13239	Dining and Drinking > Restaurant > Italian Restaurant > Aosta Restaurant	7225	
+13240	Dining and Drinking > Restaurant > Italian Restaurant > Basilicata Restaurant	7225	
+13241	Dining and Drinking > Restaurant > Italian Restaurant > Calabria Restaurant	7225	
+13242	Dining and Drinking > Restaurant > Italian Restaurant > Campanian Restaurant	7225	
+13243	Dining and Drinking > Restaurant > Italian Restaurant > Emilia Restaurant	7225	
+13244	Dining and Drinking > Restaurant > Italian Restaurant > Friuli Restaurant	7225	
+13245	Dining and Drinking > Restaurant > Italian Restaurant > Ligurian Restaurant	7225	
+13246	Dining and Drinking > Restaurant > Italian Restaurant > Lombard Restaurant	7225	
+13247	Dining and Drinking > Restaurant > Italian Restaurant > Malga	7225	
+13248	Dining and Drinking > Restaurant > Italian Restaurant > Marche Restaurant	7225	
+13249	Dining and Drinking > Restaurant > Italian Restaurant > Molise Restaurant	7225	
+13250	Dining and Drinking > Restaurant > Italian Restaurant > Piadineria	7225	
+13251	Dining and Drinking > Restaurant > Italian Restaurant > Piedmontese Restaurant	7225	
+13252	Dining and Drinking > Restaurant > Italian Restaurant > Puglia Restaurant	7225	
+13253	Dining and Drinking > Restaurant > Italian Restaurant > Romagna Restaurant	7225	
+13254	Dining and Drinking > Restaurant > Italian Restaurant > Roman Restaurant	7225	
+13255	Dining and Drinking > Restaurant > Italian Restaurant > Sardinian Restaurant	7225	
+13256	Dining and Drinking > Restaurant > Italian Restaurant > Sicilian Restaurant	7225	
+13257	Dining and Drinking > Restaurant > Italian Restaurant > South Tyrolean Restaurant	7225	
+13258	Dining and Drinking > Restaurant > Italian Restaurant > Trattoria/Osteria	7225	
+13259	Dining and Drinking > Restaurant > Italian Restaurant > Trentino Restaurant	7225	
+13260	Dining and Drinking > Restaurant > Italian Restaurant > Tuscan Restaurant	7225	
+13261	Dining and Drinking > Restaurant > Italian Restaurant > Umbrian Restaurant	7225	
+13262	Dining and Drinking > Restaurant > Italian Restaurant > Veneto Restaurant	7225	
+13263	Dining and Drinking > Restaurant > Japanese Restaurant	7225	
+13264	Dining and Drinking > Restaurant > Japanese Restaurant > Donburi Restaurant	7225	
+13265	Dining and Drinking > Restaurant > Japanese Restaurant > Japanese Curry Restaurant	7225	
+13266	Dining and Drinking > Restaurant > Japanese Restaurant > Japanese Family Restaurant	7225	
+13267	Dining and Drinking > Restaurant > Japanese Restaurant > Kaiseki Restaurant	7225	
+13268	Dining and Drinking > Restaurant > Japanese Restaurant > Kushikatsu Restaurant	7225	
+13269	Dining and Drinking > Restaurant > Japanese Restaurant > Monjayaki Restaurant	7225	
+13270	Dining and Drinking > Restaurant > Japanese Restaurant > Nabe Restaurant	7225	
+13271	Dining and Drinking > Restaurant > Japanese Restaurant > Okonomiyaki Restaurant	7225	
+13272	Dining and Drinking > Restaurant > Japanese Restaurant > Ramen Restaurant	7225	
+13273	Dining and Drinking > Restaurant > Japanese Restaurant > Shabu-Shabu Restaurant	7225	
+13274	Dining and Drinking > Restaurant > Japanese Restaurant > Soba Restaurant	7225	
+13275	Dining and Drinking > Restaurant > Japanese Restaurant > Sukiyaki Restaurant	7225	
+13276	Dining and Drinking > Restaurant > Japanese Restaurant > Sushi Restaurant	7225	
+13277	Dining and Drinking > Restaurant > Japanese Restaurant > Takoyaki Place	7225	
+13278	Dining and Drinking > Restaurant > Japanese Restaurant > Teishoku Restaurant	7225	
+13279	Dining and Drinking > Restaurant > Japanese Restaurant > Tempura Restaurant	7225	
+13280	Dining and Drinking > Restaurant > Japanese Restaurant > Tonkatsu Restaurant	7225	
+13281	Dining and Drinking > Restaurant > Japanese Restaurant > Udon Restaurant	7225	
+13282	Dining and Drinking > Restaurant > Japanese Restaurant > Unagi Restaurant	7225	
+13283	Dining and Drinking > Restaurant > Japanese Restaurant > Wagashi Place	7225	
+13284	Dining and Drinking > Restaurant > Japanese Restaurant > Yakitori Restaurant	7225	
+13285	Dining and Drinking > Restaurant > Japanese Restaurant > Yoshoku Restaurant	7225	
+13286	Dining and Drinking > Restaurant > Jewish Restaurant	7225	
+13287	Dining and Drinking > Restaurant > Jewish Restaurant > Kosher Restaurant	7225	
+13288	Dining and Drinking > Restaurant > Kebab Restaurant	7225	
+13289	Dining and Drinking > Restaurant > Korean Restaurant	7225	
+13290	Dining and Drinking > Restaurant > Korean Restaurant > Bossam/Jokbal Restaurant	7225	
+13291	Dining and Drinking > Restaurant > Korean Restaurant > Bunsik Restaurant	7225	
+13292	Dining and Drinking > Restaurant > Korean Restaurant > Gukbap Restaurant	7225	
+13293	Dining and Drinking > Restaurant > Korean Restaurant > Janguh Restaurant	7225	
+13294	Dining and Drinking > Restaurant > Korean Restaurant > Korean BBQ Restaurant	7225	
+13295	Dining and Drinking > Restaurant > Korean Restaurant > Samgyetang Restaurant	7225	
+13296	Dining and Drinking > Restaurant > Kurdish Restaurant	7225	
+13297	Dining and Drinking > Restaurant > Latin American Restaurant	7225	
+13298	Dining and Drinking > Restaurant > Lebanese Restaurant	7225	
+13299	Dining and Drinking > Restaurant > Malay Restaurant	7225	
+13300	Dining and Drinking > Restaurant > Malay Restaurant > Mamak Restaurant	7225	
+13301	Dining and Drinking > Restaurant > Mauritian Restaurant	7225	
+13302	Dining and Drinking > Restaurant > Mediterranean Restaurant	7225	
+13303	Dining and Drinking > Restaurant > Mexican Restaurant	7225	
+13304	Dining and Drinking > Restaurant > Mexican Restaurant > Botanero	7225	
+13305	Dining and Drinking > Restaurant > Mexican Restaurant > Burrito Restaurant	7225	
+13306	Dining and Drinking > Restaurant > Mexican Restaurant > Taco Restaurant	7225	
+13307	Dining and Drinking > Restaurant > Mexican Restaurant > Tex-Mex Restaurant	7225	
+13308	Dining and Drinking > Restaurant > Mexican Restaurant > Yucatecan Restaurant	7225	
+13309	Dining and Drinking > Restaurant > Middle Eastern Restaurant	7225	
+13310	Dining and Drinking > Restaurant > Modern European Restaurant	7225	
+13311	Dining and Drinking > Restaurant > Molecular Gastronomy Restaurant	7225	
+13312	Dining and Drinking > Restaurant > Mongolian Restaurant	7225	
+13313	Dining and Drinking > Restaurant > Moroccan Restaurant	7225	
+13314	Dining and Drinking > Restaurant > New American Restaurant	7225	
+13315	Dining and Drinking > Restaurant > Noodle Restaurant	7225	
+13316	Dining and Drinking > Restaurant > Pakistani Restaurant	7225	
+13317	Dining and Drinking > Restaurant > Persian Restaurant	7225	
+13318	Dining and Drinking > Restaurant > Persian Restaurant > Ash and Haleem Place	7225	
+13319	Dining and Drinking > Restaurant > Persian Restaurant > Dizi Place	7225	
+13320	Dining and Drinking > Restaurant > Persian Restaurant > Gilaki Restaurant	7225	
+13321	Dining and Drinking > Restaurant > Persian Restaurant > Jegaraki	7225	
+13322	Dining and Drinking > Restaurant > Peruvian Restaurant	7225	
+13323	Dining and Drinking > Restaurant > Peruvian Restaurant > Peruvian Roast Chicken Joint	7225	
+13324	Dining and Drinking > Restaurant > Polish Restaurant	7225	
+13325	Dining and Drinking > Restaurant > Portuguese Restaurant	7225	
+13326	Dining and Drinking > Restaurant > Poutine Restaurant	7225	
+13327	Dining and Drinking > Restaurant > Puerto Rican Restaurant	7225	
+13328	Dining and Drinking > Restaurant > Romanian Restaurant	7225	
+13329	Dining and Drinking > Restaurant > Russian Restaurant	7225	
+13330	Dining and Drinking > Restaurant > Russian Restaurant > Blini House	7225	
+13331	Dining and Drinking > Restaurant > Russian Restaurant > Pelmeni House	7225	
+13332	Dining and Drinking > Restaurant > Salad Restaurant	7225	
+13333	Dining and Drinking > Restaurant > Salvadoran Restaurant	7225	
+13334	Dining and Drinking > Restaurant > Sandwich Restaurant	7225	
+13335	Dining and Drinking > Restaurant > Satay Restaurant	7225	
+13336	Dining and Drinking > Restaurant > Scandinavian Restaurant	7225	
+13337	Dining and Drinking > Restaurant > Scottish Restaurant	7225	
+13338	Dining and Drinking > Restaurant > Seafood Restaurant	7225	
+13339	Dining and Drinking > Restaurant > Shawarma Restaurant	7225	
+13340	Dining and Drinking > Restaurant > Singaporean Restaurant	7225	
+13341	Dining and Drinking > Restaurant > Slovak Restaurant	7225	
+13342	Dining and Drinking > Restaurant > Soup Restaurant	7225	
+13343	Dining and Drinking > Restaurant > South American Restaurant	7225	
+13344	Dining and Drinking > Restaurant > Southern / Soul Food Restaurant	7225	
+13345	Dining and Drinking > Restaurant > Spanish Restaurant	7225	
+13346	Dining and Drinking > Restaurant > Spanish Restaurant > Paella Restaurant	7225	
+13347	Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant	7225	
+13348	Dining and Drinking > Restaurant > Sri Lankan Restaurant	7225	
+13349	Dining and Drinking > Restaurant > Swiss Restaurant	7225	
+13350	Dining and Drinking > Restaurant > Syrian Restaurant	7225	
+13351	Dining and Drinking > Restaurant > Tatar Restaurant	7225	
+13352	Dining and Drinking > Restaurant > Thai Restaurant	7225	
+13353	Dining and Drinking > Restaurant > Thai Restaurant > Som Tum Restaurant	7225	
+13354	Dining and Drinking > Restaurant > Theme Restaurant	7225	
+13355	Dining and Drinking > Restaurant > Tibetan Restaurant	7225	
+13356	Dining and Drinking > Restaurant > Turkish Restaurant	7225	
+13357	Dining and Drinking > Restaurant > Turkish Restaurant > Borek Place	7225	
+13358	Dining and Drinking > Restaurant > Turkish Restaurant > Cigkofte Place	7225	
+13359	Dining and Drinking > Restaurant > Turkish Restaurant > Çöp Şiş Place	7225	
+13360	Dining and Drinking > Restaurant > Turkish Restaurant > Doner Restaurant	7225	
+13361	Dining and Drinking > Restaurant > Turkish Restaurant > Gozleme Place	7225	
+13362	Dining and Drinking > Restaurant > Turkish Restaurant > Kofte Place	7225	
+13363	Dining and Drinking > Restaurant > Turkish Restaurant > Kokoreç Restaurant	7225	
+13364	Dining and Drinking > Restaurant > Turkish Restaurant > Kumpir Restaurant	7225	
+13365	Dining and Drinking > Restaurant > Turkish Restaurant > Kumru Restaurant	7225	
+13366	Dining and Drinking > Restaurant > Turkish Restaurant > Manti Place	7225	
+13367	Dining and Drinking > Restaurant > Turkish Restaurant > Meyhane	7225	
+13368	Dining and Drinking > Restaurant > Turkish Restaurant > Pide Place	7225	
+13369	Dining and Drinking > Restaurant > Turkish Restaurant > Pilavcı	7225	
+13370	Dining and Drinking > Restaurant > Turkish Restaurant > Söğüş Place	7225	
+13371	Dining and Drinking > Restaurant > Turkish Restaurant > Tantuni Restaurant	7225	
+13372	Dining and Drinking > Restaurant > Turkish Restaurant > Turkish Coffeehouse	722515	5461
+13373	Dining and Drinking > Restaurant > Turkish Restaurant > Turkish Home Cooking Restaurant	7225	
+13374	Dining and Drinking > Restaurant > Ukrainian Restaurant	7225	
+13375	Dining and Drinking > Restaurant > Ukrainian Restaurant > Varenyky Restaurant	7225	
+13376	Dining and Drinking > Restaurant > Ukrainian Restaurant > West-Ukrainian Restaurant	7225	
+13377	Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant	7225	
+13378	Dining and Drinking > Restaurant > Venezuelan Restaurant	7225	
+13379	Dining and Drinking > Restaurant > Vietnamese Restaurant	7225	
+13380	Dining and Drinking > Restaurant > Yemeni Restaurant	7225	
+13381	Dining and Drinking > Smoothie Shop	445299	5143
+13382	Dining and Drinking > Snack Place	722515	5461
+13383	Dining and Drinking > Steakhouse	7225	
+13384	Dining and Drinking > Tabbakhi	7225	
+13385	Dining and Drinking > Truck Stop	722515	5461
+13386	Dining and Drinking > Vineyard	712190	7999
+13387	Dining and Drinking > Winery	312130	2084
+13388	Dining and Drinking > Wings Joint	722513	5812
+14000	Event	71	
+14001	Event > Conference	61	
+14002	Event > Convention	561920	7389
+14003	Event > Entertainment Event	71	
+14004	Event > Entertainment Event > Festival	71	
+14005	Event > Entertainment Event > Music Festival	71	
+14006	Event > Entertainment Event > Parade	71	
+14007	Event > Entertainment Event > Sporting Event	7113	
+14008	Event > Line / Queue	7113	
+14009	Event > Marketplace	71	
+14010	Event > Marketplace > Christmas Market	44	
+14011	Event > Marketplace > Stoop Sale	5619	
+14012	Event > Marketplace > Street Fair	5619	
+14013	Event > Marketplace > Street Food Gathering	722330	5963
+14014	Event > Marketplace > Trade Fair	5619	
+14015	Event > Other Event	7113	
+15000	Health and Medicine	621111	8011
+15001	Health and Medicine > Acupuncture Clinic	621111	8011
+15002	Health and Medicine > AIDS Resource	621111	8011
+15003	Health and Medicine > Alternative Medicine Clinic	621111	8011
+15004	Health and Medicine > Assisted Living Service	623312	8361
+15005	Health and Medicine > Blood Bank	621991	8099
+15006	Health and Medicine > Chiropractor	621310	8041
+15007	Health and Medicine > Dentist	621210	8021
+15008	Health and Medicine > Emergency Service	621111	8011
+15009	Health and Medicine > Emergency Service > Ambulance Service	621111	8011
+15010	Health and Medicine > Emergency Service > Emergency Room	624230	8322
+15011	Health and Medicine > Healthcare Clinic	621111	8011
+15012	Health and Medicine > Home Health Care Service	54	
+15013	Health and Medicine > Hospice	623110	8051
+15014	Health and Medicine > Hospital	622110	8062
+15015	Health and Medicine > Maternity Clinic	622310	8069
+15016	Health and Medicine > Medical Center	621111	8011
+15017	Health and Medicine > Medical Lab	621511	8071
+15018	Health and Medicine > Mental Health Service	621111	8011
+15019	Health and Medicine > Mental Health Service > Mental Health Clinic	621112	8011
+15020	Health and Medicine > Mental Health Service > Psychologist	621111	8011
+15021	Health and Medicine > Nurse	621111	8011
+15022	Health and Medicine > Nursing Home	621111	8011
+15023	Health and Medicine > Nutritionist	621399	8049
+15024	Health and Medicine > Optometrist	622310	8069
+15025	Health and Medicine > Other Healthcare Professional	621112	8011
+15026	Health and Medicine > Physical Therapy Clinic	621340	8049
+15027	Health and Medicine > Physician	621112	8011
+15028	Health and Medicine > Physician > Anesthesiologist	621112	8011
+15029	Health and Medicine > Physician > Cardiologist	621112	8011
+15030	Health and Medicine > Physician > Dermatologist	621112	8011
+15031	Health and Medicine > Physician > Doctor's Office	621112	8011
+15032	Health and Medicine > Physician > Ear, Nose and Throat Doctor	621112	8011
+15033	Health and Medicine > Physician > Family Medicine Doctor	621112	8011
+15034	Health and Medicine > Physician > Gastroenterologist	621112	8011
+15035	Health and Medicine > Physician > General Surgeon	621112	8011
+15036	Health and Medicine > Physician > Geriatric Doctor	621112	8011
+15037	Health and Medicine > Physician > Internal Medicine Doctor	621112	8011
+15038	Health and Medicine > Physician > Neurologist	621112	8011
+15039	Health and Medicine > Physician > Obstetrician Gynecologist (Ob-gyn)	621112	8011
+15040	Health and Medicine > Physician > Oncologist	621112	8011
+15041	Health and Medicine > Physician > Ophthalmologist	622310	8069
+15042	Health and Medicine > Physician > Oral Surgeon	621112	8011
+15043	Health and Medicine > Physician > Orthopedic Surgeon	621112	8011
+15044	Health and Medicine > Physician > Pathologist	621112	8011
+15045	Health and Medicine > Physician > Pediatrician	621112	8011
+15046	Health and Medicine > Physician > Plastic Surgeon	621112	8011
+15047	Health and Medicine > Physician > Psychiatrist	621112	8011
+15048	Health and Medicine > Physician > Radiologist	621112	8011
+15049	Health and Medicine > Physician > Respiratory Doctor	621112	8011
+15050	Health and Medicine > Physician > Urologist	621112	8011
+15051	Health and Medicine > Podiatrist	621112	8011
+15052	Health and Medicine > Sports Medicine Clinic	621111	8011
+15053	Health and Medicine > Urgent Care Center	621493	8011
+15054	Health and Medicine > Veterinarian	541940	741
+15055	Health and Medicine > Weight Loss Center	713940	7991
+15056	Health and Medicine > Women's Health Clinic	621111	8011
+16000	Landmarks and Outdoors	713940	7991
+16001	Landmarks and Outdoors > Bathing Area	713990	7911
+16002	Landmarks and Outdoors > Bay	713990	7911
+16003	Landmarks and Outdoors > Beach	713990	7911
+16004	Landmarks and Outdoors > Bike Trail	713990	7911
+16005	Landmarks and Outdoors > Botanical Garden	712130	8422
+16006	Landmarks and Outdoors > Bridge	48	
+16007	Landmarks and Outdoors > Building / Structure	53	
+16008	Landmarks and Outdoors > Campground	721211	7033
+16009	Landmarks and Outdoors > Canal	48	
+16010	Landmarks and Outdoors > Canal Lock	48	
+16011	Landmarks and Outdoors > Castle	53	
+16012	Landmarks and Outdoors > Cave	712190	7999
+16013	Landmarks and Outdoors > Dive Spot	71	
+16014	Landmarks and Outdoors > Farm	111199	119
+16015	Landmarks and Outdoors > Forest	712190	7999
+16016	Landmarks and Outdoors > Fountain	712190	7999
+16017	Landmarks and Outdoors > Garden	11	
+16018	Landmarks and Outdoors > Harbor / Marina	712190	7999
+16019	Landmarks and Outdoors > Hiking Trail	712190	7999
+16020	Landmarks and Outdoors > Historic and Protected Site	712120	8412
+16021	Landmarks and Outdoors > Hot Spring	712190	7999
+16022	Landmarks and Outdoors > Island	712190	7999
+16023	Landmarks and Outdoors > Lake	712190	7999
+16024	Landmarks and Outdoors > Lighthouse	488310	4491
+16025	Landmarks and Outdoors > Memorial Site	712120	8412
+16026	Landmarks and Outdoors > Monument	236220	1522
+16027	Landmarks and Outdoors > Mountain	712190	7999
+16028	Landmarks and Outdoors > Nature Preserve	712190	7999
+16029	Landmarks and Outdoors > Nudist Beach	713990	7911
+16030	Landmarks and Outdoors > Other Great Outdoors	712190	7999
+16031	Landmarks and Outdoors > Palace	53	
+16032	Landmarks and Outdoors > Park	712190	7999
+16033	Landmarks and Outdoors > Park > Dog Park	713940	7991
+16034	Landmarks and Outdoors > Park > National Park	712190	7999
+16035	Landmarks and Outdoors > Park > Natural Park	712190	7999
+16036	Landmarks and Outdoors > Park > Picnic Area	712190	7999
+16037	Landmarks and Outdoors > Park > Playground	71	
+16038	Landmarks and Outdoors > Park > State / Provincial Park	712190	7999
+16039	Landmarks and Outdoors > Park > Urban Park	712190	7999
+16040	Landmarks and Outdoors > Pedestrian Plaza	44	
+16041	Landmarks and Outdoors > Plaza	44	
+16042	Landmarks and Outdoors > Reservoir	712190	7999
+16043	Landmarks and Outdoors > River	712190	7999
+16044	Landmarks and Outdoors > Rock Climbing Spot	71	
+16045	Landmarks and Outdoors > Roof Deck	71	
+16046	Landmarks and Outdoors > Scenic Lookout	712190	7999
+16047	Landmarks and Outdoors > Sculpture Garden	712190	7999
+16048	Landmarks and Outdoors > Stable	53	
+16049	Landmarks and Outdoors > Surf Spot	713990	7911
+16050	Landmarks and Outdoors > Tunnel	488490	4173
+16051	Landmarks and Outdoors > Volcano	712190	7999
+16052	Landmarks and Outdoors > Waterfall	712190	7999
+16053	Landmarks and Outdoors > Waterfront	712190	7999
+16054	Landmarks and Outdoors > Windmill	11	
+17000	Retail	44	
+17001	Retail > Adult Store	44	
+17002	Retail > Antique Store	453310	5932
+17003	Retail > Arts and Crafts Store	453998	5085
+17004	Retail > Auction House	44	
+17005	Retail > Automotive Retail	332710	3599
+17006	Retail > Automotive Retail > Car Dealership	441110	5511
+17007	Retail > Automotive Retail > Car Dealership > Classic and Antique Car Dealership	441110	5511
+17008	Retail > Automotive Retail > Car Dealership > New Car Dealership	441110	5511
+17009	Retail > Automotive Retail > Car Dealership > RV and Motorhome Dealership	441110	5511
+17010	Retail > Automotive Retail > Car Dealership > Used Car Dealership	441110	5511
+17011	Retail > Automotive Retail > Car Parts and Accessories	441310	5013
+17012	Retail > Automotive Retail > Motorcycle Dealership	441228	5571
+17013	Retail > Automotive Retail > Motorsports Store	441228	5571
+17014	Retail > Baby Store	44813	
+17015	Retail > Betting Shop	713290	7993
+17016	Retail > Big Box Store	44	
+17017	Retail > Board Store	44	
+17018	Retail > Bookstore	451211	5192
+17019	Retail > Bookstore > Used Bookstore	453310	5932
+17020	Retail > Boutique	44	
+17021	Retail > Cannabis Store	453998	5085
+17022	Retail > Comic Book Store	451212	5994
+17023	Retail > Computers and Electronics Retail	443142	5045
+17024	Retail > Computers and Electronics Retail > Camera Store	443142	5045
+17025	Retail > Computers and Electronics Retail > Electronics Store	443142	5045
+17026	Retail > Computers and Electronics Retail > Mobile Phone Store	517312	4812
+17027	Retail > Computers and Electronics Retail > Video Games Store	443141	5064
+17028	Retail > Construction Supplies Store	561730	782
+17029	Retail > Convenience Store	445120	5411
+17030	Retail > Cosmetics Store	446120	5087
+17031	Retail > Costume Store	448190	5136
+17032	Retail > Dance Store	44	
+17033	Retail > Department Store	452210	5311
+17034	Retail > Discount Store	44	
+17035	Retail > Drugstore	446110	5122
+17036	Retail > Duty-free Store	453998	5085
+17037	Retail > Eyecare Store	446130	5995
+17038	Retail > Fabric / Textiles Store	451130	5131
+17039	Retail > Fashion Retail	4481	
+17040	Retail > Fashion Retail > Batik Store	4481	
+17041	Retail > Fashion Retail > Bridal Store	448190	5136
+17042	Retail > Fashion Retail > Children's Clothing Store	448130	5137
+17043	Retail > Fashion Retail > Clothing Store	448140	5651
+17044	Retail > Fashion Retail > Fashion Accessories Store	448150	5611
+17045	Retail > Fashion Retail > Jewelry Store	448310	5094
+17046	Retail > Fashion Retail > Lingerie Store	448190	5136
+17047	Retail > Fashion Retail > Men's Store	448110	5136
+17048	Retail > Fashion Retail > Shoe Store	448210	5139
+17049	Retail > Fashion Retail > Sunglasses Store	448150	5611
+17050	Retail > Fashion Retail > Swimwear Store	448140	5651
+17051	Retail > Fashion Retail > Watch Store	448310	5094
+17052	Retail > Fashion Retail > Women's Store	448120	5137
+17053	Retail > Fireworks Store	453998	5085
+17054	Retail > Flea Market	454390	5142
+17055	Retail > Floating Market	454390	5142
+17056	Retail > Flower Store	453110	5992
+17057	Retail > Food and Beverage Retail	445299	5143
+17058	Retail > Food and Beverage Retail > Beer Store	445310	5181
+17059	Retail > Food and Beverage Retail > Butcher	445210	5144
+17060	Retail > Food and Beverage Retail > Candy Store	445292	5145
+17061	Retail > Food and Beverage Retail > Cheese Store	445299	5143
+17062	Retail > Food and Beverage Retail > Chocolate Store	445299	5143
+17063	Retail > Food and Beverage Retail > Coffee Roaster	445299	5143
+17064	Retail > Food and Beverage Retail > Dairy Store	445299	5143
+17065	Retail > Food and Beverage Retail > Farmers' Market	445230	5148
+17066	Retail > Food and Beverage Retail > Fish Market	445220	5146
+17067	Retail > Food and Beverage Retail > Fruit and Vegetable Store	445230	5148
+17068	Retail > Food and Beverage Retail > Gourmet Store	445299	5143
+17069	Retail > Food and Beverage Retail > Grocery Store / Supermarket	445110	5141
+17070	Retail > Food and Beverage Retail > Grocery Store / Supermarket > Organic Grocery	445110	5141
+17071	Retail > Food and Beverage Retail > Health Food Store	446191	5122
+17072	Retail > Food and Beverage Retail > Herbs and Spices Store	446191	5122
+17073	Retail > Food and Beverage Retail > Imported Food Store	445299	5143
+17074	Retail > Food and Beverage Retail > Kosher Store	445299	5143
+17075	Retail > Food and Beverage Retail > Kuruyemişçi Shop	445299	5143
+17076	Retail > Food and Beverage Retail > Liquor Store	445310	5181
+17077	Retail > Food and Beverage Retail > Meat and Seafood Store	445299	5143
+17078	Retail > Food and Beverage Retail > Sausage Store	445299	5143
+17079	Retail > Food and Beverage Retail > Turşucu Shop	445299	5143
+17080	Retail > Food and Beverage Retail > Wine Store	445310	5181
+17081	Retail > Framing Store	442299	5719
+17082	Retail > Furniture and Home Store	442110	5021
+17083	Retail > Furniture and Home Store > Carpet Store	442210	5023
+17084	Retail > Furniture and Home Store > Home Appliance Store	442110	5021
+17085	Retail > Furniture and Home Store > Housewares Store	442110	5021
+17086	Retail > Furniture and Home Store > Kitchen Supply Store	442299	5719
+17087	Retail > Furniture and Home Store > Lighting Store	444190	5032
+17088	Retail > Furniture and Home Store > Mattress Store	442110	5021
+17089	Retail > Gift Store	453220	5199
+17090	Retail > Hardware Store	444130	5072
+17091	Retail > Hobby Store	451120	5092
+17092	Retail > Knitting Store	451130	5131
+17093	Retail > Leather Goods Store	448320	5948
+17094	Retail > Luggage Store	448320	5948
+17095	Retail > Medical Supply Store	446199	5047
+17096	Retail > Miscellaneous Store	453998	5085
+17097	Retail > Mobility Store	446199	5047
+17098	Retail > Music Store	451140	5736
+17099	Retail > Newsagent	451212	5994
+17100	Retail > Newsstand	451212	5994
+17101	Retail > Garden Center	444220	5153
+17102	Retail > Office Supply Store	453210	5044
+17103	Retail > Outdoor Supply Store	451110	5091
+17104	Retail > Outlet Mall	44	
+17105	Retail > Outlet Store	44	
+17106	Retail > Packaging Supply Store	44	
+17107	Retail > Party Supply Store	453220	5199
+17108	Retail > Pawn Shop	522298	5932
+17109	Retail > Perfume Store	446120	5087
+17110	Retail > Pet Supplies Store	453910	5149
+17111	Retail > Pop-Up Store	453998	5085
+17112	Retail > Print Store	561439	7334
+17113	Retail > Record Store	443142	5045
+17114	Retail > Shopping Mall	44	
+17115	Retail > Shopping Plaza	44	
+17116	Retail > Souvenir Store	453220	5199
+17117	Retail > Sporting Goods Retail	451110	5091
+17118	Retail > Sporting Goods Retail > Baseball Store	451110	5091
+17119	Retail > Sporting Goods Retail > Bicycle Store	451110	5091
+17120	Retail > Sporting Goods Retail > Dive Store	44	
+17121	Retail > Sporting Goods Retail > Fishing Store	451110	5091
+17122	Retail > Sporting Goods Retail > Golf Store	451110	5091
+17123	Retail > Sporting Goods Retail > Gun Store	451110	5091
+17124	Retail > Sporting Goods Retail > Hunting Supply Store	451110	5091
+17125	Retail > Sporting Goods Retail > Running Store	451110	5091
+17126	Retail > Sporting Goods Retail > Skate Store	451110	5091
+17127	Retail > Sporting Goods Retail > Ski Store	451110	5091
+17128	Retail > Sporting Goods Retail > Soccer Store	451110	5091
+17129	Retail > Sporting Goods Retail > Surf Store	451110	5091
+17130	Retail > Sporting Goods Retail > Tennis Store	451110	5091
+17131	Retail > Stationery Store	453210	5044
+17132	Retail > Supplement Store	446191	5122
+17133	Retail > Swimming Pool Supply Store	453998	5085
+17134	Retail > Tobacco Store	453991	5194
+17135	Retail > Toy / Game Store	451120	5092
+17136	Retail > Vaporizer Store	453991	5194
+17137	Retail > Video Store	443142	5045
+17138	Retail > Vintage and Thrift Store	453310	5932
+17139	Retail > Warehouse / Wholesale Store	493110	4225
+18000	Sports and Recreation	713940	7991
+18001	Sports and Recreation > Athletic Field	713940	7991
+18002	Sports and Recreation > Baseball	713940	7991
+18003	Sports and Recreation > Baseball > Baseball Club	713940	7991
+18004	Sports and Recreation > Baseball > Baseball Field	713940	7991
+18005	Sports and Recreation > Baseball > Batting Range	713940	7991
+18006	Sports and Recreation > Basketball	713940	7991
+18007	Sports and Recreation > Basketball > Basketball Club	713940	7991
+18008	Sports and Recreation > Basketball > Basketball Court	713940	7991
+18009	Sports and Recreation > Bowling Green	713940	7991
+18010	Sports and Recreation > Cricket Ground	7139	
+18011	Sports and Recreation > Curling Ice	713940	7991
+18012	Sports and Recreation > Equestrian Facility	713940	7991
+18013	Sports and Recreation > Football	713940	7991
+18014	Sports and Recreation > Football > Football Club	713940	7991
+18015	Sports and Recreation > Football > Football Field	713940	7991
+18016	Sports and Recreation > Golf	713940	7991
+18017	Sports and Recreation > Golf > Golf Club	713940	7991
+18018	Sports and Recreation > Golf > Golf Course	713940	7991
+18019	Sports and Recreation > Golf > Golf Driving Range	713940	7991
+18020	Sports and Recreation > Gun Range	713990	7911
+18021	Sports and Recreation > Gym and Studio	713940	7991
+18022	Sports and Recreation > Gym and Studio > Boxing Gym	713940	7991
+18023	Sports and Recreation > Gym and Studio > Climbing Gym	713940	7991
+18024	Sports and Recreation > Gym and Studio > Cycle Studio	713940	7991
+18025	Sports and Recreation > Gym and Studio > Dance Studio	71	
+18026	Sports and Recreation > Gym and Studio > Outdoor Gym	713940	7991
+18027	Sports and Recreation > Gym and Studio > Pilates Studio	713940	7991
+18028	Sports and Recreation > Gym and Studio > Yoga Studio	713940	7991
+18029	Sports and Recreation > Gymnastics	713940	7991
+18030	Sports and Recreation > Gymnastics > Gymnastics Center	713940	7991
+18031	Sports and Recreation > Hockey	713940	7991
+18032	Sports and Recreation > Hockey > Hockey Club	713940	7991
+18033	Sports and Recreation > Hockey > Hockey Field	713940	7991
+18034	Sports and Recreation > Hockey > Hockey Rink	713940	7991
+18035	Sports and Recreation > Indoor Play Area	713940	7991
+18036	Sports and Recreation > Martial Arts Dojo	713940	7991
+18037	Sports and Recreation > Paintball Field	713940	7991
+18038	Sports and Recreation > Personal Trainer	713940	7991
+18039	Sports and Recreation > Race Track	711212	7948
+18040	Sports and Recreation > Racquet Sports	713940	7991
+18041	Sports and Recreation > Racquet Sports > Badminton Court	713940	7991
+18042	Sports and Recreation > Racquet Sports > Racquet Sport Club	713940	7991
+18043	Sports and Recreation > Racquet Sports > Racquetball Club	713940	7991
+18044	Sports and Recreation > Racquet Sports > Squash Court	713940	7991
+18045	Sports and Recreation > Racquet Sports > Tennis	713940	7991
+18046	Sports and Recreation > Racquet Sports > Tennis > Tennis Club	713940	7991
+18047	Sports and Recreation > Racquet Sports > Tennis > Tennis Court	713940	7991
+18048	Sports and Recreation > Recreation Center	713940	7991
+18049	Sports and Recreation > Rugby	713940	7991
+18050	Sports and Recreation > Rugby > Rugby Pitch	713940	7991
+18051	Sports and Recreation > Running and Track	713940	7991
+18052	Sports and Recreation > Running and Track > Running Club	713940	7991
+18053	Sports and Recreation > Running and Track > Track	713940	7991
+18054	Sports and Recreation > Skating	713940	7991
+18055	Sports and Recreation > Skating > Skate Park	713940	7991
+18056	Sports and Recreation > Skating > Skating Rink	713940	7991
+18057	Sports and Recreation > Skydiving Center	611620	7999
+18058	Sports and Recreation > Snow Sports	713940	7991
+18059	Sports and Recreation > Snow Sports > Ski Chalet	71392	
+18060	Sports and Recreation > Snow Sports > Ski Lodge	71392	
+18061	Sports and Recreation > Snow Sports > Ski Resorts and Areas	71392	
+18062	Sports and Recreation > Soccer	713940	7991
+18063	Sports and Recreation > Soccer > Soccer Club	713940	7991
+18064	Sports and Recreation > Soccer > Soccer Field	713940	7991
+18065	Sports and Recreation > Sports Club	713940	7991
+18066	Sports and Recreation > Volleyball Court	713940	7991
+18067	Sports and Recreation > Water Sports	713940	7991
+18068	Sports and Recreation > Water Sports > Canoe and Kayak Rental	532284	7999
+18069	Sports and Recreation > Water Sports > Rafting Outfitter	712190	7999
+18070	Sports and Recreation > Water Sports > Sailing Club	713940	7991
+18071	Sports and Recreation > Water Sports > Scuba Diving Instructor	713940	7991
+18072	Sports and Recreation > Water Sports > Surfing	713940	7991
+18073	Sports and Recreation > Water Sports > Swimming	713940	7991
+18074	Sports and Recreation > Water Sports > Swimming > Swimming Club	713940	7991
+18075	Sports and Recreation > Water Sports > Swimming > Swimming Pool	71	
+18076	Sports and Recreation > Water Sports > Swimming > Swim School	611519	8243
+19000	Travel and Transportation	48	
+19001	Travel and Transportation > Baggage Locker	488119	4581
+19002	Travel and Transportation > Bike Rental	532284	7999
+19003	Travel and Transportation > Boat Rental	532284	7999
+19004	Travel and Transportation > Border Crossing	561612	7381
+19005	Travel and Transportation > Cruise	487210	4489
+19006	Travel and Transportation > Electric Vehicle Charging Station	48	
+19007	Travel and Transportation > Fuel Station	447190	5541
+19008	Travel and Transportation > Hot Air Balloon Tour Agency	7211	
+19009	Travel and Transportation > Lodging	48	
+19010	Travel and Transportation > Lodging > Bed and Breakfast	721110	7011
+19011	Travel and Transportation > Lodging > Boarding House	721110	7011
+19012	Travel and Transportation > Lodging > Cottage / Cabin	48	
+19013	Travel and Transportation > Lodging > Hostel	721110	7011
+19014	Travel and Transportation > Lodging > Hotel	721110	7011
+19015	Travel and Transportation > Lodging > Inn	721110	7011
+19016	Travel and Transportation > Lodging > Lodge	721110	7011
+19017	Travel and Transportation > Lodging > Motel	721110	7011
+19018	Travel and Transportation > Lodging > Resort	721110	7011
+19019	Travel and Transportation > Lodging > Vacation Rental	531190	6515
+19020	Travel and Transportation > Parking	812930	7299
+19021	Travel and Transportation > Pier	488310	4491
+19022	Travel and Transportation > Platform	485111	4111
+19023	Travel and Transportation > Port	488310	4491
+19024	Travel and Transportation > Rest Area	48	
+19025	Travel and Transportation > RV Park	721211	7033
+19026	Travel and Transportation > Toll Booth	488490	4173
+19027	Travel and Transportation > Toll Plaza	488490	4173
+19028	Travel and Transportation > Tourist Information and Service	561591	7389
+19029	Travel and Transportation > Tourist Information and Service > Tour Provider	561520	4725
+19030	Travel and Transportation > Transport Hub	48	
+19031	Travel and Transportation > Transport Hub > Airport	488119	4581
+19032	Travel and Transportation > Transport Hub > Airport > Airfield	488119	4581
+19033	Travel and Transportation > Transport Hub > Airport > Airport Food Court	488119	4581
+19034	Travel and Transportation > Transport Hub > Airport > Airport Gate	488119	4581
+19035	Travel and Transportation > Transport Hub > Airport > Airport Lounge	488119	4581
+19036	Travel and Transportation > Transport Hub > Airport > Airport Service	488119	4581
+19037	Travel and Transportation > Transport Hub > Airport > Airport Terminal	488119	4581
+19038	Travel and Transportation > Transport Hub > Airport > Airport Tram Station	488119	4581
+19039	Travel and Transportation > Transport Hub > Airport > Baggage Claim	488119	4581
+19040	Travel and Transportation > Transport Hub > Airport > International Airport	488119	4581
+19041	Travel and Transportation > Transport Hub > Airport > Private Airport	488119	4581
+19042	Travel and Transportation > Transport Hub > Bus Station	485113	4111
+19043	Travel and Transportation > Transport Hub > Bus Stop	485113	4111
+19044	Travel and Transportation > Transport Hub > Heliport	488119	4581
+19045	Travel and Transportation > Transport Hub > Marine Terminal	488310	4491
+19046	Travel and Transportation > Transport Hub > Metro Station	485111	4111
+19047	Travel and Transportation > Transport Hub > Rail Station	485111	4111
+19048	Travel and Transportation > Transport Hub > Rental Car Location	532111	7514
+19049	Travel and Transportation > Transport Hub > Taxi Stand	485310	4121
+19050	Travel and Transportation > Transport Hub > Tram Station	485111	4111
+19051	Travel and Transportation > Transportation Service	561599	4729
+19052	Travel and Transportation > Transportation Service > Charter Bus	561599	4729
+19053	Travel and Transportation > Transportation Service > Limo / Chauffeur	561599	4729
+19054	Travel and Transportation > Transportation Service > Public Transportation	561599	4729
+19055	Travel and Transportation > Travel Agency	561510	4724
+19056	Travel and Transportation > Travel Lounge	561599	4729
