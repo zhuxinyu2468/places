@@ -12,35 +12,35 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 10010	Arts and Entertainment > Comedy Club	71	Arts, Entertainment, and Recreation		
 10011	Arts and Entertainment > Country Club	713910	Golf Courses and Country Clubs	7992	Public Golf Courses
 10012	Arts and Entertainment > Country Dance Club	711120	Dance Companies	7922	Theatrical Producers and Services
-10013	Arts and Entertainment > Dance Hall	711120	Dance Companies	7922	Theatrical Producers and Services
+10013	Arts and Entertainment > Dance Hall	713990	All Other Amusement and Recreation Industries	7911	Theatrical Producers and Services
 10014	Arts and Entertainment > Disc Golf Course	713910	Golf Courses and Country Clubs	7992	Public Golf Courses
 10015	Arts and Entertainment > Escape Room	71	Arts, Entertainment, and Recreation		
-10016	Arts and Entertainment > Exhibit	7121	Museums, Historical Sites, and Similar Institutions		
-10017	Arts and Entertainment > Fair	71	Arts, Entertainment, and Recreation		
-10018	Arts and Entertainment > Gaming Cafe	81	Other Services (except Public Administration)		
-10019	Arts and Entertainment > Go Kart Track	711212	Racetracks	7948	Racing, Including Track Operation
+10016	Arts and Entertainment > Exhibit	712110	Museums	8412	
+10017	Arts and Entertainment > Fair	711320	Promoters of Performing Arts, Sports, and Similar Events without Facilities	7389	
+10018	Arts and Entertainment > Gaming Cafe	71	Arts, Entertainment, and Recreation		
+10019	Arts and Entertainment > Go Kart Track	713990	All Other Amusement and Recreation Industries	7911	Racing, Including Track Operation
 10020	Arts and Entertainment > Internet Cafe	561439	Other Business Service Centers (including Copy Shops)	7334	Photocopying and Duplicating Services
-10021	Arts and Entertainment > Karaoke Box	71	Arts, Entertainment, and Recreation		
+10021	Arts and Entertainment > Karaoke Box	722410	Drinking Places (Alcoholic Beverages)	5813	
 10022	Arts and Entertainment > Laser Tag Center	7139	Other Amusement and Recreation Industries		
 10023	Arts and Entertainment > Mini Golf Course	7139	Other Amusement and Recreation Industries		
 10024	Arts and Entertainment > Movie Theater	512131	Motion Picture Theaters (except Drive-Ins)	7832	Motion Picture Theaters, Except Drive-in
 10025	Arts and Entertainment > Movie Theater > Drive-in Theater	512132	Drive-In Motion Picture Theaters	7833	Drive-in Motion Picture Theaters
 10026	Arts and Entertainment > Movie Theater > Indie Movie Theater	512131	Motion Picture Theaters (except Drive-Ins)	7832	Motion Picture Theaters, Except Drive-in
 10027	Arts and Entertainment > Museum	712110	Museums	8412	Museums and Art Galleries
-10028	Arts and Entertainment > Museum > Art Museum	7121	Museums, Historical Sites, and Similar Institutions		
-10029	Arts and Entertainment > Museum > Erotic Museum	7121	Museums, Historical Sites, and Similar Institutions		
-10030	Arts and Entertainment > Museum > History Museum	7121	Museums, Historical Sites, and Similar Institutions		
-10031	Arts and Entertainment > Museum > Science Museum	7121	Museums, Historical Sites, and Similar Institutions		
+10028	Arts and Entertainment > Museum > Art Museum	712110	Museums	8412	
+10029	Arts and Entertainment > Museum > Erotic Museum	712110	Museums	8412	
+10030	Arts and Entertainment > Museum > History Museum	712110	Museums	8412	
+10031	Arts and Entertainment > Museum > Science Museum	712110	Museums	8412	
 10032	Arts and Entertainment > Night Club	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
 10033	Arts and Entertainment > Pachinko Parlor	713290	Other Gambling Industries	7993	Coin-operated Amusement Devices
 10034	Arts and Entertainment > Party Center	71	Arts, Entertainment, and Recreation		
 10035	Arts and Entertainment > Performing Arts Venue	71	Arts, Entertainment, and Recreation		
 10036	Arts and Entertainment > Performing Arts Venue > Amphitheater	711110	Theater Companies and Dinner Theaters	7922	Theatrical Producers and Services
 10037	Arts and Entertainment > Performing Arts Venue > Concert Hall	711110	Theater Companies and Dinner Theaters	7922	Theatrical Producers and Services
-10038	Arts and Entertainment > Performing Arts Venue > Indie Theater	512131	Motion Picture Theaters (except Drive-Ins)	7832	Motion Picture Theaters, Except Drive-in
-10039	Arts and Entertainment > Performing Arts Venue > Music Venue	71	Arts, Entertainment, and Recreation		
-10040	Arts and Entertainment > Performing Arts Venue > Music Venue > Jazz and Blues Venue	71	Arts, Entertainment, and Recreation		
-10041	Arts and Entertainment > Performing Arts Venue > Music Venue > Rock Club	71	Arts, Entertainment, and Recreation		
+10038	Arts and Entertainment > Performing Arts Venue > Indie Theater	711110	Theater Companies and Dinner Theaters	7922	Motion Picture Theaters, Except Drive-in
+10039	Arts and Entertainment > Performing Arts Venue > Music Venue	711110	Theater Companies and Dinner Theaters	7922	
+10040	Arts and Entertainment > Performing Arts Venue > Music Venue > Jazz and Blues Venue	711110	Theater Companies and Dinner Theaters	7922	
+10041	Arts and Entertainment > Performing Arts Venue > Music Venue > Rock Club	711110	Theater Companies and Dinner Theaters	7922	
 10042	Arts and Entertainment > Performing Arts Venue > Opera House	711110	Theater Companies and Dinner Theaters	7922	Theatrical Producers and Services
 10043	Arts and Entertainment > Performing Arts Venue > Theater	711110	Theater Companies and Dinner Theaters	7922	Theatrical Producers and Services
 10044	Arts and Entertainment > Planetarium	7121	Museums, Historical Sites, and Similar Institutions		
@@ -48,79 +48,79 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 10046	Arts and Entertainment > Psychics and Astrologers	812990	All Other Personal Services	4899	Communication Services, Nec
 10047	Arts and Entertainment > Public Art	71	Arts, Entertainment, and Recreation		
 10048	Arts and Entertainment > Roller Rink	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
-10049	Arts and Entertainment > Salsa Club	71	Arts, Entertainment, and Recreation		
-10050	Arts and Entertainment > Samba School	71	Arts, Entertainment, and Recreation		
+10049	Arts and Entertainment > Salsa Club	711120	Dance Companies	7922	
+10050	Arts and Entertainment > Samba School	711120	Dance Companies	7922	
 10051	Arts and Entertainment > Stadium	7139	Other Amusement and Recreation Industries		
 10052	Arts and Entertainment > Strip Club	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
 10053	Arts and Entertainment > Ticket Seller	71	Arts, Entertainment, and Recreation		
-10054	Arts and Entertainment > VR Cafe	561439	Other Business Service Centers (including Copy Shops)	7334	Photocopying and Duplicating Services
+10054	Arts and Entertainment > VR Cafe	71	Arts, Entertainment, and Recreation		Photocopying and Duplicating Services
 10055	Arts and Entertainment > Water Park	713110	Amusement and Theme Parks	7996	Amusement Parks
 10056	Arts and Entertainment > Zoo	712130	Zoos and Botanical Gardens	8422	Botanical and Zoological Gardens
 11000	Business and Professional Services	54	Professional, Scientific, and Technical Services		
 11001	Business and Professional Services > Advertising Agency	541810	Advertising Agencies	7311	Advertising Agencies
 11002	Business and Professional Services > Agriculture and Forestry Service	115310	Support Activities for Forestry	851	Forestry Services
 11003	Business and Professional Services > Architecture Firm	541310	Architectural Services	8712	Architectural Services
-11004	Business and Professional Services > Art Restoration Service	44	Retail Trade		
-11005	Business and Professional Services > Art Studio	71	Arts, Entertainment, and Recreation		
-11006	Business and Professional Services > Audiovisual Service	44	Retail Trade		
+11004	Business and Professional Services > Art Restoration Service	541618	Other Management Consulting Services	8748	
+11005	Business and Professional Services > Art Studio	541430	Graphic Design Services	7336	
+11006	Business and Professional Services > Audiovisual Service	512240	Sound Recording Studios	7389	
 11007	Business and Professional Services > Auditorium	71	Arts, Entertainment, and Recreation		
 11008	Business and Professional Services > Automation and Control System	44	Retail Trade		
-11009	Business and Professional Services > Automotive Service	332710	Machine Shops	3599	Industrial Machinery, Nec
-11010	Business and Professional Services > Automotive Service > Automotive Repair Shop	332710	Machine Shops	3599	Industrial Machinery, Nec
+11009	Business and Professional Services > Automotive Service	811121	Automotive Body, Paint, and Interior Repair and Maintenance	7532	Industrial Machinery, Nec
+11010	Business and Professional Services > Automotive Service > Automotive Repair Shop	811198	All Other Automotive Repair and Maintenance	7534	Industrial Machinery, Nec
 11011	Business and Professional Services > Automotive Service > Car Wash and Detail	811192	Car Washes	7542	Carwashes
-11012	Business and Professional Services > Automotive Service > Motorcycle Repair Shop	332710	Machine Shops	3599	Industrial Machinery, Nec
-11013	Business and Professional Services > Automotive Service > Oil Change Service	332710	Machine Shops	3599	Industrial Machinery, Nec
-11014	Business and Professional Services > Automotive Service > Smog Check Shop	332710	Machine Shops	3599	Industrial Machinery, Nec
-11015	Business and Professional Services > Automotive Service > Tire Repair Shop	332710	Machine Shops	3599	Industrial Machinery, Nec
-11016	Business and Professional Services > Automotive Service > Towing Service	332710	Machine Shops	3599	Industrial Machinery, Nec
-11017	Business and Professional Services > Automotive Service > Transmissions Shop	332710	Machine Shops	3599	Industrial Machinery, Nec
-11018	Business and Professional Services > Automotive Service > Vehicle Inspection Station	811198	All Other Automotive Repair and Maintenance	7534	Tire Retreading and Repair Shops
+11012	Business and Professional Services > Automotive Service > Motorcycle Repair Shop	811490	Other Personal and Household Goods Repair and Maintenance	3732	Industrial Machinery, Nec
+11013	Business and Professional Services > Automotive Service > Oil Change Service	811191	Automotive Oil Change and Lubrication Shops	7549	Industrial Machinery, Nec
+11014	Business and Professional Services > Automotive Service > Smog Check Shop	811198	All Other Automotive Repair and Maintenance	7534	Industrial Machinery, Nec
+11015	Business and Professional Services > Automotive Service > Tire Repair Shop	811198	All Other Automotive Repair and Maintenance	7534	Industrial Machinery, Nec
+11016	Business and Professional Services > Automotive Service > Towing Service	488410	Motor Vehicle Towing	7549	Industrial Machinery, Nec
+11017	Business and Professional Services > Automotive Service > Transmissions Shop	811113	Automotive Transmission Repair	7537	Industrial Machinery, Nec
+11018	Business and Professional Services > Automotive Service > Vehicle Inspection Station	488490	Other Support Activities for Road Transportation	4173	Tire Retreading and Repair Shops
 11019	Business and Professional Services > Ballroom	713990	All Other Amusement and Recreation Industries	7911	Dance Studios, Schools, and Halls
-11020	Business and Professional Services > Business and Strategy Consulting Office	561110	Office Administrative Services	8741	Management Services
-11021	Business and Professional Services > Business Center	81	Other Services (except Public Administration)		
+11020	Business and Professional Services > Business and Strategy Consulting Office	541611	Administrative Management and General Management Consulting Services	8742	Management Services
+11021	Business and Professional Services > Business Center	561439	Other Business Service Centers (including Copy Shops)	7334	
 11022	Business and Professional Services > Campaign Office	813940	Political Organizations	8651	Political Organizations
-11023	Business and Professional Services > Career Counselor	54	Professional, Scientific, and Technical Services		
-11024	Business and Professional Services > Chemicals and Gasses Manufacturer	54	Professional, Scientific, and Technical Services		
+11023	Business and Professional Services > Career Counselor	611710	Educational Support Services	8299	
+11024	Business and Professional Services > Chemicals and Gasses Manufacturer	325199	All Other Basic Organic Chemical Manufacturing	2869	
 11025	Business and Professional Services > Child Care Service	624410	Child Day Care Services	8351	Child Day Care Services
 11026	Business and Professional Services > Child Care Service > Daycare	624410	Child Day Care Services	8351	Child Day Care Services
-11027	Business and Professional Services > Computer Repair Service	811490	Other Personal and Household Goods Repair and Maintenance	3732	Boatbuilding and Repairing
-11028	Business and Professional Services > Construction	561730	Landscaping Services	782	Lawn and Garden Services
+11027	Business and Professional Services > Computer Repair Service	811212	Computer and Office Machine Repair and Maintenance	7378	Boatbuilding and Repairing
+11028	Business and Professional Services > Construction	236220	Commercial and Institutional Building Construction	1522	Lawn and Garden Services
 11029	Business and Professional Services > Convention Center	71	Arts, Entertainment, and Recreation		
-11030	Business and Professional Services > Design Studio	541490	Other Specialized Design Services	7389	Business Services, Nec
-11031	Business and Professional Services > Distribution Center	49	Warehousing		
-11032	Business and Professional Services > Electrical Equipment Supplier	44	Retail Trade		
+11030	Business and Professional Services > Design Studio	541430	Graphic Design Services	7336	Business Services, Nec
+11031	Business and Professional Services > Distribution Center	493110	General Warehousing and Storage	4225	
+11032	Business and Professional Services > Electrical Equipment Supplier	423610	Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers	5063	
 11033	Business and Professional Services > Employment Agency	561311	Employment Placement Agencies	7299	Miscellaneous Personal Services
-11034	Business and Professional Services > Engineer	54	Professional, Scientific, and Technical Services		
-11035	Business and Professional Services > Entertainment Agency	54	Professional, Scientific, and Technical Services		
+11034	Business and Professional Services > Engineer	541330	Engineering Services	8711	
+11035	Business and Professional Services > Entertainment Agency	711410	Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures	7389	
 11036	Business and Professional Services > Entertainment Service	71	Arts, Entertainment, and Recreation		
 11037	Business and Professional Services > Equipment Rental Service	532310	General Rental Centers	7359	Equipment Rental and Leasing, Nec
-11038	Business and Professional Services > Event Service	81	Other Services (except Public Administration)		
+11038	Business and Professional Services > Event Service	711310	Promoters of Performing Arts, Sports, and Similar Events with Facilities	6512	
 11039	Business and Professional Services > Event Space	71	Arts, Entertainment, and Recreation		
 11040	Business and Professional Services > Factory	31	Manufacturing		
 11041	Business and Professional Services > Film Studio	512110	Motion Picture and Video Production	7812	Motion Picture and Video Production
-11042	Business and Professional Services > Financial Service	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
-11043	Business and Professional Services > Financial Service > Accounting and Bookkeeping Service	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
-11044	Business and Professional Services > Financial Service > ATM	523910	Miscellaneous Intermediation	6153	Short-term Business Credit
-11045	Business and Professional Services > Financial Service > Bank	521110	Monetary Authorities-Central Bank	6011	Federal Reserve Banks
-11046	Business and Professional Services > Financial Service > Banking and Finance	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
-11047	Business and Professional Services > Financial Service > Business Broker	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
+11042	Business and Professional Services > Financial Service	52	Finance and Insurance		Management Consulting Services
+11043	Business and Professional Services > Financial Service > Accounting and Bookkeeping Service	541219	Other Accounting Services	8721	Management Consulting Services
+11044	Business and Professional Services > Financial Service > ATM	522190	Other Depository Credit Intermediation	6022	Short-term Business Credit
+11045	Business and Professional Services > Financial Service > Bank	522110	Commercial Banking	6021	Federal Reserve Banks
+11046	Business and Professional Services > Financial Service > Banking and Finance	522110	Commercial Banking	6021	Management Consulting Services
+11047	Business and Professional Services > Financial Service > Business Broker	541990	All Other Professional, Scientific, and Technical Services	4499	Management Consulting Services
 11048	Business and Professional Services > Financial Service > Check Cashing Service	522390	Other Activities Related to Credit Intermediation	6099	Functions Related To Depository Banking
-11049	Business and Professional Services > Financial Service > Collections Service	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
-11050	Business and Professional Services > Financial Service > Credit Counseling and Bankruptcy Service	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
+11049	Business and Professional Services > Financial Service > Collections Service	561440	Collection Agencies	7322	Management Consulting Services
+11050	Business and Professional Services > Financial Service > Credit Counseling and Bankruptcy Service	525920	Trusts, Estates, and Agency Accounts	6733	Management Consulting Services
 11051	Business and Professional Services > Financial Service > Credit Union	522130	Credit Unions	6061	Federal Credit Unions
 11052	Business and Professional Services > Financial Service > Currency Exchange	523130	Commodity Contracts Dealing	6099	Functions Related To Depository Banking
-11053	Business and Professional Services > Financial Service > Financial Planner	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
+11053	Business and Professional Services > Financial Service > Financial Planner	5239	Other Financial Investment Activities		Management Consulting Services
 11054	Business and Professional Services > Financial Service > Loans Agency	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
-11055	Business and Professional Services > Financial Service > Stock Broker	541611	Administrative Management and General Management Consulting Services	8742	Management Consulting Services
+11055	Business and Professional Services > Financial Service > Stock Broker	523120	Securities Brokerage	6211	Management Consulting Services
 11056	Business and Professional Services > Food and Beverage Service	722310	Food Service Contractors	4789	Transportation Services, Nec
 11057	Business and Professional Services > Food and Beverage Service > Caterer	722310	Food Service Contractors	4789	Transportation Services, Nec
 11058	Business and Professional Services > Food and Beverage Service > Food Distribution Center	722310	Food Service Contractors	4789	Transportation Services, Nec
 11059	Business and Professional Services > Funeral Home	812210	Funeral Homes and Funeral Services	7261	Funeral Service and Crematories
 11060	Business and Professional Services > Geological Service	541360	Geophysical Surveying and Mapping Services	1081	Metal Mining Services
-11061	Business and Professional Services > Health and Beauty Service	812112	Beauty Salons	7231	Beauty Shops
-11062	Business and Professional Services > Health and Beauty Service > Barbershop	812199	Other Personal Care Services	7299	Miscellaneous Personal Services
+11061	Business and Professional Services > Health and Beauty Service	8121	Personal Care Services		Beauty Shops
+11062	Business and Professional Services > Health and Beauty Service > Barbershop	812111	Barber Shops	7241	Miscellaneous Personal Services
 11063	Business and Professional Services > Health and Beauty Service > Bath House	812199	Other Personal Care Services	7299	Miscellaneous Personal Services
-11064	Business and Professional Services > Health and Beauty Service > Hair Salon	812199	Other Personal Care Services	7299	Miscellaneous Personal Services
+11064	Business and Professional Services > Health and Beauty Service > Hair Salon	812112	Beauty Salons	7231	Miscellaneous Personal Services
 11065	Business and Professional Services > Health and Beauty Service > Body Piercing Shop	812199	Other Personal Care Services	7299	Miscellaneous Personal Services
 11066	Business and Professional Services > Health and Beauty Service > Dry Cleaner	812320	Drycleaning and Laundry Services (except Coin-Operated)	7211	Power Laundries, Family and Commercial
 11067	Business and Professional Services > Health and Beauty Service > Hair Removal Service	812112	Beauty Salons	7231	Beauty Shops
@@ -133,36 +133,36 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 11074	Business and Professional Services > Health and Beauty Service > Tanning Salon	812199	Other Personal Care Services	7299	Miscellaneous Personal Services
 11075	Business and Professional Services > Health and Beauty Service > Tattoo Parlor	812199	Other Personal Care Services	7299	Miscellaneous Personal Services
 11076	Business and Professional Services > Home Improvement Service	561730	Landscaping Services	782	Lawn and Garden Services
-11077	Business and Professional Services > Home Improvement Service > Bathroom Contractor	561730	Landscaping Services	782	Lawn and Garden Services
-11078	Business and Professional Services > Home Improvement Service > Carpenter	561730	Landscaping Services	782	Lawn and Garden Services
-11079	Business and Professional Services > Home Improvement Service > Carpet and Flooring Contractor	561730	Landscaping Services	782	Lawn and Garden Services
-11080	Business and Professional Services > Home Improvement Service > Chimney Sweep	561730	Landscaping Services	782	Lawn and Garden Services
-11081	Business and Professional Services > Home Improvement Service > Deck and Patio Contractor	561730	Landscaping Services	782	Lawn and Garden Services
-11082	Business and Professional Services > Home Improvement Service > Doors and Windows Contractor	561730	Landscaping Services	782	Lawn and Garden Services
-11083	Business and Professional Services > Home Improvement Service > Electrician	561730	Landscaping Services	782	Lawn and Garden Services
-11084	Business and Professional Services > Home Improvement Service > Fence Contractor	561730	Landscaping Services	782	Lawn and Garden Services
-11085	Business and Professional Services > Home Improvement Service > Garage Door Supplier	561730	Landscaping Services	782	Lawn and Garden Services
-11086	Business and Professional Services > Home Improvement Service > General Contractor	561730	Landscaping Services	782	Lawn and Garden Services
-11087	Business and Professional Services > Home Improvement Service > Heating, Ventilating and Air Conditioning Contractor	561730	Landscaping Services	782	Lawn and Garden Services
-11088	Business and Professional Services > Home Improvement Service > Home Inspection	561730	Landscaping Services	782	Lawn and Garden Services
-11089	Business and Professional Services > Home Improvement Service > Home Service	236118	Residential Remodelers	1521	Single-family Housing Construction
-11090	Business and Professional Services > Home Improvement Service > Interior Designer	561730	Landscaping Services	782	Lawn and Garden Services
-11091	Business and Professional Services > Home Improvement Service > Kitchen Remodeler	561730	Landscaping Services	782	Lawn and Garden Services
+11077	Business and Professional Services > Home Improvement Service > Bathroom Contractor	236118	Residential Remodelers	1521	Lawn and Garden Services
+11078	Business and Professional Services > Home Improvement Service > Carpenter	238350	Finish Carpentry Contractors	1751	Lawn and Garden Services
+11079	Business and Professional Services > Home Improvement Service > Carpet and Flooring Contractor	236118	Residential Remodelers	1521	Lawn and Garden Services
+11080	Business and Professional Services > Home Improvement Service > Chimney Sweep	561790	Other Services to Buildings and Dwellings	1799	Lawn and Garden Services
+11081	Business and Professional Services > Home Improvement Service > Deck and Patio Contractor	236118	Residential Remodelers	1521	Lawn and Garden Services
+11082	Business and Professional Services > Home Improvement Service > Doors and Windows Contractor	236118	Residential Remodelers	1521	Lawn and Garden Services
+11083	Business and Professional Services > Home Improvement Service > Electrician	238210	Electrical Contractors and Other Wiring Installation Contractors	1711	Lawn and Garden Services
+11084	Business and Professional Services > Home Improvement Service > Fence Contractor	236118	Residential Remodelers	1521	Lawn and Garden Services
+11085	Business and Professional Services > Home Improvement Service > Garage Door Supplier	238290	Other Building Equipment Contractors	1796	Lawn and Garden Services
+11086	Business and Professional Services > Home Improvement Service > General Contractor	236118	Residential Remodelers	1521	Lawn and Garden Services
+11087	Business and Professional Services > Home Improvement Service > Heating, Ventilating and Air Conditioning Contractor	238220	Plumbing, Heating, and Air-Conditioning Contractors	1711	Lawn and Garden Services
+11088	Business and Professional Services > Home Improvement Service > Home Inspection	561790	Other Services to Buildings and Dwellings	1799	Lawn and Garden Services
+11089	Business and Professional Services > Home Improvement Service > Home Service	561790	Other Services to Buildings and Dwellings	1799	Single-family Housing Construction
+11090	Business and Professional Services > Home Improvement Service > Interior Designer	541410	Interior Design Services	7389	Lawn and Garden Services
+11091	Business and Professional Services > Home Improvement Service > Kitchen Remodeler	236118	Residential Remodelers	1521	Lawn and Garden Services
 11092	Business and Professional Services > Home Improvement Service > Landscaper and Gardener	561730	Landscaping Services	782	Lawn and Garden Services
-11093	Business and Professional Services > Home Improvement Service > Mover	561730	Landscaping Services	782	Lawn and Garden Services
+11093	Business and Professional Services > Home Improvement Service > Mover	238990	All Other Specialty Trade Contractors	1771	Lawn and Garden Services
 11094	Business and Professional Services > Home Improvement Service > Painter	561730	Landscaping Services	782	Lawn and Garden Services
-11095	Business and Professional Services > Home Improvement Service > Pest Control Service	561730	Landscaping Services	782	Lawn and Garden Services
-11096	Business and Professional Services > Home Improvement Service > Plumber	561730	Landscaping Services	782	Lawn and Garden Services
-11097	Business and Professional Services > Home Improvement Service > Professional Cleaning Service	561730	Landscaping Services	782	Lawn and Garden Services
-11098	Business and Professional Services > Home Improvement Service > Roofer	561730	Landscaping Services	782	Lawn and Garden Services
-11099	Business and Professional Services > Home Improvement Service > Sewer Contractor	561730	Landscaping Services	782	Lawn and Garden Services
-11100	Business and Professional Services > Home Improvement Service > Swimming Pool Maintenance and Service	561730	Landscaping Services	782	Lawn and Garden Services
+11095	Business and Professional Services > Home Improvement Service > Pest Control Service	561710	Exterminating and Pest Control Services	4959	Lawn and Garden Services
+11096	Business and Professional Services > Home Improvement Service > Plumber	238220	Plumbing, Heating, and Air-Conditioning Contractors	1711	Lawn and Garden Services
+11097	Business and Professional Services > Home Improvement Service > Professional Cleaning Service	561720	Janitorial Services	4581	Lawn and Garden Services
+11098	Business and Professional Services > Home Improvement Service > Roofer	238160	Roofing Contractors	1761	Lawn and Garden Services
+11099	Business and Professional Services > Home Improvement Service > Sewer Contractor	238220	Plumbing, Heating, and Air-Conditioning Contractors	1711	Lawn and Garden Services
+11100	Business and Professional Services > Home Improvement Service > Swimming Pool Maintenance and Service	238990	All Other Specialty Trade Contractors	1771	Lawn and Garden Services
 11101	Business and Professional Services > Home Improvement Service > Tree Service	561730	Landscaping Services	782	Lawn and Garden Services
-11102	Business and Professional Services > Home Improvement Service > Upholstery Service	561730	Landscaping Services	782	Lawn and Garden Services
-11103	Business and Professional Services > Human Resources Agency	54	Professional, Scientific, and Technical Services		
+11102	Business and Professional Services > Home Improvement Service > Upholstery Service	561790	Other Services to Buildings and Dwellings	1799	Lawn and Garden Services
+11103	Business and Professional Services > Human Resources Agency	541612	Human Resources Consulting Services	7361	
 11104	Business and Professional Services > Import and Export Service	44	Retail Trade		
 11105	Business and Professional Services > Industrial Equipment Supplier	423830	Industrial Machinery and Equipment Merchant Wholesalers	5084	Industrial Machinery and Equipment
-11106	Business and Professional Services > Industrial Estate	523991	Trust, Fiduciary, and Custody Activities	6091	Nondeposit Trust Facilities
+11106	Business and Professional Services > Industrial Estate	54	Professional, Scientific, and Technical Services		Nondeposit Trust Facilities
 11107	Business and Professional Services > Insurance Agency	524210	Insurance Agencies and Brokerages	6411	Insurance Agents, Brokers, and Service
 11108	Business and Professional Services > IT Service	519190	All Other Information Services	7389	Business Services, Nec
 11109	Business and Professional Services > Laboratory	541380	Testing Laboratories	8734	Testing Laboratories
@@ -181,25 +181,25 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 11122	Business and Professional Services > Metals Supplier	423510	Metal Service Centers and Other Metal Merchant Wholesalers	5051	Metals Service Centers and Offices
 11123	Business and Professional Services > Mobile Company	54	Professional, Scientific, and Technical Services		
 11124	Business and Professional Services > Office	54	Professional, Scientific, and Technical Services		
-11125	Business and Professional Services > Office > Corporate Cafeteria	54	Professional, Scientific, and Technical Services		
+11125	Business and Professional Services > Office > Corporate Cafeteria	722514	Cafeterias, Grill Buffets, and Buffets	5812	
 11126	Business and Professional Services > Office > Corporate Coffee Shop	722515	Snack and Nonalcoholic Beverage Bars	5461	Retail Bakeries
 11127	Business and Professional Services > Office > Corporate Housing Agency	54	Professional, Scientific, and Technical Services		
 11128	Business and Professional Services > Office > Coworking Space	54	Professional, Scientific, and Technical Services		
 11129	Business and Professional Services > Office > Meeting Room	81	Other Services (except Public Administration)		
 11130	Business and Professional Services > Office > Office Building	53	Real Estate Rental and Leasing		
 11131	Business and Professional Services > Outdoor Event Space	71	Arts, Entertainment, and Recreation		
-11132	Business and Professional Services > Paper Supplier	44	Retail Trade		
+11132	Business and Professional Services > Paper Supplier	424130	Industrial and Personal Service Paper Merchant Wholesalers	5113	
 11133	Business and Professional Services > Pet Service	812910	Pet Care (except Veterinary) Services	752	Animal Specialty Services
 11134	Business and Professional Services > Pet Service > Pet Grooming Service	812910	Pet Care (except Veterinary) Services	752	Animal Specialty Services
 11135	Business and Professional Services > Pet Service > Pet Sitting and Boarding Service	812910	Pet Care (except Veterinary) Services	752	Animal Specialty Services
 11136	Business and Professional Services > Petroleum Supplier	424720	Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)	5172	Petroleum Products, Nec
 11137	Business and Professional Services > Photography Service	541922	Commercial Photography	7335	Commercial Photography
-11138	Business and Professional Services > Photography Service > Photographer	44	Retail Trade		
+11138	Business and Professional Services > Photography Service > Photographer	541922	Commercial Photography	7335	
 11139	Business and Professional Services > Photography Service > Photography Lab	541921	Photography Studios, Portrait	7221	Photographic Studios, Portrait
 11140	Business and Professional Services > Photography Service > Photography Studio	541921	Photography Studios, Portrait	7221	Photographic Studios, Portrait
-11141	Business and Professional Services > Plastics Supplier	44	Retail Trade		
-11142	Business and Professional Services > Power Plant	237990	Other Heavy and Civil Engineering Construction	1622	Bridge, Tunnel, and Elevated Highway
-11143	Business and Professional Services > Publisher	54	Professional, Scientific, and Technical Services		
+11141	Business and Professional Services > Plastics Supplier	3261	Plastics Product Manufacturing		
+11142	Business and Professional Services > Power Plant	221118	Other Electric Power Generation	4911	Bridge, Tunnel, and Elevated Highway
+11143	Business and Professional Services > Publisher	5111	Newspaper, Periodical, Book, and Directory Publishers		
 11144	Business and Professional Services > Radio Station	515112	Radio Stations	4832	Radio Broadcasting Stations
 11145	Business and Professional Services > Real Estate Service	531210	Offices of Real Estate Agents and Brokers	6531	Real Estate Agents and Managers
 11146	Business and Professional Services > Real Estate Service > Building and Land Surveyor	531210	Offices of Real Estate Agents and Brokers	6531	Real Estate Agents and Managers
@@ -211,7 +211,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 11152	Business and Professional Services > Recording Studio	512240	Sound Recording Studios	7389	Business Services, Nec
 11153	Business and Professional Services > Recycling Facility	562920	Materials Recovery Facilities	4953	Refuse Systems
 11154	Business and Professional Services > Refrigeration and Ice Supplier	423740	Refrigeration Equipment and Supplies Merchant Wholesalers	5078	Refrigeration Equipment and Supplies
-11155	Business and Professional Services > Renewable Energy Service	44	Retail Trade		
+11155	Business and Professional Services > Renewable Energy Service	2211	Electric Power Generation, Transmission and Distribution		
 11156	Business and Professional Services > Rental Service	532310	General Rental Centers	7359	Equipment Rental and Leasing, Nec
 11157	Business and Professional Services > Repair Service	811490	Other Personal and Household Goods Repair and Maintenance	3732	Boatbuilding and Repairing
 11158	Business and Professional Services > Research Station	541720	Research and Development in the Social Sciences and Humanities	8732	Commercial Nonphysical Research
@@ -226,46 +226,46 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 11167	Business and Professional Services > Technology Business	54	Professional, Scientific, and Technical Services		
 11168	Business and Professional Services > Technology Business > Software Company	54	Professional, Scientific, and Technical Services		
 11169	Business and Professional Services > Technology Business > Website Designer	54	Professional, Scientific, and Technical Services		
-11170	Business and Professional Services > Telecommunication Service	44	Retail Trade		
-11171	Business and Professional Services > Translation Service	44	Retail Trade		
-11172	Business and Professional Services > Tutoring Service	44	Retail Trade		
+11170	Business and Professional Services > Telecommunication Service	517919	All Other Telecommunications	4899	
+11171	Business and Professional Services > Translation Service	541930	Translation and Interpretation Services	7389	
+11172	Business and Professional Services > Tutoring Service	611691	Exam Preparation and Tutoring	8299	
 11173	Business and Professional Services > TV Station	515120	Television Broadcasting	4833	Television Broadcasting Stations
 11174	Business and Professional Services > Warehouse	452311	Warehouse Clubs and Supercenters	5311	Department Stores
 11175	Business and Professional Services > Waste Management Service	562119	Other Waste Collection	4212	Local Trucking, Without Storage
-11176	Business and Professional Services > Water Treatment Service	54	Professional, Scientific, and Technical Services		
+11176	Business and Professional Services > Water Treatment Service	221310	Water Supply and Irrigation Systems	4941	
 11177	Business and Professional Services > Wedding Hall	812990	All Other Personal Services	4899	Communication Services, Nec
-11178	Business and Professional Services > Welding Service	44	Retail Trade		
+11178	Business and Professional Services > Welding Service	333992	Welding and Soldering Equipment Manufacturing	3548	
 11179	Business and Professional Services > Wholesaler	44	Retail Trade		
-12000	Community and Government	54	Professional, Scientific, and Technical Services		
-12001	Community and Government > Addiction Treatment Center	54	Professional, Scientific, and Technical Services		
+12000	Community and Government	921190	Other General Government Support	9199	
+12001	Community and Government > Addiction Treatment Center	623220	Residential Mental Health and Substance Abuse Facilities	8361	
 12002	Community and Government > Animal Shelter	812910	Pet Care (except Veterinary) Services	752	Animal Specialty Services
 12003	Community and Government > Cemetery	812220	Cemeteries and Crematories	6531	Real Estate Agents and Managers
 12004	Community and Government > Community Center	71	Arts, Entertainment, and Recreation		
 12005	Community and Government > Cultural Center	71	Arts, Entertainment, and Recreation		
 12006	Community and Government > Disabled Persons Service	624120	Services for the Elderly and Persons with Disabilities	8322	Individual and Family Services
 12007	Community and Government > Domestic Abuse Treatment Center	54	Professional, Scientific, and Technical Services		
-12008	Community and Government > Dump	44	Retail Trade		
-12009	Community and Government > Education	611710	Educational Support Services	8299	Schools and Educational Services
-12010	Community and Government > Education > Adult Education	611710	Educational Support Services	8299	Schools and Educational Services
-12011	Community and Government > Education > Art School	611710	Educational Support Services	8299	Schools and Educational Services
+12008	Community and Government > Dump	562219	Other Nonhazardous Waste Treatment and Disposal	4953	
+12009	Community and Government > Education	923110	Administration of Education Programs	9411	Schools and Educational Services
+12010	Community and Government > Education > Adult Education	923110	Administration of Education Programs	9411	Schools and Educational Services
+12011	Community and Government > Education > Art School	611610	Fine Arts Schools	7911	Schools and Educational Services
 12012	Community and Government > Education > Circus School	711190	Other Performing Arts Companies	7929	Entertainers and Entertainment Groups
 12013	Community and Government > Education > College and University	6113	Colleges, Universities, and Professional Schools		
 12014	Community and Government > Education > College and University > College Academic Building	6113	Colleges, Universities, and Professional Schools		
 12015	Community and Government > Education > College and University > College Administrative Building	6113	Colleges, Universities, and Professional Schools		
 12016	Community and Government > Education > College and University > College Arts Building	6113	Colleges, Universities, and Professional Schools		
 12017	Community and Government > Education > College and University > College Auditorium	6113	Colleges, Universities, and Professional Schools		
-12018	Community and Government > Education > College and University > College Baseball Diamond	7139	Other Amusement and Recreation Industries		
-12019	Community and Government > Education > College and University > College Basketball Court	7139	Other Amusement and Recreation Industries		
+12018	Community and Government > Education > College and University > College Baseball Diamond	713940	Fitness and Recreational Sports Centers	7991	
+12019	Community and Government > Education > College and University > College Basketball Court	713940	Fitness and Recreational Sports Centers	7991	
 12020	Community and Government > Education > College and University > College Bookstore	451211	Book Stores	5192	Books, Periodicals, and Newspapers
 12021	Community and Government > Education > College and University > College Cafeteria	722514	Cafeterias, Grill Buffets, and Buffets	5812	Eating Places
 12022	Community and Government > Education > College and University > College Classroom	6113	Colleges, Universities, and Professional Schools		
 12023	Community and Government > Education > College and University > College Communications Building	6113	Colleges, Universities, and Professional Schools		
-12024	Community and Government > Education > College and University > College Cricket Pitch	7139	Other Amusement and Recreation Industries		
+12024	Community and Government > Education > College and University > College Cricket Pitch	713940	Fitness and Recreational Sports Centers	7991	
 12025	Community and Government > Education > College and University > College Engineering Building	6113	Colleges, Universities, and Professional Schools		
-12026	Community and Government > Education > College and University > College Football Field	7139	Other Amusement and Recreation Industries		
+12026	Community and Government > Education > College and University > College Football Field	713940	Fitness and Recreational Sports Centers	7991	
 12027	Community and Government > Education > College and University > College Gym	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
 12028	Community and Government > Education > College and University > College History Building	6113	Colleges, Universities, and Professional Schools		
-12029	Community and Government > Education > College and University > College Hockey Rink	7139	Other Amusement and Recreation Industries		
+12029	Community and Government > Education > College and University > College Hockey Rink	713940	Fitness and Recreational Sports Centers	7991	
 12030	Community and Government > Education > College and University > College Lab	6113	Colleges, Universities, and Professional Schools		
 12031	Community and Government > Education > College and University > College Library	6113	Colleges, Universities, and Professional Schools		
 12032	Community and Government > Education > College and University > College Math Building	6113	Colleges, Universities, and Professional Schools		
@@ -273,12 +273,12 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 12034	Community and Government > Education > College and University > College Rec Center	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
 12035	Community and Government > Education > College and University > College Residence Hall	6113	Colleges, Universities, and Professional Schools		
 12036	Community and Government > Education > College and University > College Science Building	6113	Colleges, Universities, and Professional Schools		
-12037	Community and Government > Education > College and University > College Soccer Field	7139	Other Amusement and Recreation Industries		
-12038	Community and Government > Education > College and University > College Stadium	7139	Other Amusement and Recreation Industries		
+12037	Community and Government > Education > College and University > College Soccer Field	713940	Fitness and Recreational Sports Centers	7991	
+12038	Community and Government > Education > College and University > College Stadium	713940	Fitness and Recreational Sports Centers	7991	
 12039	Community and Government > Education > College and University > College Technology Building	6113	Colleges, Universities, and Professional Schools		
-12040	Community and Government > Education > College and University > College Tennis Court	7139	Other Amusement and Recreation Industries		
+12040	Community and Government > Education > College and University > College Tennis Court	713940	Fitness and Recreational Sports Centers	7991	
 12041	Community and Government > Education > College and University > College Theater	71	Arts, Entertainment, and Recreation		
-12042	Community and Government > Education > College and University > College Track	7139	Other Amusement and Recreation Industries		
+12042	Community and Government > Education > College and University > College Track	713940	Fitness and Recreational Sports Centers	7991	
 12043	Community and Government > Education > College and University > Fraternity House	721310	Rooming and Boarding Houses, Dormitories, and Workers' Camps	7021	Rooming and Boarding Houses
 12044	Community and Government > Education > College and University > Law School	6113	Colleges, Universities, and Professional Schools		
 12045	Community and Government > Education > College and University > Medical School	611519	Other Technical and Trade Schools	8243	Data Processing Schools
@@ -288,12 +288,12 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 12049	Community and Government > Education > Computer Training School	611710	Educational Support Services	8299	Schools and Educational Services
 12050	Community and Government > Education > Culinary School	611519	Other Technical and Trade Schools	8243	Data Processing Schools
 12051	Community and Government > Education > Driving School	611692	Automobile Driving Schools	8299	Schools and Educational Services
-12052	Community and Government > Education > Flight School	611710	Educational Support Services	8299	Schools and Educational Services
+12052	Community and Government > Education > Flight School	611512	Flight Training	8249	Schools and Educational Services
 12053	Community and Government > Education > Language School	611630	Language Schools	8299	Schools and Educational Services
 12054	Community and Government > Education > Music School	611610	Fine Arts Schools	7911	Dance Studios, Schools, and Halls
 12055	Community and Government > Education > Nursery School	624410	Child Day Care Services	8351	Child Day Care Services
 12056	Community and Government > Education > Preschool	624410	Child Day Care Services	8351	Child Day Care Services
-12057	Community and Government > Education > Primary and Secondary School	611710	Educational Support Services	8299	Schools and Educational Services
+12057	Community and Government > Education > Primary and Secondary School	611110	Elementary and Secondary Schools	8211	Schools and Educational Services
 12058	Community and Government > Education > Primary and Secondary School > Elementary School	611110	Elementary and Secondary Schools	8211	Elementary and Secondary Schools
 12059	Community and Government > Education > Primary and Secondary School > High School	611110	Elementary and Secondary Schools	8211	Elementary and Secondary Schools
 12060	Community and Government > Education > Primary and Secondary School > Middle School	611110	Elementary and Secondary Schools	8211	Elementary and Secondary Schools
@@ -311,14 +311,14 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 12072	Community and Government > Government Building > Law Enforcement and Public Safety > Police Station	922120	Police Protection	9221	Police Protection
 12073	Community and Government > Government Building > Military	922120	Police Protection	9221	Police Protection
 12074	Community and Government > Government Building > Military > Military Base	928110	National Security	9711	National Security
-12075	Community and Government > Government Building > Post Office	561499	All Other Business Support Services	7389	Business Services, Nec
+12075	Community and Government > Government Building > Post Office	491110	Postal Service	4311	Business Services, Nec
 12076	Community and Government > Government Lobbyist	541820	Public Relations Agencies	8743	Public Relations Services
 12077	Community and Government > Homeless Shelter	624221	Temporary Shelters	8322	Individual and Family Services
-12078	Community and Government > Housing Authority	44	Retail Trade		
+12078	Community and Government > Housing Authority	925110	Administration of Housing Programs	9531	
 12079	Community and Government > Housing Development	925110	Administration of Housing Programs	9531	Housing Programs
 12080	Community and Government > Library	519120	Libraries and Archives	7829	Motion Picture Distribution Services
 12081	Community and Government > Observatory	541715	Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)	8731	Commercial Physical Research
-12082	Community and Government > Organization	54	Professional, Scientific, and Technical Services		
+12082	Community and Government > Organization	8139	Business, Professional, Labor, Political, and Similar Organizations		
 12083	Community and Government > Organization > Charity	813219	Other Grantmaking and Giving Services	8399	Social Services, Nec
 12084	Community and Government > Organization > Club House	813410	Civic and Social Organizations	8641	Civic and Social Associations
 12085	Community and Government > Organization > Environmental Organization	813410	Civic and Social Organizations	8641	Civic and Social Associations
@@ -327,12 +327,12 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 12088	Community and Government > Organization > Veterans' Organization	813410	Civic and Social Organizations	8641	Civic and Social Associations
 12089	Community and Government > Organization > Youth Organization	813410	Civic and Social Organizations	8641	Civic and Social Associations
 12090	Community and Government > Prison	922140	Correctional Institutions	9223	Correctional Institutions
-12091	Community and Government > Public and Social Service	54	Professional, Scientific, and Technical Services		
-12092	Community and Government > Public Bathroom	NULL			
+12091	Community and Government > Public and Social Service	813319	Other Social Advocacy Organizations	8399	
+12092	Community and Government > Public Bathroom	NULL	#N/A		
 12093	Community and Government > Rehabilitation Center	622310	Specialty (except Psychiatric and Substance Abuse) Hospitals	8069	Specialty Hospitals, Except Psychiatric
-12094	Community and Government > Residential Building	925110	Administration of Housing Programs	9531	Housing Programs
+12094	Community and Government > Residential Building	53	Real Estate Rental and Leasing		Housing Programs
 12095	Community and Government > Retirement Home	6233	Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly		
-12096	Community and Government > Senior Citizen Service	44	Retail Trade		
+12096	Community and Government > Senior Citizen Service	6233	Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly		
 12097	Community and Government > Social Club	813410	Civic and Social Organizations	8641	Civic and Social Associations
 12098	Community and Government > Spiritual Center	813110	Religious Organizations	8661	Religious Organizations
 12099	Community and Government > Spiritual Center > Buddhist Temple	813110	Religious Organizations	8661	Religious Organizations
@@ -365,7 +365,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 13009	Dining and Drinking > Bar > Cocktail Bar	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
 13010	Dining and Drinking > Bar > Dive Bar	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
 13011	Dining and Drinking > Bar > Gay Bar	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
-13012	Dining and Drinking > Bar > Hookah Bar	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
+13012	Dining and Drinking > Bar > Hookah Bar	713990	All Other Amusement and Recreation Industries	7911	Drinking Places
 13013	Dining and Drinking > Bar > Hotel Bar	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
 13014	Dining and Drinking > Bar > Ice Bar	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
 13015	Dining and Drinking > Bar > Karaoke Bar	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
@@ -386,7 +386,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 13030	Dining and Drinking > Buffet	722514	Cafeterias, Grill Buffets, and Buffets	5812	Eating Places
 13031	Dining and Drinking > Burger Joint	7225	Restaurants and Other Eating Places	5812	Eating Places
 13032	Dining and Drinking > Cafes, Coffee, and Tea Houses	72	Accommodation and Food Services		
-13033	Dining and Drinking > Cafes, Coffee, and Tea Houses > Bubble Tea Shop	722330	Mobile Food Services	5963	Direct Selling Establishments
+13033	Dining and Drinking > Cafes, Coffee, and Tea Houses > Bubble Tea Shop	722515	Snack and Nonalcoholic Beverage Bars	5461	Direct Selling Establishments
 13034	Dining and Drinking > Cafes, Coffee, and Tea Houses > Café	7225	Restaurants and Other Eating Places	5812	Eating Places
 13035	Dining and Drinking > Cafes, Coffee, and Tea Houses > Coffee Shop	722515	Snack and Nonalcoholic Beverage Bars	5461	Retail Bakeries
 13036	Dining and Drinking > Cafes, Coffee, and Tea Houses > Tea Room	722515	Snack and Nonalcoholic Beverage Bars	5461	Retail Bakeries
@@ -412,13 +412,13 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 13056	Dining and Drinking > Friterie	7225	Restaurants and Other Eating Places	5812	Eating Places
 13057	Dining and Drinking > Gastropub	7225	Restaurants and Other Eating Places	5812	Eating Places
 13058	Dining and Drinking > Hot Dog Joint	7225	Restaurants and Other Eating Places	5812	Eating Places
-13059	Dining and Drinking > Juice Bar	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
+13059	Dining and Drinking > Juice Bar	722515	Snack and Nonalcoholic Beverage Bars	5461	Drinking Places
 13060	Dining and Drinking > Mac and Cheese Joint	7225	Restaurants and Other Eating Places	5812	Eating Places
 13061	Dining and Drinking > Meadery	312130	Wineries	2084	Wines, Brandy, and Brandy Spirits
-13062	Dining and Drinking > Night Market	722410	Drinking Places (Alcoholic Beverages)	5813	Drinking Places
-13063	Dining and Drinking > Pet Café	722515	Snack and Nonalcoholic Beverage Bars	5461	Retail Bakeries
+13062	Dining and Drinking > Night Market	7225	Restaurants and Other Eating Places	5812	Drinking Places
+13063	Dining and Drinking > Pet Café	7225	Restaurants and Other Eating Places	5812	Retail Bakeries
 13064	Dining and Drinking > Pizzeria	7225	Restaurants and Other Eating Places	5812	Eating Places
-13065	Dining and Drinking > Restaurant	72	Accommodation and Food Services		
+13065	Dining and Drinking > Restaurant	7225	Restaurants and Other Eating Places	5812	
 13066	Dining and Drinking > Restaurant > Afghan Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13067	Dining and Drinking > Restaurant > African Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13068	Dining and Drinking > Restaurant > American Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
@@ -458,7 +458,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 13102	Dining and Drinking > Restaurant > Chinese Restaurant > Cantonese Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13103	Dining and Drinking > Restaurant > Chinese Restaurant > Cha Chaan Teng	7225	Restaurants and Other Eating Places	5812	Eating Places
 13104	Dining and Drinking > Restaurant > Chinese Restaurant > Chinese Aristocrat Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
-13105	Dining and Drinking > Restaurant > Chinese Restaurant > Chinese Breakfast Restaurant	722513	Limited-Service Restaurants	5812	Eating Places
+13105	Dining and Drinking > Restaurant > Chinese Restaurant > Chinese Breakfast Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13106	Dining and Drinking > Restaurant > Chinese Restaurant > Dim Sum Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13107	Dining and Drinking > Restaurant > Chinese Restaurant > Dongbei Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13108	Dining and Drinking > Restaurant > Chinese Restaurant > Fujian Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
@@ -534,7 +534,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 13178	Dining and Drinking > Restaurant > Greek Restaurant > Bougatsa Shop	7225	Restaurants and Other Eating Places	5812	Eating Places
 13179	Dining and Drinking > Restaurant > Greek Restaurant > Cretan Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13180	Dining and Drinking > Restaurant > Greek Restaurant > Fish Taverna	7225	Restaurants and Other Eating Places	5812	Eating Places
-13181	Dining and Drinking > Restaurant > Greek Restaurant > Grilled Meat Restaurant	722514	Cafeterias, Grill Buffets, and Buffets	5812	Eating Places
+13181	Dining and Drinking > Restaurant > Greek Restaurant > Grilled Meat Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13182	Dining and Drinking > Restaurant > Greek Restaurant > Kafenio	7225	Restaurants and Other Eating Places	5812	Eating Places
 13183	Dining and Drinking > Restaurant > Greek Restaurant > Magirio	7225	Restaurants and Other Eating Places	5812	Eating Places
 13184	Dining and Drinking > Restaurant > Greek Restaurant > Meze Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
@@ -563,7 +563,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 13207	Dining and Drinking > Restaurant > Indian Restaurant > Goan Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13208	Dining and Drinking > Restaurant > Indian Restaurant > Gujarati Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13209	Dining and Drinking > Restaurant > Indian Restaurant > Hyderabadi Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
-13210	Dining and Drinking > Restaurant > Indian Sweet Shop	445292	Confectionery and Nut Stores	5145	Confectionery
+13210	Dining and Drinking > Restaurant > Indian Sweet Shop	7225	Restaurants and Other Eating Places	5812	Confectionery
 13211	Dining and Drinking > Restaurant > Indian Restaurant > Irani Cafe	722515	Snack and Nonalcoholic Beverage Bars	5461	Retail Bakeries
 13212	Dining and Drinking > Restaurant > Indian Restaurant > Jain Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13213	Dining and Drinking > Restaurant > Indian Restaurant > Karnataka Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
@@ -734,17 +734,17 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 13378	Dining and Drinking > Restaurant > Venezuelan Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13379	Dining and Drinking > Restaurant > Vietnamese Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
 13380	Dining and Drinking > Restaurant > Yemeni Restaurant	7225	Restaurants and Other Eating Places	5812	Eating Places
-13381	Dining and Drinking > Smoothie Shop	445299	All Other Specialty Food Stores	5143	Dairy Products, Except Dried or Canned
+13381	Dining and Drinking > Smoothie Shop	722515	Snack and Nonalcoholic Beverage Bars	5461	Dairy Products, Except Dried or Canned
 13382	Dining and Drinking > Snack Place	722515	Snack and Nonalcoholic Beverage Bars	5461	Retail Bakeries
 13383	Dining and Drinking > Steakhouse	7225	Restaurants and Other Eating Places	5812	Eating Places
 13384	Dining and Drinking > Tabbakhi	7225	Restaurants and Other Eating Places	5812	Eating Places
 13385	Dining and Drinking > Truck Stop	722515	Snack and Nonalcoholic Beverage Bars	5461	Retail Bakeries
-13386	Dining and Drinking > Vineyard	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
+13386	Dining and Drinking > Vineyard	111332	Grape Vineyards	172	Amusement and Recreation, Nec
 13387	Dining and Drinking > Winery	312130	Wineries	2084	Wines, Brandy, and Brandy Spirits
 13388	Dining and Drinking > Wings Joint	722513	Limited-Service Restaurants	5812	Eating Places
 14000	Event	71	Arts, Entertainment, and Recreation		
-14001	Event > Conference	61	Educational Services		
-14002	Event > Convention	561920	Convention and Trade Show Organizers	7389	Business Services, Nec
+14001	Event > Conference	71	Arts, Entertainment, and Recreation		
+14002	Event > Convention	71	Arts, Entertainment, and Recreation		Business Services, Nec
 14003	Event > Entertainment Event	71	Arts, Entertainment, and Recreation		
 14004	Event > Entertainment Event > Festival	71	Arts, Entertainment, and Recreation		
 14005	Event > Entertainment Event > Music Festival	71	Arts, Entertainment, and Recreation		
@@ -752,11 +752,11 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 14007	Event > Entertainment Event > Sporting Event	71	Arts, Entertainment, and Recreation		
 14008	Event > Line / Queue	71	Arts, Entertainment, and Recreation		
 14009	Event > Marketplace	71	Arts, Entertainment, and Recreation		
-14010	Event > Marketplace > Christmas Market	44	Retail Trade		
-14011	Event > Marketplace > Stoop Sale	5619	Other Support Services		
-14012	Event > Marketplace > Street Fair	5619	Other Support Services		
-14013	Event > Marketplace > Street Food Gathering	722330	Mobile Food Services	5963	Direct Selling Establishments
-14014	Event > Marketplace > Trade Fair	5619	Other Support Services		
+14010	Event > Marketplace > Christmas Market	71	Arts, Entertainment, and Recreation		
+14011	Event > Marketplace > Stoop Sale	71	Arts, Entertainment, and Recreation		
+14012	Event > Marketplace > Street Fair	71	Arts, Entertainment, and Recreation		
+14013	Event > Marketplace > Street Food Gathering	71	Arts, Entertainment, and Recreation		Direct Selling Establishments
+14014	Event > Marketplace > Trade Fair	71	Arts, Entertainment, and Recreation		
 14015	Event > Other Event	71	Arts, Entertainment, and Recreation		
 15000	Health and Medicine	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
 15001	Health and Medicine > Acupuncture Clinic	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
@@ -767,73 +767,73 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 15006	Health and Medicine > Chiropractor	621310	Offices of Chiropractors	8041	Offices and Clinics of Chiropractors
 15007	Health and Medicine > Dentist	621210	Offices of Dentists	8021	Offices and Clinics of Dentists
 15008	Health and Medicine > Emergency Service	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
-15009	Health and Medicine > Emergency Service > Ambulance Service	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15009	Health and Medicine > Emergency Service > Ambulance Service	621910	Ambulance Services	4119	Offices and Clinics of Medical Doctors
 15010	Health and Medicine > Emergency Service > Emergency Room	624230	Emergency and Other Relief Services	8322	Individual and Family Services
 15011	Health and Medicine > Healthcare Clinic	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
-15012	Health and Medicine > Home Health Care Service	54	Professional, Scientific, and Technical Services		
+15012	Health and Medicine > Home Health Care Service	621610	Home Health Care Services	8082	
 15013	Health and Medicine > Hospice	623110	Nursing Care Facilities (Skilled Nursing Facilities)	8051	Skilled Nursing Care Facilities
 15014	Health and Medicine > Hospital	622110	General Medical and Surgical Hospitals	8062	General Medical and Surgical Hospitals
-15015	Health and Medicine > Maternity Clinic	622310	Specialty (except Psychiatric and Substance Abuse) Hospitals	8069	Specialty Hospitals, Except Psychiatric
+15015	Health and Medicine > Maternity Clinic	621111	Offices of Physicians (except Mental Health Specialists)	8011	Specialty Hospitals, Except Psychiatric
 15016	Health and Medicine > Medical Center	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
 15017	Health and Medicine > Medical Lab	621511	Medical Laboratories	8071	Medical Laboratories
-15018	Health and Medicine > Mental Health Service	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15018	Health and Medicine > Mental Health Service	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
 15019	Health and Medicine > Mental Health Service > Mental Health Clinic	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15020	Health and Medicine > Mental Health Service > Psychologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15020	Health and Medicine > Mental Health Service > Psychologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
 15021	Health and Medicine > Nurse	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
-15022	Health and Medicine > Nursing Home	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15022	Health and Medicine > Nursing Home	623110	Nursing Care Facilities (Skilled Nursing Facilities)	8051	Offices and Clinics of Medical Doctors
 15023	Health and Medicine > Nutritionist	621399	Offices of All Other Miscellaneous Health Practitioners	8049	Offices of Health Practitioner
-15024	Health and Medicine > Optometrist	622310	Specialty (except Psychiatric and Substance Abuse) Hospitals	8069	Specialty Hospitals, Except Psychiatric
-15025	Health and Medicine > Other Healthcare Professional	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
+15024	Health and Medicine > Optometrist	621320	Offices of Optometrists	8042	Specialty Hospitals, Except Psychiatric
+15025	Health and Medicine > Other Healthcare Professional	621399	Offices of All Other Miscellaneous Health Practitioners	8049	Offices and Clinics of Medical Doctors
 15026	Health and Medicine > Physical Therapy Clinic	621340	Offices of Physical, Occupational and Speech Therapists, and Audiologists	8049	Offices of Health Practitioner
-15027	Health and Medicine > Physician	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15028	Health and Medicine > Physician > Anesthesiologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15029	Health and Medicine > Physician > Cardiologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15030	Health and Medicine > Physician > Dermatologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15031	Health and Medicine > Physician > Doctor's Office	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15032	Health and Medicine > Physician > Ear, Nose and Throat Doctor	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15033	Health and Medicine > Physician > Family Medicine Doctor	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15034	Health and Medicine > Physician > Gastroenterologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15035	Health and Medicine > Physician > General Surgeon	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15036	Health and Medicine > Physician > Geriatric Doctor	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15037	Health and Medicine > Physician > Internal Medicine Doctor	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15038	Health and Medicine > Physician > Neurologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15039	Health and Medicine > Physician > Obstetrician Gynecologist (Ob-gyn)	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15040	Health and Medicine > Physician > Oncologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15041	Health and Medicine > Physician > Ophthalmologist	622310	Specialty (except Psychiatric and Substance Abuse) Hospitals	8069	Specialty Hospitals, Except Psychiatric
-15042	Health and Medicine > Physician > Oral Surgeon	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15043	Health and Medicine > Physician > Orthopedic Surgeon	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15044	Health and Medicine > Physician > Pathologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15045	Health and Medicine > Physician > Pediatrician	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15046	Health and Medicine > Physician > Plastic Surgeon	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15047	Health and Medicine > Physician > Psychiatrist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15048	Health and Medicine > Physician > Radiologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15049	Health and Medicine > Physician > Respiratory Doctor	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15050	Health and Medicine > Physician > Urologist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15051	Health and Medicine > Podiatrist	621112	Offices of Physicians, Mental Health Specialists	8011	Offices and Clinics of Medical Doctors
-15052	Health and Medicine > Sports Medicine Clinic	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
-15053	Health and Medicine > Urgent Care Center	621493	Freestanding Ambulatory Surgical and Emergency Centers	8011	Offices and Clinics of Medical Doctors
+15027	Health and Medicine > Physician	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15028	Health and Medicine > Physician > Anesthesiologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15029	Health and Medicine > Physician > Cardiologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15030	Health and Medicine > Physician > Dermatologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15031	Health and Medicine > Physician > Doctor's Office	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15032	Health and Medicine > Physician > Ear, Nose and Throat Doctor	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15033	Health and Medicine > Physician > Family Medicine Doctor	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15034	Health and Medicine > Physician > Gastroenterologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15035	Health and Medicine > Physician > General Surgeon	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15036	Health and Medicine > Physician > Geriatric Doctor	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15037	Health and Medicine > Physician > Internal Medicine Doctor	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15038	Health and Medicine > Physician > Neurologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15039	Health and Medicine > Physician > Obstetrician Gynecologist (Ob-gyn)	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15040	Health and Medicine > Physician > Oncologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15041	Health and Medicine > Physician > Ophthalmologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Specialty Hospitals, Except Psychiatric
+15042	Health and Medicine > Physician > Oral Surgeon	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15043	Health and Medicine > Physician > Orthopedic Surgeon	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15044	Health and Medicine > Physician > Pathologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15045	Health and Medicine > Physician > Pediatrician	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15046	Health and Medicine > Physician > Plastic Surgeon	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15047	Health and Medicine > Physician > Psychiatrist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15048	Health and Medicine > Physician > Radiologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15049	Health and Medicine > Physician > Respiratory Doctor	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15050	Health and Medicine > Physician > Urologist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15051	Health and Medicine > Podiatrist	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
+15052	Health and Medicine > Sports Medicine Clinic	621340	Offices of Physical, Occupational and Speech Therapists, and Audiologists	8049	Offices and Clinics of Medical Doctors
+15053	Health and Medicine > Urgent Care Center	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
 15054	Health and Medicine > Veterinarian	541940	Veterinary Services	741	Veterinary Services For Livestock
-15055	Health and Medicine > Weight Loss Center	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
+15055	Health and Medicine > Weight Loss Center	812191	Diet and Weight Reducing Centers	7299	Physical Fitness Facilities
 15056	Health and Medicine > Women's Health Clinic	621111	Offices of Physicians (except Mental Health Specialists)	8011	Offices and Clinics of Medical Doctors
-16000	Landmarks and Outdoors	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
+16000	Landmarks and Outdoors	713990	All Other Amusement and Recreation Industries	7911	Physical Fitness Facilities
 16001	Landmarks and Outdoors > Bathing Area	713990	All Other Amusement and Recreation Industries	7911	Dance Studios, Schools, and Halls
 16002	Landmarks and Outdoors > Bay	713990	All Other Amusement and Recreation Industries	7911	Dance Studios, Schools, and Halls
 16003	Landmarks and Outdoors > Beach	713990	All Other Amusement and Recreation Industries	7911	Dance Studios, Schools, and Halls
 16004	Landmarks and Outdoors > Bike Trail	713990	All Other Amusement and Recreation Industries	7911	Dance Studios, Schools, and Halls
 16005	Landmarks and Outdoors > Botanical Garden	712130	Zoos and Botanical Gardens	8422	Botanical and Zoological Gardens
-16006	Landmarks and Outdoors > Bridge	48	Transportation		
+16006	Landmarks and Outdoors > Bridge	4851	Urban Transit Systems		
 16007	Landmarks and Outdoors > Building / Structure	53	Real Estate Rental and Leasing		
 16008	Landmarks and Outdoors > Campground	721211	RV (Recreational Vehicle) Parks and Campgrounds	7033	Trailer Parks and Campsites
-16009	Landmarks and Outdoors > Canal	48	Transportation		
-16010	Landmarks and Outdoors > Canal Lock	48	Transportation		
+16009	Landmarks and Outdoors > Canal	4832	Inland Water Transportation		
+16010	Landmarks and Outdoors > Canal Lock	4832	Inland Water Transportation		
 16011	Landmarks and Outdoors > Castle	53	Real Estate Rental and Leasing		
 16012	Landmarks and Outdoors > Cave	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
-16013	Landmarks and Outdoors > Dive Spot	71	Arts, Entertainment, and Recreation		
-16014	Landmarks and Outdoors > Farm	111199	All Other Grain Farming	119	Cash Grains, Nec
-16015	Landmarks and Outdoors > Forest	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
+16013	Landmarks and Outdoors > Dive Spot	7139	Other Amusement and Recreation Industries		
+16014	Landmarks and Outdoors > Farm	111	Crop Production		Cash Grains, Nec
+16015	Landmarks and Outdoors > Forest	113	Forestry and Logging		Amusement and Recreation, Nec
 16016	Landmarks and Outdoors > Fountain	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
-16017	Landmarks and Outdoors > Garden	11	Agriculture, Forestry, Fishing and Hunting		
-16018	Landmarks and Outdoors > Harbor / Marina	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
+16017	Landmarks and Outdoors > Garden	712190	Nature Parks and Other Similar Institutions	7999	
+16018	Landmarks and Outdoors > Harbor / Marina	713930	Marinas	4493	Amusement and Recreation, Nec
 16019	Landmarks and Outdoors > Hiking Trail	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16020	Landmarks and Outdoors > Historic and Protected Site	712120	Historical Sites	8412	Museums and Art Galleries
 16021	Landmarks and Outdoors > Hot Spring	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
@@ -841,70 +841,70 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 16023	Landmarks and Outdoors > Lake	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16024	Landmarks and Outdoors > Lighthouse	488310	Port and Harbor Operations	4491	Marine Cargo Handling
 16025	Landmarks and Outdoors > Memorial Site	712120	Historical Sites	8412	Museums and Art Galleries
-16026	Landmarks and Outdoors > Monument	236220	Commercial and Institutional Building Construction	1522	Residential Construction, Nec
+16026	Landmarks and Outdoors > Monument	712120	Historical Sites	8412	Residential Construction, Nec
 16027	Landmarks and Outdoors > Mountain	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16028	Landmarks and Outdoors > Nature Preserve	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16029	Landmarks and Outdoors > Nudist Beach	713990	All Other Amusement and Recreation Industries	7911	Dance Studios, Schools, and Halls
 16030	Landmarks and Outdoors > Other Great Outdoors	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16031	Landmarks and Outdoors > Palace	53	Real Estate Rental and Leasing		
 16032	Landmarks and Outdoors > Park	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
-16033	Landmarks and Outdoors > Park > Dog Park	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
+16033	Landmarks and Outdoors > Park > Dog Park	712190	Nature Parks and Other Similar Institutions	7999	Physical Fitness Facilities
 16034	Landmarks and Outdoors > Park > National Park	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16035	Landmarks and Outdoors > Park > Natural Park	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16036	Landmarks and Outdoors > Park > Picnic Area	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
-16037	Landmarks and Outdoors > Park > Playground	71	Arts, Entertainment, and Recreation		
+16037	Landmarks and Outdoors > Park > Playground	7139	Other Amusement and Recreation Industries		
 16038	Landmarks and Outdoors > Park > State / Provincial Park	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16039	Landmarks and Outdoors > Park > Urban Park	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
-16040	Landmarks and Outdoors > Pedestrian Plaza	44	Retail Trade		
-16041	Landmarks and Outdoors > Plaza	44	Retail Trade		
-16042	Landmarks and Outdoors > Reservoir	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
+16040	Landmarks and Outdoors > Pedestrian Plaza	712190	Nature Parks and Other Similar Institutions	7999	
+16041	Landmarks and Outdoors > Plaza	712190	Nature Parks and Other Similar Institutions	7999	
+16042	Landmarks and Outdoors > Reservoir	221310	Water Supply and Irrigation Systems	4941	Amusement and Recreation, Nec
 16043	Landmarks and Outdoors > River	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
-16044	Landmarks and Outdoors > Rock Climbing Spot	71	Arts, Entertainment, and Recreation		
-16045	Landmarks and Outdoors > Roof Deck	71	Arts, Entertainment, and Recreation		
+16044	Landmarks and Outdoors > Rock Climbing Spot	713940	Fitness and Recreational Sports Centers	7991	
+16045	Landmarks and Outdoors > Roof Deck	712190	Nature Parks and Other Similar Institutions	7999	
 16046	Landmarks and Outdoors > Scenic Lookout	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16047	Landmarks and Outdoors > Sculpture Garden	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
-16048	Landmarks and Outdoors > Stable	53	Real Estate Rental and Leasing		
-16049	Landmarks and Outdoors > Surf Spot	713990	All Other Amusement and Recreation Industries	7911	Dance Studios, Schools, and Halls
-16050	Landmarks and Outdoors > Tunnel	488490	Other Support Activities for Road Transportation	4173	Bus Terminal and Service Facilities
+16048	Landmarks and Outdoors > Stable	713990	All Other Amusement and Recreation Industries	7911	
+16049	Landmarks and Outdoors > Surf Spot	713940	Fitness and Recreational Sports Centers	7991	Dance Studios, Schools, and Halls
+16050	Landmarks and Outdoors > Tunnel	4851	Urban Transit Systems		Bus Terminal and Service Facilities
 16051	Landmarks and Outdoors > Volcano	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16052	Landmarks and Outdoors > Waterfall	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16053	Landmarks and Outdoors > Waterfront	712190	Nature Parks and Other Similar Institutions	7999	Amusement and Recreation, Nec
 16054	Landmarks and Outdoors > Windmill	11	Agriculture, Forestry, Fishing and Hunting		
 17000	Retail	44	Retail Trade		
-17001	Retail > Adult Store	44	Retail Trade		
+17001	Retail > Adult Store	451120	Hobby, Toy, and Game Stores	5092	
 17002	Retail > Antique Store	453310	Used Merchandise Stores	5932	Used Merchandise Stores
-17003	Retail > Arts and Crafts Store	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)	5085	Industrial Supplies
-17004	Retail > Auction House	44	Retail Trade		
-17005	Retail > Automotive Retail	332710	Machine Shops	3599	Industrial Machinery, Nec
-17006	Retail > Automotive Retail > Car Dealership	441110	New Car Dealers	5511	New and Used Car Dealers
-17007	Retail > Automotive Retail > Car Dealership > Classic and Antique Car Dealership	441110	New Car Dealers	5511	New and Used Car Dealers
+17003	Retail > Arts and Crafts Store	451120	Hobby, Toy, and Game Stores	5092	Industrial Supplies
+17004	Retail > Auction House	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)	5085	
+17005	Retail > Automotive Retail	4411	Automobile Dealers		Industrial Machinery, Nec
+17006	Retail > Automotive Retail > Car Dealership	4411	Automobile Dealers		New and Used Car Dealers
+17007	Retail > Automotive Retail > Car Dealership > Classic and Antique Car Dealership	441120	Used Car Dealers	5521	New and Used Car Dealers
 17008	Retail > Automotive Retail > Car Dealership > New Car Dealership	441110	New Car Dealers	5511	New and Used Car Dealers
-17009	Retail > Automotive Retail > Car Dealership > RV and Motorhome Dealership	441110	New Car Dealers	5511	New and Used Car Dealers
-17010	Retail > Automotive Retail > Car Dealership > Used Car Dealership	441110	New Car Dealers	5511	New and Used Car Dealers
-17011	Retail > Automotive Retail > Car Parts and Accessories	441310	Automotive Parts and Accessories Stores	5013	Motor Vehicle Supplies and New Parts
+17009	Retail > Automotive Retail > Car Dealership > RV and Motorhome Dealership	441210	Recreational Vehicle Dealers	5561	New and Used Car Dealers
+17010	Retail > Automotive Retail > Car Dealership > Used Car Dealership	441120	Used Car Dealers	5521	New and Used Car Dealers
+17011	Retail > Automotive Retail > Car Parts and Accessories	4413	Automotive Parts, Accessories, and Tire Stores		Motor Vehicle Supplies and New Parts
 17012	Retail > Automotive Retail > Motorcycle Dealership	441228	Motorcycle, ATV, and All Other Motor Vehicle Dealers	5571	Motorcycle Dealers
 17013	Retail > Automotive Retail > Motorsports Store	441228	Motorcycle, ATV, and All Other Motor Vehicle Dealers	5571	Motorcycle Dealers
 17014	Retail > Baby Store	448130	Children's and Infants' Clothing Stores	5137	Women's and Children's Clothing
 17015	Retail > Betting Shop	713290	Other Gambling Industries	7993	Coin-operated Amusement Devices
-17016	Retail > Big Box Store	44	Retail Trade		
-17017	Retail > Board Store	44	Retail Trade		
+17016	Retail > Big Box Store	452319	All Other General Merchandise Stores	5331	
+17017	Retail > Board Store	452319	All Other General Merchandise Stores	5331	
 17018	Retail > Bookstore	451211	Book Stores	5192	Books, Periodicals, and Newspapers
 17019	Retail > Bookstore > Used Bookstore	453310	Used Merchandise Stores	5932	Used Merchandise Stores
-17020	Retail > Boutique	44	Retail Trade		
+17020	Retail > Boutique	448120	Women's Clothing Stores	5137	
 17021	Retail > Cannabis Store	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)	5085	Industrial Supplies
 17022	Retail > Comic Book Store	451212	News Dealers and Newsstands	5994	News Dealers and Newsstands
 17023	Retail > Computers and Electronics Retail	443142	Electronics Stores	5045	Computers, Peripherals, and Software
 17024	Retail > Computers and Electronics Retail > Camera Store	443142	Electronics Stores	5045	Computers, Peripherals, and Software
 17025	Retail > Computers and Electronics Retail > Electronics Store	443142	Electronics Stores	5045	Computers, Peripherals, and Software
 17026	Retail > Computers and Electronics Retail > Mobile Phone Store	517312	Wireless Telecommunications Carriers (except Satellite)	4812	Radiotelephone Communication
-17027	Retail > Computers and Electronics Retail > Video Games Store	443141	Household Appliance Stores	5064	Electrical Appliances, Television and Radio
-17028	Retail > Construction Supplies Store	561730	Landscaping Services	782	Lawn and Garden Services
+17027	Retail > Computers and Electronics Retail > Video Games Store	451120	Hobby, Toy, and Game Stores	5092	Electrical Appliances, Television and Radio
+17028	Retail > Construction Supplies Store	444130	Hardware Stores	5072	Lawn and Garden Services
 17029	Retail > Convenience Store	445120	Convenience Stores	5411	Grocery Stores
 17030	Retail > Cosmetics Store	446120	Cosmetics, Beauty Supplies, and Perfume Stores	5087	Service Establishment Equipment
 17031	Retail > Costume Store	448190	Other Clothing Stores	5136	Men's and Boy's Clothing
-17032	Retail > Dance Store	44	Retail Trade		
+17032	Retail > Dance Store	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)	5085	
 17033	Retail > Department Store	452210	Department Stores	5311	Department Stores
-17034	Retail > Discount Store	44	Retail Trade		
+17034	Retail > Discount Store	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)	5085	
 17035	Retail > Drugstore	446110	Pharmacies and Drug Stores	5122	Drugs, Proprietaries, and Sundries
 17036	Retail > Duty-free Store	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)	5085	Industrial Supplies
 17037	Retail > Eyecare Store	446130	Optical Goods Stores	5995	Optical Goods Stores
@@ -913,21 +913,21 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 17040	Retail > Fashion Retail > Batik Store	4481	Clothing Stores		
 17041	Retail > Fashion Retail > Bridal Store	448190	Other Clothing Stores	5136	Men's and Boy's Clothing
 17042	Retail > Fashion Retail > Children's Clothing Store	448130	Children's and Infants' Clothing Stores	5137	Women's and Children's Clothing
-17043	Retail > Fashion Retail > Clothing Store	448140	Family Clothing Stores	5651	Family Clothing Stores
+17043	Retail > Fashion Retail > Clothing Store	4481	Clothing Stores		Family Clothing Stores
 17044	Retail > Fashion Retail > Fashion Accessories Store	448150	Clothing Accessories Stores	5611	Men's and Boys' Clothing Stores
 17045	Retail > Fashion Retail > Jewelry Store	448310	Jewelry Stores	5094	Jewelry and Precious Stones
 17046	Retail > Fashion Retail > Lingerie Store	448190	Other Clothing Stores	5136	Men's and Boy's Clothing
 17047	Retail > Fashion Retail > Men's Store	448110	Men's Clothing Stores	5136	Men's and Boy's Clothing
 17048	Retail > Fashion Retail > Shoe Store	448210	Shoe Stores	5139	Footwear
 17049	Retail > Fashion Retail > Sunglasses Store	448150	Clothing Accessories Stores	5611	Men's and Boys' Clothing Stores
-17050	Retail > Fashion Retail > Swimwear Store	448140	Family Clothing Stores	5651	Family Clothing Stores
+17050	Retail > Fashion Retail > Swimwear Store	424330	Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers	5137	Family Clothing Stores
 17051	Retail > Fashion Retail > Watch Store	448310	Jewelry Stores	5094	Jewelry and Precious Stones
 17052	Retail > Fashion Retail > Women's Store	448120	Women's Clothing Stores	5137	Women's and Children's Clothing
 17053	Retail > Fireworks Store	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)	5085	Industrial Supplies
 17054	Retail > Flea Market	454390	Other Direct Selling Establishments	5142	Packaged Frozen Goods
 17055	Retail > Floating Market	454390	Other Direct Selling Establishments	5142	Packaged Frozen Goods
 17056	Retail > Flower Store	453110	Florists	5992	Florists
-17057	Retail > Food and Beverage Retail	445299	All Other Specialty Food Stores	5143	Dairy Products, Except Dried or Canned
+17057	Retail > Food and Beverage Retail	4452	Specialty Food Stores		Dairy Products, Except Dried or Canned
 17058	Retail > Food and Beverage Retail > Beer Store	445310	Beer, Wine, and Liquor Stores	5181	Beer and Ale
 17059	Retail > Food and Beverage Retail > Butcher	445210	Meat Markets	5144	Poultry and Poultry Products
 17060	Retail > Food and Beverage Retail > Candy Store	445292	Confectionery and Nut Stores	5145	Confectionery
@@ -942,7 +942,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 17069	Retail > Food and Beverage Retail > Grocery Store / Supermarket	445110	Supermarkets and Other Grocery (except Convenience) Stores	5141	Groceries, General Line
 17070	Retail > Food and Beverage Retail > Grocery Store / Supermarket > Organic Grocery	445110	Supermarkets and Other Grocery (except Convenience) Stores	5141	Groceries, General Line
 17071	Retail > Food and Beverage Retail > Health Food Store	446191	Food (Health) Supplement Stores	5122	Drugs, Proprietaries, and Sundries
-17072	Retail > Food and Beverage Retail > Herbs and Spices Store	446191	Food (Health) Supplement Stores	5122	Drugs, Proprietaries, and Sundries
+17072	Retail > Food and Beverage Retail > Herbs and Spices Store	445299	All Other Specialty Food Stores	5143	Drugs, Proprietaries, and Sundries
 17073	Retail > Food and Beverage Retail > Imported Food Store	445299	All Other Specialty Food Stores	5143	Dairy Products, Except Dried or Canned
 17074	Retail > Food and Beverage Retail > Kosher Store	445299	All Other Specialty Food Stores	5143	Dairy Products, Except Dried or Canned
 17075	Retail > Food and Beverage Retail > Kuruyemişçi Shop	445299	All Other Specialty Food Stores	5143	Dairy Products, Except Dried or Canned
@@ -955,7 +955,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 17082	Retail > Furniture and Home Store	442110	Furniture Stores	5021	Furniture
 17083	Retail > Furniture and Home Store > Carpet Store	442210	Floor Covering Stores	5023	Homefurnishings
 17084	Retail > Furniture and Home Store > Home Appliance Store	442110	Furniture Stores	5021	Furniture
-17085	Retail > Furniture and Home Store > Housewares Store	442110	Furniture Stores	5021	Furniture
+17085	Retail > Furniture and Home Store > Housewares Store	442299	All Other Home Furnishings Stores	5719	Furniture
 17086	Retail > Furniture and Home Store > Kitchen Supply Store	442299	All Other Home Furnishings Stores	5719	Miscellaneous Homefurnishings
 17087	Retail > Furniture and Home Store > Lighting Store	444190	Other Building Material Dealers	5032	Brick, Stone, and Related Material
 17088	Retail > Furniture and Home Store > Mattress Store	442110	Furniture Stores	5021	Furniture
@@ -1009,7 +1009,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 17136	Retail > Vaporizer Store	453991	Tobacco Stores	5194	Tobacco and Tobacco Products
 17137	Retail > Video Store	443142	Electronics Stores	5045	Computers, Peripherals, and Software
 17138	Retail > Vintage and Thrift Store	453310	Used Merchandise Stores	5932	Used Merchandise Stores
-17139	Retail > Warehouse / Wholesale Store	493110	General Warehousing and Storage	4225	General Warehousing and Storage
+17139	Retail > Warehouse / Wholesale Store	452311	Warehouse Clubs and Supercenters	5311	General Warehousing and Storage
 18000	Sports and Recreation	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
 18001	Sports and Recreation > Athletic Field	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
 18002	Sports and Recreation > Baseball	713940	Fitness and Recreational Sports Centers	7991	Physical Fitness Facilities
@@ -1095,12 +1095,12 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 19005	Travel and Transportation > Cruise	487210	Scenic and Sightseeing Transportation, Water	4489	Water Passenger Transportation
 19006	Travel and Transportation > Electric Vehicle Charging Station	48	Transportation		
 19007	Travel and Transportation > Fuel Station	447190	Other Gasoline Stations	5541	Gasoline Service Stations
-19008	Travel and Transportation > Hot Air Balloon Tour Agency	7211	Traveler Accommodation		
-19009	Travel and Transportation > Lodging	48	Transportation		
-19010	Travel and Transportation > Lodging > Bed and Breakfast	721110	Hotels (except Casino Hotels) and Motels	7011	Hotels and Motels
-19011	Travel and Transportation > Lodging > Boarding House	721110	Hotels (except Casino Hotels) and Motels	7011	Hotels and Motels
-19012	Travel and Transportation > Lodging > Cottage / Cabin	48	Transportation		
-19013	Travel and Transportation > Lodging > Hostel	721110	Hotels (except Casino Hotels) and Motels	7011	Hotels and Motels
+19008	Travel and Transportation > Hot Air Balloon Tour Agency	561510	Travel Agencies	4724	
+19009	Travel and Transportation > Lodging	7211	Traveler Accommodation		
+19010	Travel and Transportation > Lodging > Bed and Breakfast	721191	Bed-and-Breakfast Inns	7011	Hotels and Motels
+19011	Travel and Transportation > Lodging > Boarding House	721199	All Other Traveler Accommodation	7011	Hotels and Motels
+19012	Travel and Transportation > Lodging > Cottage / Cabin	721199	All Other Traveler Accommodation	7011	
+19013	Travel and Transportation > Lodging > Hostel	721199	All Other Traveler Accommodation	7011	Hotels and Motels
 19014	Travel and Transportation > Lodging > Hotel	721110	Hotels (except Casino Hotels) and Motels	7011	Hotels and Motels
 19015	Travel and Transportation > Lodging > Inn	721110	Hotels (except Casino Hotels) and Motels	7011	Hotels and Motels
 19016	Travel and Transportation > Lodging > Lodge	721110	Hotels (except Casino Hotels) and Motels	7011	Hotels and Motels
@@ -1117,7 +1117,7 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 19027	Travel and Transportation > Toll Plaza	488490	Other Support Activities for Road Transportation	4173	Bus Terminal and Service Facilities
 19028	Travel and Transportation > Tourist Information and Service	561591	Convention and Visitors Bureaus	7389	Business Services, Nec
 19029	Travel and Transportation > Tourist Information and Service > Tour Provider	561520	Tour Operators	4725	Tour Operators
-19030	Travel and Transportation > Transport Hub	48	Transportation		
+19030	Travel and Transportation > Transport Hub	485119	Other Urban Transit Systems	4111	
 19031	Travel and Transportation > Transport Hub > Airport	488119	Other Airport Operations	4581	Airports, Flying Fields, and Services
 19032	Travel and Transportation > Transport Hub > Airport > Airfield	488119	Other Airport Operations	4581	Airports, Flying Fields, and Services
 19033	Travel and Transportation > Transport Hub > Airport > Airport Food Court	488119	Other Airport Operations	4581	Airports, Flying Fields, and Services
@@ -1134,13 +1134,13 @@ foursquare_category_id	foursquare_category_label	naics_code	naics_label	sic_code
 19044	Travel and Transportation > Transport Hub > Heliport	488119	Other Airport Operations	4581	Airports, Flying Fields, and Services
 19045	Travel and Transportation > Transport Hub > Marine Terminal	488310	Port and Harbor Operations	4491	Marine Cargo Handling
 19046	Travel and Transportation > Transport Hub > Metro Station	485111	Mixed Mode Transit Systems	4111	Local and Suburban Transit
-19047	Travel and Transportation > Transport Hub > Rail Station	485111	Mixed Mode Transit Systems	4111	Local and Suburban Transit
+19047	Travel and Transportation > Transport Hub > Rail Station	485112	Commuter Rail Systems	4111	Local and Suburban Transit
 19048	Travel and Transportation > Transport Hub > Rental Car Location	532111	Passenger Car Rental	7514	Passenger Car Rental
 19049	Travel and Transportation > Transport Hub > Taxi Stand	485310	Taxi Service	4121	Taxicabs
 19050	Travel and Transportation > Transport Hub > Tram Station	485111	Mixed Mode Transit Systems	4111	Local and Suburban Transit
-19051	Travel and Transportation > Transportation Service	561599	All Other Travel Arrangement and Reservation Services	4729	Passenger Transportation Arrangement
-19052	Travel and Transportation > Transportation Service > Charter Bus	561599	All Other Travel Arrangement and Reservation Services	4729	Passenger Transportation Arrangement
-19053	Travel and Transportation > Transportation Service > Limo / Chauffeur	561599	All Other Travel Arrangement and Reservation Services	4729	Passenger Transportation Arrangement
-19054	Travel and Transportation > Transportation Service > Public Transportation	561599	All Other Travel Arrangement and Reservation Services	4729	Passenger Transportation Arrangement
+19051	Travel and Transportation > Transportation Service	48	Transportation		Passenger Transportation Arrangement
+19052	Travel and Transportation > Transportation Service > Charter Bus	485510	Charter Bus Industry	4141	Passenger Transportation Arrangement
+19053	Travel and Transportation > Transportation Service > Limo / Chauffeur	485320	Limousine Service	4119	Passenger Transportation Arrangement
+19054	Travel and Transportation > Transportation Service > Public Transportation	48	Transportation		Passenger Transportation Arrangement
 19055	Travel and Transportation > Travel Agency	561510	Travel Agencies	4724	Travel Agencies
 19056	Travel and Transportation > Travel Lounge	561599	All Other Travel Arrangement and Reservation Services	4729	Passenger Transportation Arrangement
