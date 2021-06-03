@@ -1258,26 +1258,28 @@
     "full_label": [
       "Business and Professional Services",
       "Financial Service",
+      "Banking and Finance",
       "ATM"
     ],
     "labels": {
       "en": "ATM"
     },
     "parents": [
-      "11042"
+      "11046"
     ]
   },
   "11045": {
     "full_label": [
       "Business and Professional Services",
       "Financial Service",
+      "Banking and Finance",
       "Bank"
     ],
     "labels": {
       "en": "Bank"
     },
     "parents": [
-      "11042"
+      "11046"
     ]
   },
   "11046": {
@@ -1349,13 +1351,14 @@
     "full_label": [
       "Business and Professional Services",
       "Financial Service",
+      "Banking and Finance",
       "Credit Union"
     ],
     "labels": {
       "en": "Credit Union"
     },
     "parents": [
-      "11042"
+      "11046"
     ]
   },
   "11052": {
@@ -2079,13 +2082,14 @@
   "11108": {
     "full_label": [
       "Business and Professional Services",
+      "Technology Business",
       "IT Service"
     ],
     "labels": {
       "en": "IT Service"
     },
     "parents": [
-      "11000"
+      "11167"
     ]
   },
   "11109": {
@@ -3613,13 +3617,14 @@
     "full_label": [
       "Community and Government",
       "Education",
+      "College and University",
       "Community College"
     ],
     "labels": {
       "en": "Community College"
     },
     "parents": [
-      "12009"
+      "12013"
     ]
   },
   "12049": {
@@ -4833,25 +4838,27 @@
   "13026": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "BBQ Joint"
     ],
     "labels": {
       "en": "BBQ Joint"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13027": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Bistro"
     ],
     "labels": {
       "en": "Bistro"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13028": {
@@ -4881,25 +4888,27 @@
   "13030": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Buffet"
     ],
     "labels": {
       "en": "Buffet"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13031": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Burger Joint"
     ],
     "labels": {
       "en": "Burger Joint"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13032": {
@@ -4996,13 +5005,14 @@
   "13039": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Deli"
     ],
     "labels": {
       "en": "Deli"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13040": {
@@ -5124,13 +5134,14 @@
   "13049": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Diner"
     ],
     "labels": {
       "en": "Diner"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13050": {
@@ -5148,13 +5159,14 @@
   "13051": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Fish and Chips Shop"
     ],
     "labels": {
       "en": "Fish and Chips Shop"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13052": {
@@ -5196,25 +5208,27 @@
   "13055": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Fried Chicken Joint"
     ],
     "labels": {
       "en": "Fried Chicken Joint"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13056": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Friterie"
     ],
     "labels": {
       "en": "Friterie"
     },
     "parents": [
-      "13000"
+      "13065"
     ],
     "countries_supported": [
       "be",
@@ -5225,25 +5239,27 @@
   "13057": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Gastropub"
     ],
     "labels": {
       "en": "Gastropub"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13058": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Hot Dog Joint"
     ],
     "labels": {
       "en": "Hot Dog Joint"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13059": {
@@ -5261,13 +5277,14 @@
   "13060": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Mac and Cheese Joint"
     ],
     "labels": {
       "en": "Mac and Cheese Joint"
     },
     "parents": [
-      "13000"
+      "13065"
     ],
     "countries_supported": [
       "us",
@@ -5304,25 +5321,27 @@
   "13063": {
     "full_label": [
       "Dining and Drinking",
+      "Cafes, Coffee, and Tea Houses",
       "Pet Café"
     ],
     "labels": {
       "en": "Pet Café"
     },
     "parents": [
-      "13000"
+      "13032"
     ]
   },
   "13064": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Pizzeria"
     ],
     "labels": {
       "en": "Pizzeria"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13065": {
@@ -7784,13 +7803,14 @@
     "full_label": [
       "Dining and Drinking",
       "Restaurant",
+      "Indian Restaurant",
       "Indian Sweet Shop"
     ],
     "labels": {
       "en": "Indian Sweet Shop"
     },
     "parents": [
-      "13065"
+      "13199"
     ],
     "countries_supported": [
       "in"
@@ -10534,25 +10554,28 @@
   "13383": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Steakhouse"
     ],
     "labels": {
       "en": "Steakhouse"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "13384": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
+      "Persian Restaurant",
       "Tabbakhi"
     ],
     "labels": {
       "en": "Tabbakhi"
     },
     "parents": [
-      "13000"
+      "13317"
     ],
     "countries_supported": [
       "ir"
@@ -10597,13 +10620,14 @@
   "13388": {
     "full_label": [
       "Dining and Drinking",
+      "Restaurant",
       "Wings Joint"
     ],
     "labels": {
       "en": "Wings Joint"
     },
     "parents": [
-      "13000"
+      "13065"
     ]
   },
   "14000": {
