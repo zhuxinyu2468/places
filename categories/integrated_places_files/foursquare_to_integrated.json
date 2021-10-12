@@ -171,7 +171,7 @@
     "foursquare_label": "Shop & Service > Bank",
     "single_match": {
       "integrated_category_id": "11045",
-      "integrated_category_label": "Business and Professional Services > Financial Service > Bank",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance > Bank",
       "is_exact": true
     }
   },
@@ -265,11 +265,6 @@
   },
   "4bf58dd8d48988d110951735": {
     "foursquare_label": "Shop & Service > Salon / Barbershop",
-    "single_match": {
-      "integrated_category_id": "11061",
-      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11064",
@@ -281,7 +276,12 @@
         "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Barbershop",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11061",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
+      "is_exact": false
+    }
   },
   "4bf58dd8d48988d111941735": {
     "foursquare_label": "Food > Asian Restaurant > Japanese Restaurant",
@@ -903,7 +903,7 @@
     "foursquare_label": "Food > Deli / Bodega",
     "single_match": {
       "integrated_category_id": "13039",
-      "integrated_category_label": "Dining and Drinking > Deli",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Deli",
       "is_exact": true
     }
   },
@@ -911,7 +911,7 @@
     "foursquare_label": "Food > Diner",
     "single_match": {
       "integrated_category_id": "13049",
-      "integrated_category_label": "Dining and Drinking > Diner",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Diner",
       "is_exact": true
     }
   },
@@ -951,7 +951,7 @@
     "foursquare_label": "Food > Wings Joint",
     "single_match": {
       "integrated_category_id": "13388",
-      "integrated_category_label": "Dining and Drinking > Wings Joint",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Wings Joint",
       "is_exact": true
     }
   },
@@ -1023,7 +1023,7 @@
     "foursquare_label": "Food > Gastropub",
     "single_match": {
       "integrated_category_id": "13057",
-      "integrated_category_label": "Dining and Drinking > Gastropub",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Gastropub",
       "is_exact": true
     }
   },
@@ -1207,7 +1207,7 @@
     "foursquare_label": "Food > Burger Joint",
     "single_match": {
       "integrated_category_id": "13031",
-      "integrated_category_label": "Dining and Drinking > Burger Joint",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Burger Joint",
       "is_exact": true
     }
   },
@@ -1231,7 +1231,7 @@
     "foursquare_label": "Food > Hot Dog Joint",
     "single_match": {
       "integrated_category_id": "13058",
-      "integrated_category_label": "Dining and Drinking > Hot Dog Joint",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Hot Dog Joint",
       "is_exact": true
     }
   },
@@ -1607,7 +1607,7 @@
     "foursquare_label": "College & University > Community College",
     "single_match": {
       "integrated_category_id": "12048",
-      "integrated_category_label": "Community and Government > Education > Community College",
+      "integrated_category_label": "Community and Government > Education > College and University > Community College",
       "is_exact": true
     }
   },
@@ -1688,6 +1688,14 @@
     "single_match": {
       "integrated_category_id": "12063",
       "integrated_category_label": "Community and Government > Education > Trade School",
+      "is_exact": true
+    }
+  },
+  "4bf58dd8d48988d1ae941735": {
+    "foursquare_label": "College & University > University",
+    "single_match": {
+      "integrated_category_id": "12013",
+      "integrated_category_label": "Community and Government > Education > College and University",
       "is_exact": true
     }
   },
@@ -1823,7 +1831,7 @@
     "foursquare_label": "Food > Mac & Cheese Joint",
     "single_match": {
       "integrated_category_id": "13060",
-      "integrated_category_label": "Dining and Drinking > Mac and Cheese Joint",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Mac and Cheese Joint",
       "is_exact": true
     }
   },
@@ -1911,7 +1919,7 @@
     "foursquare_label": "Food > Pizza Place",
     "single_match": {
       "integrated_category_id": "13064",
-      "integrated_category_label": "Dining and Drinking > Pizzeria",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Pizzeria",
       "is_exact": true
     }
   },
@@ -1927,7 +1935,7 @@
     "foursquare_label": "Food > Steakhouse",
     "single_match": {
       "integrated_category_id": "13383",
-      "integrated_category_label": "Dining and Drinking > Steakhouse",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Steakhouse",
       "is_exact": true
     }
   },
@@ -2055,7 +2063,7 @@
     "foursquare_label": "Food > BBQ Joint",
     "single_match": {
       "integrated_category_id": "13026",
-      "integrated_category_label": "Dining and Drinking > BBQ Joint",
+      "integrated_category_label": "Dining and Drinking > Restaurant > BBQ Joint",
       "is_exact": true
     }
   },
@@ -2591,7 +2599,7 @@
     "foursquare_label": "Food > Fried Chicken Joint",
     "single_match": {
       "integrated_category_id": "13055",
-      "integrated_category_label": "Dining and Drinking > Fried Chicken Joint",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Fried Chicken Joint",
       "is_exact": true
     }
   },
@@ -2943,7 +2951,7 @@
     "foursquare_label": "Food > Fish & Chips Shop",
     "single_match": {
       "integrated_category_id": "13051",
-      "integrated_category_label": "Dining and Drinking > Fish and Chips Shop",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Fish and Chips Shop",
       "is_exact": true
     }
   },
@@ -3215,7 +3223,7 @@
     "foursquare_label": "Shop & Service > Credit Union",
     "single_match": {
       "integrated_category_id": "11051",
-      "integrated_category_label": "Business and Professional Services > Financial Service > Credit Union",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance > Credit Union",
       "is_exact": true
     }
   },
@@ -3237,11 +3245,6 @@
   },
   "503287a291d4c4b30a586d65": {
     "foursquare_label": "Shop & Service > Financial or Legal Service",
-    "single_match": {
-      "integrated_category_id": "11000",
-      "integrated_category_label": "Business and Professional Services",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11042",
@@ -3253,7 +3256,12 @@
         "integrated_category_label": "Business and Professional Services > Legal Service",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    }
   },
   "5032885091d4c4b30a586d66": {
     "foursquare_label": "Shop & Service > Real Estate Office",
@@ -4083,7 +4091,7 @@
     "foursquare_label": "Food > Bistro",
     "single_match": {
       "integrated_category_id": "13027",
-      "integrated_category_label": "Dining and Drinking > Bistro",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Bistro",
       "is_exact": true
     }
   },
@@ -4107,7 +4115,7 @@
     "foursquare_label": "Food > Buffet",
     "single_match": {
       "integrated_category_id": "13030",
-      "integrated_category_label": "Dining and Drinking > Buffet",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Buffet",
       "is_exact": true
     }
   },
@@ -4971,7 +4979,7 @@
     "foursquare_label": "Shop & Service > IT Services",
     "single_match": {
       "integrated_category_id": "11108",
-      "integrated_category_label": "Business and Professional Services > IT Service",
+      "integrated_category_label": "Business and Professional Services > Technology Business > IT Service",
       "is_exact": true
     }
   },
@@ -5211,7 +5219,7 @@
     "foursquare_label": "Shop & Service > ATM",
     "single_match": {
       "integrated_category_id": "11044",
-      "integrated_category_label": "Business and Professional Services > Financial Service > ATM",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance > ATM",
       "is_exact": true
     }
   },
@@ -5499,7 +5507,7 @@
     "foursquare_label": "Food > Indian Restaurant > Indian Sweet Shop",
     "single_match": {
       "integrated_category_id": "13210",
-      "integrated_category_label": "Dining and Drinking > Restaurant > Indian Sweet Shop",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Indian Restaurant > Indian Sweet Shop",
       "is_exact": true
     }
   },
@@ -6115,7 +6123,7 @@
     "foursquare_label": "Food > Friterie",
     "single_match": {
       "integrated_category_id": "13056",
-      "integrated_category_label": "Dining and Drinking > Friterie",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Friterie",
       "is_exact": true
     }
   },
@@ -6355,7 +6363,7 @@
     "foursquare_label": "Food > Pet Café",
     "single_match": {
       "integrated_category_id": "13063",
-      "integrated_category_label": "Dining and Drinking > Pet Café",
+      "integrated_category_label": "Dining and Drinking > Cafes, Coffee, and Tea Houses > Pet Café",
       "is_exact": true
     }
   },
@@ -6778,8 +6786,8 @@
   "5744ccdfe4b0c0459246b4a8": {
     "foursquare_label": "Food > Middle Eastern Restaurant > Persian Restaurant > Tabbakhi",
     "single_match": {
-      "integrated_category_id": "13384",
-      "integrated_category_label": "Dining and Drinking > Tabbakhi",
+      "integrated_category_id": "13321",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Persian Restaurant > Jegaraki",
       "is_exact": true
     }
   },
@@ -7733,6 +7741,38 @@
       "integrated_category_id": "12088",
       "integrated_category_label": "Community and Government > Organization > Veterans' Organization",
       "is_exact": true
+    }
+  },
+  "5fabfc8099ce226e27fe6b0d": {
+    "foursquare_label": "Outdoors & Recreation > Boat Launch",
+    "single_match": {
+      "integrated_category_id": "16018",
+      "integrated_category_label": "Landmarks and Outdoors > Harbor / Marina",
+      "is_exact": false
+    }
+  },
+  "5fabfe3599ce226e27fe709a": {
+    "foursquare_label": "Outdoors & Recreation > Picnic Area",
+    "single_match": {
+      "integrated_category_id": "16036",
+      "integrated_category_label": "Landmarks and Outdoors > Park > Picnic Area",
+      "is_exact": true
+    }
+  },
+  "5fac002599ce226e27fe72e5": {
+    "foursquare_label": "Professional & Other Places > Architecture Firm",
+    "single_match": {
+      "integrated_category_id": "11003",
+      "integrated_category_label": "Business and Professional Services > Architecture Firm",
+      "is_exact": true
+    }
+  },
+  "5fac018b99ce226e27fe7573": {
+    "foursquare_label": "Outdoors & Recreation > Dam",
+    "single_match": {
+      "integrated_category_id": "16007",
+      "integrated_category_label": "Landmarks and Outdoors > Building / Structure",
+      "is_exact": false
     }
   }
 }
