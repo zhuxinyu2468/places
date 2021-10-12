@@ -7767,6 +7767,14 @@
       "is_exact": true
     }
   },
+  "5fac010d99ce226e27fe7467": {
+    "foursquare_label": "Outdoors & Recreation > Picnic Shelter",
+    "single_match": {
+      "integrated_category_id": "16036",
+      "integrated_category_label": "Landmarks and Outdoors > Park > Picnic Area",
+      "is_exact": false
+    }
+  },
   "5fac018b99ce226e27fe7573": {
     "foursquare_label": "Outdoors & Recreation > Dam",
     "single_match": {
