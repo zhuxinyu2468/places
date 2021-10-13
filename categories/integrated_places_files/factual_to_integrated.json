@@ -1,872 +1,9 @@
 {
-  "2": {
-    "factual_label": "Automotive",
-    "single_match": {
-      "integrated_category_id": "11000",
-      "integrated_category_label": "Business and Professional Services",
-      "is_exact": false
-    },
-    "multiple_match": [
-      {
-        "integrated_category_id": "11009",
-        "integrated_category_label": "Business and Professional Services > Automotive Service",
-        "is_exact": true
-      },
-      {
-        "integrated_category_id": "17005",
-        "integrated_category_label": "Retail > Automotive Retail",
-        "is_exact": true
-      }
-    ]
-  },
-  "3": {
-    "factual_label": "Automotive > Car Appraisers",
-    "single_match": {
-      "integrated_category_id": "11009",
-      "integrated_category_label": "Business and Professional Services > Automotive Service",
-      "is_exact": false
-    }
-  },
-  "4": {
-    "factual_label": "Automotive > Car Dealers and Leasing",
-    "single_match": {
-      "integrated_category_id": "17006",
-      "integrated_category_label": "Retail > Automotive Retail > Car Dealership",
-      "is_exact": true
-    }
-  },
-  "5": {
-    "factual_label": "Automotive > Car Dealers and Leasing > Used Cars",
-    "single_match": {
-      "integrated_category_id": "17010",
-      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > Used Car Dealership",
-      "is_exact": true
-    }
-  },
-  "6": {
-    "factual_label": "Automotive > Car Parts and Accessories",
-    "single_match": {
-      "integrated_category_id": "17011",
-      "integrated_category_label": "Retail > Automotive Retail > Car Parts and Accessories",
-      "is_exact": true
-    }
-  },
-  "7": {
-    "factual_label": "Automotive > Car Wash and Detail",
-    "single_match": {
-      "integrated_category_id": "11011",
-      "integrated_category_label": "Business and Professional Services > Automotive Service > Car Wash and Detail",
-      "is_exact": true
-    }
-  },
-  "8": {
-    "factual_label": "Automotive > Classic and Antique Car",
-    "single_match": {
-      "integrated_category_id": "17007",
-      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > Classic and Antique Car Dealership",
-      "is_exact": true
-    }
-  },
-  "9": {
-    "factual_label": "Automotive > Maintenance and Repair",
-    "single_match": {
-      "integrated_category_id": "11010",
-      "integrated_category_label": "Business and Professional Services > Automotive Service > Automotive Repair Shop",
-      "is_exact": true
-    }
-  },
   "10": {
     "factual_label": "Automotive > Maintenance and Repair > Oil and Lube",
     "single_match": {
       "integrated_category_id": "11013",
       "integrated_category_label": "Business and Professional Services > Automotive Service > Oil Change Service",
-      "is_exact": true
-    }
-  },
-  "11": {
-    "factual_label": "Automotive > Maintenance and Repair > Smog Check",
-    "single_match": {
-      "integrated_category_id": "11014",
-      "integrated_category_label": "Business and Professional Services > Automotive Service > Smog Check Shop",
-      "is_exact": true
-    }
-  },
-  "12": {
-    "factual_label": "Automotive > Maintenance and Repair > Tires",
-    "single_match": {
-      "integrated_category_id": "11015",
-      "integrated_category_label": "Business and Professional Services > Automotive Service > Tire Repair Shop",
-      "is_exact": true
-    }
-  },
-  "13": {
-    "factual_label": "Automotive > Maintenance and Repair > Transmissions",
-    "single_match": {
-      "integrated_category_id": "11017",
-      "integrated_category_label": "Business and Professional Services > Automotive Service > Transmissions Shop",
-      "is_exact": true
-    }
-  },
-  "14": {
-    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters",
-    "single_match": {
-      "integrated_category_id": "11009",
-      "integrated_category_label": "Business and Professional Services > Automotive Service",
-      "is_exact": false
-    },
-    "multiple_match": [
-      {
-        "integrated_category_id": "11009",
-        "integrated_category_label": "Business and Professional Services > Automotive Service",
-        "is_exact": false
-      },
-      {
-        "integrated_category_id": "11012",
-        "integrated_category_label": "Business and Professional Services > Automotive Service > Motorcycle Repair Shop",
-        "is_exact": true
-      },
-      {
-        "integrated_category_id": "17012",
-        "integrated_category_label": "Retail > Automotive Retail > Motorcycle Dealership",
-        "is_exact": true
-      },
-      {
-        "integrated_category_id": "17013",
-        "integrated_category_label": "Retail > Automotive Retail > Motorsports Store",
-        "is_exact": true
-      }
-    ]
-  },
-  "15": {
-    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters > Repair",
-    "single_match": {
-      "integrated_category_id": "11012",
-      "integrated_category_label": "Business and Professional Services > Automotive Service > Motorcycle Repair Shop",
-      "is_exact": true
-    }
-  },
-  "16": {
-    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters > Sales",
-    "single_match": {
-      "integrated_category_id": "17012",
-      "integrated_category_label": "Retail > Automotive Retail > Motorcycle Dealership",
-      "is_exact": true
-    }
-  },
-  "17": {
-    "factual_label": "Automotive > RVs and Motor Homes",
-    "single_match": {
-      "integrated_category_id": "17009",
-      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > RV and Motorhome Dealership",
-      "is_exact": true
-    }
-  },
-  "18": {
-    "factual_label": "Automotive > Salvage Yards",
-    "single_match": {
-      "integrated_category_id": "11160",
-      "integrated_category_label": "Business and Professional Services > Salvage Yard",
-      "is_exact": true
-    }
-  },
-  "19": {
-    "factual_label": "Automotive > Towing",
-    "single_match": {
-      "integrated_category_id": "11016",
-      "integrated_category_label": "Business and Professional Services > Automotive Service > Towing Service",
-      "is_exact": true
-    }
-  },
-  "20": {
-    "factual_label": "Community and Government",
-    "single_match": {
-      "integrated_category_id": "12000",
-      "integrated_category_label": "Community and Government",
-      "is_exact": true
-    }
-  },
-  "21": {
-    "factual_label": "Community and Government > Animal Shelters and Humane Societies",
-    "single_match": {
-      "integrated_category_id": "12002",
-      "integrated_category_label": "Community and Government > Animal Shelter",
-      "is_exact": true
-    }
-  },
-  "22": {
-    "factual_label": "Community and Government > Cemeteries",
-    "single_match": {
-      "integrated_category_id": "12003",
-      "integrated_category_label": "Community and Government > Cemetery",
-      "is_exact": true
-    }
-  },
-  "23": {
-    "factual_label": "Community and Government > Day Care and Preschools",
-    "single_match": {
-      "integrated_category_id": "12000",
-      "integrated_category_label": "Community and Government",
-      "is_exact": false
-    },
-    "multiple_match": [
-      {
-        "integrated_category_id": "11026",
-        "integrated_category_label": "Business and Professional Services > Child Care Service > Daycare",
-        "is_exact": true
-      },
-      {
-        "integrated_category_id": "12056",
-        "integrated_category_label": "Community and Government > Education > Preschool",
-        "is_exact": true
-      }
-    ]
-  },
-  "24": {
-    "factual_label": "Community and Government > Disabled Persons Services",
-    "single_match": {
-      "integrated_category_id": "12006",
-      "integrated_category_label": "Community and Government > Disabled Persons Service",
-      "is_exact": true
-    }
-  },
-  "25": {
-    "factual_label": "Community and Government > Drug and Alcohol Services",
-    "single_match": {
-      "integrated_category_id": "12001",
-      "integrated_category_label": "Community and Government > Addiction Treatment Center",
-      "is_exact": true
-    }
-  },
-  "26": {
-    "factual_label": "Community and Government > Education",
-    "single_match": {
-      "integrated_category_id": "12009",
-      "integrated_category_label": "Community and Government > Education",
-      "is_exact": true
-    }
-  },
-  "27": {
-    "factual_label": "Community and Government > Education > Adult Education",
-    "single_match": {
-      "integrated_category_id": "12010",
-      "integrated_category_label": "Community and Government > Education > Adult Education",
-      "is_exact": true
-    }
-  },
-  "28": {
-    "factual_label": "Community and Government > Education > Art Lessons and Schools",
-    "single_match": {
-      "integrated_category_id": "12011",
-      "integrated_category_label": "Community and Government > Education > Art School",
-      "is_exact": true
-    }
-  },
-  "29": {
-    "factual_label": "Community and Government > Education > Colleges and Universities",
-    "single_match": {
-      "integrated_category_id": "12013",
-      "integrated_category_label": "Community and Government > Education > College and University",
-      "is_exact": true
-    }
-  },
-  "30": {
-    "factual_label": "Community and Government > Education > Computer Training",
-    "single_match": {
-      "integrated_category_id": "12049",
-      "integrated_category_label": "Community and Government > Education > Computer Training School",
-      "is_exact": true
-    }
-  },
-  "31": {
-    "factual_label": "Community and Government > Education > Culinary Lessons and Schools",
-    "single_match": {
-      "integrated_category_id": "12050",
-      "integrated_category_label": "Community and Government > Education > Culinary School",
-      "is_exact": true
-    }
-  },
-  "32": {
-    "factual_label": "Community and Government > Education > Driving Schools",
-    "single_match": {
-      "integrated_category_id": "12051",
-      "integrated_category_label": "Community and Government > Education > Driving School",
-      "is_exact": true
-    }
-  },
-  "33": {
-    "factual_label": "Community and Government > Education > Fraternities and Sororities",
-    "single_match": {
-      "integrated_category_id": "12013",
-      "integrated_category_label": "Community and Government > Education > College and University",
-      "is_exact": false
-    },
-    "multiple_match": [
-      {
-        "integrated_category_id": "12043",
-        "integrated_category_label": "Community and Government > Education > College and University > Fraternity House",
-        "is_exact": true
-      },
-      {
-        "integrated_category_id": "12046",
-        "integrated_category_label": "Community and Government > Education > College and University > Sorority House",
-        "is_exact": true
-      }
-    ]
-  },
-  "34": {
-    "factual_label": "Community and Government > Education > Primary and Secondary Schools",
-    "single_match": {
-      "integrated_category_id": "12057",
-      "integrated_category_label": "Community and Government > Education > Primary and Secondary School",
-      "is_exact": true
-    }
-  },
-  "35": {
-    "factual_label": "Community and Government > Education > Tutoring and Educational Services",
-    "single_match": {
-      "integrated_category_id": "11172",
-      "integrated_category_label": "Business and Professional Services > Tutoring Service",
-      "is_exact": true
-    }
-  },
-  "36": {
-    "factual_label": "Community and Government > Education > Vocational Schools",
-    "single_match": {
-      "integrated_category_id": "12063",
-      "integrated_category_label": "Community and Government > Education > Trade School",
-      "is_exact": true
-    }
-  },
-  "37": {
-    "factual_label": "Community and Government > Government Departments and Agencies",
-    "single_match": {
-      "integrated_category_id": "12069",
-      "integrated_category_label": "Community and Government > Government Building > Government Department / Agency",
-      "is_exact": true
-    }
-  },
-  "38": {
-    "factual_label": "Community and Government > Government Lobbyists",
-    "single_match": {
-      "integrated_category_id": "12076",
-      "integrated_category_label": "Community and Government > Government Lobbyist",
-      "is_exact": true
-    }
-  },
-  "39": {
-    "factual_label": "Community and Government > Housing Assistance and Shelters",
-    "single_match": {
-      "integrated_category_id": "12077",
-      "integrated_category_label": "Community and Government > Homeless Shelter",
-      "is_exact": true
-    }
-  },
-  "40": {
-    "factual_label": "Community and Government > Law Enforcement and Public Safety",
-    "single_match": {
-      "integrated_category_id": "12070",
-      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety",
-      "is_exact": true
-    }
-  },
-  "41": {
-    "factual_label": "Community and Government > Law Enforcement and Public Safety > Rescue Services",
-    "single_match": {
-      "integrated_category_id": "15008",
-      "integrated_category_label": "Health and Medicine > Emergency Service",
-      "is_exact": false
-    }
-  },
-  "42": {
-    "factual_label": "Community and Government > Law Enforcement and Public Safety > Fire Stations",
-    "single_match": {
-      "integrated_category_id": "12071",
-      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety > Fire Station",
-      "is_exact": true
-    }
-  },
-  "43": {
-    "factual_label": "Community and Government > Law Enforcement and Public Safety > Police Stations",
-    "single_match": {
-      "integrated_category_id": "12072",
-      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety > Police Station",
-      "is_exact": true
-    }
-  },
-  "44": {
-    "factual_label": "Community and Government > Libraries",
-    "single_match": {
-      "integrated_category_id": "12080",
-      "integrated_category_label": "Community and Government > Library",
-      "is_exact": true
-    }
-  },
-  "45": {
-    "factual_label": "Community and Government > Military",
-    "single_match": {
-      "integrated_category_id": "12073",
-      "integrated_category_label": "Community and Government > Government Building > Military",
-      "is_exact": true
-    }
-  },
-  "46": {
-    "factual_label": "Community and Government > Military > Bases",
-    "single_match": {
-      "integrated_category_id": "12074",
-      "integrated_category_label": "Community and Government > Government Building > Military > Military Base",
-      "is_exact": true
-    }
-  },
-  "47": {
-    "factual_label": "Community and Government > Organizations and Associations",
-    "single_match": {
-      "integrated_category_id": "12082",
-      "integrated_category_label": "Community and Government > Organization",
-      "is_exact": true
-    }
-  },
-  "48": {
-    "factual_label": "Community and Government > Organizations and Associations > Charities and Non-Profits",
-    "single_match": {
-      "integrated_category_id": "12083",
-      "integrated_category_label": "Community and Government > Organization > Charity",
-      "is_exact": true
-    }
-  },
-  "49": {
-    "factual_label": "Community and Government > Organizations and Associations > Environmental",
-    "single_match": {
-      "integrated_category_id": "12085",
-      "integrated_category_label": "Community and Government > Organization > Environmental Organization",
-      "is_exact": true
-    }
-  },
-  "50": {
-    "factual_label": "Community and Government > Organizations and Associations > Youth Organizations",
-    "single_match": {
-      "integrated_category_id": "12089",
-      "integrated_category_label": "Community and Government > Organization > Youth Organization",
-      "is_exact": true
-    }
-  },
-  "51": {
-    "factual_label": "Community and Government > Post Offices",
-    "single_match": {
-      "integrated_category_id": "12075",
-      "integrated_category_label": "Community and Government > Government Building > Post Office",
-      "is_exact": true
-    }
-  },
-  "52": {
-    "factual_label": "Community and Government > Public and Social Services",
-    "single_match": {
-      "integrated_category_id": "12091",
-      "integrated_category_label": "Community and Government > Public and Social Service",
-      "is_exact": true
-    }
-  },
-  "53": {
-    "factual_label": "Community and Government > Religious",
-    "single_match": {
-      "integrated_category_id": "12098",
-      "integrated_category_label": "Community and Government > Spiritual Center",
-      "is_exact": true
-    }
-  },
-  "54": {
-    "factual_label": "Community and Government > Religious > Buddhist Temples",
-    "single_match": {
-      "integrated_category_id": "12099",
-      "integrated_category_label": "Community and Government > Spiritual Center > Buddhist Temple",
-      "is_exact": true
-    }
-  },
-  "55": {
-    "factual_label": "Community and Government > Religious > Churches",
-    "single_match": {
-      "integrated_category_id": "12101",
-      "integrated_category_label": "Community and Government > Spiritual Center > Church",
-      "is_exact": true
-    }
-  },
-  "56": {
-    "factual_label": "Community and Government > Religious > Hindu Temples",
-    "single_match": {
-      "integrated_category_id": "12103",
-      "integrated_category_label": "Community and Government > Spiritual Center > Hindu Temple",
-      "is_exact": true
-    }
-  },
-  "57": {
-    "factual_label": "Community and Government > Religious > Mosques",
-    "single_match": {
-      "integrated_category_id": "12106",
-      "integrated_category_label": "Community and Government > Spiritual Center > Mosque",
-      "is_exact": true
-    }
-  },
-  "58": {
-    "factual_label": "Community and Government > Religious > Synagogues",
-    "single_match": {
-      "integrated_category_id": "12110",
-      "integrated_category_label": "Community and Government > Spiritual Center > Synagogue",
-      "is_exact": true
-    }
-  },
-  "59": {
-    "factual_label": "Community and Government > Senior Citizen Services",
-    "single_match": {
-      "integrated_category_id": "12096",
-      "integrated_category_label": "Community and Government > Senior Citizen Service",
-      "is_exact": true
-    }
-  },
-  "60": {
-    "factual_label": "Community and Government > Senior Citizen Services > Retirement",
-    "single_match": {
-      "integrated_category_id": "12095",
-      "integrated_category_label": "Community and Government > Retirement Home",
-      "is_exact": true
-    }
-  },
-  "61": {
-    "factual_label": "Community and Government > Utility Companies",
-    "single_match": {
-      "integrated_category_id": "12115",
-      "integrated_category_label": "Community and Government > Utility Company",
-      "is_exact": true
-    }
-  },
-  "62": {
-    "factual_label": "Healthcare",
-    "single_match": {
-      "integrated_category_id": "15000",
-      "integrated_category_label": "Health and Medicine",
-      "is_exact": true
-    }
-  },
-  "63": {
-    "factual_label": "Healthcare > AIDS Resources",
-    "single_match": {
-      "integrated_category_id": "15002",
-      "integrated_category_label": "Health and Medicine > AIDS Resource",
-      "is_exact": true
-    }
-  },
-  "64": {
-    "factual_label": "Healthcare > Assisted Living Services",
-    "single_match": {
-      "integrated_category_id": "15004",
-      "integrated_category_label": "Health and Medicine > Assisted Living Service",
-      "is_exact": true
-    }
-  },
-  "65": {
-    "factual_label": "Healthcare > Home Health Care Services",
-    "single_match": {
-      "integrated_category_id": "15012",
-      "integrated_category_label": "Health and Medicine > Home Health Care Service",
-      "is_exact": true
-    }
-  },
-  "66": {
-    "factual_label": "Healthcare > Assisted Living Services > Facilities and Nursing Homes",
-    "single_match": {
-      "integrated_category_id": "15022",
-      "integrated_category_label": "Health and Medicine > Nursing Home",
-      "is_exact": true
-    }
-  },
-  "67": {
-    "factual_label": "Healthcare > Blood Banks and Centers",
-    "single_match": {
-      "integrated_category_id": "15005",
-      "integrated_category_label": "Health and Medicine > Blood Bank",
-      "is_exact": true
-    }
-  },
-  "68": {
-    "factual_label": "Healthcare > Chiropractors",
-    "single_match": {
-      "integrated_category_id": "15006",
-      "integrated_category_label": "Health and Medicine > Chiropractor",
-      "is_exact": true
-    }
-  },
-  "69": {
-    "factual_label": "Healthcare > Dentists",
-    "single_match": {
-      "integrated_category_id": "15007",
-      "integrated_category_label": "Health and Medicine > Dentist",
-      "is_exact": true
-    }
-  },
-  "70": {
-    "factual_label": "Healthcare > Emergency Services",
-    "single_match": {
-      "integrated_category_id": "15008",
-      "integrated_category_label": "Health and Medicine > Emergency Service",
-      "is_exact": true
-    }
-  },
-  "71": {
-    "factual_label": "Healthcare > Emergency Services > Ambulance",
-    "single_match": {
-      "integrated_category_id": "15009",
-      "integrated_category_label": "Health and Medicine > Emergency Service > Ambulance Service",
-      "is_exact": true
-    }
-  },
-  "72": {
-    "factual_label": "Healthcare > Holistic, Alternative and Naturopathic Medicine",
-    "single_match": {
-      "integrated_category_id": "15003",
-      "integrated_category_label": "Health and Medicine > Alternative Medicine Clinic",
-      "is_exact": true
-    }
-  },
-  "73": {
-    "factual_label": "Healthcare > Holistic, Alternative and Naturopathic Medicine > Acupuncture",
-    "single_match": {
-      "integrated_category_id": "15001",
-      "integrated_category_label": "Health and Medicine > Acupuncture Clinic",
-      "is_exact": true
-    }
-  },
-  "74": {
-    "factual_label": "Healthcare > Hospitals, Clinics and Medical Centers",
-    "single_match": {
-      "integrated_category_id": "15000",
-      "integrated_category_label": "Health and Medicine",
-      "is_exact": false
-    },
-    "multiple_match": [
-      {
-        "integrated_category_id": "15016",
-        "integrated_category_label": "Health and Medicine > Medical Center",
-        "is_exact": true
-      },
-      {
-        "integrated_category_id": "15014",
-        "integrated_category_label": "Health and Medicine > Hospital",
-        "is_exact": true
-      },
-      {
-        "integrated_category_id": "15011",
-        "integrated_category_label": "Health and Medicine > Healthcare Clinic",
-        "is_exact": true
-      }
-    ]
-  },
-  "75": {
-    "factual_label": "Healthcare > Medical Supplies and Labs",
-    "single_match": {
-      "integrated_category_id": "15000",
-      "integrated_category_label": "Health and Medicine",
-      "is_exact": false
-    },
-    "multiple_match": [
-      {
-        "integrated_category_id": "17095",
-        "integrated_category_label": "Retail > Medical Supply Store",
-        "is_exact": true
-      },
-      {
-        "integrated_category_id": "15017",
-        "integrated_category_label": "Health and Medicine > Medical Lab",
-        "is_exact": true
-      }
-    ]
-  },
-  "76": {
-    "factual_label": "Healthcare > Mental Health",
-    "single_match": {
-      "integrated_category_id": "15018",
-      "integrated_category_label": "Health and Medicine > Mental Health Service",
-      "is_exact": true
-    }
-  },
-  "77": {
-    "factual_label": "Healthcare > Mental Health > Counseling and Therapy",
-    "single_match": {
-      "integrated_category_id": "15019",
-      "integrated_category_label": "Health and Medicine > Mental Health Service > Mental Health Clinic",
-      "is_exact": true
-    }
-  },
-  "78": {
-    "factual_label": "Healthcare > Mental Health > Psychologists",
-    "single_match": {
-      "integrated_category_id": "15020",
-      "integrated_category_label": "Health and Medicine > Mental Health Service > Psychologist",
-      "is_exact": true
-    }
-  },
-  "79": {
-    "factual_label": "Healthcare > Nurses",
-    "single_match": {
-      "integrated_category_id": "15021",
-      "integrated_category_label": "Health and Medicine > Nurse",
-      "is_exact": true
-    }
-  },
-  "80": {
-    "factual_label": "Healthcare > Pharmacies",
-    "single_match": {
-      "integrated_category_id": "17035",
-      "integrated_category_label": "Retail > Drugstore",
-      "is_exact": true
-    }
-  },
-  "81": {
-    "factual_label": "Healthcare > Physical Therapy and Rehabilitation",
-    "single_match": {
-      "integrated_category_id": "15026",
-      "integrated_category_label": "Health and Medicine > Physical Therapy Clinic",
-      "is_exact": true
-    }
-  },
-  "82": {
-    "factual_label": "Healthcare > Physical Therapy and Rehabilitation > Sports Medicine",
-    "single_match": {
-      "integrated_category_id": "15052",
-      "integrated_category_label": "Health and Medicine > Sports Medicine Clinic",
-      "is_exact": true
-    }
-  },
-  "83": {
-    "factual_label": "Healthcare > Physicians",
-    "single_match": {
-      "integrated_category_id": "15027",
-      "integrated_category_label": "Health and Medicine > Physician",
-      "is_exact": true
-    }
-  },
-  "84": {
-    "factual_label": "Healthcare > Physicians > Anesthesiologists",
-    "single_match": {
-      "integrated_category_id": "15028",
-      "integrated_category_label": "Health and Medicine > Physician > Anesthesiologist",
-      "is_exact": true
-    }
-  },
-  "85": {
-    "factual_label": "Healthcare > Physicians > Cardiologists",
-    "single_match": {
-      "integrated_category_id": "15029",
-      "integrated_category_label": "Health and Medicine > Physician > Cardiologist",
-      "is_exact": true
-    }
-  },
-  "86": {
-    "factual_label": "Healthcare > Physicians > Dermatologists",
-    "single_match": {
-      "integrated_category_id": "15030",
-      "integrated_category_label": "Health and Medicine > Physician > Dermatologist",
-      "is_exact": true
-    }
-  },
-  "87": {
-    "factual_label": "Healthcare > Physicians > Ear, Nose and Throat",
-    "single_match": {
-      "integrated_category_id": "15032",
-      "integrated_category_label": "Health and Medicine > Physician > Ear, Nose and Throat Doctor",
-      "is_exact": true
-    }
-  },
-  "88": {
-    "factual_label": "Healthcare > Physicians > Family Medicine",
-    "single_match": {
-      "integrated_category_id": "15033",
-      "integrated_category_label": "Health and Medicine > Physician > Family Medicine Doctor",
-      "is_exact": true
-    }
-  },
-  "89": {
-    "factual_label": "Healthcare > Physicians > Gastroenterologists",
-    "single_match": {
-      "integrated_category_id": "15034",
-      "integrated_category_label": "Health and Medicine > Physician > Gastroenterologist",
-      "is_exact": true
-    }
-  },
-  "90": {
-    "factual_label": "Healthcare > Physicians > General Surgery",
-    "single_match": {
-      "integrated_category_id": "15035",
-      "integrated_category_label": "Health and Medicine > Physician > General Surgeon",
-      "is_exact": true
-    }
-  },
-  "91": {
-    "factual_label": "Healthcare > Physicians > Internal Medicine",
-    "single_match": {
-      "integrated_category_id": "15037",
-      "integrated_category_label": "Health and Medicine > Physician > Internal Medicine Doctor",
-      "is_exact": true
-    }
-  },
-  "92": {
-    "factual_label": "Healthcare > Physicians > Neurologists",
-    "single_match": {
-      "integrated_category_id": "15038",
-      "integrated_category_label": "Health and Medicine > Physician > Neurologist",
-      "is_exact": true
-    }
-  },
-  "93": {
-    "factual_label": "Healthcare > Physicians > Obstetricians and Gynecologists",
-    "single_match": {
-      "integrated_category_id": "15039",
-      "integrated_category_label": "Health and Medicine > Physician > Obstetrician Gynecologist (Ob-gyn)",
-      "is_exact": true
-    }
-  },
-  "94": {
-    "factual_label": "Healthcare > Physicians > Oncologists",
-    "single_match": {
-      "integrated_category_id": "15040",
-      "integrated_category_label": "Health and Medicine > Physician > Oncologist",
-      "is_exact": true
-    }
-  },
-  "95": {
-    "factual_label": "Healthcare > Physicians > Ophthalmologists",
-    "single_match": {
-      "integrated_category_id": "15041",
-      "integrated_category_label": "Health and Medicine > Physician > Ophthalmologist",
-      "is_exact": true
-    }
-  },
-  "96": {
-    "factual_label": "Healthcare > Physicians > Orthopedic Surgeons",
-    "single_match": {
-      "integrated_category_id": "15043",
-      "integrated_category_label": "Health and Medicine > Physician > Orthopedic Surgeon",
-      "is_exact": true
-    }
-  },
-  "97": {
-    "factual_label": "Healthcare > Physicians > Pathologists",
-    "single_match": {
-      "integrated_category_id": "15044",
-      "integrated_category_label": "Health and Medicine > Physician > Pathologist",
-      "is_exact": true
-    }
-  },
-  "98": {
-    "factual_label": "Healthcare > Physicians > Pediatricians",
-    "single_match": {
-      "integrated_category_id": "15045",
-      "integrated_category_label": "Health and Medicine > Physician > Pediatrician",
-      "is_exact": true
-    }
-  },
-  "99": {
-    "factual_label": "Healthcare > Physicians > Plastic Surgeons",
-    "single_match": {
-      "integrated_category_id": "15046",
-      "integrated_category_label": "Health and Medicine > Physician > Plastic Surgeon",
       "is_exact": true
     }
   },
@@ -950,6 +87,14 @@
       "is_exact": true
     }
   },
+  "11": {
+    "factual_label": "Automotive > Maintenance and Repair > Smog Check",
+    "single_match": {
+      "integrated_category_id": "11014",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Smog Check Shop",
+      "is_exact": true
+    }
+  },
   "110": {
     "factual_label": "Landmarks > Historic and Protected Sites",
     "single_match": {
@@ -1027,6 +172,14 @@
     "single_match": {
       "integrated_category_id": "16035",
       "integrated_category_label": "Landmarks and Outdoors > Park > Natural Park",
+      "is_exact": true
+    }
+  },
+  "12": {
+    "factual_label": "Automotive > Maintenance and Repair > Tires",
+    "single_match": {
+      "integrated_category_id": "11015",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Tire Repair Shop",
       "is_exact": true
     }
   },
@@ -1110,6 +263,14 @@
       "is_exact": true
     }
   },
+  "13": {
+    "factual_label": "Automotive > Maintenance and Repair > Transmissions",
+    "single_match": {
+      "integrated_category_id": "11017",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Transmissions Shop",
+      "is_exact": true
+    }
+  },
   "130": {
     "factual_label": "Retail > Bookstores",
     "single_match": {
@@ -1190,13 +351,38 @@
       "is_exact": true
     }
   },
+  "14": {
+    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters",
+    "multiple_match": [
+      {
+        "integrated_category_id": "11009",
+        "integrated_category_label": "Business and Professional Services > Automotive Service",
+        "is_exact": false
+      },
+      {
+        "integrated_category_id": "11012",
+        "integrated_category_label": "Business and Professional Services > Automotive Service > Motorcycle Repair Shop",
+        "is_exact": true
+      },
+      {
+        "integrated_category_id": "17012",
+        "integrated_category_label": "Retail > Automotive Retail > Motorcycle Dealership",
+        "is_exact": true
+      },
+      {
+        "integrated_category_id": "17013",
+        "integrated_category_label": "Retail > Automotive Retail > Motorsports Store",
+        "is_exact": true
+      }
+    ],
+    "single_match": {
+      "integrated_category_id": "11009",
+      "integrated_category_label": "Business and Professional Services > Automotive Service",
+      "is_exact": false
+    }
+  },
   "140": {
     "factual_label": "Retail > Dance and Music",
-    "single_match": {
-      "integrated_category_id": "17000",
-      "integrated_category_label": "Retail",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "17032",
@@ -1208,7 +394,12 @@
         "integrated_category_label": "Retail > Music Store",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "17000",
+      "integrated_category_label": "Retail",
+      "is_exact": false
+    }
   },
   "141": {
     "factual_label": "Retail > Department Stores",
@@ -1282,13 +473,16 @@
       "is_exact": true
     }
   },
+  "15": {
+    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters > Repair",
+    "single_match": {
+      "integrated_category_id": "11012",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Motorcycle Repair Shop",
+      "is_exact": true
+    }
+  },
   "150": {
     "factual_label": "Retail > Food and Beverage > Beer, Wine and Spirits",
-    "single_match": {
-      "integrated_category_id": "17057",
-      "integrated_category_label": "Retail > Food and Beverage Retail",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "17058",
@@ -1305,7 +499,12 @@
         "integrated_category_label": "Retail > Food and Beverage Retail > Liquor Store",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "17057",
+      "integrated_category_label": "Retail > Food and Beverage Retail",
+      "is_exact": false
+    }
   },
   "151": {
     "factual_label": "Retail > Food and Beverage > Candy Stores",
@@ -1379,6 +578,14 @@
       "is_exact": true
     }
   },
+  "16": {
+    "factual_label": "Automotive > Motorcycles, Mopeds and Scooters > Sales",
+    "single_match": {
+      "integrated_category_id": "17012",
+      "integrated_category_label": "Retail > Automotive Retail > Motorcycle Dealership",
+      "is_exact": true
+    }
+  },
   "160": {
     "factual_label": "Retail > Hobby and Collectibles",
     "single_match": {
@@ -1397,11 +604,6 @@
   },
   "162": {
     "factual_label": "Retail > Music, Video and DVD",
-    "single_match": {
-      "integrated_category_id": "17000",
-      "integrated_category_label": "Retail",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "17098",
@@ -1413,7 +615,12 @@
         "integrated_category_label": "Retail > Video Store",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "17000",
+      "integrated_category_label": "Retail",
+      "is_exact": false
+    }
   },
   "163": {
     "factual_label": "Retail > Newsstands",
@@ -1465,11 +672,6 @@
   },
   "169": {
     "factual_label": "Retail > Shopping Centers and Malls",
-    "single_match": {
-      "integrated_category_id": "17000",
-      "integrated_category_label": "Retail",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "17114",
@@ -1481,7 +683,20 @@
         "integrated_category_label": "Retail > Shopping Plaza",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "17000",
+      "integrated_category_label": "Retail",
+      "is_exact": false
+    }
+  },
+  "17": {
+    "factual_label": "Automotive > RVs and Motor Homes",
+    "single_match": {
+      "integrated_category_id": "17009",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > RV and Motorhome Dealership",
+      "is_exact": true
+    }
   },
   "170": {
     "factual_label": "Retail > Sporting Goods",
@@ -1560,6 +775,14 @@
     "single_match": {
       "integrated_category_id": "11105",
       "integrated_category_label": "Business and Professional Services > Industrial Equipment Supplier",
+      "is_exact": true
+    }
+  },
+  "18": {
+    "factual_label": "Automotive > Salvage Yards",
+    "single_match": {
+      "integrated_category_id": "11160",
+      "integrated_category_label": "Business and Professional Services > Salvage Yard",
       "is_exact": true
     }
   },
@@ -1643,6 +866,14 @@
       "is_exact": true
     }
   },
+  "19": {
+    "factual_label": "Automotive > Towing",
+    "single_match": {
+      "integrated_category_id": "11016",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Towing Service",
+      "is_exact": true
+    }
+  },
   "190": {
     "factual_label": "Businesses and Services > Textiles",
     "single_match": {
@@ -1653,11 +884,6 @@
   },
   "191": {
     "factual_label": "Businesses and Services > Water and Waste Management",
-    "single_match": {
-      "integrated_category_id": "11000",
-      "integrated_category_label": "Business and Professional Services",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11176",
@@ -1679,7 +905,12 @@
         "integrated_category_label": "Business and Professional Services > Recycling Facility",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    }
   },
   "192": {
     "factual_label": "Businesses and Services > Welding",
@@ -1743,6 +974,34 @@
       "integrated_category_id": "11001",
       "integrated_category_label": "Business and Professional Services > Advertising Agency",
       "is_exact": false
+    }
+  },
+  "2": {
+    "factual_label": "Automotive",
+    "multiple_match": [
+      {
+        "integrated_category_id": "11009",
+        "integrated_category_label": "Business and Professional Services > Automotive Service",
+        "is_exact": true
+      },
+      {
+        "integrated_category_id": "17005",
+        "integrated_category_label": "Retail > Automotive Retail",
+        "is_exact": true
+      }
+    ],
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    }
+  },
+  "20": {
+    "factual_label": "Community and Government",
+    "single_match": {
+      "integrated_category_id": "12000",
+      "integrated_category_label": "Community and Government",
+      "is_exact": true
     }
   },
   "200": {
@@ -1825,6 +1084,14 @@
       "is_exact": true
     }
   },
+  "21": {
+    "factual_label": "Community and Government > Animal Shelters and Humane Societies",
+    "single_match": {
+      "integrated_category_id": "12002",
+      "integrated_category_label": "Community and Government > Animal Shelter",
+      "is_exact": true
+    }
+  },
   "210": {
     "factual_label": "Businesses and Services > Corporate HQ",
     "single_match": {
@@ -1859,11 +1126,6 @@
   },
   "214": {
     "factual_label": "Businesses and Services > Entertainment",
-    "single_match": {
-      "integrated_category_id": "11000",
-      "integrated_category_label": "Business and Professional Services",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11036",
@@ -1875,7 +1137,12 @@
         "integrated_category_label": "Business and Professional Services > Entertainment Agency",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    }
   },
   "215": {
     "factual_label": "Businesses and Services > Entertainment > Media",
@@ -1895,11 +1162,6 @@
   },
   "217": {
     "factual_label": "Businesses and Services > Events and Event Planning",
-    "single_match": {
-      "integrated_category_id": "11000",
-      "integrated_category_label": "Business and Professional Services",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11000",
@@ -1921,13 +1183,18 @@
         "integrated_category_label": "Event",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11000",
+      "integrated_category_label": "Business and Professional Services",
+      "is_exact": false
+    }
   },
   "218": {
     "factual_label": "Businesses and Services > Financial > Banking and Finance > ATMs",
     "single_match": {
       "integrated_category_id": "11044",
-      "integrated_category_label": "Business and Professional Services > Financial Service > ATM",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance > ATM",
       "is_exact": true
     }
   },
@@ -1936,6 +1203,14 @@
     "single_match": {
       "integrated_category_id": "11042",
       "integrated_category_label": "Business and Professional Services > Financial Service",
+      "is_exact": true
+    }
+  },
+  "22": {
+    "factual_label": "Community and Government > Cemeteries",
+    "single_match": {
+      "integrated_category_id": "12003",
+      "integrated_category_label": "Community and Government > Cemetery",
       "is_exact": true
     }
   },
@@ -2019,6 +1294,26 @@
       "is_exact": false
     }
   },
+  "23": {
+    "factual_label": "Community and Government > Day Care and Preschools",
+    "multiple_match": [
+      {
+        "integrated_category_id": "11026",
+        "integrated_category_label": "Business and Professional Services > Child Care Service > Daycare",
+        "is_exact": true
+      },
+      {
+        "integrated_category_id": "12056",
+        "integrated_category_label": "Community and Government > Education > Preschool",
+        "is_exact": true
+      }
+    ],
+    "single_match": {
+      "integrated_category_id": "12000",
+      "integrated_category_label": "Community and Government",
+      "is_exact": false
+    }
+  },
   "230": {
     "factual_label": "Businesses and Services > Food and Beverage",
     "single_match": {
@@ -2099,6 +1394,14 @@
       "is_exact": true
     }
   },
+  "24": {
+    "factual_label": "Community and Government > Disabled Persons Services",
+    "single_match": {
+      "integrated_category_id": "12006",
+      "integrated_category_label": "Community and Government > Disabled Persons Service",
+      "is_exact": true
+    }
+  },
   "240": {
     "factual_label": "Businesses and Services > Home Improvement > Contractors > Bathrooms",
     "single_match": {
@@ -2141,11 +1444,6 @@
   },
   "245": {
     "factual_label": "Businesses and Services > Home Improvement > Fences, Fireplaces and Garage Doors",
-    "single_match": {
-      "integrated_category_id": "11076",
-      "integrated_category_label": "Business and Professional Services > Home Improvement Service",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11080",
@@ -2162,7 +1460,12 @@
         "integrated_category_label": "Business and Professional Services > Home Improvement Service > Fence Contractor",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11076",
+      "integrated_category_label": "Business and Professional Services > Home Improvement Service",
+      "is_exact": false
+    }
   },
   "246": {
     "factual_label": "Businesses and Services > Home Improvement > Hardware and Services",
@@ -2193,6 +1496,14 @@
     "single_match": {
       "integrated_category_id": "11088",
       "integrated_category_label": "Business and Professional Services > Home Improvement Service > Home Inspection",
+      "is_exact": true
+    }
+  },
+  "25": {
+    "factual_label": "Community and Government > Drug and Alcohol Services",
+    "single_match": {
+      "integrated_category_id": "12001",
+      "integrated_category_label": "Community and Government > Addiction Treatment Center",
       "is_exact": true
     }
   },
@@ -2276,6 +1587,14 @@
       "is_exact": true
     }
   },
+  "26": {
+    "factual_label": "Community and Government > Education",
+    "single_match": {
+      "integrated_category_id": "12009",
+      "integrated_category_label": "Community and Government > Education",
+      "is_exact": true
+    }
+  },
   "260": {
     "factual_label": "Businesses and Services > Home Improvement > Pools and Spas",
     "single_match": {
@@ -2356,6 +1675,14 @@
       "is_exact": true
     }
   },
+  "27": {
+    "factual_label": "Community and Government > Education > Adult Education",
+    "single_match": {
+      "integrated_category_id": "12010",
+      "integrated_category_label": "Community and Government > Education > Adult Education",
+      "is_exact": true
+    }
+  },
   "270": {
     "factual_label": "Businesses and Services > Legal > Credit Counseling and Bankruptcy Services",
     "single_match": {
@@ -2422,11 +1749,6 @@
   },
   "278": {
     "factual_label": "Businesses and Services > Personal Care > Dry Cleaning, Ironing and Laundry",
-    "single_match": {
-      "integrated_category_id": "11061",
-      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11066",
@@ -2443,7 +1765,12 @@
         "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Laundry Service",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11061",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
+      "is_exact": false
+    }
   },
   "279": {
     "factual_label": "Businesses and Services > Personal Care > Hair Removal",
@@ -2453,13 +1780,16 @@
       "is_exact": true
     }
   },
+  "28": {
+    "factual_label": "Community and Government > Education > Art Lessons and Schools",
+    "single_match": {
+      "integrated_category_id": "12011",
+      "integrated_category_label": "Community and Government > Education > Art School",
+      "is_exact": true
+    }
+  },
   "280": {
     "factual_label": "Businesses and Services > Personal Care > Beauty Salons and Barbers",
-    "single_match": {
-      "integrated_category_id": "11061",
-      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11064",
@@ -2471,7 +1801,12 @@
         "integrated_category_label": "Business and Professional Services > Health and Beauty Service > Barbershop",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11061",
+      "integrated_category_label": "Business and Professional Services > Health and Beauty Service",
+      "is_exact": false
+    }
   },
   "281": {
     "factual_label": "Businesses and Services > Personal Care > Manicures and Pedicures",
@@ -2542,6 +1877,14 @@
     "single_match": {
       "integrated_category_id": "11097",
       "integrated_category_label": "Business and Professional Services > Home Improvement Service > Professional Cleaning Service",
+      "is_exact": true
+    }
+  },
+  "29": {
+    "factual_label": "Community and Government > Education > Colleges and Universities",
+    "single_match": {
+      "integrated_category_id": "12013",
+      "integrated_category_label": "Community and Government > Education > College and University",
       "is_exact": true
     }
   },
@@ -2625,6 +1968,22 @@
       "is_exact": true
     }
   },
+  "3": {
+    "factual_label": "Automotive > Car Appraisers",
+    "single_match": {
+      "integrated_category_id": "11009",
+      "integrated_category_label": "Business and Professional Services > Automotive Service",
+      "is_exact": false
+    }
+  },
+  "30": {
+    "factual_label": "Community and Government > Education > Computer Training",
+    "single_match": {
+      "integrated_category_id": "12049",
+      "integrated_category_label": "Community and Government > Education > Computer Training School",
+      "is_exact": true
+    }
+  },
   "300": {
     "factual_label": "Businesses and Services > Real Estate > Corporate Housing",
     "single_match": {
@@ -2705,6 +2064,14 @@
       "is_exact": false
     }
   },
+  "31": {
+    "factual_label": "Community and Government > Education > Culinary Lessons and Schools",
+    "single_match": {
+      "integrated_category_id": "12050",
+      "integrated_category_label": "Community and Government > Education > Culinary School",
+      "is_exact": true
+    }
+  },
   "310": {
     "factual_label": "Social > Arts > Art Dealers and Galleries",
     "single_match": {
@@ -2782,6 +2149,14 @@
     "single_match": {
       "integrated_category_id": "10001",
       "integrated_category_label": "Arts and Entertainment > Amusement Park",
+      "is_exact": true
+    }
+  },
+  "32": {
+    "factual_label": "Community and Government > Education > Driving Schools",
+    "single_match": {
+      "integrated_category_id": "12051",
+      "integrated_category_label": "Community and Government > Education > Driving School",
       "is_exact": true
     }
   },
@@ -2865,6 +2240,26 @@
       "is_exact": true
     }
   },
+  "33": {
+    "factual_label": "Community and Government > Education > Fraternities and Sororities",
+    "multiple_match": [
+      {
+        "integrated_category_id": "12043",
+        "integrated_category_label": "Community and Government > Education > College and University > Fraternity House",
+        "is_exact": true
+      },
+      {
+        "integrated_category_id": "12046",
+        "integrated_category_label": "Community and Government > Education > College and University > Sorority House",
+        "is_exact": true
+      }
+    ],
+    "single_match": {
+      "integrated_category_id": "12013",
+      "integrated_category_label": "Community and Government > Education > College and University",
+      "is_exact": false
+    }
+  },
   "330": {
     "factual_label": "Social > Entertainment > Karaoke",
     "single_match": {
@@ -2945,6 +2340,14 @@
       "is_exact": true
     }
   },
+  "34": {
+    "factual_label": "Community and Government > Education > Primary and Secondary Schools",
+    "single_match": {
+      "integrated_category_id": "12057",
+      "integrated_category_label": "Community and Government > Education > Primary and Secondary School",
+      "is_exact": true
+    }
+  },
   "340": {
     "factual_label": "Social > Food and Dining > Bakeries",
     "single_match": {
@@ -3021,7 +2424,15 @@
     "factual_label": "Social > Food and Dining > Restaurants > Barbecue",
     "single_match": {
       "integrated_category_id": "13026",
-      "integrated_category_label": "Dining and Drinking > BBQ Joint",
+      "integrated_category_label": "Dining and Drinking > Restaurant > BBQ Joint",
+      "is_exact": true
+    }
+  },
+  "35": {
+    "factual_label": "Community and Government > Education > Tutoring and Educational Services",
+    "single_match": {
+      "integrated_category_id": "11172",
+      "integrated_category_label": "Business and Professional Services > Tutoring Service",
       "is_exact": true
     }
   },
@@ -3029,7 +2440,7 @@
     "factual_label": "Social > Food and Dining > Restaurants > Buffets",
     "single_match": {
       "integrated_category_id": "13030",
-      "integrated_category_label": "Dining and Drinking > Buffet",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Buffet",
       "is_exact": true
     }
   },
@@ -3037,7 +2448,7 @@
     "factual_label": "Social > Food and Dining > Restaurants > Burgers",
     "single_match": {
       "integrated_category_id": "13031",
-      "integrated_category_label": "Dining and Drinking > Burger Joint",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Burger Joint",
       "is_exact": true
     }
   },
@@ -3053,7 +2464,7 @@
     "factual_label": "Social > Food and Dining > Restaurants > Delis",
     "single_match": {
       "integrated_category_id": "13039",
-      "integrated_category_label": "Dining and Drinking > Deli",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Deli",
       "is_exact": true
     }
   },
@@ -3061,7 +2472,7 @@
     "factual_label": "Social > Food and Dining > Restaurants > Diners",
     "single_match": {
       "integrated_category_id": "13049",
-      "integrated_category_label": "Dining and Drinking > Diner",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Diner",
       "is_exact": true
     }
   },
@@ -3105,6 +2516,14 @@
       "is_exact": true
     }
   },
+  "36": {
+    "factual_label": "Community and Government > Education > Vocational Schools",
+    "single_match": {
+      "integrated_category_id": "12063",
+      "integrated_category_label": "Community and Government > Education > Trade School",
+      "is_exact": true
+    }
+  },
   "360": {
     "factual_label": "Social > Food and Dining > Restaurants > Korean",
     "single_match": {
@@ -3133,7 +2552,7 @@
     "factual_label": "Social > Food and Dining > Restaurants > Pizza",
     "single_match": {
       "integrated_category_id": "13064",
-      "integrated_category_label": "Dining and Drinking > Pizzeria",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Pizzeria",
       "is_exact": true
     }
   },
@@ -3149,7 +2568,7 @@
     "factual_label": "Social > Food and Dining > Restaurants > Steakhouses",
     "single_match": {
       "integrated_category_id": "13383",
-      "integrated_category_label": "Dining and Drinking > Steakhouse",
+      "integrated_category_label": "Dining and Drinking > Restaurant > Steakhouse",
       "is_exact": true
     }
   },
@@ -3185,13 +2604,16 @@
       "is_exact": true
     }
   },
+  "37": {
+    "factual_label": "Community and Government > Government Departments and Agencies",
+    "single_match": {
+      "integrated_category_id": "12069",
+      "integrated_category_label": "Community and Government > Government Building > Government Department / Agency",
+      "is_exact": true
+    }
+  },
   "370": {
     "factual_label": "Social > Wineries and Vineyards",
-    "single_match": {
-      "integrated_category_id": "13000",
-      "integrated_category_label": "Dining and Drinking",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "13386",
@@ -3203,15 +2625,15 @@
         "integrated_category_label": "Dining and Drinking > Winery",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "13000",
+      "integrated_category_label": "Dining and Drinking",
+      "is_exact": false
+    }
   },
   "371": {
     "factual_label": "Social > Zoos, Aquariums and Wildlife Sanctuaries",
-    "single_match": {
-      "integrated_category_id": "10000",
-      "integrated_category_label": "Arts and Entertainment",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "10056",
@@ -3223,7 +2645,12 @@
         "integrated_category_label": "Arts and Entertainment > Aquarium",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "10000",
+      "integrated_category_label": "Arts and Entertainment",
+      "is_exact": false
+    }
   },
   "372": {
     "factual_label": "Sports and Recreation",
@@ -3275,11 +2702,6 @@
   },
   "378": {
     "factual_label": "Sports and Recreation > Cycling",
-    "single_match": {
-      "integrated_category_id": "18000",
-      "integrated_category_label": "Sports and Recreation",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "18024",
@@ -3296,13 +2718,26 @@
         "integrated_category_label": "Travel and Transportation > Bike Rental",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "18000",
+      "integrated_category_label": "Sports and Recreation",
+      "is_exact": false
+    }
   },
   "379": {
     "factual_label": "Sports and Recreation > Dance",
     "single_match": {
       "integrated_category_id": "18025",
       "integrated_category_label": "Sports and Recreation > Gym and Studio > Dance Studio",
+      "is_exact": true
+    }
+  },
+  "38": {
+    "factual_label": "Community and Government > Government Lobbyists",
+    "single_match": {
+      "integrated_category_id": "12076",
+      "integrated_category_label": "Community and Government > Government Lobbyist",
       "is_exact": true
     }
   },
@@ -3386,6 +2821,14 @@
       "is_exact": true
     }
   },
+  "39": {
+    "factual_label": "Community and Government > Housing Assistance and Shelters",
+    "single_match": {
+      "integrated_category_id": "12077",
+      "integrated_category_label": "Community and Government > Homeless Shelter",
+      "is_exact": true
+    }
+  },
   "390": {
     "factual_label": "Sports and Recreation > Outdoors > Hot Air Balloons",
     "single_match": {
@@ -3396,11 +2839,6 @@
   },
   "391": {
     "factual_label": "Sports and Recreation > Outdoors > Hunting and Fishing",
-    "single_match": {
-      "integrated_category_id": "18000",
-      "integrated_category_label": "Sports and Recreation",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "17124",
@@ -3412,7 +2850,12 @@
         "integrated_category_label": "Retail > Sporting Goods Retail > Fishing Store",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "18000",
+      "integrated_category_label": "Sports and Recreation",
+      "is_exact": false
+    }
   },
   "392": {
     "factual_label": "Sports and Recreation > Outdoors > Rock Climbing",
@@ -3475,6 +2918,22 @@
     "single_match": {
       "integrated_category_id": "18045",
       "integrated_category_label": "Sports and Recreation > Racquet Sports > Tennis",
+      "is_exact": true
+    }
+  },
+  "4": {
+    "factual_label": "Automotive > Car Dealers and Leasing",
+    "single_match": {
+      "integrated_category_id": "17006",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership",
+      "is_exact": true
+    }
+  },
+  "40": {
+    "factual_label": "Community and Government > Law Enforcement and Public Safety",
+    "single_match": {
+      "integrated_category_id": "12070",
+      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety",
       "is_exact": true
     }
   },
@@ -3552,11 +3011,6 @@
   },
   "409": {
     "factual_label": "Sports and Recreation > Water Sports > Boating",
-    "single_match": {
-      "integrated_category_id": "18067",
-      "integrated_category_label": "Sports and Recreation > Water Sports",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "18070",
@@ -3568,7 +3022,20 @@
         "integrated_category_label": "Travel and Transportation > Boat Rental",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "18067",
+      "integrated_category_label": "Sports and Recreation > Water Sports",
+      "is_exact": false
+    }
+  },
+  "41": {
+    "factual_label": "Community and Government > Law Enforcement and Public Safety > Rescue Services",
+    "single_match": {
+      "integrated_category_id": "15008",
+      "integrated_category_label": "Health and Medicine > Emergency Service",
+      "is_exact": false
+    }
   },
   "410": {
     "factual_label": "Sports and Recreation > Water Sports > Canoes and Kayaks",
@@ -3604,11 +3071,6 @@
   },
   "414": {
     "factual_label": "Sports and Recreation > Yoga and Pilates",
-    "single_match": {
-      "integrated_category_id": "18021",
-      "integrated_category_label": "Sports and Recreation > Gym and Studio",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "18028",
@@ -3620,7 +3082,12 @@
         "integrated_category_label": "Sports and Recreation > Gym and Studio > Pilates Studio",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "18021",
+      "integrated_category_label": "Sports and Recreation > Gym and Studio",
+      "is_exact": false
+    }
   },
   "415": {
     "factual_label": "Transportation",
@@ -3659,6 +3126,14 @@
     "single_match": {
       "integrated_category_id": "19054",
       "integrated_category_label": "Travel and Transportation > Transportation Service > Public Transportation",
+      "is_exact": true
+    }
+  },
+  "42": {
+    "factual_label": "Community and Government > Law Enforcement and Public Safety > Fire Stations",
+    "single_match": {
+      "integrated_category_id": "12071",
+      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety > Fire Station",
       "is_exact": true
     }
   },
@@ -3742,6 +3217,14 @@
       "is_exact": true
     }
   },
+  "43": {
+    "factual_label": "Community and Government > Law Enforcement and Public Safety > Police Stations",
+    "single_match": {
+      "integrated_category_id": "12072",
+      "integrated_category_label": "Community and Government > Government Building > Law Enforcement and Public Safety > Police Station",
+      "is_exact": true
+    }
+  },
   "430": {
     "factual_label": "Travel",
     "single_match": {
@@ -3792,11 +3275,6 @@
   },
   "436": {
     "factual_label": "Travel > Lodging > Hotels and Motels",
-    "single_match": {
-      "integrated_category_id": "19009",
-      "integrated_category_label": "Travel and Transportation > Lodging",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "19014",
@@ -3808,7 +3286,12 @@
         "integrated_category_label": "Travel and Transportation > Lodging > Motel",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "19009",
+      "integrated_category_label": "Travel and Transportation > Lodging",
+      "is_exact": false
+    }
   },
   "437": {
     "factual_label": "Travel > Lodging > Lodges and Vacation Rentals",
@@ -3834,13 +3317,16 @@
       "is_exact": true
     }
   },
+  "44": {
+    "factual_label": "Community and Government > Libraries",
+    "single_match": {
+      "integrated_category_id": "12080",
+      "integrated_category_label": "Community and Government > Library",
+      "is_exact": true
+    }
+  },
   "440": {
     "factual_label": "Travel > Travel Agents and Tour Operators",
-    "single_match": {
-      "integrated_category_id": "19000",
-      "integrated_category_label": "Travel and Transportation",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "19055",
@@ -3852,7 +3338,12 @@
         "integrated_category_label": "Travel and Transportation > Tourist Information and Service > Tour Provider",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "19000",
+      "integrated_category_label": "Travel and Transportation",
+      "is_exact": false
+    }
   },
   "441": {
     "factual_label": "Healthcare > Physicians > Geriatrics",
@@ -3923,6 +3414,14 @@
     "single_match": {
       "integrated_category_id": "11137",
       "integrated_category_label": "Business and Professional Services > Photography Service",
+      "is_exact": true
+    }
+  },
+  "45": {
+    "factual_label": "Community and Government > Military",
+    "single_match": {
+      "integrated_category_id": "12073",
+      "integrated_category_label": "Community and Government > Government Building > Military",
       "is_exact": true
     }
   },
@@ -4006,6 +3505,14 @@
       "is_exact": true
     }
   },
+  "46": {
+    "factual_label": "Community and Government > Military > Bases",
+    "single_match": {
+      "integrated_category_id": "12074",
+      "integrated_category_label": "Community and Government > Government Building > Military > Military Base",
+      "is_exact": true
+    }
+  },
   "460": {
     "factual_label": "Businesses and Services > Technology",
     "single_match": {
@@ -4078,6 +3585,14 @@
       "is_exact": true
     }
   },
+  "47": {
+    "factual_label": "Community and Government > Organizations and Associations",
+    "single_match": {
+      "integrated_category_id": "12082",
+      "integrated_category_label": "Community and Government > Organization",
+      "is_exact": true
+    }
+  },
   "470": {
     "factual_label": "Retail > Pets > Grooming",
     "single_match": {
@@ -4104,23 +3619,23 @@
   },
   "473": {
     "factual_label": "Businesses and Services > Financial > Banking and Finance > Banks and Credit Unions",
-    "single_match": {
-      "integrated_category_id": "11046",
-      "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance",
-      "is_exact": false
-    },
     "multiple_match": [
       {
         "integrated_category_id": "11051",
-        "integrated_category_label": "Business and Professional Services > Financial Service > Credit Union",
+        "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance > Credit Union",
         "is_exact": true
       },
       {
         "integrated_category_id": "11045",
-        "integrated_category_label": "Business and Professional Services > Financial Service > Bank",
+        "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance > Bank",
         "is_exact": true
       }
-    ]
+    ],
+    "single_match": {
+      "integrated_category_id": "11046",
+      "integrated_category_label": "Business and Professional Services > Financial Service > Banking and Finance",
+      "is_exact": false
+    }
   },
   "474": {
     "factual_label": "Businesses and Services > Legal > Attorneys and Law Offices",
@@ -4170,6 +3685,14 @@
       "is_exact": true
     }
   },
+  "48": {
+    "factual_label": "Community and Government > Organizations and Associations > Charities and Non-Profits",
+    "single_match": {
+      "integrated_category_id": "12083",
+      "integrated_category_label": "Community and Government > Organization > Charity",
+      "is_exact": true
+    }
+  },
   "480": {
     "factual_label": "Retail > Comic Book Stores",
     "single_match": {
@@ -4207,6 +3730,483 @@
     "single_match": {
       "integrated_category_id": "17021",
       "integrated_category_label": "Retail > Cannabis Store",
+      "is_exact": true
+    }
+  },
+  "49": {
+    "factual_label": "Community and Government > Organizations and Associations > Environmental",
+    "single_match": {
+      "integrated_category_id": "12085",
+      "integrated_category_label": "Community and Government > Organization > Environmental Organization",
+      "is_exact": true
+    }
+  },
+  "5": {
+    "factual_label": "Automotive > Car Dealers and Leasing > Used Cars",
+    "single_match": {
+      "integrated_category_id": "17010",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > Used Car Dealership",
+      "is_exact": true
+    }
+  },
+  "50": {
+    "factual_label": "Community and Government > Organizations and Associations > Youth Organizations",
+    "single_match": {
+      "integrated_category_id": "12089",
+      "integrated_category_label": "Community and Government > Organization > Youth Organization",
+      "is_exact": true
+    }
+  },
+  "51": {
+    "factual_label": "Community and Government > Post Offices",
+    "single_match": {
+      "integrated_category_id": "12075",
+      "integrated_category_label": "Community and Government > Government Building > Post Office",
+      "is_exact": true
+    }
+  },
+  "52": {
+    "factual_label": "Community and Government > Public and Social Services",
+    "single_match": {
+      "integrated_category_id": "12091",
+      "integrated_category_label": "Community and Government > Public and Social Service",
+      "is_exact": true
+    }
+  },
+  "53": {
+    "factual_label": "Community and Government > Religious",
+    "single_match": {
+      "integrated_category_id": "12098",
+      "integrated_category_label": "Community and Government > Spiritual Center",
+      "is_exact": true
+    }
+  },
+  "54": {
+    "factual_label": "Community and Government > Religious > Buddhist Temples",
+    "single_match": {
+      "integrated_category_id": "12099",
+      "integrated_category_label": "Community and Government > Spiritual Center > Buddhist Temple",
+      "is_exact": true
+    }
+  },
+  "55": {
+    "factual_label": "Community and Government > Religious > Churches",
+    "single_match": {
+      "integrated_category_id": "12101",
+      "integrated_category_label": "Community and Government > Spiritual Center > Church",
+      "is_exact": true
+    }
+  },
+  "56": {
+    "factual_label": "Community and Government > Religious > Hindu Temples",
+    "single_match": {
+      "integrated_category_id": "12103",
+      "integrated_category_label": "Community and Government > Spiritual Center > Hindu Temple",
+      "is_exact": true
+    }
+  },
+  "57": {
+    "factual_label": "Community and Government > Religious > Mosques",
+    "single_match": {
+      "integrated_category_id": "12106",
+      "integrated_category_label": "Community and Government > Spiritual Center > Mosque",
+      "is_exact": true
+    }
+  },
+  "58": {
+    "factual_label": "Community and Government > Religious > Synagogues",
+    "single_match": {
+      "integrated_category_id": "12110",
+      "integrated_category_label": "Community and Government > Spiritual Center > Synagogue",
+      "is_exact": true
+    }
+  },
+  "59": {
+    "factual_label": "Community and Government > Senior Citizen Services",
+    "single_match": {
+      "integrated_category_id": "12096",
+      "integrated_category_label": "Community and Government > Senior Citizen Service",
+      "is_exact": true
+    }
+  },
+  "6": {
+    "factual_label": "Automotive > Car Parts and Accessories",
+    "single_match": {
+      "integrated_category_id": "17011",
+      "integrated_category_label": "Retail > Automotive Retail > Car Parts and Accessories",
+      "is_exact": true
+    }
+  },
+  "60": {
+    "factual_label": "Community and Government > Senior Citizen Services > Retirement",
+    "single_match": {
+      "integrated_category_id": "12095",
+      "integrated_category_label": "Community and Government > Retirement Home",
+      "is_exact": true
+    }
+  },
+  "61": {
+    "factual_label": "Community and Government > Utility Companies",
+    "single_match": {
+      "integrated_category_id": "12115",
+      "integrated_category_label": "Community and Government > Utility Company",
+      "is_exact": true
+    }
+  },
+  "62": {
+    "factual_label": "Healthcare",
+    "single_match": {
+      "integrated_category_id": "15000",
+      "integrated_category_label": "Health and Medicine",
+      "is_exact": true
+    }
+  },
+  "63": {
+    "factual_label": "Healthcare > AIDS Resources",
+    "single_match": {
+      "integrated_category_id": "15002",
+      "integrated_category_label": "Health and Medicine > AIDS Resource",
+      "is_exact": true
+    }
+  },
+  "64": {
+    "factual_label": "Healthcare > Assisted Living Services",
+    "single_match": {
+      "integrated_category_id": "15004",
+      "integrated_category_label": "Health and Medicine > Assisted Living Service",
+      "is_exact": true
+    }
+  },
+  "65": {
+    "factual_label": "Healthcare > Home Health Care Services",
+    "single_match": {
+      "integrated_category_id": "15012",
+      "integrated_category_label": "Health and Medicine > Home Health Care Service",
+      "is_exact": true
+    }
+  },
+  "66": {
+    "factual_label": "Healthcare > Assisted Living Services > Facilities and Nursing Homes",
+    "single_match": {
+      "integrated_category_id": "15022",
+      "integrated_category_label": "Health and Medicine > Nursing Home",
+      "is_exact": true
+    }
+  },
+  "67": {
+    "factual_label": "Healthcare > Blood Banks and Centers",
+    "single_match": {
+      "integrated_category_id": "15005",
+      "integrated_category_label": "Health and Medicine > Blood Bank",
+      "is_exact": true
+    }
+  },
+  "68": {
+    "factual_label": "Healthcare > Chiropractors",
+    "single_match": {
+      "integrated_category_id": "15006",
+      "integrated_category_label": "Health and Medicine > Chiropractor",
+      "is_exact": true
+    }
+  },
+  "69": {
+    "factual_label": "Healthcare > Dentists",
+    "single_match": {
+      "integrated_category_id": "15007",
+      "integrated_category_label": "Health and Medicine > Dentist",
+      "is_exact": true
+    }
+  },
+  "7": {
+    "factual_label": "Automotive > Car Wash and Detail",
+    "single_match": {
+      "integrated_category_id": "11011",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Car Wash and Detail",
+      "is_exact": true
+    }
+  },
+  "70": {
+    "factual_label": "Healthcare > Emergency Services",
+    "single_match": {
+      "integrated_category_id": "15008",
+      "integrated_category_label": "Health and Medicine > Emergency Service",
+      "is_exact": true
+    }
+  },
+  "71": {
+    "factual_label": "Healthcare > Emergency Services > Ambulance",
+    "single_match": {
+      "integrated_category_id": "15009",
+      "integrated_category_label": "Health and Medicine > Emergency Service > Ambulance Service",
+      "is_exact": true
+    }
+  },
+  "72": {
+    "factual_label": "Healthcare > Holistic, Alternative and Naturopathic Medicine",
+    "single_match": {
+      "integrated_category_id": "15003",
+      "integrated_category_label": "Health and Medicine > Alternative Medicine Clinic",
+      "is_exact": true
+    }
+  },
+  "73": {
+    "factual_label": "Healthcare > Holistic, Alternative and Naturopathic Medicine > Acupuncture",
+    "single_match": {
+      "integrated_category_id": "15001",
+      "integrated_category_label": "Health and Medicine > Acupuncture Clinic",
+      "is_exact": true
+    }
+  },
+  "74": {
+    "factual_label": "Healthcare > Hospitals, Clinics and Medical Centers",
+    "multiple_match": [
+      {
+        "integrated_category_id": "15016",
+        "integrated_category_label": "Health and Medicine > Medical Center",
+        "is_exact": true
+      },
+      {
+        "integrated_category_id": "15014",
+        "integrated_category_label": "Health and Medicine > Hospital",
+        "is_exact": true
+      },
+      {
+        "integrated_category_id": "15011",
+        "integrated_category_label": "Health and Medicine > Healthcare Clinic",
+        "is_exact": true
+      }
+    ],
+    "single_match": {
+      "integrated_category_id": "15000",
+      "integrated_category_label": "Health and Medicine",
+      "is_exact": false
+    }
+  },
+  "75": {
+    "factual_label": "Healthcare > Medical Supplies and Labs",
+    "multiple_match": [
+      {
+        "integrated_category_id": "17095",
+        "integrated_category_label": "Retail > Medical Supply Store",
+        "is_exact": true
+      },
+      {
+        "integrated_category_id": "15017",
+        "integrated_category_label": "Health and Medicine > Medical Lab",
+        "is_exact": true
+      }
+    ],
+    "single_match": {
+      "integrated_category_id": "15000",
+      "integrated_category_label": "Health and Medicine",
+      "is_exact": false
+    }
+  },
+  "76": {
+    "factual_label": "Healthcare > Mental Health",
+    "single_match": {
+      "integrated_category_id": "15018",
+      "integrated_category_label": "Health and Medicine > Mental Health Service",
+      "is_exact": true
+    }
+  },
+  "77": {
+    "factual_label": "Healthcare > Mental Health > Counseling and Therapy",
+    "single_match": {
+      "integrated_category_id": "15019",
+      "integrated_category_label": "Health and Medicine > Mental Health Service > Mental Health Clinic",
+      "is_exact": true
+    }
+  },
+  "78": {
+    "factual_label": "Healthcare > Mental Health > Psychologists",
+    "single_match": {
+      "integrated_category_id": "15020",
+      "integrated_category_label": "Health and Medicine > Mental Health Service > Psychologist",
+      "is_exact": true
+    }
+  },
+  "79": {
+    "factual_label": "Healthcare > Nurses",
+    "single_match": {
+      "integrated_category_id": "15021",
+      "integrated_category_label": "Health and Medicine > Nurse",
+      "is_exact": true
+    }
+  },
+  "8": {
+    "factual_label": "Automotive > Classic and Antique Car",
+    "single_match": {
+      "integrated_category_id": "17007",
+      "integrated_category_label": "Retail > Automotive Retail > Car Dealership > Classic and Antique Car Dealership",
+      "is_exact": true
+    }
+  },
+  "80": {
+    "factual_label": "Healthcare > Pharmacies",
+    "single_match": {
+      "integrated_category_id": "17035",
+      "integrated_category_label": "Retail > Drugstore",
+      "is_exact": true
+    }
+  },
+  "81": {
+    "factual_label": "Healthcare > Physical Therapy and Rehabilitation",
+    "single_match": {
+      "integrated_category_id": "15026",
+      "integrated_category_label": "Health and Medicine > Physical Therapy Clinic",
+      "is_exact": true
+    }
+  },
+  "82": {
+    "factual_label": "Healthcare > Physical Therapy and Rehabilitation > Sports Medicine",
+    "single_match": {
+      "integrated_category_id": "15052",
+      "integrated_category_label": "Health and Medicine > Sports Medicine Clinic",
+      "is_exact": true
+    }
+  },
+  "83": {
+    "factual_label": "Healthcare > Physicians",
+    "single_match": {
+      "integrated_category_id": "15027",
+      "integrated_category_label": "Health and Medicine > Physician",
+      "is_exact": true
+    }
+  },
+  "84": {
+    "factual_label": "Healthcare > Physicians > Anesthesiologists",
+    "single_match": {
+      "integrated_category_id": "15028",
+      "integrated_category_label": "Health and Medicine > Physician > Anesthesiologist",
+      "is_exact": true
+    }
+  },
+  "85": {
+    "factual_label": "Healthcare > Physicians > Cardiologists",
+    "single_match": {
+      "integrated_category_id": "15029",
+      "integrated_category_label": "Health and Medicine > Physician > Cardiologist",
+      "is_exact": true
+    }
+  },
+  "86": {
+    "factual_label": "Healthcare > Physicians > Dermatologists",
+    "single_match": {
+      "integrated_category_id": "15030",
+      "integrated_category_label": "Health and Medicine > Physician > Dermatologist",
+      "is_exact": true
+    }
+  },
+  "87": {
+    "factual_label": "Healthcare > Physicians > Ear, Nose and Throat",
+    "single_match": {
+      "integrated_category_id": "15032",
+      "integrated_category_label": "Health and Medicine > Physician > Ear, Nose and Throat Doctor",
+      "is_exact": true
+    }
+  },
+  "88": {
+    "factual_label": "Healthcare > Physicians > Family Medicine",
+    "single_match": {
+      "integrated_category_id": "15033",
+      "integrated_category_label": "Health and Medicine > Physician > Family Medicine Doctor",
+      "is_exact": true
+    }
+  },
+  "89": {
+    "factual_label": "Healthcare > Physicians > Gastroenterologists",
+    "single_match": {
+      "integrated_category_id": "15034",
+      "integrated_category_label": "Health and Medicine > Physician > Gastroenterologist",
+      "is_exact": true
+    }
+  },
+  "9": {
+    "factual_label": "Automotive > Maintenance and Repair",
+    "single_match": {
+      "integrated_category_id": "11010",
+      "integrated_category_label": "Business and Professional Services > Automotive Service > Automotive Repair Shop",
+      "is_exact": true
+    }
+  },
+  "90": {
+    "factual_label": "Healthcare > Physicians > General Surgery",
+    "single_match": {
+      "integrated_category_id": "15035",
+      "integrated_category_label": "Health and Medicine > Physician > General Surgeon",
+      "is_exact": true
+    }
+  },
+  "91": {
+    "factual_label": "Healthcare > Physicians > Internal Medicine",
+    "single_match": {
+      "integrated_category_id": "15037",
+      "integrated_category_label": "Health and Medicine > Physician > Internal Medicine Doctor",
+      "is_exact": true
+    }
+  },
+  "92": {
+    "factual_label": "Healthcare > Physicians > Neurologists",
+    "single_match": {
+      "integrated_category_id": "15038",
+      "integrated_category_label": "Health and Medicine > Physician > Neurologist",
+      "is_exact": true
+    }
+  },
+  "93": {
+    "factual_label": "Healthcare > Physicians > Obstetricians and Gynecologists",
+    "single_match": {
+      "integrated_category_id": "15039",
+      "integrated_category_label": "Health and Medicine > Physician > Obstetrician Gynecologist (Ob-gyn)",
+      "is_exact": true
+    }
+  },
+  "94": {
+    "factual_label": "Healthcare > Physicians > Oncologists",
+    "single_match": {
+      "integrated_category_id": "15040",
+      "integrated_category_label": "Health and Medicine > Physician > Oncologist",
+      "is_exact": true
+    }
+  },
+  "95": {
+    "factual_label": "Healthcare > Physicians > Ophthalmologists",
+    "single_match": {
+      "integrated_category_id": "15041",
+      "integrated_category_label": "Health and Medicine > Physician > Ophthalmologist",
+      "is_exact": true
+    }
+  },
+  "96": {
+    "factual_label": "Healthcare > Physicians > Orthopedic Surgeons",
+    "single_match": {
+      "integrated_category_id": "15043",
+      "integrated_category_label": "Health and Medicine > Physician > Orthopedic Surgeon",
+      "is_exact": true
+    }
+  },
+  "97": {
+    "factual_label": "Healthcare > Physicians > Pathologists",
+    "single_match": {
+      "integrated_category_id": "15044",
+      "integrated_category_label": "Health and Medicine > Physician > Pathologist",
+      "is_exact": true
+    }
+  },
+  "98": {
+    "factual_label": "Healthcare > Physicians > Pediatricians",
+    "single_match": {
+      "integrated_category_id": "15045",
+      "integrated_category_label": "Health and Medicine > Physician > Pediatrician",
+      "is_exact": true
+    }
+  },
+  "99": {
+    "factual_label": "Healthcare > Physicians > Plastic Surgeons",
+    "single_match": {
+      "integrated_category_id": "15046",
+      "integrated_category_label": "Health and Medicine > Physician > Plastic Surgeon",
       "is_exact": true
     }
   }
