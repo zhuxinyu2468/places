@@ -490,8 +490,8 @@
   "11004": {
     "integrated_label": "Business and Professional Services > Art Restoration Service",
     "single_match": {
-      "foursquare_category_id": "4d4b7105d754a06378d81259",
-      "foursquare_category_label": "Shop & Service",
+      "foursquare_category_id": "58daa1558bbb0b01f18ec1d6",
+      "foursquare_category_label": "Professional & Other Places > Art Studio",
       "is_exact": false
     }
   },
@@ -3090,8 +3090,8 @@
   "13032": {
     "integrated_label": "Dining and Drinking > Cafes, Coffee, and Tea Houses",
     "single_match": {
-      "foursquare_category_id": "4d4b7105d754a06374d81259",
-      "foursquare_category_label": "Food",
+      "foursquare_category_id": "4bf58dd8d48988d16d941735",
+      "foursquare_category_label": "Food > Café",
       "is_exact": false
     }
   },
@@ -3354,8 +3354,8 @@
   "13065": {
     "integrated_label": "Dining and Drinking > Restaurant",
     "single_match": {
-      "foursquare_category_id": "4d4b7105d754a06374d81259",
-      "foursquare_category_label": "Food",
+      "foursquare_category_id": "4bf58dd8d48988d1c4941735",
+      "foursquare_category_label": "Food > Restaurant",
       "is_exact": false
     }
   },
@@ -7058,8 +7058,8 @@
   "17011": {
     "integrated_label": "Retail > Automotive Retail > Car Parts and Accessories",
     "single_match": {
-      "foursquare_category_id": "4d4b7105d754a06378d81259",
-      "foursquare_category_label": "Shop & Service",
+      "foursquare_category_id": "4bf58dd8d48988d124951735",
+      "foursquare_category_label": "Shop & Service > Automotive Shop",
       "is_exact": false
     }
   },
@@ -7154,8 +7154,8 @@
   "17023": {
     "integrated_label": "Retail > Computers and Electronics Retail",
     "single_match": {
-      "foursquare_category_id": "4d4b7105d754a06378d81259",
-      "foursquare_category_label": "Shop & Service",
+      "foursquare_category_id": "4bf58dd8d48988d122951735",
+      "foursquare_category_label": "Shop & Service > Electronics Store",
       "is_exact": false
     }
   },
@@ -7282,8 +7282,8 @@
   "17039": {
     "integrated_label": "Retail > Fashion Retail",
     "single_match": {
-      "foursquare_category_id": "4d4b7105d754a06378d81259",
-      "foursquare_category_label": "Shop & Service",
+      "foursquare_category_id": "4bf58dd8d48988d103951735",
+      "foursquare_category_label": "Shop & Service > Clothing Store",
       "is_exact": false
     }
   },
@@ -7362,8 +7362,8 @@
   "17049": {
     "integrated_label": "Retail > Fashion Retail > Sunglasses Store",
     "single_match": {
-      "foursquare_category_id": "4d4b7105d754a06378d81259",
-      "foursquare_category_label": "Shop & Service",
+      "foursquare_category_id": "4bf58dd8d48988d102951735",
+      "foursquare_category_label": "Shop & Service > Clothing Store > Accessories Store",
       "is_exact": false
     }
   },
